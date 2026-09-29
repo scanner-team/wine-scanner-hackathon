@@ -1,0 +1,21 @@
+{
+  "slug": "donskoe-vinodelcheskoe-hozyaystvo-elbuzd-merlo-krasnoe-suhoe-13",
+  "seconds": 13.698220014572144,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мерло\",\n  \"producer\": \"винодельня Эльбруз\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мерло\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"винодельня\",\n    \"Эльбруз\",\n    \"сухое красное\",\n    \"Мерло\",\n    \"Российское вино с защищенным географическим указанием\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мерло",
+    "producer": "винодельня Эльбруз",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мерло",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "винодельня",
+      "Эльбруз",
+      "сухое красное",
+      "Мерло",
+      "Российское вино с защищенным географическим указанием"
+    ]
+  }
+}

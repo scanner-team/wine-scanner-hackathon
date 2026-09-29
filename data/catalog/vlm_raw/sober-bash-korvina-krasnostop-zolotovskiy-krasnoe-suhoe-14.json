@@ -1,0 +1,22 @@
+{
+  "slug": "sober-bash-korvina-krasnostop-zolotovskiy-krasnoe-suhoe-14",
+  "seconds": 6.599308013916016,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"КОРВИНА\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР\",\n    \"БАШ\",\n    \"КОРВИНА\",\n    \"ВИНО С ЗАВИСИМЫМ ГОСТ-ПРАВИЛЬНЫМ ТЕХНИЧЕСКИМ\",\n    \"СУБЪЕКТОМ ДОКУМЕНТА ДОКУМЕНТ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "КОРВИНА",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР",
+      "БАШ",
+      "КОРВИНА",
+      "ВИНО С ЗАВИСИМЫМ ГОСТ-ПРАВИЛЬНЫМ ТЕХНИЧЕСКИМ",
+      "СУБЪЕКТОМ ДОКУМЕНТА ДОКУМЕНТ",
+      "2023"
+    ]
+  }
+}

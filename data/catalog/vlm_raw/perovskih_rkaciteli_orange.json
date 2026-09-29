@@ -1,0 +1,20 @@
+{
+  "slug": "perovskih_rkaciteli_orange",
+  "seconds": 1.2099246978759766,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ркацители Оранж\",\n  \"producer\": \"Усадьба Перовских\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Ркацители\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"1899\",\n    \"Усадьба Перовских\",\n    \"Ркацители Оранж\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ркацители Оранж",
+    "producer": "Усадьба Перовских",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Ркацители",
+    "category": "брют",
+    "raw_visible_text": [
+      "1899",
+      "Усадьба Перовских",
+      "Ркацители Оранж",
+      "2024"
+    ]
+  }
+}

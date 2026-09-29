@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-igristoe-vino-vyderzhannoe-polusladkoe-krasnoe-novyy-svet-kaberne-sovinon-12",
+  "seconds": 6.809082746505737,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"Дом Шамбалских Вин\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"выдержанное\",\n  \"raw_visible_text\": [\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМБАЛЬСКИХ ВИН\",\n    \"Новый Святъ\",\n    \"Каберне Совиньон\",\n    \"ВЫДЕРЖАННОЕ\",\n    \"ПОДУХ СЛАДКОЕ\",\n    \"КЛАССИЧЕСКИЙ МЕТОД\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "Дом Шамбалских Вин",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": "выдержанное",
+    "raw_visible_text": [
+      "18",
+      "78",
+      "ДОМ ШАМБАЛЬСКИХ ВИН",
+      "Новый Святъ",
+      "Каберне Совиньон",
+      "ВЫДЕРЖАННОЕ",
+      "ПОДУХ СЛАДКОЕ",
+      "КЛАССИЧЕСКИЙ МЕТОД"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "stn-winery-chardonnay-vol2-shardone-beloe-suhoe-105",
+  "seconds": 5.0875022411346436,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"SN WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"22\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SN\",\n    \"WINERY\",\n    \"CHARDONNAY\",\n    \"22\",\n    \"SEVASTOPOL\",\n    \"DOLINGER THE CREATOR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "SN WINERY",
+    "cuvee": null,
+    "vintage": "22",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "SN",
+      "WINERY",
+      "CHARDONNAY",
+      "22",
+      "SEVASTOPOL",
+      "DOLINGER THE CREATOR"
+    ]
+  }
+}

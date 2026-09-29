@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-shardone-beloe-suhoe-125",
+  "seconds": 4.832186222076416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Chardonnay\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHARDONNAY\",\n    \"2022\",\n    \"CHATEAU\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Chardonnay",
+    "category": null,
+    "raw_visible_text": [
+      "CHARDONNAY",
+      "2022",
+      "CHATEAU",
+      "PINOT"
+    ]
+  }
+}

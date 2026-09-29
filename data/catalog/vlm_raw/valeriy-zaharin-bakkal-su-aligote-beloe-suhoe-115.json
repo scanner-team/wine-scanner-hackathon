@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-bakkal-su-aligote-beloe-suhoe-115",
+  "seconds": 5.866360187530518,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАККАЛ СУ\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"АЛИИГОТЕ\",\n  \"category\": \"АВТОРСКОЕ БИНО\",\n  \"raw_visible_text\": [\n    \"БАККАЛ СУ\",\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРЫН\",\n    \"АВТОРСКОЕ БИНО\",\n    \"АЛИИГОТЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАККАЛ СУ",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "АЛИИГОТЕ",
+    "category": "АВТОРСКОЕ БИНО",
+    "raw_visible_text": [
+      "БАККАЛ СУ",
+      "ВАЛЕРИЙ",
+      "ЗАХАРЫН",
+      "АВТОРСКОЕ БИНО",
+      "АЛИИГОТЕ"
+    ]
+  }
+}

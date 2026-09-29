@@ -1,0 +1,21 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-ekstra-bryut-beloe-novyy-svet-risling-kyuve-de-prestizh-125",
+  "seconds": 7.55181097984314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Riesling\",\n  \"producer\": \"Кисель 1878\",\n  \"cuvee\": \"CUVEE DE PRESTIGE\",\n  \"vintage\": \"2015\",\n  \"grape\": \"Riesling\",\n  \"category\": \"РОССИЙСКОЕ ШАМАПАНКОЕ\",\n  \"raw_visible_text\": [\n    \"Кисель 1878\",\n    \"1878\",\n    \"РОССИЙСКОЕ ШАМАПАНКОЕ\",\n    \"Riesling\",\n    \"CUVEE DE PRESTIGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Riesling",
+    "producer": "Кисель 1878",
+    "cuvee": "CUVEE DE PRESTIGE",
+    "vintage": "2015",
+    "grape": "Riesling",
+    "category": "РОССИЙСКОЕ ШАМАПАНКОЕ",
+    "raw_visible_text": [
+      "Кисель 1878",
+      "1878",
+      "РОССИЙСКОЕ ШАМАПАНКОЕ",
+      "Riesling",
+      "CUVEE DE PRESTIGE"
+    ]
+  }
+}

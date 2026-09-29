@@ -1,0 +1,22 @@
+{
+  "slug": "domaine-lipko-muskat-pomeste-trenzina-muskat-belyy-beloe-suhoe-119",
+  "seconds": 5.872323989868164,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МУСКАТ\",\n  \"producer\": \"ПОМЕСТЬЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"ТРЕНЗИНА\",\n  \"category\": \"ЧЕРНОФЕНЕ\",\n  \"raw_visible_text\": [\n    \"ПОМЕСТЬЕ\",\n    \"ТРЕНЗИНА\",\n    \"МУСКАТ\",\n    \"2019\",\n    \"СЕВАСТОПОЛЬ\",\n    \"ЧЕРНОФЕНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МУСКАТ",
+    "producer": "ПОМЕСТЬЕ",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "ТРЕНЗИНА",
+    "category": "ЧЕРНОФЕНЕ",
+    "raw_visible_text": [
+      "ПОМЕСТЬЕ",
+      "ТРЕНЗИНА",
+      "МУСКАТ",
+      "2019",
+      "СЕВАСТОПОЛЬ",
+      "ЧЕРНОФЕНЕ"
+    ]
+  }
+}

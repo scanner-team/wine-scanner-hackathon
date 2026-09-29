@@ -1,0 +1,29 @@
+{
+  "slug": "perovskih_blan_de_noir",
+  "seconds": 1.9059123992919922,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE NOIRS\",\n  \"producer\": \"УСАДЬБА ПЕРОВСКИХ\",\n  \"cuvee\": null,\n  \"vintage\": \"1890\",\n  \"grape\": null,\n  \"category\": \"выдержанное\",\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"1890\",\n    \"ПЕРОВСКИХ\",\n    \"BLANC DE NOIRS\",\n    \"BRUT NATURE\",\n    \"METHODE CLASSIQUE\",\n    \"выдержанное\",\n    \"КРЫМ\",\n    \"СЕВАСТОПОЛЬ\",\n    \"усадьба\",\n    \"ПЕРОВСКИХ\",\n    \"6а\",\n    \"ПЕРОВСКИХ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE NOIRS",
+    "producer": "УСАДЬБА ПЕРОВСКИХ",
+    "cuvee": null,
+    "vintage": "1890",
+    "grape": null,
+    "category": "выдержанное",
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "1890",
+      "ПЕРОВСКИХ",
+      "BLANC DE NOIRS",
+      "BRUT NATURE",
+      "METHODE CLASSIQUE",
+      "выдержанное",
+      "КРЫМ",
+      "СЕВАСТОПОЛЬ",
+      "усадьба",
+      "ПЕРОВСКИХ",
+      "6а",
+      "ПЕРОВСКИХ"
+    ]
+  }
+}

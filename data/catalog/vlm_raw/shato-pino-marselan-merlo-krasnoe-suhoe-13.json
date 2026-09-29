@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-marselan-merlo-krasnoe-suhoe-13",
+  "seconds": 4.762135982513428,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"МАРСЕЛАН\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"МАРСЕЛАН\",\n    \"МЕРЛО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "МАРСЕЛАН",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "МАРСЕЛАН",
+      "МЕРЛО"
+    ]
+  }
+}

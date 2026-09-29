@@ -1,0 +1,25 @@
+{
+  "slug": "usadba-perovskih-rkatsiteli-beloe-suhoe-13",
+  "seconds": 6.309988021850586,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РКАЦИТЕЛИ\",\n  \"producer\": \"Усадьба Перовских\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"РКАЦИТЕЛИ\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"1906\",\n    \"Усадьба\",\n    \"Перовских\",\n    \"РКАЦИТЕЛИ\",\n    \"2022\",\n    \"КРЫМ\",\n    \"0,75 л\",\n    \"СУХОЕ\",\n    \"12,5 % об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РКАЦИТЕЛИ",
+    "producer": "Усадьба Перовских",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "РКАЦИТЕЛИ",
+    "category": "null",
+    "raw_visible_text": [
+      "1906",
+      "Усадьба",
+      "Перовских",
+      "РКАЦИТЕЛИ",
+      "2022",
+      "КРЫМ",
+      "0,75 л",
+      "СУХОЕ",
+      "12,5 % об."
+    ]
+  }
+}

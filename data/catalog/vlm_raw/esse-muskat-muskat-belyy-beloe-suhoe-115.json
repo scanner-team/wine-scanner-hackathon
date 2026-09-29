@@ -1,0 +1,21 @@
+{
+  "slug": "esse-muskat-muskat-belyy-beloe-suhoe-115",
+  "seconds": 5.570935964584351,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"ПОЛУСЛАДКОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"esse\",\n    \"МУСКАТ\",\n    \"УРОЖАЙ 2022 ГОДА\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ\",\n    \"ХРАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "МУСКАТ",
+    "category": "ПОЛУСЛАДКОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "esse",
+      "МУСКАТ",
+      "УРОЖАЙ 2022 ГОДА",
+      "ПОЛУСЛАДКОЕ БЕЛОЕ",
+      "ХРАН"
+    ]
+  }
+}

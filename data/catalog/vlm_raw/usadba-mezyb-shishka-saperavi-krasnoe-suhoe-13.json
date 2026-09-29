@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-shishka-saperavi-krasnoe-suhoe-13",
+  "seconds": 13.666901111602783,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УСАДЬБА\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"САПЕРАВИ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УСАДЬБА",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "САПЕРАВИ",
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "САПЕРАВИ",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-gloriya-de-luna-byanko-sekko-shardone-beloe-suhoe-11",
+  "seconds": 5.865545988082886,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GLORIA de Luna\",\n  \"producer\": \"GLORIA de Luna\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ВИНОСТОЛОВОЕ СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"GLORIA\",\n    \"de Luna\",\n    \"BIANCO\",\n    \"secco\",\n    \"ВИНОСТОЛОВОЕ\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"Спирт\",\n    \"11.0 % об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GLORIA de Luna",
+    "producer": "GLORIA de Luna",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ВИНОСТОЛОВОЕ СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "GLORIA",
+      "de Luna",
+      "BIANCO",
+      "secco",
+      "ВИНОСТОЛОВОЕ",
+      "СУХОЕ БЕЛОЕ",
+      "Спирт",
+      "11.0 % об."
+    ]
+  }
+}

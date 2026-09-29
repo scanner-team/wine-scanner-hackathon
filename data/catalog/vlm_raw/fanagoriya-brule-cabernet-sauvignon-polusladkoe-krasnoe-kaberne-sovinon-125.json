@@ -1,0 +1,14 @@
+{
+  "slug": "fanagoriya-brule-cabernet-sauvignon-polusladkoe-krasnoe-kaberne-sovinon-125",
+  "seconds": 12.223274946212769,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BRÛLÉ\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"ПОЛУСЛАДКОЕ\"\n}",
+  "parsed": {
+    "visible_name": "BRÛLÉ",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": "ПОЛУСЛАДКОЕ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "soyuz-vino-konfessa-sandzhoveze-polusladkoe-krasnoe-11",
+  "seconds": 5.6382737159729,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SANGIOVESE\",\n  \"producer\": \"CONFESSA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Sangiovese\",\n  \"category\": \"Vino da Tavola Tradizionale\",\n  \"raw_visible_text\": [\n    \"VINO DA TAVOLA\",\n    \"TRADIZIONALE\",\n    \"CONFESSA\",\n    \"SANGIOVESE\",\n    \"Rosso Semidolce\",\n    \"750 ml\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SANGIOVESE",
+    "producer": "CONFESSA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Sangiovese",
+    "category": "Vino da Tavola Tradizionale",
+    "raw_visible_text": [
+      "VINO DA TAVOLA",
+      "TRADIZIONALE",
+      "CONFESSA",
+      "SANGIOVESE",
+      "Rosso Semidolce",
+      "750 ml",
+      "750 ml"
+    ]
+  }
+}

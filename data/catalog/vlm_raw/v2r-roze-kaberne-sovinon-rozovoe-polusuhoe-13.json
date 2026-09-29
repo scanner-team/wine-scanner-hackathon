@@ -1,0 +1,18 @@
+{
+  "slug": "v2r-roze-kaberne-sovinon-rozovoe-polusuhoe-13",
+  "seconds": 4.094986915588379,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Poge\",\n  \"producer\": \"B2P\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"B2P\",\n    \"Poge\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Poge",
+    "producer": "B2P",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "B2P",
+      "Poge"
+    ]
+  }
+}

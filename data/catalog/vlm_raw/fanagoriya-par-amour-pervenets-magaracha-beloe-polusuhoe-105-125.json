@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-par-amour-pervenets-magaracha-beloe-polusuhoe-105-125",
+  "seconds": 13.401455879211426,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"PAR AMOUR\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Белое полусладкое\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"PAR AMOUR\",\n    \"ФАНАГОРИЯ\",\n    \"Белое полусладкое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": "FANAGORIA",
+    "cuvee": "PAR AMOUR",
+    "vintage": null,
+    "grape": null,
+    "category": "Белое полусладкое",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "PAR AMOUR",
+      "ФАНАГОРИЯ",
+      "Белое полусладкое"
+    ]
+  }
+}

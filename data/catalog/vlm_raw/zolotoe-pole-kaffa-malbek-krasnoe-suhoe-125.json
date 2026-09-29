@@ -1,0 +1,21 @@
+{
+  "slug": "zolotoe-pole-kaffa-malbek-krasnoe-suhoe-125",
+  "seconds": 13.54769492149353,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАЗГА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"МАЛЬБЕК\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"КАЗГА\",\n    \"2024\",\n    \"МАЛЬБЕК\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАЗГА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "МАЛЬБЕК",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "КАЗГА",
+      "2024",
+      "МАЛЬБЕК",
+      "КРАСНОЕ СУХОЕ",
+      "КРЫМ"
+    ]
+  }
+}

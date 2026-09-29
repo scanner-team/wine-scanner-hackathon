@@ -1,0 +1,22 @@
+{
+  "slug": "mont-blanc-cuvee",
+  "seconds": 1.4871304035186768,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Mont Blanc\",\n  \"producer\": \"Mont Blanc\",\n  \"cuvee\": \"Cuvee\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"Mont Blanc\",\n    \"Cuvee\",\n    \"METHODE\",\n    \"BRUT\",\n    \"CHARMAT\",\n    \"BRUT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Mont Blanc",
+    "producer": "Mont Blanc",
+    "cuvee": "Cuvee",
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "Mont Blanc",
+      "Cuvee",
+      "METHODE",
+      "BRUT",
+      "CHARMAT",
+      "BRUT"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "solnechnaya-dolina-meganom-blanc-de-blancs-kokur-beloe-bryut-11",
+  "seconds": 13.873188972473145,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Меганом\",\n  \"producer\": \"Солнечная Долина\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"Солнечная Долина\",\n    \"1888\",\n    \"Меганом\",\n    \"Blanc de Blancs\",\n    \"750 мл\",\n    \"БРЮТ\",\n    \"ААК 11,0%–13,0%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Меганом",
+    "producer": "Солнечная Долина",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "Солнечная Долина",
+      "1888",
+      "Меганом",
+      "Blanc de Blancs",
+      "750 мл",
+      "БРЮТ",
+      "ААК 11,0%–13,0%"
+    ]
+  }
+}

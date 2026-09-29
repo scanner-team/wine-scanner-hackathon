@@ -1,0 +1,20 @@
+{
+  "slug": "kuban-vino-aristov-kaberne-sovinon-roze-2020-rozovoe-suhoe-12",
+  "seconds": 1.0376214981079102,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARISTOV\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"rose DRY wine\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"CABERNET\",\n    \"ROSE\",\n    \"rose DRY wine 2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARISTOV",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "rose DRY wine",
+    "raw_visible_text": [
+      "ARISTOV",
+      "CABERNET",
+      "ROSE",
+      "rose DRY wine 2020"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-konstantina-dzitoeva-kd-rezerv-merlo-krasnoe-suhoe-12",
+  "seconds": 14.139720916748047,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОЕ СУХОЕ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"KD\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"РЕЗЕРВ\",\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"2023г.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОЕ СУХОЕ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое",
+    "raw_visible_text": [
+      "KD",
+      "КРАСНОЕ СУХОЕ",
+      "РЕЗЕРВ",
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "2023г."
+    ]
+  }
+}

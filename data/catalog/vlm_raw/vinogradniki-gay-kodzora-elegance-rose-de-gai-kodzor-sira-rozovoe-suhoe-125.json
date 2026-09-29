@@ -1,0 +1,21 @@
+{
+  "slug": "vinogradniki-gay-kodzora-elegance-rose-de-gai-kodzor-sira-rozovoe-suhoe-125",
+  "seconds": 5.2163379192352295,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSÉ DE GAI-KODZOR\",\n  \"producer\": \"GAI-KODZOR\",\n  \"cuvee\": \"ELEGANCE\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ROSÉ DE\",\n    \"GAI-KODZOR\",\n    \"PRODUCT OF RUSSIA\",\n    \"ELEGANCE\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSÉ DE GAI-KODZOR",
+    "producer": "GAI-KODZOR",
+    "cuvee": "ELEGANCE",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ROSÉ DE",
+      "GAI-KODZOR",
+      "PRODUCT OF RUSSIA",
+      "ELEGANCE",
+      "2022"
+    ]
+  }
+}

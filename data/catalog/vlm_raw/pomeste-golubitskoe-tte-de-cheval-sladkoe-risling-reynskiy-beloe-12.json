@@ -1,0 +1,20 @@
+{
+  "slug": "pomeste-golubitskoe-tte-de-cheval-sladkoe-risling-reynskiy-beloe-12",
+  "seconds": 12.588634252548218,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TÊTE DE CHEVAL\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Sweet\",\n  \"raw_visible_text\": [\n    \"TÊTE\",\n    \"DE CHEVAL\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Sweet\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TÊTE DE CHEVAL",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Sweet",
+    "raw_visible_text": [
+      "TÊTE",
+      "DE CHEVAL",
+      "MÉTHODE CLASSIQUE",
+      "Sweet"
+    ]
+  }
+}

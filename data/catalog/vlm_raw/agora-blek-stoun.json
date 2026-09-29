@@ -1,0 +1,20 @@
+{
+  "slug": "agora-blek-stoun",
+  "seconds": 6.169955253601074,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLACK STONE\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"RED DRY WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"AGORA WINERY\",\n    \"BLACK STONE\",\n    \"RED DRY WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLACK STONE",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "RED DRY WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "AGORA WINERY",
+      "BLACK STONE",
+      "RED DRY WINE"
+    ]
+  }
+}

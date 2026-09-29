@@ -1,0 +1,24 @@
+{
+  "slug": "abrau-dyurso-aleksandr-ii-magnum-shardone-beloe-bryut-125",
+  "seconds": 6.010111093521118,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALEXANDER II\",\n  \"producer\": \"ABRAU-DURSO\",\n  \"cuvee\": \"CUVÉE\",\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"GRAND\",\n    \"VIN\",\n    \"ABRAU-DURSO\",\n    \"CUVÉE\",\n    \"ALEXANDER II\",\n    \"SPÉCIAL MIELLESME\",\n    \"BRUT\",\n    \"Tinge 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALEXANDER II",
+    "producer": "ABRAU-DURSO",
+    "cuvee": "CUVÉE",
+    "vintage": "2024",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "GRAND",
+      "VIN",
+      "ABRAU-DURSO",
+      "CUVÉE",
+      "ALEXANDER II",
+      "SPÉCIAL MIELLESME",
+      "BRUT",
+      "Tinge 2024"
+    ]
+  }
+}

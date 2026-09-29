@@ -1,0 +1,20 @@
+{
+  "slug": "belbek-risling-pozdniy-sbor-risling-reynskiy-beloe-sladkoe-117",
+  "seconds": 4.68615198135376,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"РИСАМН\",\n    \"2021\",\n    \"ПОВАЛЯННЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "РИСАМН",
+      "2021",
+      "ПОВАЛЯННЯ"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "bryut-rozovoe-zolotaya-balka",
+  "seconds": 2.240527868270874,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЗОЛОТАЯ БАЛКА\",\n  \"producer\": \"КРЫМ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Брют розовое\",\n  \"raw_visible_text\": [\n    \"КРЫМ\",\n    \"ЗОЛОТАЯ БАЛКА\",\n    \"· Брют розовое ·\",\n    \"РОССИЙСКОЕ ИНТЕРЕСНОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"· КУИН ·\",\n    \"750 мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЗОЛОТАЯ БАЛКА",
+    "producer": "КРЫМ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Брют розовое",
+    "raw_visible_text": [
+      "КРЫМ",
+      "ЗОЛОТАЯ БАЛКА",
+      "· Брют розовое ·",
+      "РОССИЙСКОЕ ИНТЕРЕСНОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "· КУИН ·",
+      "750 мл"
+    ]
+  }
+}

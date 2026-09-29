@@ -1,0 +1,19 @@
+{
+  "slug": "sober-bash-grani-muskat-muskat-dzhialo-beloe-suhoe-12",
+  "seconds": 5.128125905990601,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"МУСКАТ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "МУСКАТ",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "МУСКАТ",
+      "2024"
+    ]
+  }
+}

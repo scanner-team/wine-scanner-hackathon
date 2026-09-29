@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-sovinon-blan-beloe-polusuhoe",
+  "seconds": 1.4386370182037354,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"СОВИНЬОН\",\n  \"category\": \"ПОЛУСЛУДКОЕ\",\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"СОВИНЬОН БЛАН\",\n    \"2023\",\n    \"ПОЛУСЛУДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "СОВИНЬОН",
+    "category": "ПОЛУСЛУДКОЕ",
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "СОВИНЬОН БЛАН",
+      "2023",
+      "ПОЛУСЛУДКОЕ"
+    ]
+  }
+}

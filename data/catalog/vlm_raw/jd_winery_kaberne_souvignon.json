@@ -1,0 +1,19 @@
+{
+  "slug": "jd_winery_kaberne_souvignon",
+  "seconds": 13.893862962722778,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"ВИНО СУХОВ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"WINERY\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ВИНО СУХОВ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН",
+    "producer": "WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "ВИНО СУХОВ КРАСНОЕ",
+    "raw_visible_text": [
+      "WINERY",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ВИНО СУХОВ КРАСНОЕ"
+    ]
+  }
+}

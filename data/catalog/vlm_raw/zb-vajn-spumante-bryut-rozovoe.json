@@ -1,0 +1,22 @@
+{
+  "slug": "zb-vajn-spumante-bryut-rozovoe",
+  "seconds": 1.0693893432617188,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SPUMANTE\",\n  \"producer\": \"ZB WINE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Розе\",\n  \"category\": \"BRUT ROSE\",\n  \"raw_visible_text\": [\n    \"SPUMANTE\",\n    \"ZB\",\n    \"WINE\",\n    \"NATURAL SPARKLING WINE\",\n    \"BRUT ROSE\",\n    \"250 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SPUMANTE",
+    "producer": "ZB WINE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Розе",
+    "category": "BRUT ROSE",
+    "raw_visible_text": [
+      "SPUMANTE",
+      "ZB",
+      "WINE",
+      "NATURAL SPARKLING WINE",
+      "BRUT ROSE",
+      "250 ml"
+    ]
+  }
+}

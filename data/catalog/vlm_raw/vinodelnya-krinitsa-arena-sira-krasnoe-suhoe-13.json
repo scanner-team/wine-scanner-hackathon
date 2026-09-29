@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-arena-sira-krasnoe-suhoe-13",
+  "seconds": 4.588423013687134,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARENA\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"СНИЖЕДЕНЬ\",\n    \"ARENA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARENA",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "СНИЖЕДЕНЬ",
+      "ARENA"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "rem-akchurin-risling-beloe-polusuhoe-12",
+  "seconds": 13.382171869277954,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHURIN RIEIM\",\n  \"producer\": \"AKCHURIN RIEIM\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Riesling\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"AKCHURIN RIEIM\",\n    \"Riesling\",\n    \"Chernaya River Valley\",\n    \"2023\",\n    \"Sevastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHURIN RIEIM",
+    "producer": "AKCHURIN RIEIM",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Riesling",
+    "category": "null",
+    "raw_visible_text": [
+      "AKCHURIN RIEIM",
+      "Riesling",
+      "Chernaya River Valley",
+      "2023",
+      "Sevastopol"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-zhakov-rkatsiteli-eskeyp-krasnoe-suhoe-119",
+  "seconds": 5.071355104446411,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Красный\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Красный\",\n    \"Ркацители\",\n    \"6%\",\n    \"Сухое\",\n    \"Красное\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Красный",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Красный",
+      "Ркацители",
+      "6%",
+      "Сухое",
+      "Красное",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "opium",
+  "seconds": 4.91604208946228,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Opium II\",\n  \"producer\": \"DURBIN WINERY & WINEMAFFIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LIMITED RELEASE\",\n    \"Opium\",\n    \"II\",\n    \"DURBIN WINERY & WINEMAFFIA\",\n    \"517/555\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Opium II",
+    "producer": "DURBIN WINERY & WINEMAFFIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "LIMITED RELEASE",
+      "Opium",
+      "II",
+      "DURBIN WINERY & WINEMAFFIA",
+      "517/555"
+    ]
+  }
+}

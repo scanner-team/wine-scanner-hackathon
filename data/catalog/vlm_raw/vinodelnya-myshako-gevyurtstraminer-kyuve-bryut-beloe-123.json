@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-gevyurtstraminer-kyuve-bryut-beloe-123",
+  "seconds": 6.342234134674072,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КЮБЕ\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"GEWURZTRAMINER\",\n  \"category\": \"БРЮТ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"1869\",\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛНЯ\",\n    \"КЮБЕ\",\n    \"БРЮТ БЕЛОЕ\",\n    \"GEWURZTRAMINER\",\n    \"ВЫДЕРЖАННОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КЮБЕ",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "GEWURZTRAMINER",
+    "category": "БРЮТ БЕЛОЕ",
+    "raw_visible_text": [
+      "1869",
+      "МЫСХАКО",
+      "ВИНОДЕЛНЯ",
+      "КЮБЕ",
+      "БРЮТ БЕЛОЕ",
+      "GEWURZTRAMINER",
+      "ВЫДЕРЖАННОЕ"
+    ]
+  }
+}

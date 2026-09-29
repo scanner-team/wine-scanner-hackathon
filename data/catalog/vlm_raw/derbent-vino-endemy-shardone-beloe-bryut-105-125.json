@@ -1,0 +1,21 @@
+{
+  "slug": "derbent-vino-endemy-shardone-beloe-bryut-105-125",
+  "seconds": 1.193964958190918,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"ДЕРБЕНТ ВИНО\",\n    \"ШАРДОНЕ\",\n    \"БРЮТ\",\n    \"Вино из региона Баке\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "брют",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "ДЕРБЕНТ ВИНО",
+      "ШАРДОНЕ",
+      "БРЮТ",
+      "Вино из региона Баке"
+    ]
+  }
+}

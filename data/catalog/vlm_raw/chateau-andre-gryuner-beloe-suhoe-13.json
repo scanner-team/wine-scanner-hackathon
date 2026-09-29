@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-andre-gryuner-beloe-suhoe-13",
+  "seconds": 4.810243844985962,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRUNER\",\n  \"producer\": \"Chateau Andre\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Veltliner\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Chateau Andre\",\n    \"GRUNER\",\n    \"Veltliner\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRUNER",
+    "producer": "Chateau Andre",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Veltliner",
+    "category": null,
+    "raw_visible_text": [
+      "Chateau Andre",
+      "GRUNER",
+      "Veltliner",
+      "2022"
+    ]
+  }
+}

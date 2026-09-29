@@ -1,0 +1,20 @@
+{
+  "slug": "dva-serdtsa-vione-beloe-suhoe-125",
+  "seconds": 5.167701959609985,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА СЕРДЦА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ВИОНЫЕ\",\n  \"category\": \"Сухое Белое\",\n  \"raw_visible_text\": [\n    \"ДВА СЕРДЦА\",\n    \"ВИОНЫЕ\",\n    \"Сухое Белое\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА СЕРДЦА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ВИОНЫЕ",
+    "category": "Сухое Белое",
+    "raw_visible_text": [
+      "ДВА СЕРДЦА",
+      "ВИОНЫЕ",
+      "Сухое Белое",
+      "КРЫМ"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "tempelhof-winery-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 13.066956043243408,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Tempelhof\",\n  \"producer\": \"Tempelhof winery\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"Product of Russia\",\n  \"raw_visible_text\": [\n    \"Kuma River Valley\",\n    \"Tempelhof\",\n    \"Pinot Noir\",\n    \"2023\",\n    \"Product of Russia\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Tempelhof",
+    "producer": "Tempelhof winery",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Pinot Noir",
+    "category": "Product of Russia",
+    "raw_visible_text": [
+      "Kuma River Valley",
+      "Tempelhof",
+      "Pinot Noir",
+      "2023",
+      "Product of Russia"
+    ]
+  }
+}

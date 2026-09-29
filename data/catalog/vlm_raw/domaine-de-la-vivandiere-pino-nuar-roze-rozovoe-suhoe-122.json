@@ -1,0 +1,21 @@
+{
+  "slug": "domaine-de-la-vivandiere-pino-nuar-roze-rozovoe-suhoe-122",
+  "seconds": 5.246480941772461,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVAN\",\n  \"producer\": \"VIVAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"VIVAN\",\n  \"raw_visible_text\": [\n    \"PINOT NOIR\",\n    \"VIVAN\",\n    \"DIÈRE\",\n    \"al. 12,5 % vol\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVAN",
+    "producer": "VIVAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": "VIVAN",
+    "raw_visible_text": [
+      "PINOT NOIR",
+      "VIVAN",
+      "DIÈRE",
+      "al. 12,5 % vol",
+      "750 ml"
+    ]
+  }
+}

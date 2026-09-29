@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-albedo-reserve-sary-pandas-beloe-suhoe-115",
+  "seconds": 5.235044956207275,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Albedo\",\n  \"producer\": \"Valery Zahard\",\n  \"cuvee\": \"RESERV\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ALBUM VINUM\",\n  \"raw_visible_text\": [\n    \"Albedo\",\n    \"RESERV\",\n    \"VALERY ZAHARD\",\n    \"EST. 1994\",\n    \"ALBUM VINUM\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Albedo",
+    "producer": "Valery Zahard",
+    "cuvee": "RESERV",
+    "vintage": null,
+    "grape": null,
+    "category": "ALBUM VINUM",
+    "raw_visible_text": [
+      "Albedo",
+      "RESERV",
+      "VALERY ZAHARD",
+      "EST. 1994",
+      "ALBUM VINUM"
+    ]
+  }
+}

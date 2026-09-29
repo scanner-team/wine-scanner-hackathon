@@ -1,0 +1,20 @@
+{
+  "slug": "shato-taman-grape-dance",
+  "seconds": 0.9541747570037842,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Grape Dance\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"blanc\",\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"GRAPE\",\n    \"DANCE\",\n    \"blanc\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Grape Dance",
+    "producer": "Château TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "blanc",
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "GRAPE",
+      "DANCE",
+      "blanc"
+    ]
+  }
+}

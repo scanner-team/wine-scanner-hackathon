@@ -1,0 +1,20 @@
+{
+  "slug": "agora-rosa-viva-cabernet-franc",
+  "seconds": 1.0237269401550293,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSA VIVA\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"RED DRY\",\n  \"raw_visible_text\": [\n    \"ROSA VIVA\",\n    \"AGORA WINERY\",\n    \"CABERNET FRANC\",\n    \"RED DRY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSA VIVA",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET FRANC",
+    "category": "RED DRY",
+    "raw_visible_text": [
+      "ROSA VIVA",
+      "AGORA WINERY",
+      "CABERNET FRANC",
+      "RED DRY"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-pesn-holmov-merlo-krasnoe-suhoe-145",
+  "seconds": 14.996160984039307,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕСНЬ ХОЛ-МОВ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ\",\n    \"БЕРЕГ\",\n    \"осн. 2010\",\n    \"ПЕСНЬ\",\n    \"ХОЛ-\",\n    \"МОВ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕСНЬ ХОЛ-МОВ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ",
+      "БЕРЕГ",
+      "осн. 2010",
+      "ПЕСНЬ",
+      "ХОЛ-",
+      "МОВ",
+      "СУХОЕ КРАСНОЕ",
+      "2022"
+    ]
+  }
+}

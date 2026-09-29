@@ -1,0 +1,23 @@
+{
+  "slug": "ona-skazala-da",
+  "seconds": 1.2809185981750488,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"розовое полусладкое\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"FANAGORIA\",\n    \"ОНА\",\n    \"СКАЗАЛА\",\n    \"ДА\",\n    \"РОЗОВОЕ\",\n    \"ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "розовое полусладкое",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "FANAGORIA",
+      "ОНА",
+      "СКАЗАЛА",
+      "ДА",
+      "РОЗОВОЕ",
+      "ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

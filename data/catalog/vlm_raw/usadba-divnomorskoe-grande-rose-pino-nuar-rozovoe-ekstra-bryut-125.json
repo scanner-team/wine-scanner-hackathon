@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-grande-rose-pino-nuar-rozovoe-ekstra-bryut-125",
+  "seconds": 13.650532007217407,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND ROSÉ\",\n  \"producer\": \"УСАЛЬБА ДИВНОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"EXTRA BRUT\",\n  \"raw_visible_text\": [\n    \"УСАЛЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"GRAND ROSÉ\",\n    \"EXTRA BRUT\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND ROSÉ",
+    "producer": "УСАЛЬБА ДИВНОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": "EXTRA BRUT",
+    "raw_visible_text": [
+      "УСАЛЬБА",
+      "ДИВНОМОРСКОЕ",
+      "GRAND ROSÉ",
+      "EXTRA BRUT",
+      "2020"
+    ]
+  }
+}

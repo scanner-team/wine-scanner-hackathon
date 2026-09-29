@@ -1,0 +1,25 @@
+{
+  "slug": "cantiani-aligote-riesling",
+  "seconds": 1.8453936576843262,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"Cantiani\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ALIGOTE\",\n  \"category\": \"RIESLING\",\n  \"raw_visible_text\": [\n    \"Cantiani\",\n    \"WINEMAKING TRADITION\",\n    \"CANTIANI\",\n    \"WINE & TRADITIONS\",\n    \"ALIGOTE\",\n    \"RIESLING\",\n    \"MASTER OF WINE\",\n    \"A. Chy-\",\n    \"PRODUCED AND BOTTLED IN DAGESTAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "Cantiani",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ALIGOTE",
+    "category": "RIESLING",
+    "raw_visible_text": [
+      "Cantiani",
+      "WINEMAKING TRADITION",
+      "CANTIANI",
+      "WINE & TRADITIONS",
+      "ALIGOTE",
+      "RIESLING",
+      "MASTER OF WINE",
+      "A. Chy-",
+      "PRODUCED AND BOTTLED IN DAGESTAN"
+    ]
+  }
+}

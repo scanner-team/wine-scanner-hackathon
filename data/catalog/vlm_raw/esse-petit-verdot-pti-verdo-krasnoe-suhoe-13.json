@@ -1,0 +1,20 @@
+{
+  "slug": "esse-petit-verdot-pti-verdo-krasnoe-suhoe-13",
+  "seconds": 4.934244155883789,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KACHA VALLEY\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"PETIT VERDOT\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"KACHA VALLEY\",\n    \"2020\",\n    \"PETIT VERDOT\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KACHA VALLEY",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "PETIT VERDOT",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "KACHA VALLEY",
+      "2020",
+      "PETIT VERDOT",
+      "CRIMEA"
+    ]
+  }
+}

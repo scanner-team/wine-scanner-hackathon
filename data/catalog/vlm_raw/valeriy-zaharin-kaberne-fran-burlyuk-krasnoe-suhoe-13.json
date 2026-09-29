@@ -1,0 +1,19 @@
+{
+  "slug": "valeriy-zaharin-kaberne-fran-burlyuk-krasnoe-suhoe-13",
+  "seconds": 4.922408103942871,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БУРЛУК\",\n  \"producer\": \"БУРЛУК\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Cabernet Franc\",\n  \"category\": \"СОЧНЫЙ\",\n  \"raw_visible_text\": [\n    \"БУРЛУК\",\n    \"Cabernet Franc\",\n    \"СОЧНЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БУРЛУК",
+    "producer": "БУРЛУК",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Cabernet Franc",
+    "category": "СОЧНЫЙ",
+    "raw_visible_text": [
+      "БУРЛУК",
+      "Cabernet Franc",
+      "СОЧНЫЙ"
+    ]
+  }
+}

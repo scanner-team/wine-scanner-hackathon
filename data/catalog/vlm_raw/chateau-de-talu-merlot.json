@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-de-talu-merlot",
+  "seconds": 0.9775285720825195,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHÂTEAU de TALU\",\n  \"producer\": \"Теленджик\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"МЕРЛО\",\n    \"ТЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHÂTEAU de TALU",
+    "producer": "Теленджик",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "МЕРЛО",
+      "ТЕЛЕНДЖИК"
+    ]
+  }
+}

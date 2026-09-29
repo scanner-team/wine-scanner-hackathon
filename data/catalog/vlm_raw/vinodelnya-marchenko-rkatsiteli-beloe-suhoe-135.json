@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-marchenko-rkatsiteli-beloe-suhoe-135",
+  "seconds": 4.536105155944824,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ркацители\",\n  \"producer\": \"МАРЧЕНКО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАРЧЕНКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"Ркацители\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ркацители",
+    "producer": "МАРЧЕНКО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": null,
+    "raw_visible_text": [
+      "МАРЧЕНКО",
+      "ВИНОДЕЛЬНЯ",
+      "Ркацители"
+    ]
+  }
+}

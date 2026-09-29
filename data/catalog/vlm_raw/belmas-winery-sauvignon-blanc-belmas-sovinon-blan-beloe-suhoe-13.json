@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-sauvignon-blanc-belmas-sovinon-blan-beloe-suhoe-13",
+  "seconds": 5.396728992462158,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Sb\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Sauvignon Blanc\",\n  \"category\": \"White\",\n  \"raw_visible_text\": [\n    \"SAUVIGNON\",\n    \"BLANC\",\n    \"2021\",\n    \"Sb\",\n    \"Belmäs\",\n    \"13.0% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Sb",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Sauvignon Blanc",
+    "category": "White",
+    "raw_visible_text": [
+      "SAUVIGNON",
+      "BLANC",
+      "2021",
+      "Sb",
+      "Belmäs",
+      "13.0% VOL",
+      "750 ML"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "agrolayn-mountain-eagle-muscat-muskat-beloe-suhoe-125",
+  "seconds": 5.1440160274505615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"MUSCAT\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN\",\n    \"EAGLE\",\n    \"PROTECTED GEOGRAPHIC\",\n    \"APPELLATION\",\n    \"MUSCAT\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "MUSCAT",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN",
+      "EAGLE",
+      "PROTECTED GEOGRAPHIC",
+      "APPELLATION",
+      "MUSCAT",
+      "2022"
+    ]
+  }
+}

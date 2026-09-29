@@ -1,0 +1,29 @@
+{
+  "slug": "fanagoriya-101-ottenok-krasnogo-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 15.783063173294067,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"101\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"ОТТЕНОК КРАСНОГО\",\n  \"vintage\": null,\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"ЗНМП\",\n  \"raw_visible_text\": [\n    \"ТОП\",\n    \"100\",\n    \"WINES\",\n    \"НОДЕЛЬНЯ\",\n    \"023 ГОДА\",\n    \"101\",\n    \"ОТТЕНОК КРАСНОГО\",\n    \"ЗНМП\",\n    \"ПИНО НУАР\",\n    \"ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ\",\n    \"FANAGORIA\",\n    \"ТИРАЖ 1500 БУТ.\",\n    \"БУТЫЛКА НОМЕР:\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "101",
+    "producer": "FANAGORIA",
+    "cuvee": "ОТТЕНОК КРАСНОГО",
+    "vintage": null,
+    "grape": "ПИНО НУАР",
+    "category": "ЗНМП",
+    "raw_visible_text": [
+      "ТОП",
+      "100",
+      "WINES",
+      "НОДЕЛЬНЯ",
+      "023 ГОДА",
+      "101",
+      "ОТТЕНОК КРАСНОГО",
+      "ЗНМП",
+      "ПИНО НУАР",
+      "ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ",
+      "FANAGORIA",
+      "ТИРАЖ 1500 БУТ.",
+      "БУТЫЛКА НОМЕР:"
+    ]
+  }
+}

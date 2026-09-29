@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-sovinon-blan-beloe-suhoe-12",
+  "seconds": 14.647531986236572,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Совиньон\",\n  \"category\": \"Блан\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2024\",\n    \"Совиньон\",\n    \"Блан\",\n    \"№ 7551\",\n    \"Falco\",\n    \"Peregrinus\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Совиньон",
+    "category": "Блан",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2024",
+      "Совиньон",
+      "Блан",
+      "№ 7551",
+      "Falco",
+      "Peregrinus"
+    ]
+  }
+}

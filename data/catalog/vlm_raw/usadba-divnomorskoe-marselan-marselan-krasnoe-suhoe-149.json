@@ -1,0 +1,24 @@
+{
+  "slug": "usadba-divnomorskoe-marselan-marselan-krasnoe-suhoe-149",
+  "seconds": 7.346380949020386,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MARSelan\",\n  \"producer\": \"УСАДЬБА ДИВНОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2014\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"From the Russian\",\n    \"wine-growing region\",\n    \"on the coast of\",\n    \"The Black Sea\",\n    \"MARSLEAN\",\n    \"2014\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MARSelan",
+    "producer": "УСАДЬБА ДИВНОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": "2014",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "ДИВНОМОРСКОЕ",
+      "From the Russian",
+      "wine-growing region",
+      "on the coast of",
+      "The Black Sea",
+      "MARSLEAN",
+      "2014"
+    ]
+  }
+}

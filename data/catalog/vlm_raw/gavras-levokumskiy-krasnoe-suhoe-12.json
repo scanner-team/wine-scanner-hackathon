@@ -1,0 +1,21 @@
+{
+  "slug": "gavras-levokumskiy-krasnoe-suhoe-12",
+  "seconds": 5.621851205825806,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛЕВОКУМСКИЙ\",\n  \"producer\": \"ГАВРАС\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ГАВРАС\",\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"ЛЕВОКУМСКИЙ\",\n    \"2445 бутылок\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛЕВОКУМСКИЙ",
+    "producer": "ГАВРАС",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ГАВРАС",
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "ЛЕВОКУМСКИЙ",
+      "2445 бутылок",
+      "КРЫМ"
+    ]
+  }
+}

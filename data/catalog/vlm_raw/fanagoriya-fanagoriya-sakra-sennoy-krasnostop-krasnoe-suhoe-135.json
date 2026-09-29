@@ -1,0 +1,26 @@
+{
+  "slug": "fanagoriya-fanagoriya-sakra-sennoy-krasnostop-krasnoe-suhoe-135",
+  "seconds": 7.54886794090271,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAQRA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"Quintessence\",\n  \"vintage\": \"2020\",\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"КРАСНОСТОП\",\n  \"raw_visible_text\": [\n    \"Quintessence\",\n    \"Q\",\n    \"FANAGORIA\",\n    \"NOBLESSE ORLIGE\",\n    \"SAQRA\",\n    \"САПЕРАВИ\",\n    \"КРАСНОСТОП\",\n    \"+\",\n    \"2020\",\n    \"СЕННОЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAQRA",
+    "producer": "FANAGORIA",
+    "cuvee": "Quintessence",
+    "vintage": "2020",
+    "grape": "САПЕРАВИ",
+    "category": "КРАСНОСТОП",
+    "raw_visible_text": [
+      "Quintessence",
+      "Q",
+      "FANAGORIA",
+      "NOBLESSE ORLIGE",
+      "SAQRA",
+      "САПЕРАВИ",
+      "КРАСНОСТОП",
+      "+",
+      "2020",
+      "СЕННОЙ"
+    ]
+  }
+}

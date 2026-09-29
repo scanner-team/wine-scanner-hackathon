@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-de-talu-merlo-rezerv-krasnoe-suhoe-14",
+  "seconds": 5.560769081115723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕРАО\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"ГЕЛЕНДЖИК\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"МЕРАО\",\n    \"РЕЗЕРВ\",\n    \"2020\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕРАО",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": "ГЕЛЕНДЖИК",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "МЕРАО",
+      "РЕЗЕРВ",
+      "2020",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

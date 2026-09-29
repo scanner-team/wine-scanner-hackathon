@@ -1,0 +1,22 @@
+{
+  "slug": "agora-muskat",
+  "seconds": 1.4815952777862549,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AGORA\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"белое полусладкое\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"MUSCAT\",\n    \"WHITE SEMI-SWEET WINE\",\n    \"МУСКАТ • БЕЛОЕ ПОЛУСЛАДКОЕ\",\n    \"ВЫДЕРЖАНО В ДУБЕ • РУЧНОЙ СБОР\",\n    \"3ГУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AGORA",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МУСКАТ",
+    "category": "белое полусладкое",
+    "raw_visible_text": [
+      "AGORA",
+      "MUSCAT",
+      "WHITE SEMI-SWEET WINE",
+      "МУСКАТ • БЕЛОЕ ПОЛУСЛАДКОЕ",
+      "ВЫДЕРЖАНО В ДУБЕ • РУЧНОЙ СБОР",
+      "3ГУ"
+    ]
+  }
+}

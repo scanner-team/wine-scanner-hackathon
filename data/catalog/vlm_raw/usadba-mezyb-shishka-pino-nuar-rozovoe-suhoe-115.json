@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-shishka-pino-nuar-rozovoe-suhoe-115",
+  "seconds": 13.45534896850586,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УРАЛЬСКАЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УРАЛЬСКАЯ\",\n    \"МЕЗЫБЬ\",\n    \"ПИНО НУАР\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УРАЛЬСКАЯ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ПИНО НУАР",
+    "category": null,
+    "raw_visible_text": [
+      "УРАЛЬСКАЯ",
+      "МЕЗЫБЬ",
+      "ПИНО НУАР",
+      "2023"
+    ]
+  }
+}

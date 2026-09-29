@@ -1,0 +1,20 @@
+{
+  "slug": "pinot-noir-2024-one-barrel-by-dmitry-maslov-pino-nuar-2024-uan-barrel-dmitrij-maslov",
+  "seconds": 0.807945728302002,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"OBDM\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"OBDM\",\n    \"P\",\n    \"2024\",\n    \"N\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "OBDM",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "OBDM",
+      "P",
+      "2024",
+      "N"
+    ]
+  }
+}

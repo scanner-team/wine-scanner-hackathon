@@ -1,0 +1,21 @@
+{
+  "slug": "gavras-chardonnay-shardone-beloe-suhoe-13",
+  "seconds": 5.142534971237183,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"GAVRAS ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"GAVRAS\",\n    \"ESTATE\",\n    \"CHARDONNAY\",\n    \"2021\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "GAVRAS ESTATE",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "CHARDONNAY",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "GAVRAS",
+      "ESTATE",
+      "CHARDONNAY",
+      "2021",
+      "CRIMEA"
+    ]
+  }
+}

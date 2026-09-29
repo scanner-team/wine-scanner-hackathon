@@ -1,0 +1,23 @@
+{
+  "slug": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+  "seconds": 13.992657899856567,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Терруар\",\n  \"producer\": \"Вторая Линия\",\n  \"cuvee\": \"Новый Мес\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"УСАДЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"Новый Мес\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Терруар",
+    "producer": "Вторая Линия",
+    "cuvee": "Новый Мес",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "УСАДЬБА",
+      "ДИВНОМОРСКОЕ",
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "Новый Мес"
+    ]
+  }
+}

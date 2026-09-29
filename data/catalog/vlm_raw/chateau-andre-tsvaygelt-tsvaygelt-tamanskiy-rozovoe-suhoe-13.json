@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-andre-tsvaygelt-tsvaygelt-tamanskiy-rozovoe-suhoe-13",
+  "seconds": 5.040211915969849,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZWEIGELT ROSE\",\n  \"producer\": \"Chateau Andre\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Zweigelt\",\n  \"category\": \"Rose\",\n  \"raw_visible_text\": [\n    \"Chate\",\n    \"2023\",\n    \"Chateau Andre\",\n    \"ZWEIGELT ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZWEIGELT ROSE",
+    "producer": "Chateau Andre",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Zweigelt",
+    "category": "Rose",
+    "raw_visible_text": [
+      "Chate",
+      "2023",
+      "Chateau Andre",
+      "ZWEIGELT ROSE"
+    ]
+  }
+}

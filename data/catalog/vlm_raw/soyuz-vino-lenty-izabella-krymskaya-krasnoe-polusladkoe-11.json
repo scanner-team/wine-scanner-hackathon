@@ -1,0 +1,22 @@
+{
+  "slug": "soyuz-vino-lenty-izabella-krymskaya-krasnoe-polusladkoe-11",
+  "seconds": 7.636570930480957,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Изаделла\",\n  \"producer\": \"SOYUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое красное\",\n  \"raw_visible_text\": [\n    \"Вино отловое полусладкое красное\",\n    \"Изаделла\",\n    \"крушиская\",\n    \"ТРАДИЦИИ ВИНОЛЕДИЯ\",\n    \"1976\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Изаделла",
+    "producer": "SOYUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое красное",
+    "raw_visible_text": [
+      "Вино отловое полусладкое красное",
+      "Изаделла",
+      "крушиская",
+      "ТРАДИЦИИ ВИНОЛЕДИЯ",
+      "1976",
+      "ПРОИЗВЕДЕНО В РОССИИ"
+    ]
+  }
+}

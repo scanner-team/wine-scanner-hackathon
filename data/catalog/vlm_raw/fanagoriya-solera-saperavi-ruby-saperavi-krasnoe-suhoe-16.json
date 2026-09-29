@@ -1,0 +1,24 @@
+{
+  "slug": "fanagoriya-solera-saperavi-ruby-saperavi-krasnoe-suhoe-16",
+  "seconds": 7.179297208786011,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Solera\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"SAPERAVI\",\n  \"category\": \"RUBY\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"NOBLESSE OBLIGE\",\n    \"Solera\",\n    \"SAPERAVI RUBY\",\n    \"выдержано в дубе\",\n    \"ЗТУ\",\n    \"РОССИЯ\",\n    \"2017\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Solera",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "SAPERAVI",
+    "category": "RUBY",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "NOBLESSE OBLIGE",
+      "Solera",
+      "SAPERAVI RUBY",
+      "выдержано в дубе",
+      "ЗТУ",
+      "РОССИЯ",
+      "2017"
+    ]
+  }
+}

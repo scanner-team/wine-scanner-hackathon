@@ -1,0 +1,21 @@
+{
+  "slug": "molodoe-shato-taman",
+  "seconds": 1.5574829578399658,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": \"2026\",\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"2026\",\n    \"МОЛОДОЕ\",\n    \"(СУХОЕ БЕЛОЕ)\",\n    \"ВИНО С ОБЪЕМНЫМ НАЗВАНИЕМ МЕСТА ПРОИСХОЖДЕНИЯ КОМПАНИИ ВЕТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": "2026",
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "2026",
+      "МОЛОДОЕ",
+      "(СУХОЕ БЕЛОЕ)",
+      "ВИНО С ОБЪЕМНЫМ НАЗВАНИЕМ МЕСТА ПРОИСХОЖДЕНИЯ КОМПАНИИ ВЕТ"
+    ]
+  }
+}

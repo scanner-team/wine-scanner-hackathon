@@ -1,0 +1,20 @@
+{
+  "slug": "mancopia-sira",
+  "seconds": 7.812387943267822,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANCOPIA\",\n  \"producer\": \"MANCOPIA\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2023\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MANCOPIA\",\n    \"SYRAH\",\n    \"RESERVE - 2023\",\n    \"ΔΟΜΗΝΑ ΡΕΧΙ ΕΛΛΑ ΕΡΜΩ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANCOPIA",
+    "producer": "MANCOPIA",
+    "cuvee": "RESERVE",
+    "vintage": "2023",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "MANCOPIA",
+      "SYRAH",
+      "RESERVE - 2023",
+      "ΔΟΜΗΝΑ ΡΕΧΙ ΕΛΛΑ ΕΡΜΩ"
+    ]
+  }
+}

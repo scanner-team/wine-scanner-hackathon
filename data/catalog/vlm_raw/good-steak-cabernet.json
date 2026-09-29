@@ -1,0 +1,22 @@
+{
+  "slug": "good-steak-cabernet",
+  "seconds": 5.877369165420532,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Good STEAK\",\n  \"producer\": \"MOUNTAIN STEAK COMPANY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CABERNET\",\n    \"CABERNET\",\n    \"Alc.10-12%/Vol. 0.75L\",\n    \"Good\",\n    \"STEAK\",\n    \"MOUNTAIN STEAK COMPANY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Good STEAK",
+    "producer": "MOUNTAIN STEAK COMPANY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET",
+    "category": null,
+    "raw_visible_text": [
+      "CABERNET",
+      "CABERNET",
+      "Alc.10-12%/Vol. 0.75L",
+      "Good",
+      "STEAK",
+      "MOUNTAIN STEAK COMPANY"
+    ]
+  }
+}

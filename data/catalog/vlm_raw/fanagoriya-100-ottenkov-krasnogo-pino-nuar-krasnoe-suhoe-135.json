@@ -1,0 +1,29 @@
+{
+  "slug": "fanagoriya-100-ottenkov-krasnogo-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 16.014132976531982,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"100\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"Noblesse Oblice\",\n  \"vintage\": null,\n  \"grape\": \"Пино Нуар\",\n  \"category\": \"оттенков красного\",\n  \"raw_visible_text\": [\n    \"100\",\n    \"ОТТЕНКОВ КРАСНОГО\",\n    \"ПИНО НУАР\",\n    \"ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ\",\n    \"FANAGORIA\",\n    \"NOBLESSE OBLICE\",\n    \"ЭКМП\",\n    \"ТИРАЖ 10500 БУТ\",\n    \"РОМАН ТКАНУК\",\n    \"ВИНОДЕР\",\n    \"М ТОП 100\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"2023 ГОДА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "100",
+    "producer": "FANAGORIA",
+    "cuvee": "Noblesse Oblice",
+    "vintage": null,
+    "grape": "Пино Нуар",
+    "category": "оттенков красного",
+    "raw_visible_text": [
+      "100",
+      "ОТТЕНКОВ КРАСНОГО",
+      "ПИНО НУАР",
+      "ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ",
+      "FANAGORIA",
+      "NOBLESSE OBLICE",
+      "ЭКМП",
+      "ТИРАЖ 10500 БУТ",
+      "РОМАН ТКАНУК",
+      "ВИНОДЕР",
+      "М ТОП 100",
+      "ВИНОДЕЛЬНЯ",
+      "2023 ГОДА"
+    ]
+  }
+}

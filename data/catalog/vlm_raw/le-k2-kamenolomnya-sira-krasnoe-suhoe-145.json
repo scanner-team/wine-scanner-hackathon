@@ -1,0 +1,21 @@
+{
+  "slug": "le-k2-kamenolomnya-sira-krasnoe-suhoe-145",
+  "seconds": 8.645005941390991,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Le K2\",\n    \"КАМЕНОЛОМНЯ\",\n    \"2022\",\n    \"524, 747\",\n    \"Родное: Севастополь\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Le K2",
+      "КАМЕНОЛОМНЯ",
+      "2022",
+      "524, 747",
+      "Родное: Севастополь"
+    ]
+  }
+}

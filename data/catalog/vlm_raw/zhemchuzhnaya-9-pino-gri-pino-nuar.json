@@ -1,0 +1,23 @@
+{
+  "slug": "zhemchuzhnaya-9-pino-gri-pino-nuar",
+  "seconds": 1.3265256881713867,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пино ГРИ\",\n  \"producer\": \"АРАТТИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Пино Нуар\",\n  \"category\": \"розовое сухое\",\n  \"raw_visible_text\": [\n    \"ЖЕМЧУЖНАЯ\",\n    \"9\",\n    \"АРАТТИ\",\n    \"ПИНО ГРИ\",\n    \"ПИНО НУАР\",\n    \"РОЗОВОЕ СУХОЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пино ГРИ",
+    "producer": "АРАТТИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Пино Нуар",
+    "category": "розовое сухое",
+    "raw_visible_text": [
+      "ЖЕМЧУЖНАЯ",
+      "9",
+      "АРАТТИ",
+      "ПИНО ГРИ",
+      "ПИНО НУАР",
+      "РОЗОВОЕ СУХОЕ",
+      "2024"
+    ]
+  }
+}

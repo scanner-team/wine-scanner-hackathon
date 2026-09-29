@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-berdyaeva-risling-beloe-polusuhoe-108",
+  "seconds": 5.733752012252808,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ БЕРДЯЕВА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"ПОЛУСУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"РИСЛИНГ\",\n    \"ПОЛУСУХОЕ БЕЛОЕ\",\n    \"ВИНОДЕЛЬНЯ БЕРДЯЕВА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "ВИНОДЕЛЬНЯ БЕРДЯЕВА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНГ",
+    "category": "ПОЛУСУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "РИСЛИНГ",
+      "ПОЛУСУХОЕ БЕЛОЕ",
+      "ВИНОДЕЛЬНЯ БЕРДЯЕВА"
+    ]
+  }
+}

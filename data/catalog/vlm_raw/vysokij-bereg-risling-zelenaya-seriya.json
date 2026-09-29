@@ -1,0 +1,19 @@
+{
+  "slug": "vysokij-bereg-risling-zelenaya-seriya",
+  "seconds": 1.0490412712097168,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"ВЫСОКИЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"РИСЛИНГ\",\n    \"2024\",\n    \"ВЫСОКИЙ БЕРЕГ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "ВЫСОКИЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "РИСЛИНГ",
+    "category": null,
+    "raw_visible_text": [
+      "РИСЛИНГ",
+      "2024",
+      "ВЫСОКИЙ БЕРЕГ"
+    ]
+  }
+}

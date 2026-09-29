@@ -1,0 +1,23 @@
+{
+  "slug": "winepark-pino-blan-beloe-suhoe-125",
+  "seconds": 14.45799708366394,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT_BLANC\",\n  \"producer\": \"WINEPARK\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT_BLANC\",\n  \"category\": \"ПИНО БЛАН\",\n  \"raw_visible_text\": [\n    \"WINEPARK2021MUSCAT282\",\n    \"2023PINOT2022SAUVIGNON_BLANC\",\n    \"CRIMEA\",\n    \"PINOT_BLANC\",\n    \"WINEPARK\",\n    \"ПИНО БЛАН\",\n    \"2023 КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT_BLANC",
+    "producer": "WINEPARK",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT_BLANC",
+    "category": "ПИНО БЛАН",
+    "raw_visible_text": [
+      "WINEPARK2021MUSCAT282",
+      "2023PINOT2022SAUVIGNON_BLANC",
+      "CRIMEA",
+      "PINOT_BLANC",
+      "WINEPARK",
+      "ПИНО БЛАН",
+      "2023 КРЫМ"
+    ]
+  }
+}

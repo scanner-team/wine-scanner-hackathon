@@ -1,0 +1,22 @@
+{
+  "slug": "agora-muskat-chernyj",
+  "seconds": 7.799652099609375,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MUSCAT BLACK\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МУСКАТ ЧЕРНИЦА\",\n  \"category\": \"RED SWEET WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"MUSCAT BLACK\",\n    \"RED SWEET WINE\",\n    \"AGORA\",\n    \"МУСКАТ ЧЕРНИЦА • КРАСНОЕ СЛАДКОЕ\",\n    \"ВИНЕГРАЖДО В ДУБЕ • РУЧНОЙ СБОР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MUSCAT BLACK",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МУСКАТ ЧЕРНИЦА",
+    "category": "RED SWEET WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "MUSCAT BLACK",
+      "RED SWEET WINE",
+      "AGORA",
+      "МУСКАТ ЧЕРНИЦА • КРАСНОЕ СЛАДКОЕ",
+      "ВИНЕГРАЖДО В ДУБЕ • РУЧНОЙ СБОР"
+    ]
+  }
+}

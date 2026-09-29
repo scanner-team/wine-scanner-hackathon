@@ -1,0 +1,20 @@
+{
+  "slug": "belbek-beloe-suhoe-kaberne-sovinon-krasnoe-14",
+  "seconds": 5.748816013336182,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЕЛЬБЕК\",\n  \"producer\": null,\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"СЕРГЕЙ ВЕСКОРОВАНИЙ\",\n  \"raw_visible_text\": [\n    \"СЕРГЕЙ ВЕСКОРОВАНИЙ\",\n    \"БЕЛЬБЕК\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"RESERVE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЕЛЬБЕК",
+    "producer": null,
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "СЕРГЕЙ ВЕСКОРОВАНИЙ",
+    "raw_visible_text": [
+      "СЕРГЕЙ ВЕСКОРОВАНИЙ",
+      "БЕЛЬБЕК",
+      "КАБЕРНЕ СОВИНЬОН",
+      "RESERVE"
+    ]
+  }
+}

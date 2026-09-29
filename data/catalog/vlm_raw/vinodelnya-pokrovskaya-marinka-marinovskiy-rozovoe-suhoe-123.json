@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-pokrovskaya-marinka-marinovskiy-rozovoe-suhoe-123",
+  "seconds": 4.472052812576294,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Наринка\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПОКР\",\n    \"2020\",\n    \"Наринка\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Наринка",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ПОКР",
+      "2020",
+      "Наринка"
+    ]
+  }
+}

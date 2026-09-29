@@ -1,0 +1,28 @@
+{
+  "slug": "zmv-koktebel-grand-kupazh-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 8.077851295471191,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CASA\",\n  \"producer\": \"ВАЛОД МАРОЧНЫХ ВИН КОКТЕБЕАД\",\n  \"cuvee\": \"Collection\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ВАЛОД МАРОЧНЫХ ВИН\",\n    \"КОКТЕБЕАД\",\n    \"EST 1879\",\n    \"Collection\",\n    \"CASA\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"ГРАНД КУПАЖ\",\n    \"ГОД УРОЖАЯ 2022\",\n    \"Выдержано:\",\n    \"в дубовой бочке 6 месяцев\",\n    \"в бутылке 8 месяцев\",\n    \"— Тираж 9 000 бутылок —\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CASA",
+    "producer": "ВАЛОД МАРОЧНЫХ ВИН КОКТЕБЕАД",
+    "cuvee": "Collection",
+    "vintage": "2022",
+    "grape": null,
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "ВАЛОД МАРОЧНЫХ ВИН",
+      "КОКТЕБЕАД",
+      "EST 1879",
+      "Collection",
+      "CASA",
+      "КРАСНОЕ СУХОЕ",
+      "ГРАНД КУПАЖ",
+      "ГОД УРОЖАЯ 2022",
+      "Выдержано:",
+      "в дубовой бочке 6 месяцев",
+      "в бутылке 8 месяцев",
+      "— Тираж 9 000 бутылок —"
+    ]
+  }
+}

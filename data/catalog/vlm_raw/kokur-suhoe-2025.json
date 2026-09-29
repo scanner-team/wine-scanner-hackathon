@@ -1,0 +1,25 @@
+{
+  "slug": "kokur-suhoe-2025",
+  "seconds": 1.6330440044403076,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОКУР\",\n  \"producer\": \"ДВА БРАТА\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ДВА БРАТА\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"БРАТЫ-МЕТНИКОВЫ\",\n    \"EST 2020\",\n    \"КОКУР\",\n    \"2024\",\n    \"ГОРОД-ГЕРОЙ\",\n    \"СЕВАСТОПОЛЬ\",\n    \"КРАСНОСТОП\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОКУР",
+    "producer": "ДВА БРАТА",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ДВА БРАТА",
+      "ВИНОДЕЛЬНЯ",
+      "БРАТЫ-МЕТНИКОВЫ",
+      "EST 2020",
+      "КОКУР",
+      "2024",
+      "ГОРОД-ГЕРОЙ",
+      "СЕВАСТОПОЛЬ",
+      "КРАСНОСТОП"
+    ]
+  }
+}

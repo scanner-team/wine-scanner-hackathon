@@ -1,0 +1,21 @@
+{
+  "slug": "dacha-serdyuka-porechnoe-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 5.346538066864014,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дача Серлока\",\n  \"producer\": \"Долина Дона\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПОРЕЧНОЕ\",\n  \"raw_visible_text\": [\n    \"Утёк сажа\",\n    \"Вино без дикоксида соры\",\n    \"Дача Серлока\",\n    \"ПОРЕЧНОЕ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дача Серлока",
+    "producer": "Долина Дона",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПОРЕЧНОЕ",
+    "raw_visible_text": [
+      "Утёк сажа",
+      "Вино без дикоксида соры",
+      "Дача Серлока",
+      "ПОРЕЧНОЕ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

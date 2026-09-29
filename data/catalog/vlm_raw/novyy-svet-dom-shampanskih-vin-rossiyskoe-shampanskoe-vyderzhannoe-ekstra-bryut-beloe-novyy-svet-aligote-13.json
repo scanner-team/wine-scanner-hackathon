@@ -1,0 +1,25 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-vyderzhannoe-ekstra-bryut-beloe-novyy-svet-aligote-13",
+  "seconds": 8.909726858139038,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"ДОМ ШАМПАНСКИХ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": \"1878\",\n  \"grape\": \"АЛИГОТЕ\",\n  \"category\": \"ЭКСТРА БРЮТ\",\n  \"raw_visible_text\": [\n    \"КЛАССИЧЕСКИЙ МЕТОД\",\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"НОВЫЙ СВЯТЪ\",\n    \"ВЫДЕРЖАННОЕ\",\n    \"АЛИГОТЕ\",\n    \"ЭКСТРА БРЮТ\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "ДОМ ШАМПАНСКИХ ВИН",
+    "cuvee": null,
+    "vintage": "1878",
+    "grape": "АЛИГОТЕ",
+    "category": "ЭКСТРА БРЮТ",
+    "raw_visible_text": [
+      "КЛАССИЧЕСКИЙ МЕТОД",
+      "18",
+      "78",
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "НОВЫЙ СВЯТЪ",
+      "ВЫДЕРЖАННОЕ",
+      "АЛИГОТЕ",
+      "ЭКСТРА БРЮТ",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ"
+    ]
+  }
+}

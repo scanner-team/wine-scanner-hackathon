@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-vione-beloe-suhoe-128",
+  "seconds": 7.231247186660767,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"MBCXAKO\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2022\",\n  \"grape\": \"VIognier\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"ΒΗΘΟΔΕΑΡΗ\",\n    \"ΜΒΙΣΧΑΚΟ\",\n    \"1869\",\n    \"VIognier\",\n    \"2022\",\n    \"СУХОЕ\",\n    \"СЕРОЕ\",\n    \"ТИПА\",\n    \"АССОЦИАЦИЯ\",\n    \"Алкоголь 12,5% об.\",\n    \"Объем 0,75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "MBCXAKO",
+    "cuvee": "COLLECTION",
+    "vintage": "2022",
+    "grape": "VIognier",
+    "category": "null",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "ΒΗΘΟΔΕΑΡΗ",
+      "ΜΒΙΣΧΑΚΟ",
+      "1869",
+      "VIognier",
+      "2022",
+      "СУХОЕ",
+      "СЕРОЕ",
+      "ТИПА",
+      "АССОЦИАЦИЯ",
+      "Алкоголь 12,5% об.",
+      "Объем 0,75л"
+    ]
+  }
+}

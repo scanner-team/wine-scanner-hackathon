@@ -1,0 +1,19 @@
+{
+  "slug": "kuban-vino-aristov-rosso-polusladkoe-saperavi-krasnoe-13",
+  "seconds": 5.4667558670043945,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSSO\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"semi-dolce\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"ROSSO\",\n    \"semi-dolce\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSSO",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "semi-dolce",
+    "raw_visible_text": [
+      "ARISTOV",
+      "ROSSO",
+      "semi-dolce"
+    ]
+  }
+}

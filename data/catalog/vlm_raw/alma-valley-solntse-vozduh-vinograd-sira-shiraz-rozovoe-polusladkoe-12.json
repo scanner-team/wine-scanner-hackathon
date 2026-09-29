@@ -1,0 +1,19 @@
+{
+  "slug": "alma-valley-solntse-vozduh-vinograd-sira-shiraz-rozovoe-polusladkoe-12",
+  "seconds": 7.6974570751190186,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"розовое полусладкое вино\",\n  \"raw_visible_text\": [\n    \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n    \"РОЗОВОЕ ПОЛУСЛАДКОЕ ВИНО\",\n    \"РОССИЯ, КРЫМ 1 0,7 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "розовое полусладкое вино",
+    "raw_visible_text": [
+      "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+      "РОЗОВОЕ ПОЛУСЛАДКОЕ ВИНО",
+      "РОССИЯ, КРЫМ 1 0,7 л"
+    ]
+  }
+}

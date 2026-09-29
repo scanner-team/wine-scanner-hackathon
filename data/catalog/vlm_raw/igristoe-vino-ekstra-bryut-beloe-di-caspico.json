@@ -1,0 +1,20 @@
+{
+  "slug": "igristoe-vino-ekstra-bryut-beloe-di-caspico",
+  "seconds": 1.2613215446472168,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ITALIAN STYLE\",\n  \"raw_visible_text\": [\n    \"EXTRA BRUT\",\n    \"DI CASPICO\",\n    \"EXTRA BRUT\",\n    \"ITALIAN STYLE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ITALIAN STYLE",
+    "raw_visible_text": [
+      "EXTRA BRUT",
+      "DI CASPICO",
+      "EXTRA BRUT",
+      "ITALIAN STYLE"
+    ]
+  }
+}

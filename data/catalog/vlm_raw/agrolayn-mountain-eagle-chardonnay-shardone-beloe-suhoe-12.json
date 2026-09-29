@@ -1,0 +1,19 @@
+{
+  "slug": "agrolayn-mountain-eagle-chardonnay-shardone-beloe-suhoe-12",
+  "seconds": 4.96392297744751,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"MOUNTAIN EAGLE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN EAGLE\",\n    \"2023\",\n    \"CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "MOUNTAIN EAGLE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN EAGLE",
+      "2023",
+      "CHARDONNAY"
+    ]
+  }
+}

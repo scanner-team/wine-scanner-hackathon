@@ -1,0 +1,19 @@
+{
+  "slug": "shato-pino-agpoezdnik-beloe-shardone-suhoe-13",
+  "seconds": 4.929946184158325,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"A.G. Loezdnik\",\n  \"producer\": \"A.G. Loezdnik\",\n  \"cuvee\": \"Reserve\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"White Vintage\",\n  \"raw_visible_text\": [\n    \"A.G. Loezdnik\",\n    \"WHITE VINTAGE\",\n    \"RESERVE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "A.G. Loezdnik",
+    "producer": "A.G. Loezdnik",
+    "cuvee": "Reserve",
+    "vintage": null,
+    "grape": null,
+    "category": "White Vintage",
+    "raw_visible_text": [
+      "A.G. Loezdnik",
+      "WHITE VINTAGE",
+      "RESERVE"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-evropak-shiraz-krasnoe-polusladkoe-11",
+  "seconds": 5.814527988433838,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SHIRAZ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Red wine\",\n  \"raw_visible_text\": [\n    \"SHIRAZ\",\n    \"Red wine\",\n    \"11% vol / 1 Liter\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SHIRAZ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Red wine",
+    "raw_visible_text": [
+      "SHIRAZ",
+      "Red wine",
+      "11% vol / 1 Liter"
+    ]
+  }
+}

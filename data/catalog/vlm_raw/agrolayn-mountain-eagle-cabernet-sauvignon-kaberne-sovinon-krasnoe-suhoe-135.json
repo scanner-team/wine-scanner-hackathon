@@ -1,0 +1,20 @@
+{
+  "slug": "agrolayn-mountain-eagle-cabernet-sauvignon-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 5.460438013076782,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"MOUNTAIN EAGLE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN EAGLE\",\n    \"DAGSTAN WINE OF RUSSIA\",\n    \"2022\",\n    \"CABERNET SAUVIGNON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "MOUNTAIN EAGLE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN EAGLE",
+      "DAGSTAN WINE OF RUSSIA",
+      "2022",
+      "CABERNET SAUVIGNON"
+    ]
+  }
+}

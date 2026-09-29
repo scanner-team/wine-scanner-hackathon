@@ -1,0 +1,23 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-vyderzhannoe-polusladkoe-rozovoe-novyy-svet-shardone-125",
+  "seconds": 8.72738790512085,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Свет\",\n  \"producer\": \"Полусладкое Розовое\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": null,\n  \"category\": \"полусладкое розовое\",\n  \"raw_visible_text\": [\n    \"РОССИЙСКОЕ ШАМИЛАНСКОЕ СИЛЬНОКИНОЕ\",\n    \"1878\",\n    \"1878\",\n    \"Новый Свет\",\n    \"ПОЛУСЛАДКОЕ РОЗОВОЕ\",\n    \"Дол шампанских вин «Новый Свет»\",\n    \"основан в 1878 году князел Львон Голицкий\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Свет",
+    "producer": "Полусладкое Розовое",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": null,
+    "category": "полусладкое розовое",
+    "raw_visible_text": [
+      "РОССИЙСКОЕ ШАМИЛАНСКОЕ СИЛЬНОКИНОЕ",
+      "1878",
+      "1878",
+      "Новый Свет",
+      "ПОЛУСЛАДКОЕ РОЗОВОЕ",
+      "Дол шампанских вин «Новый Свет»",
+      "основан в 1878 году князел Львон Голицкий"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "nesterov-winery-risling-reynskiy-beloe-suhoe-12",
+  "seconds": 5.398444175720215,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ РЕЙНСКИЙ\",\n  \"producer\": \"NESTEROV WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"NESTEROV\",\n    \"WINERY\",\n    \"РИСЛИНГ РЕЙНСКИЙ\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ РЕЙНСКИЙ",
+    "producer": "NESTEROV WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНГ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "NESTEROV",
+      "WINERY",
+      "РИСЛИНГ РЕЙНСКИЙ",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

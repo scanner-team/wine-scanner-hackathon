@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-zelyonaya-dolina-kaberne-merlo-v-banke-kaberne-sovinon-krasnoe-polusladkoe-12",
+  "seconds": 9.983739137649536,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZELËNAYA DOLINA\",\n  \"producer\": \"ZELËNAYA DOLINA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET-MERLO\",\n  \"category\": \"SEMI-SWEET RED WINE\",\n  \"raw_visible_text\": [\n    \"GRAPES • HAND-PICKED GRAPES • HAND-PICKED GRAPE\",\n    \"ZELËNAYA\",\n    \"DOLINA\",\n    \"ЗЕЛЁНАЯ ДОЛИНА\",\n    \"CABERNET-MERLO\",\n    \"SEMI-SWEET RED WINE\",\n    \"ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО • ПОЛУСЛАДК\",\n    \"ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО • ПОЛУСЛАДК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZELËNAYA DOLINA",
+    "producer": "ZELËNAYA DOLINA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET-MERLO",
+    "category": "SEMI-SWEET RED WINE",
+    "raw_visible_text": [
+      "GRAPES • HAND-PICKED GRAPES • HAND-PICKED GRAPE",
+      "ZELËNAYA",
+      "DOLINA",
+      "ЗЕЛЁНАЯ ДОЛИНА",
+      "CABERNET-MERLO",
+      "SEMI-SWEET RED WINE",
+      "ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО • ПОЛУСЛАДК",
+      "ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО • ПОЛУСЛАДК"
+    ]
+  }
+}

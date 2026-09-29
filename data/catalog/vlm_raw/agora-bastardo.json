@@ -1,0 +1,22 @@
+{
+  "slug": "agora-bastardo",
+  "seconds": 7.368824005126953,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BASTARDO\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"RED DRY WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"BASTARDO\",\n    \"RED DRY WINE\",\n    \"БАСТАРДО • КРАСНОЕ СУХОЕ\",\n    \"СИДИМЕНДО В ДУБЕ • РУДНОЙ СБОР\",\n    \"3ТУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BASTARDO",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "RED DRY WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "BASTARDO",
+      "RED DRY WINE",
+      "БАСТАРДО • КРАСНОЕ СУХОЕ",
+      "СИДИМЕНДО В ДУБЕ • РУДНОЙ СБОР",
+      "3ТУ"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-byurne-merlo-krasnoe-suhoe-14",
+  "seconds": 5.653496026992798,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОРНЫЕ BURNIER\",\n  \"producer\": \"БОРНЫЕ BURNIER\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"МЕРЛО\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БОРНЫЕ\",\n    \"BURNIER\",\n    \"МЕРЛО\",\n    \"MERLOT\",\n    \"2019\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОРНЫЕ BURNIER",
+    "producer": "БОРНЫЕ BURNIER",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "МЕРЛО",
+    "category": null,
+    "raw_visible_text": [
+      "БОРНЫЕ",
+      "BURNIER",
+      "МЕРЛО",
+      "MERLOT",
+      "2019",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

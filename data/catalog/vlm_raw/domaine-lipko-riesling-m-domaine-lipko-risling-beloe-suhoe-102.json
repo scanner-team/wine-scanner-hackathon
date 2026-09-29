@@ -1,0 +1,24 @@
+{
+  "slug": "domaine-lipko-riesling-m-domaine-lipko-risling-beloe-suhoe-102",
+  "seconds": 5.679369926452637,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DOMAINE LIPKO\",\n  \"producer\": \"DOMAINE LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"RIESLING M\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"RIESLING M\",\n    \"20-\",\n    \"DOMAINE LIPKO\",\n    \"-17\",\n    \"FAMILY VINEYARDS & WINERY\",\n    \"SEVASTOPOL\",\n    \"12.2% vol.\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DOMAINE LIPKO",
+    "producer": "DOMAINE LIPKO",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "RIESLING M",
+    "category": "null",
+    "raw_visible_text": [
+      "RIESLING M",
+      "20-",
+      "DOMAINE LIPKO",
+      "-17",
+      "FAMILY VINEYARDS & WINERY",
+      "SEVASTOPOL",
+      "12.2% vol.",
+      "750ml"
+    ]
+  }
+}

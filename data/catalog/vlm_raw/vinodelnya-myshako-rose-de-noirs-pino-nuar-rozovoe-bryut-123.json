@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-rose-de-noirs-pino-nuar-rozovoe-bryut-123",
+  "seconds": 5.951935052871704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСХАКО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"1889\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"Rosé de Noirs\",\n  \"raw_visible_text\": [\n    \"1889\",\n    \"МЫСХАКО\",\n    \"BRUY STYLE\",\n    \"PINOT NOIR\",\n    \"ZINANDILE\",\n    \"ROSÉ DE NOIRS\",\n    \"MÉTHODE SAISONNI\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСХАКО",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "1889",
+    "grape": "Pinot Noir",
+    "category": "Rosé de Noirs",
+    "raw_visible_text": [
+      "1889",
+      "МЫСХАКО",
+      "BRUY STYLE",
+      "PINOT NOIR",
+      "ZINANDILE",
+      "ROSÉ DE NOIRS",
+      "MÉTHODE SAISONNI"
+    ]
+  }
+}

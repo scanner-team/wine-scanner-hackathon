@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-kaberne-sovinon-2020-krasnoe-suhoe",
+  "seconds": 1.5248725414276123,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Арамти\",\n  \"producer\": \"СОВЕТСКОЕ ВИНОДЕЛИЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"ЗТУ КУБАНЬ. АНАНА\",\n  \"raw_visible_text\": [\n    \"Арамти\",\n    \"СОВЕТСКОЕ ВИНОДЕЛИЕ\",\n    \"2020\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ЗТУ КУБАНЬ. АНАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Арамти",
+    "producer": "СОВЕТСКОЕ ВИНОДЕЛИЕ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "ЗТУ КУБАНЬ. АНАНА",
+    "raw_visible_text": [
+      "Арамти",
+      "СОВЕТСКОЕ ВИНОДЕЛИЕ",
+      "2020",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ЗТУ КУБАНЬ. АНАНА"
+    ]
+  }
+}

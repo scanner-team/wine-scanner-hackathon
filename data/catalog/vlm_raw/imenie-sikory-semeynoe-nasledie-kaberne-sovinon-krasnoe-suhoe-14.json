@@ -1,0 +1,20 @@
+{
+  "slug": "imenie-sikory-semeynoe-nasledie-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 13.01561689376831,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Семигорье\",\n  \"producer\": \"SIMORY\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"СЕМИГОРЬЕ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SIMORY\",\n    \"Семигорье\",\n    \"СЕМИГОРЬЕ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Семигорье",
+    "producer": "SIMORY",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "СЕМИГОРЬЕ",
+    "category": null,
+    "raw_visible_text": [
+      "SIMORY",
+      "Семигорье",
+      "СЕМИГОРЬЕ",
+      "2020"
+    ]
+  }
+}

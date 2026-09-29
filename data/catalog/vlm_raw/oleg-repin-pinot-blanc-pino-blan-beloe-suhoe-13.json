@@ -1,0 +1,20 @@
+{
+  "slug": "oleg-repin-pinot-blanc-pino-blan-beloe-suhoe-13",
+  "seconds": 5.159359931945801,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Oleg Repin\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": \"PINOT BLANC\",\n  \"category\": \"SEVASTOPOL\",\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"PINOT BLANC\",\n    \"SEVASTOPOL\",\n    \"001318\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Oleg Repin",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": "PINOT BLANC",
+    "category": "SEVASTOPOL",
+    "raw_visible_text": [
+      "Oleg Repin",
+      "PINOT BLANC",
+      "SEVASTOPOL",
+      "001318"
+    ]
+  }
+}

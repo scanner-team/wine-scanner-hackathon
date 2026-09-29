@@ -1,0 +1,22 @@
+{
+  "slug": "zhemchuzhnaya-9-czitron-shardone",
+  "seconds": 1.3072655200958252,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АЛИГОТЕ\",\n  \"producer\": \"АРПТИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ЦИТРОН\",\n  \"category\": \"БЕЛЕСЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ЖЕМЧУЖНАЯ\",\n    \"АРПТИ\",\n    \"АЛИГОТЕ\",\n    \"ЦИТРОН\",\n    \"БЕЛЕСЕ СУХОЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АЛИГОТЕ",
+    "producer": "АРПТИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ЦИТРОН",
+    "category": "БЕЛЕСЕ СУХОЕ",
+    "raw_visible_text": [
+      "ЖЕМЧУЖНАЯ",
+      "АРПТИ",
+      "АЛИГОТЕ",
+      "ЦИТРОН",
+      "БЕЛЕСЕ СУХОЕ",
+      "2024"
+    ]
+  }
+}

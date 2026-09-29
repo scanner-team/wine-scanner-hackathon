@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-perovskih-kaberne-sovinon-merlo-1890-krasnoe-suhoe-13",
+  "seconds": 6.335123777389526,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"1890\",\n  \"producer\": \"УСАДЬБА ПЕРОВСКИХ\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН И МЕРЛО\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА ПЕРОВСКИХ\",\n    \"1890\",\n    \"КАБЕРНЕ СОВИНЬОН И МЕРЛО\",\n    \"2015\",\n    \"11% об\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "1890",
+    "producer": "УСАДЬБА ПЕРОВСКИХ",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": "КАБЕРНЕ СОВИНЬОН И МЕРЛО",
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА ПЕРОВСКИХ",
+      "1890",
+      "КАБЕРНЕ СОВИНЬОН И МЕРЛО",
+      "2015",
+      "11% об"
+    ]
+  }
+}

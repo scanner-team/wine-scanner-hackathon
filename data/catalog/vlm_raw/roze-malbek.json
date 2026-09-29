@@ -1,0 +1,22 @@
+{
+  "slug": "roze-malbek",
+  "seconds": 1.2506141662597656,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEFKADIA\",\n  \"producer\": \"LEFKADIA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"MALBEC\",\n  \"category\": \"Rose\",\n  \"raw_visible_text\": [\n    \"LEFKADIA\",\n    \"MALBEC ROSE\",\n    \"2023\",\n    \"GROWN & BOTTLED IN\",\n    \"LEFKADIA VALLEY\",\n    \"NORTH CAUCASUS, RUSSIA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEFKADIA",
+    "producer": "LEFKADIA WINERY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "MALBEC",
+    "category": "Rose",
+    "raw_visible_text": [
+      "LEFKADIA",
+      "MALBEC ROSE",
+      "2023",
+      "GROWN & BOTTLED IN",
+      "LEFKADIA VALLEY",
+      "NORTH CAUCASUS, RUSSIA"
+    ]
+  }
+}

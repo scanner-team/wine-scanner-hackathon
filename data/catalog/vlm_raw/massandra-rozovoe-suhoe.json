@@ -1,0 +1,23 @@
+{
+  "slug": "massandra-rozovoe-suhoe",
+  "seconds": 1.2941625118255615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"Вино России\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Розовое\",\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"ВИНО РОССИИ\",\n    \"СУХОЕ\",\n    \"РОЗОВОЕ\",\n    \"2022\",\n    \"0.75л\",\n    \"Специальное вино\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "Вино России",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Розовое",
+    "category": "сухое",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "ВИНО РОССИИ",
+      "СУХОЕ",
+      "РОЗОВОЕ",
+      "2022",
+      "0.75л",
+      "Специальное вино"
+    ]
+  }
+}

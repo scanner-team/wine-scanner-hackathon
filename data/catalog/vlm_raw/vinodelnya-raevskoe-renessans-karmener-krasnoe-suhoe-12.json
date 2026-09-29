@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-karmener-krasnoe-suhoe-12",
+  "seconds": 13.34158730506897,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CARMENERE\",\n  \"producer\": \"RENAISSANCE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"CARMENERE\",\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"PAREVSKOE\",\n    \"2023\",\n    \"CARMENERE\",\n    \"KUBAN\",\n    \"DRY RED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CARMENERE",
+    "producer": "RENAISSANCE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "CARMENERE",
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "PAREVSKOE",
+      "2023",
+      "CARMENERE",
+      "KUBAN",
+      "DRY RED"
+    ]
+  }
+}

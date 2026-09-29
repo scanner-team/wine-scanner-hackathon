@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-tangovoe-manto-pino-nuar-krasnoe-suhoe-13",
+  "seconds": 5.403582811355591,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАНГО\",\n  \"producer\": \"ПУЛУЧОК\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"ПИНУ НУАР\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПУЛУЧОК\",\n    \"ТАНГО\",\n    \"МАНТО\",\n    \"2021\",\n    \"ПИНУ НУАР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАНГО",
+    "producer": "ПУЛУЧОК",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "ПИНУ НУАР",
+    "category": null,
+    "raw_visible_text": [
+      "ПУЛУЧОК",
+      "ТАНГО",
+      "МАНТО",
+      "2021",
+      "ПИНУ НУАР"
+    ]
+  }
+}

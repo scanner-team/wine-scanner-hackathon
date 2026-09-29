@@ -1,0 +1,21 @@
+{
+  "slug": "esse-kaberne-otbornoe-kaberne-sovinon-krasnoe-suhoe-12",
+  "seconds": 5.563568830490112,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Каберне Отборное\",\n  \"category\": \"КРАМ\",\n  \"raw_visible_text\": [\n    \"esse\",\n    \"КАБЕРНЕ ОТБОРНОЕ\",\n    \"УРОЖАЙ 2021 ГОДА\",\n    \"КОЛЛИНГЕР ВЕРХ ЗАНА\",\n    \"КРАМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Каберне Отборное",
+    "category": "КРАМ",
+    "raw_visible_text": [
+      "esse",
+      "КАБЕРНЕ ОТБОРНОЕ",
+      "УРОЖАЙ 2021 ГОДА",
+      "КОЛЛИНГЕР ВЕРХ ЗАНА",
+      "КРАМ"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-valley-riesling-risling-reynskiy-beloe-suhoe-11",
+  "seconds": 7.813956022262573,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM VALLEY\",\n  \"producer\": \"ADAGUM VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": \"СУХОВ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ADAGUM\",\n    \"VALLEY\",\n    \"RIESLING\",\n    \"since 1901\",\n    \"ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«АДАГУМ»\",\n    \"2020\",\n    \"СУХОВ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM VALLEY",
+    "producer": "ADAGUM VALLEY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": "СУХОВ БЕЛОЕ",
+    "raw_visible_text": [
+      "ADAGUM",
+      "VALLEY",
+      "RIESLING",
+      "since 1901",
+      "ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«АДАГУМ»",
+      "2020",
+      "СУХОВ БЕЛОЕ"
+    ]
+  }
+}

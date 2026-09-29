@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-zhakov-fresherst-saperavi-krasnoe-suhoe-118",
+  "seconds": 5.403192043304443,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Фрешерство\",\n  \"producer\": \"Жась\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"Жась\",\n    \"Фрешерство\",\n    \"гл-гл • лозы 10+\",\n    \"красное сухое\",\n    \"вино\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Фрешерство",
+    "producer": "Жась",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "Жась",
+      "Фрешерство",
+      "гл-гл • лозы 10+",
+      "красное сухое",
+      "вино",
+      "2022"
+    ]
+  }
+}

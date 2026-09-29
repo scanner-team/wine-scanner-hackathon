@@ -1,0 +1,21 @@
+{
+  "slug": "andryus-yutsis-risling-beloe-suhoe-12",
+  "seconds": 4.72662091255188,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryus Vatu's\",\n  \"producer\": \"Cremnich\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"Pacient\",\n  \"raw_visible_text\": [\n    \"Andryus\",\n    \"Vatu's\",\n    \"Cremnich\",\n    \"2023\",\n    \"Pacient\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryus Vatu's",
+    "producer": "Cremnich",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "Pacient",
+    "raw_visible_text": [
+      "Andryus",
+      "Vatu's",
+      "Cremnich",
+      "2023",
+      "Pacient"
+    ]
+  }
+}

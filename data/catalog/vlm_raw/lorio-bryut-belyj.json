@@ -1,0 +1,21 @@
+{
+  "slug": "lorio-bryut-belyj",
+  "seconds": 1.2571213245391846,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛОРIO\",\n  \"producer\": \"LORIOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"игристое классическое\",\n  \"raw_visible_text\": [\n    \"ИГРИСТОЕ КЛАССИЧЕСКОЕ\",\n    \"ЛОРIO\",\n    \"БЕЛОЕ ИЗ БЕЛОГО\",\n    \"2023\",\n    \"LORIOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛОРIO",
+    "producer": "LORIOT",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "игристое классическое",
+    "raw_visible_text": [
+      "ИГРИСТОЕ КЛАССИЧЕСКОЕ",
+      "ЛОРIO",
+      "БЕЛОЕ ИЗ БЕЛОГО",
+      "2023",
+      "LORIOT"
+    ]
+  }
+}

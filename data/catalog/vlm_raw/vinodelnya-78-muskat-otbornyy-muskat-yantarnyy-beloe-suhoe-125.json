@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-78-muskat-otbornyy-muskat-yantarnyy-beloe-suhoe-125",
+  "seconds": 5.107399940490723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИНОДЕЛЬНЯ №78\",\n  \"producer\": \"Мужат Отборный\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"річний вів\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ №78\",\n    \"Мужат Отборный\",\n    \"річний вів\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИНОДЕЛЬНЯ №78",
+    "producer": "Мужат Отборный",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "річний вів",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ №78",
+      "Мужат Отборный",
+      "річний вів"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-brut-muskat-muskat-belyy-beloe-bryut-12",
+  "seconds": 5.704448938369751,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BUDDEAARS MUSCATO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": \"MUSCAT\",\n  \"category\": \"BRUT WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BUDDEAARS\",\n    \"1869\",\n    \"MUSCATO\",\n    \"MUSCAT\",\n    \"BRUT WHITE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BUDDEAARS MUSCATO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": "MUSCAT",
+    "category": "BRUT WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BUDDEAARS",
+      "1869",
+      "MUSCATO",
+      "MUSCAT",
+      "BRUT WHITE"
+    ]
+  }
+}

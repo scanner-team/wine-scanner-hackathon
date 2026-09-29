@@ -1,0 +1,21 @@
+{
+  "slug": "derbent-vino-endemy-risling-beloe-bryut-105-125",
+  "seconds": 10.961401224136353,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЕЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЕЫ\",\n    \"ДЕРБЕНТ ВИНО\",\n    \"РИСЛИНГ\",\n    \"БРЮТ\",\n    \"Вино изысканное, брют\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЕЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНГ",
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "ЭНДЕМЕЫ",
+      "ДЕРБЕНТ ВИНО",
+      "РИСЛИНГ",
+      "БРЮТ",
+      "Вино изысканное, брют"
+    ]
+  }
+}

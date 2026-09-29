@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-igristoe-vino-vyderzhannoe-bryut-rozovoe-novyy-svet-pino-fran-135",
+  "seconds": 8.474320888519287,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пино-Грань\",\n  \"producer\": \"Князь Лев Голицын\",\n  \"cuvee\": null,\n  \"vintage\": \"2016\",\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ИГРИСТОЕ ВИНО ВЫДЕРЖАННОЕ\",\n    \"1878\",\n    \"1878\",\n    \"Новый Свет\",\n    \"Пино-Грань\",\n    \"БРИЮТ РОЗОВОЕ\",\n    \"Дом шаштанских вин «Новый Свет»\",\n    \"основан в 1878 году князел Львов Голицын\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пино-Грань",
+    "producer": "Князь Лев Голицын",
+    "cuvee": null,
+    "vintage": "2016",
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ИГРИСТОЕ ВИНО ВЫДЕРЖАННОЕ",
+      "1878",
+      "1878",
+      "Новый Свет",
+      "Пино-Грань",
+      "БРИЮТ РОЗОВОЕ",
+      "Дом шаштанских вин «Новый Свет»",
+      "основан в 1878 году князел Львов Голицын"
+    ]
+  }
+}

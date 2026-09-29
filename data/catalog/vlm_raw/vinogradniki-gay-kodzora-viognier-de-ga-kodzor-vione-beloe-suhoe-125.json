@@ -1,0 +1,22 @@
+{
+  "slug": "vinogradniki-gay-kodzora-viognier-de-ga-kodzor-vione-beloe-suhoe-125",
+  "seconds": 5.947644948959351,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GAÏ-KODZOR\",\n  \"producer\": \"BIBLIOTHEQUE FAB ALEXANDRA\",\n  \"cuvee\": \"Viegnier\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"PRODUCT OF RUSSIA\",\n  \"raw_visible_text\": [\n    \"Viegnier\",\n    \"GAÏ-KODZOR\",\n    \"750 ml\",\n    \"BIBLIOTHEQUE FAB ALEXANDRA\",\n    \"PRODUCT OF RUSSIA\",\n    \"Alc 13% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GAÏ-KODZOR",
+    "producer": "BIBLIOTHEQUE FAB ALEXANDRA",
+    "cuvee": "Viegnier",
+    "vintage": null,
+    "grape": null,
+    "category": "PRODUCT OF RUSSIA",
+    "raw_visible_text": [
+      "Viegnier",
+      "GAÏ-KODZOR",
+      "750 ml",
+      "BIBLIOTHEQUE FAB ALEXANDRA",
+      "PRODUCT OF RUSSIA",
+      "Alc 13% vol"
+    ]
+  }
+}

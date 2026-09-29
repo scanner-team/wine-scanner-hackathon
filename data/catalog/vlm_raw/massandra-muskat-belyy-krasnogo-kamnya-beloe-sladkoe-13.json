@@ -1,0 +1,20 @@
+{
+  "slug": "massandra-muskat-belyy-krasnogo-kamnya-beloe-sladkoe-13",
+  "seconds": 5.360048770904541,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"МУСКАТ БЕЛЫЙ КРАСНОГО КАМНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"1894\",\n  \"grape\": null,\n  \"category\": \"ГОД УРОЖАЯ\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"1894\",\n    \"МУСКАТ БЕЛЫЙ КРАСНОГО КАМНЯ\",\n    \"ГОД УРОЖАЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "МУСКАТ БЕЛЫЙ КРАСНОГО КАМНЯ",
+    "cuvee": null,
+    "vintage": "1894",
+    "grape": null,
+    "category": "ГОД УРОЖАЯ",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "1894",
+      "МУСКАТ БЕЛЫЙ КРАСНОГО КАМНЯ",
+      "ГОД УРОЖАЯ"
+    ]
+  }
+}

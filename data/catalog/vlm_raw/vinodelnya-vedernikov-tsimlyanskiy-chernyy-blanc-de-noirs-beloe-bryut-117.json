@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-vedernikov-tsimlyanskiy-chernyy-blanc-de-noirs-beloe-bryut-117",
+  "seconds": 8.200525045394897,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКИЙ ЧЕРНЫЙ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"РЕЗЕРВ\",\n    \"ЦИМЛЯНСКИЙ\",\n    \"ЧЕРНЫЙ\",\n    \"БРЮТ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКИЙ ЧЕРНЫЙ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": null,
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "ВЕДЕРНИКОВЪ",
+      "РЕЗЕРВ",
+      "ЦИМЛЯНСКИЙ",
+      "ЧЕРНЫЙ",
+      "БРЮТ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

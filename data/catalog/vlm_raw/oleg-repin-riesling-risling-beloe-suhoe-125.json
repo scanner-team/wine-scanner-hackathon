@@ -1,0 +1,20 @@
+{
+  "slug": "oleg-repin-riesling-risling-beloe-suhoe-125",
+  "seconds": 4.585449934005737,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Riesling\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Riesling\",\n  \"category\": \"Sevastopol\",\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"2021\",\n    \"RIESLING\",\n    \"SEVASTOPOL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Riesling",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Riesling",
+    "category": "Sevastopol",
+    "raw_visible_text": [
+      "Oleg Repin",
+      "2021",
+      "RIESLING",
+      "SEVASTOPOL"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "dubinin-winery-saperavi-fresh-krasnoe-suhoe-135",
+  "seconds": 5.720889091491699,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Саперави Фреш\",\n  \"producer\": \"DUBININ WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Саперави\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"DW\",\n    \"DUBININ\",\n    \"WINERY\",\n    \"Саперави\",\n    \"Фреш\",\n    \"Вино сухое красное\",\n    \"0017 / 700\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Саперави Фреш",
+    "producer": "DUBININ WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Саперави",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "DW",
+      "DUBININ",
+      "WINERY",
+      "Саперави",
+      "Фреш",
+      "Вино сухое красное",
+      "0017 / 700"
+    ]
+  }
+}

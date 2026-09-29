@@ -1,0 +1,24 @@
+{
+  "slug": "fanagoriya-solera-porto-negro-saperavi-krasnoe-suhoe-15",
+  "seconds": 7.070135116577148,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Solera\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": null,\n  \"category\": \"PORTO NEGRO\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"NOBLESSE OBLIGE\",\n    \"Solera\",\n    \"PORTO NEGRO\",\n    \"выдержано в дубе\",\n    \"ЗГУ\",\n    \"РОССИЯ\",\n    \"2017\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Solera",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": null,
+    "category": "PORTO NEGRO",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "NOBLESSE OBLIGE",
+      "Solera",
+      "PORTO NEGRO",
+      "выдержано в дубе",
+      "ЗГУ",
+      "РОССИЯ",
+      "2017"
+    ]
+  }
+}

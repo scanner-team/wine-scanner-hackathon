@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-belyy-blend-risling-beloe-suhoe-121",
+  "seconds": 5.587358236312866,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RENAISSANCE\",\n  \"producer\": \"RABVSKOE\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"DRY WHITE\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"RABVSKOE\",\n    \"2021\",\n    \"WHITE BLEND\",\n    \"AN NOVOROSS\",\n    \"DRY WHITE\",\n    \"15\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RENAISSANCE",
+    "producer": "RABVSKOE",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "DRY WHITE",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "RABVSKOE",
+      "2021",
+      "WHITE BLEND",
+      "AN NOVOROSS",
+      "DRY WHITE",
+      "15"
+    ]
+  }
+}

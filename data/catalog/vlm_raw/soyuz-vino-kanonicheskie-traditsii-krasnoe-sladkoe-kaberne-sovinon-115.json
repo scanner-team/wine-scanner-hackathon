@@ -1,0 +1,22 @@
+{
+  "slug": "soyuz-vino-kanonicheskie-traditsii-krasnoe-sladkoe-kaberne-sovinon-115",
+  "seconds": 6.5282979011535645,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОЕ\",\n  \"producer\": \"КАНОНУЧЕСКИЕ ТРАДИЦИИ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"СЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"КАНОНУЧЕСКИЕ\",\n    \"ТРАДИЦИИ\",\n    \"ВИНО СТОЛОВОЕ\",\n    \"КРАСНОЕ\",\n    \"СЛАДКОЕ\",\n    \"ДЛЯ АНГЛИЙСКИХ И ПЕРВЫХ СЕРВИСНЫХ ТРАДИЦИЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОЕ",
+    "producer": "КАНОНУЧЕСКИЕ ТРАДИЦИИ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "СЛАДКОЕ",
+    "raw_visible_text": [
+      "КАНОНУЧЕСКИЕ",
+      "ТРАДИЦИИ",
+      "ВИНО СТОЛОВОЕ",
+      "КРАСНОЕ",
+      "СЛАДКОЕ",
+      "ДЛЯ АНГЛИЙСКИХ И ПЕРВЫХ СЕРВИСНЫХ ТРАДИЦИЙ"
+    ]
+  }
+}

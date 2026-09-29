@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-marchenko-svezhiy-veter-mtsvane-mtsvane-kahetinskiy-beloe-suhoe-135",
+  "seconds": 5.022923946380615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СВЕЖИЙ ВЕТЕР\",\n  \"producer\": \"МАРЧЕНКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СВЕЖИЙ ВЕТЕР\",\n    \"МІЛВАНЕ\",\n    \"2023\",\n    \"МАРЧЕНКО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СВЕЖИЙ ВЕТЕР",
+    "producer": "МАРЧЕНКО",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СВЕЖИЙ ВЕТЕР",
+      "МІЛВАНЕ",
+      "2023",
+      "МАРЧЕНКО"
+    ]
+  }
+}

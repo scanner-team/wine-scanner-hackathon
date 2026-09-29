@@ -1,0 +1,23 @@
+{
+  "slug": "chteau-le-grand-vostock-cadet-karsov-shardone-beloe-suhoe-135",
+  "seconds": 11.501989126205444,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CADET KARSOV\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"blanc\",\n  \"raw_visible_text\": [\n    \"Château\",\n    \"LE GRAND VOSTOCK\",\n    \"CADET\",\n    \"KARSOV\",\n    \"blanc\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КОЗЬМЫ»\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИЦЕЛЯ РОГАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CADET KARSOV",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "blanc",
+    "raw_visible_text": [
+      "Château",
+      "LE GRAND VOSTOCK",
+      "CADET",
+      "KARSOV",
+      "blanc",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КОЗЬМЫ»",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИЦЕЛЯ РОГАНА"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "zmv-koktebel-portveyn-krasnoe-kreplyonoe-kaberne-sovinon-sladkoe-17",
+  "seconds": 11.998574018478394,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"1879\",\n  \"producer\": \"КОКТЕБЕЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"1879\",\n  \"grape\": null,\n  \"category\": \"красный\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНЫХ ВИН\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"1879\",\n    \"портВейн\",\n    \"красный\",\n    \"0,75л\",\n    \"17,5%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "1879",
+    "producer": "КОКТЕБЕЛЬ",
+    "cuvee": null,
+    "vintage": "1879",
+    "grape": null,
+    "category": "красный",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНЫХ ВИН",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "1879",
+      "портВейн",
+      "красный",
+      "0,75л",
+      "17,5%"
+    ]
+  }
+}

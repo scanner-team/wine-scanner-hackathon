@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-myshako-marselan-mode-appassimento-krasnoe-suhoe-146",
+  "seconds": 6.411368131637573,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MODE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"MARSÉLAN\",\n  \"category\": \"dry red\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕВАЛЯ\",\n    \"MODE\",\n    \"Аббассименто 2021\",\n    \"MARSÉLAN\",\n    \"DRY RED\",\n    \"63 000 BOTTLES\",\n    \"Alc. 14,4% vol. 0,75 L\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MODE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "MARSÉLAN",
+    "category": "dry red",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕВАЛЯ",
+      "MODE",
+      "Аббассименто 2021",
+      "MARSÉLAN",
+      "DRY RED",
+      "63 000 BOTTLES",
+      "Alc. 14,4% vol. 0,75 L"
+    ]
+  }
+}

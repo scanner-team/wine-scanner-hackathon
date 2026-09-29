@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-fanagoriya-bryut-beloe-sovinon-blan-igristoe-bryut-beloe-11-13",
+  "seconds": 13.2411630153656,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"BRUT\",\n    \"MÉTHODE CHARMAT\",\n    \"2021\",\n    \"ЗГУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "BRUT",
+      "MÉTHODE CHARMAT",
+      "2021",
+      "ЗГУ"
+    ]
+  }
+}

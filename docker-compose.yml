@@ -1,0 +1,73 @@
+# Два сервиса в разных контейнерах: winescanner (torch 2.5.1) и vLLM
+# (несовместимая версия torch) не ставятся в одно Python-окружение.
+# Запуск — одной командой `docker compose up`.
+
+services:
+  vllm:
+    image: vllm/vllm-openai:v0.30.0
+    command:
+      - --model
+      - Qwen/Qwen3-VL-4B-Instruct
+      - --dtype
+      - bfloat16
+      - --max-model-len
+      - "8192"
+      - --gpu-memory-utilization
+      - "0.65"
+      - --port
+      - "8000"
+      - --trust-remote-code
+      # --enforce-eager отключает JIT-компиляцию движка (torch.compile) —
+      # предсказуемый старт за ~100с без прогрева кэша. Подробнее —
+      # docs/DEPLOYMENT.md.
+      - --enforce-eager
+    ports:
+      - "8000:8000"
+    # Общее IPC-пространство с хостом — рекомендуемая vLLM настройка для
+    # обмена тензорами между процессами APIServer/EngineCore.
+    ipc: host
+    volumes:
+      - hf-cache:/root/.cache/huggingface
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    # start_period покрывает ~100с старта (загрузка весов + прогрев).
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 180s
+    restart: unless-stopped
+
+  winescanner:
+    build: .
+    depends_on:
+      vllm:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      # Перекрывает WINESCANNER_VLLM_URL из .env — внутри compose-сети
+      # сервисы обращаются друг к другу по имени сервиса, не localhost.
+      WINESCANNER_VLLM_URL: http://vllm:8000/v1/chat/completions
+    ports:
+      - "8080:8080"
+    volumes:
+      - hf-cache:/root/.cache/huggingface
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+
+volumes:
+  # Общий кэш весов Hugging Face — чтобы не скачивать модели повторно.
+  hf-cache:

@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-rislaner-beloe-polusladkoe-125",
+  "seconds": 6.932819843292236,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RIESLANER\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"2022\",\n    \"RIESLANER\",\n    \"БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО\",\n    \"КРЫМ | РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RIESLANER",
+    "producer": "ALMA VALLEY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "2022",
+      "RIESLANER",
+      "БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО",
+      "КРЫМ | РОССИЯ"
+    ]
+  }
+}

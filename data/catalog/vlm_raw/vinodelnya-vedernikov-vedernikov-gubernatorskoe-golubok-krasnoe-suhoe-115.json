@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-gubernatorskoe-golubok-krasnoe-suhoe-115",
+  "seconds": 6.692600250244141,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СОВИНЬОН\",\n  \"category\": \"ДОБНА ДОНА\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"СОВИНЬОН\",\n    \"ДОБНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СОВИНЬОН",
+    "category": "ДОБНА ДОНА",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "СОВИНЬОН",
+      "ДОБНА ДОНА"
+    ]
+  }
+}

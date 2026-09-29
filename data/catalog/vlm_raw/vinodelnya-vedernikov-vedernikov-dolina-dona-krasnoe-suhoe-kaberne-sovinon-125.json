@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-dolina-dona-krasnoe-suhoe-kaberne-sovinon-125",
+  "seconds": 8.317360877990723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЬ\",\n  \"producer\": \"ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"краснотел золотовской\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЬ\",\n    \"ВИНОДЕЛИЕ С 1786\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ЦУКЕВСКИЙ ЧЕРНЫЙ\",\n    \"КРАСНОСТОЛ ЗОЛОТОВСКИЙ\",\n    \"ДОЛЖНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЬ",
+    "producer": "ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": "краснотел золотовской",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЬ",
+      "ВИНОДЕЛИЕ С 1786",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ЦУКЕВСКИЙ ЧЕРНЫЙ",
+      "КРАСНОСТОЛ ЗОЛОТОВСКИЙ",
+      "ДОЛЖНА ДОНА"
+    ]
+  }
+}

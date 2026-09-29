@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-shary-kolduna-kirpichi-prileteli-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 6.20867395401001,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРД КОЛДУДА\",\n  \"producer\": \"ШАРД КОЛДУДА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"кирпичи прътетен\",\n  \"raw_visible_text\": [\n    \"ШАРД КОЛДУДА\",\n    \"ПИЛС КОЛДУДА\",\n    \"31У\",\n    \"2021\",\n    \"КИРПИЧИ ПРЪТЕТЕН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРД КОЛДУДА",
+    "producer": "ШАРД КОЛДУДА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "кирпичи прътетен",
+    "raw_visible_text": [
+      "ШАРД КОЛДУДА",
+      "ПИЛС КОЛДУДА",
+      "31У",
+      "2021",
+      "КИРПИЧИ ПРЪТЕТЕН"
+    ]
+  }
+}

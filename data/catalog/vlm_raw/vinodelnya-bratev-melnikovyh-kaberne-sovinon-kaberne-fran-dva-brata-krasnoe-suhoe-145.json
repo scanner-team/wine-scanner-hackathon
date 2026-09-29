@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-bratev-melnikovyh-kaberne-sovinon-kaberne-fran-dva-brata-krasnoe-suhoe-145",
+  "seconds": 6.026395320892334,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET\",\n  \"producer\": \"ДВА БРATA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"FRANC\",\n  \"raw_visible_text\": [\n    \"ДВА БРATA\",\n    \"віноградник\",\n    \"відкрито міжнародний\",\n    \"EST. 2020\",\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"FRANC\",\n    \"SEVASTOPOL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET",
+    "producer": "ДВА БРATA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": "FRANC",
+    "raw_visible_text": [
+      "ДВА БРATA",
+      "віноградник",
+      "відкрито міжнародний",
+      "EST. 2020",
+      "CABERNET",
+      "SAUVIGNON",
+      "FRANC",
+      "SEVASTOPOL"
+    ]
+  }
+}

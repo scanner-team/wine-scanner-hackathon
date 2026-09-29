@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-shato-belbek-kaberne-kaberne-sovinon-krasnoe-suhoe-11",
+  "seconds": 8.093563795089722,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Chateau BELBEC\",\n  \"producer\": \"Chateau BELBEC\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне\",\n  \"category\": \"КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"Chateau\",\n    \"BELBEC\",\n    \"Каберне\",\n    \"ВИНО СУХОЕ\",\n    \"КРАСНОЕ\",\n    \"ПРОИЗВЕДЕНО В ЛУЧШИХ ТРАДИЦИЯХ\",\n    \"КРЫМСКИХ ВИНОДЕЛОВ\",\n    \"Алк. 10-12% об.\",\n    \"0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Chateau BELBEC",
+    "producer": "Chateau BELBEC",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне",
+    "category": "КРАСНОЕ",
+    "raw_visible_text": [
+      "Chateau",
+      "BELBEC",
+      "Каберне",
+      "ВИНО СУХОЕ",
+      "КРАСНОЕ",
+      "ПРОИЗВЕДЕНО В ЛУЧШИХ ТРАДИЦИЯХ",
+      "КРЫМСКИХ ВИНОДЕЛОВ",
+      "Алк. 10-12% об.",
+      "0,75 л"
+    ]
+  }
+}

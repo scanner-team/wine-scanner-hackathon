@@ -1,0 +1,23 @@
+{
+  "slug": "sober-bash-dve-doliny-tsimlyanskiy-2023-tsimlyanskiy-chernyy-krasnoe-suhoe-13",
+  "seconds": 6.436337232589722,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЯНСКИЙ\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": \"ДВЕ ДОЛИНЫ\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ДВЕ ДОЛИНЫ\",\n    \"ЦИМЯНСКИЙ\",\n    \"2023\",\n    \"Российское вино с защищенным\",\n    \"географическим указанием\",\n    \"Мубань\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЯНСКИЙ",
+    "producer": "СОБЕР БАШ",
+    "cuvee": "ДВЕ ДОЛИНЫ",
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ДВЕ ДОЛИНЫ",
+      "ЦИМЯНСКИЙ",
+      "2023",
+      "Российское вино с защищенным",
+      "географическим указанием",
+      "Мубань"
+    ]
+  }
+}

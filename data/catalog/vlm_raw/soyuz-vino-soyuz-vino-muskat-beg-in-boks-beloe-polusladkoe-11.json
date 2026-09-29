@@ -1,0 +1,21 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-muskat-beg-in-boks-beloe-polusladkoe-11",
+  "seconds": 4.717999219894409,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мускат\",\n  \"producer\": \"SOYUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мускат\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"Мускат\",\n    \"SOYUZ VINO\",\n    \"Вино сухое белое, напоминающее вино\",\n    \"5\",\n    \"SOYUZ VINO\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мускат",
+    "producer": "SOYUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мускат",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "Мускат",
+      "SOYUZ VINO",
+      "Вино сухое белое, напоминающее вино",
+      "5",
+      "SOYUZ VINO"
+    ]
+  }
+}

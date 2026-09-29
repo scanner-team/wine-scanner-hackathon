@@ -1,0 +1,22 @@
+{
+  "slug": "ferrum-winery-riesling-risling-reynskiy-beloe-suhoe-11",
+  "seconds": 5.198060035705566,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Fe 26\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": \"26\",\n  \"vintage\": \"2023\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"FERRUM WINERY\",\n    \"Fe 26\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"RIESLING\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Fe 26",
+    "producer": "FERRUM WINERY",
+    "cuvee": "26",
+    "vintage": "2023",
+    "grape": "RIESLING",
+    "category": "null",
+    "raw_visible_text": [
+      "FERRUM WINERY",
+      "Fe 26",
+      "FERRUM",
+      "PYATIGORSK",
+      "RIESLING",
+      "2023"
+    ]
+  }
+}

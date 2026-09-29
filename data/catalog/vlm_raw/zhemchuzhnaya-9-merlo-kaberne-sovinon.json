@@ -1,0 +1,20 @@
+{
+  "slug": "zhemchuzhnaya-9-merlo-kaberne-sovinon",
+  "seconds": 11.308279037475586,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"Семейная винарная курьера\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНАРНАЯ КУРЬЕРА\",\n    \"АРАТТИ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "Семейная винарная курьера",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": null,
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНАРНАЯ КУРЬЕРА",
+      "АРАТТИ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "avtohtonnoe-vino-kryma-beloe-suhoe",
+  "seconds": 1.9704883098602295,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VALERY ZAHARIN\",\n  \"producer\": \"VALERY ZAHARIN\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"АЛИГОТЕ\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"VALERY ZAHARIN®\",\n    \"АВТОТНОЕ ВИНО КРЫМА\",\n    \"АВТОРСКИЙ КУПАЖ\",\n    \"АЛИГОТЕ\",\n    \"КОКУР\",\n    \"САРЫ ПАНДАС\",\n    \"2021\",\n    \"РУЧНОЙ СВОР\",\n    \"ОГРАНИЧЕННАЯ\",\n    \"ПАДТЯ\",\n    \"ПРОИЗВЕДЕНО В КРЫМУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VALERY ZAHARIN",
+    "producer": "VALERY ZAHARIN",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "АЛИГОТЕ",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "VALERY ZAHARIN®",
+      "АВТОТНОЕ ВИНО КРЫМА",
+      "АВТОРСКИЙ КУПАЖ",
+      "АЛИГОТЕ",
+      "КОКУР",
+      "САРЫ ПАНДАС",
+      "2021",
+      "РУЧНОЙ СВОР",
+      "ОГРАНИЧЕННАЯ",
+      "ПАДТЯ",
+      "ПРОИЗВЕДЕНО В КРЫМУ"
+    ]
+  }
+}

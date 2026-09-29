@@ -1,0 +1,23 @@
+{
+  "slug": "shato-ay-danil-bomond-aligote-beloe-suhoe-13",
+  "seconds": 15.79728889465332,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОМОНА\",\n  \"producer\": \"ШАТО АЙ-ДАНИАЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МРСССХ\",\n    \"ШАТО АЙ-ДАНИАЛЬ\",\n    \"БОМОНА\",\n    \"2022\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УЛУЧАНИЕМ «БРЫМ»\",\n    \"МАРОННОЕ СУХОЕ ВЕЛОЕ «BEAU MONDE»\",\n    \"N° 4094/4408\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОМОНА",
+    "producer": "ШАТО АЙ-ДАНИАЛЬ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МРСССХ",
+      "ШАТО АЙ-ДАНИАЛЬ",
+      "БОМОНА",
+      "2022",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УЛУЧАНИЕМ «БРЫМ»",
+      "МАРОННОЕ СУХОЕ ВЕЛОЕ «BEAU MONDE»",
+      "N° 4094/4408"
+    ]
+  }
+}

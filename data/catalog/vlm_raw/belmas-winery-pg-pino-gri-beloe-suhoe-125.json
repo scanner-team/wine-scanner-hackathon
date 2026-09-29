@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-pg-pino-gri-beloe-suhoe-125",
+  "seconds": 13.451499938964844,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Pg\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT GRIS\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PINOT GRIS\",\n    \"SEVASTOPOL\",\n    \"2022\",\n    \"Pg\",\n    \"Belmäs\",\n    \"12.1% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Pg",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT GRIS",
+    "category": null,
+    "raw_visible_text": [
+      "PINOT GRIS",
+      "SEVASTOPOL",
+      "2022",
+      "Pg",
+      "Belmäs",
+      "12.1% VOL",
+      "750 ML"
+    ]
+  }
+}

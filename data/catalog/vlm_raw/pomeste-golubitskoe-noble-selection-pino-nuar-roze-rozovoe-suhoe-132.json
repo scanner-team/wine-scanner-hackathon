@@ -1,0 +1,23 @@
+{
+  "slug": "pomeste-golubitskoe-noble-selection-pino-nuar-roze-rozovoe-suhoe-132",
+  "seconds": 13.72776198387146,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PN ROSE 23\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"PN\",\n    \"ROSE\",\n    \"23\",\n    \"PINOT NOIR ROSE 2023\",\n    \"NOBLE SELECTION\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PN ROSE 23",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT NOIR",
+    "category": "ROSE",
+    "raw_visible_text": [
+      "GOLUBITSKOE",
+      "ESTATE",
+      "PN",
+      "ROSE",
+      "23",
+      "PINOT NOIR ROSE 2023",
+      "NOBLE SELECTION"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pobeda",
+  "seconds": 1.2667369842529297,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Табия\",\n  \"producer\": \"Плодога\",\n  \"cuvee\": null,\n  \"vintage\": \"1965\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Плодога\",\n    \"ТАБИЯ\",\n    \"КАВКАЗСКИЙ СОВИНЬОН - МЕТУС\",\n    \"ПУСТОШЕСТВЕННЫЙ\",\n    \"1965\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Табия",
+    "producer": "Плодога",
+    "cuvee": null,
+    "vintage": "1965",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Плодога",
+      "ТАБИЯ",
+      "КАВКАЗСКИЙ СОВИНЬОН - МЕТУС",
+      "ПУСТОШЕСТВЕННЫЙ",
+      "1965"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-merlo-rozovoe-polusuhoe-11",
+  "seconds": 15.74467396736145,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Зелёное вино\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"Noblesse Oblige\",\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ ЦИТРОННЫЙ МАГАРАЧА МЕРЛО\",\n  \"category\": \"РОЗОВОЕ ПОЛУСУХОЕ\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"NOBLESSE OBLIGE\",\n    \"Зелёное вино\",\n    \"РОЗОВОЕ\",\n    \"ПОЛУСУХОЕ\",\n    \"РАННИЙ СБОР\",\n    \"РИСЛИНГ\",\n    \"ЦИТРОННЫЙ МАГАРАЧА\",\n    \"МЕРЛО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Зелёное вино",
+    "producer": "FANAGORIA",
+    "cuvee": "Noblesse Oblige",
+    "vintage": null,
+    "grape": "РИСЛИНГ ЦИТРОННЫЙ МАГАРАЧА МЕРЛО",
+    "category": "РОЗОВОЕ ПОЛУСУХОЕ",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "NOBLESSE OBLIGE",
+      "Зелёное вино",
+      "РОЗОВОЕ",
+      "ПОЛУСУХОЕ",
+      "РАННИЙ СБОР",
+      "РИСЛИНГ",
+      "ЦИТРОННЫЙ МАГАРАЧА",
+      "МЕРЛО"
+    ]
+  }
+}

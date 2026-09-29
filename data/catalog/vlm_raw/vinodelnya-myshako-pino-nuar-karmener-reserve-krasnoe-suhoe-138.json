@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-myshako-pino-nuar-karmener-reserve-krasnoe-suhoe-138",
+  "seconds": 5.595006942749023,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСЬАКО\",\n  \"producer\": \"МЫСЬАКО\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"КАРМЕНЕР\",\n  \"raw_visible_text\": [\n    \"МЫСЬАКО\",\n    \"RESERVE\",\n    \"ПИНО НУАР\",\n    \"КАРМЕНЕР\",\n    \"СУХОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСЬАКО",
+    "producer": "МЫСЬАКО",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "ПИНО НУАР",
+    "category": "КАРМЕНЕР",
+    "raw_visible_text": [
+      "МЫСЬАКО",
+      "RESERVE",
+      "ПИНО НУАР",
+      "КАРМЕНЕР",
+      "СУХОЕ КРАСНОЕ"
+    ]
+  }
+}

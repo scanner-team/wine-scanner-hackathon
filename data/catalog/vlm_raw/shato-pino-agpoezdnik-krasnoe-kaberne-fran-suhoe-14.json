@@ -1,0 +1,19 @@
+{
+  "slug": "shato-pino-agpoezdnik-krasnoe-kaberne-fran-suhoe-14",
+  "seconds": 4.811445951461792,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Red Vintage Reserve\",\n  \"producer\": \"A.G. Poerdnik\",\n  \"cuvee\": \"Reserve\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"A.G. Poerdnik\",\n    \"RED VINTAGE\",\n    \"RESERVE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Red Vintage Reserve",
+    "producer": "A.G. Poerdnik",
+    "cuvee": "Reserve",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "A.G. Poerdnik",
+      "RED VINTAGE",
+      "RESERVE"
+    ]
+  }
+}

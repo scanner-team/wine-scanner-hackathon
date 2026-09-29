@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-de-talu-krasnostop-rezerv-krasnostop-anapskiy-krasnoe-suhoe-137",
+  "seconds": 5.761420965194702,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"ГЕЛЕНДЖИК\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"КРАСНОСТОП\",\n    \"РЕЗЕРВ\",\n    \"2020\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": "ГЕЛЕНДЖИК",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "КРАСНОСТОП",
+      "РЕЗЕРВ",
+      "2020",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

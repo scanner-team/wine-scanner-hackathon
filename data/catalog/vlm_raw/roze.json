@@ -1,0 +1,20 @@
+{
+  "slug": "roze",
+  "seconds": 10.573752164840698,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РОЭЭ\",\n  \"producer\": \"ДИНИКИИ З ГАВИЦКИЙ\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": null,\n  \"category\": \"КРАСНАЯ БОРКА\",\n  \"raw_visible_text\": [\n    \"РОЭЭ\",\n    \"ДИНИКИИ З ГАВИЦКИЙ\",\n    \"КРАСНАЯ БОРКА\",\n    \"2025\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РОЭЭ",
+    "producer": "ДИНИКИИ З ГАВИЦКИЙ",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": null,
+    "category": "КРАСНАЯ БОРКА",
+    "raw_visible_text": [
+      "РОЭЭ",
+      "ДИНИКИИ З ГАВИЦКИЙ",
+      "КРАСНАЯ БОРКА",
+      "2025"
+    ]
+  }
+}

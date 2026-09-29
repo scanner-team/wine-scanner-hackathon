@@ -1,0 +1,23 @@
+{
+  "slug": "daniel-22",
+  "seconds": 1.2629928588867188,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DANIEL\",\n  \"producer\": \"KOFFMANN BROTHERS FAMILY VINEYARDS\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"D\",\n    \"DANIEL\",\n    \"KRASNOSTOP\",\n    \"ONE YEAR OAK CASKET\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DANIEL",
+    "producer": "KOFFMANN BROTHERS FAMILY VINEYARDS",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "D",
+      "DANIEL",
+      "KRASNOSTOP",
+      "ONE YEAR OAK CASKET",
+      "2022"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shato-pino-koldun-belyy-shardone-beloe-suhoe-12",
+  "seconds": 4.546581983566284,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHATEAU PINOT\",\n    \"PINOT\",\n    \"NOUVELLE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT",
+    "category": null,
+    "raw_visible_text": [
+      "CHATEAU PINOT",
+      "PINOT",
+      "NOUVELLE"
+    ]
+  }
+}

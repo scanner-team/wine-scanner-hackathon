@@ -1,0 +1,24 @@
+{
+  "slug": "loco-cimbali-rkatsiteli-oranzhevoe-suhoe-13",
+  "seconds": 7.699726104736328,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"BY REPIN\",\n  \"cuvee\": \"BARRIQUE\",\n  \"vintage\": \"2020\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \\\"ЕРМ\\\"\",\n  \"raw_visible_text\": [\n    \"SEVASTOPOL\",\n    \"2020\",\n    \"BARRIQUE\",\n    \"2020\",\n    \"LOCO CIMBALI\",\n    \"RKATSITELI\",\n    \"BY REPIN\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \\\"ЕРМ\\\"\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "BY REPIN",
+    "cuvee": "BARRIQUE",
+    "vintage": "2020",
+    "grape": "RKATSITELI",
+    "category": "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \"ЕРМ\"",
+    "raw_visible_text": [
+      "SEVASTOPOL",
+      "2020",
+      "BARRIQUE",
+      "2020",
+      "LOCO CIMBALI",
+      "RKATSITELI",
+      "BY REPIN",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \"ЕРМ\""
+    ]
+  }
+}

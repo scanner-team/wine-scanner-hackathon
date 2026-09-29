@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-myshako-flute-blaufrankish-rozovoe-bryut-126",
+  "seconds": 5.568953990936279,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FLUTE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"BLAUFRANKISCH\",\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"1869\",\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛАННЯ\",\n    \"FLUTE\",\n    \"BRUT\",\n    \"BLAUFRANKISCH\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FLUTE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "BLAUFRANKISCH",
+    "category": "BRUT",
+    "raw_visible_text": [
+      "1869",
+      "МЫСХАКО",
+      "ВИНОДЕЛАННЯ",
+      "FLUTE",
+      "BRUT",
+      "BLAUFRANKISCH"
+    ]
+  }
+}

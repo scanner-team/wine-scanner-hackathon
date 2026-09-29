@@ -1,0 +1,22 @@
+{
+  "slug": "agora-saperavi",
+  "seconds": 7.963702917098999,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAPERAVI\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"RED SEMI-SWEET WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"SAPERAVI\",\n    \"RED SEMI-SWEET WINE\",\n    \"САПЕРАВИ • КРАСНЫЕ ПОЛУСЛАДКИЕ\",\n    \"СОЛДИРУЕМ В ДУХЕ • РУССКИЙ СЕРП\",\n    \"3ГУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAPERAVI",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "САПЕРАВИ",
+    "category": "RED SEMI-SWEET WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "SAPERAVI",
+      "RED SEMI-SWEET WINE",
+      "САПЕРАВИ • КРАСНЫЕ ПОЛУСЛАДКИЕ",
+      "СОЛДИРУЕМ В ДУХЕ • РУССКИЙ СЕРП",
+      "3ГУ"
+    ]
+  }
+}

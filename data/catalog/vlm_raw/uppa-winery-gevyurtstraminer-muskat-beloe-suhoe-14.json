@@ -1,0 +1,29 @@
+{
+  "slug": "uppa-winery-gevyurtstraminer-muskat-beloe-suhoe-14",
+  "seconds": 15.346903085708618,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PAVEL SHVETS\",\n  \"producer\": \"UP PA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"GEWÜRZTRAMINER MUSCAT\",\n  \"category\": \"Cler Polati\",\n  \"raw_visible_text\": [\n    \"Pavel Shvets\",\n    \"CRIMEA\",\n    \"UP\",\n    \"SEVASTOPOL\",\n    \"PA\",\n    \"PAVEL SHVETS\",\n    \"GEWÜRZTRAMINER MUSCAT\",\n    \"Cler Polati\",\n    \"Rodnoe\",\n    \"2024\",\n    \"14x\",\n    \"BOTTLE N°1392 OF 2050\",\n    \"0.75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PAVEL SHVETS",
+    "producer": "UP PA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "GEWÜRZTRAMINER MUSCAT",
+    "category": "Cler Polati",
+    "raw_visible_text": [
+      "Pavel Shvets",
+      "CRIMEA",
+      "UP",
+      "SEVASTOPOL",
+      "PA",
+      "PAVEL SHVETS",
+      "GEWÜRZTRAMINER MUSCAT",
+      "Cler Polati",
+      "Rodnoe",
+      "2024",
+      "14x",
+      "BOTTLE N°1392 OF 2050",
+      "0.75"
+    ]
+  }
+}

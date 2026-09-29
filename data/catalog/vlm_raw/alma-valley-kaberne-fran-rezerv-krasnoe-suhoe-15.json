@@ -1,0 +1,23 @@
+{
+  "slug": "alma-valley-kaberne-fran-rezerv-krasnoe-suhoe-15",
+  "seconds": 7.5837178230285645,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALMA VALLEY RESERVE\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"красное сухое вино\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"RESERVE\",\n    \"2021\",\n    \"CABERNET FRANC\",\n    \"КРЫМ\",\n    \"красное сухое вино\",\n    \"СПИРТ: 14,5% об. | ОБЪЕМ: 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALMA VALLEY RESERVE",
+    "producer": "ALMA VALLEY",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "CABERNET FRANC",
+    "category": "красное сухое вино",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "RESERVE",
+      "2021",
+      "CABERNET FRANC",
+      "КРЫМ",
+      "красное сухое вино",
+      "СПИРТ: 14,5% об. | ОБЪЕМ: 0,75 л"
+    ]
+  }
+}

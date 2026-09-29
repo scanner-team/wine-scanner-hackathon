@@ -1,0 +1,26 @@
+{
+  "slug": "vinogradniki-gay-kodzora-malbec-red-klen-de-gai-kodzor-malbek-krasnoe-suhoe-135",
+  "seconds": 6.424163818359375,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MALBEC\",\n  \"producer\": \"GÃI-KODZOR\",\n  \"cuvee\": \"RED KLËN\",\n  \"vintage\": \"2020\",\n  \"grape\": \"MALBEC\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"MALBEC\",\n    \"RED KLËN\",\n    \"de\",\n    \"GÃI-KODZOR\",\n    \"2020\",\n    \"ВИНОПРАДНИКИ ГАЙ-КОДЗОР\",\n    \"PRODUCT OF RUSSIA\",\n    \"750 ml\",\n    \"0.75 L\",\n    \"12% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MALBEC",
+    "producer": "GÃI-KODZOR",
+    "cuvee": "RED KLËN",
+    "vintage": "2020",
+    "grape": "MALBEC",
+    "category": "null",
+    "raw_visible_text": [
+      "MALBEC",
+      "RED KLËN",
+      "de",
+      "GÃI-KODZOR",
+      "2020",
+      "ВИНОПРАДНИКИ ГАЙ-КОДЗОР",
+      "PRODUCT OF RUSSIA",
+      "750 ml",
+      "0.75 L",
+      "12% vol"
+    ]
+  }
+}

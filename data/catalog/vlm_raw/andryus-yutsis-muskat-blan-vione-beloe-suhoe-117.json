@@ -1,0 +1,19 @@
+{
+  "slug": "andryus-yutsis-muskat-blan-vione-beloe-suhoe-117",
+  "seconds": 5.043521881103516,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryus Yntsis\",\n  \"producer\": \"Северодвинск\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мускат Белан Виньон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Andryus Yntsis\",\n    \"Мускат Белан Виньон\",\n    \"Северодвинск\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryus Yntsis",
+    "producer": "Северодвинск",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мускат Белан Виньон",
+    "category": null,
+    "raw_visible_text": [
+      "Andryus Yntsis",
+      "Мускат Белан Виньон",
+      "Северодвинск"
+    ]
+  }
+}

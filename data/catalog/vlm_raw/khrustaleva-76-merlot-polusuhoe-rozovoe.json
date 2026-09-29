@@ -1,0 +1,20 @@
+{
+  "slug": "khrustaleva-76-merlot-polusuhoe-rozovoe",
+  "seconds": 1.5062997341156006,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Khrustaleva76\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"MERLOT\",\n  \"category\": \"DEMI-SEC\",\n  \"raw_visible_text\": [\n    \"Khrustaleva76\",\n    \"AVA\",\n    \"DEMI-SEC MERLOT\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Khrustaleva76",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "MERLOT",
+    "category": "DEMI-SEC",
+    "raw_visible_text": [
+      "Khrustaleva76",
+      "AVA",
+      "DEMI-SEC MERLOT",
+      "2024"
+    ]
+  }
+}

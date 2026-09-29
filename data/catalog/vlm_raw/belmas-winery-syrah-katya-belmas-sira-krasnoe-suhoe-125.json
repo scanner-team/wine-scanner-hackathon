@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-syrah-katya-belmas-sira-krasnoe-suhoe-125",
+  "seconds": 5.361733913421631,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"Belimis\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SYRAH\",\n    \"SEVASTOPOL\",\n    \"Katya\",\n    \"2022\",\n    \"Belimis\",\n    \"12.5% VOL\",\n    \"750ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "Belimis",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "SYRAH",
+      "SEVASTOPOL",
+      "Katya",
+      "2022",
+      "Belimis",
+      "12.5% VOL",
+      "750ML"
+    ]
+  }
+}

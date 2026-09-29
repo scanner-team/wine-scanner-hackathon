@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-dichkaberne-fran-krasnoe-suhoe-14",
+  "seconds": 5.041335105895996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДИЧЬ\",\n  \"producer\": \"КАВЕРНЕ ФРАН\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"ПИНОТ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"#ДИЧЬ\",\n    \"КАВЕРНЕ ФРАН\",\n    \"ПИНОТ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДИЧЬ",
+    "producer": "КАВЕРНЕ ФРАН",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "ПИНОТ",
+    "category": null,
+    "raw_visible_text": [
+      "#ДИЧЬ",
+      "КАВЕРНЕ ФРАН",
+      "ПИНОТ",
+      "2020"
+    ]
+  }
+}

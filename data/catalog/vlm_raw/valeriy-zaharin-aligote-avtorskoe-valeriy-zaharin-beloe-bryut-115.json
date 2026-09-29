@@ -1,0 +1,23 @@
+{
+  "slug": "valeriy-zaharin-aligote-avtorskoe-valeriy-zaharin-beloe-bryut-115",
+  "seconds": 6.246913194656372,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АЛИГОТЕ\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БЕЛОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ ЗАХАРЫН\",\n    \"АЛИГОТЕ\",\n    \"11,5 %\",\n    \"БЕЛОЕ БРЮТ\",\n    \"750 ml\",\n    \"АВТОРСКОЕ ВИНО\",\n    \"РАННИЙ СБОР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АЛИГОТЕ",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "БЕЛОЕ БРЮТ",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ ЗАХАРЫН",
+      "АЛИГОТЕ",
+      "11,5 %",
+      "БЕЛОЕ БРЮТ",
+      "750 ml",
+      "АВТОРСКОЕ ВИНО",
+      "РАННИЙ СБОР"
+    ]
+  }
+}

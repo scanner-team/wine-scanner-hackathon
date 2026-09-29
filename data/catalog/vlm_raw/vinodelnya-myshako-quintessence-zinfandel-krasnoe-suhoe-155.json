@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-zinfandel-krasnoe-suhoe-155",
+  "seconds": 8.045879125595093,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МБИСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2020\",\n  \"grape\": \"ZINFANDEL\",\n  \"category\": \"RIPASSO\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"ВИНОДЕВАРСТВО\",\n    \"МБИСХАКО\",\n    \"1869\",\n    \"ZINFANDEL\",\n    \"RIPASSO\",\n    \"2020\",\n    \"ЗУТ\",\n    \"КУБАНЬ\",\n    \"ПОЛУСЛУДКОЕ КРАСНОЕ\",\n    \"ТИРАН 25 000 РУБЛЕЙ\",\n    \"Алкоголь 15,5% об. Средний 4,8 г/л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МБИСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2020",
+    "grape": "ZINFANDEL",
+    "category": "RIPASSO",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "ВИНОДЕВАРСТВО",
+      "МБИСХАКО",
+      "1869",
+      "ZINFANDEL",
+      "RIPASSO",
+      "2020",
+      "ЗУТ",
+      "КУБАНЬ",
+      "ПОЛУСЛУДКОЕ КРАСНОЕ",
+      "ТИРАН 25 000 РУБЛЕЙ",
+      "Алкоголь 15,5% об. Средний 4,8 г/л"
+    ]
+  }
+}

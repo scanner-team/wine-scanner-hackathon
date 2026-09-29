@@ -1,0 +1,23 @@
+{
+  "slug": "david",
+  "seconds": 1.5006663799285889,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"David\",\n  \"producer\": \"FARKHAD NAGDALIEV & WINEMAFIA\",\n  \"cuvee\": \"Limited Release\",\n  \"vintage\": \"2020\",\n  \"grape\": \"SAPERAVI\",\n  \"category\": \"SINGLE VINEYARD\",\n  \"raw_visible_text\": [\n    \"FARKHAD NAGDALIEV & WINEMAFIA\",\n    \"David\",\n    \"LIMITED RELEASE\",\n    \"SAPERAVI\",\n    \"2020\",\n    \"SINGLE VINEYARD\",\n    \"BOTTLE NO. 0912 OF 1444\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "David",
+    "producer": "FARKHAD NAGDALIEV & WINEMAFIA",
+    "cuvee": "Limited Release",
+    "vintage": "2020",
+    "grape": "SAPERAVI",
+    "category": "SINGLE VINEYARD",
+    "raw_visible_text": [
+      "FARKHAD NAGDALIEV & WINEMAFIA",
+      "David",
+      "LIMITED RELEASE",
+      "SAPERAVI",
+      "2020",
+      "SINGLE VINEYARD",
+      "BOTTLE NO. 0912 OF 1444"
+    ]
+  }
+}

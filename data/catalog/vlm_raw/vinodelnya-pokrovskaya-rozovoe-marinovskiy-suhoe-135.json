@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-pokrovskaya-rozovoe-marinovskiy-suhoe-135",
+  "seconds": 6.192093133926392,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТЕОРЕТИЧЕСКИЙ СИКИДОЗ\",\n  \"producer\": \"Теоретический Сикидоз\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Сикидоз\",\n  \"category\": \"розовое\",\n  \"raw_visible_text\": [\n    \"ТЕОРЕТИЧЕСКИЙ СИКИДОЗ\",\n    \"2024\",\n    \"13,5%\",\n    \"0,75 л\",\n    \"РОЗОВОЕ\",\n    \"БРИТО СИКИДОЗ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТЕОРЕТИЧЕСКИЙ СИКИДОЗ",
+    "producer": "Теоретический Сикидоз",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Сикидоз",
+    "category": "розовое",
+    "raw_visible_text": [
+      "ТЕОРЕТИЧЕСКИЙ СИКИДОЗ",
+      "2024",
+      "13,5%",
+      "0,75 л",
+      "РОЗОВОЕ",
+      "БРИТО СИКИДОЗ"
+    ]
+  }
+}

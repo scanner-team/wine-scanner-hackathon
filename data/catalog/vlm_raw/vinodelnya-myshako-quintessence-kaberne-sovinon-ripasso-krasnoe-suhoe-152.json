@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-kaberne-sovinon-ripasso-krasnoe-suhoe-152",
+  "seconds": 8.429630994796753,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2020\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"РИПАССО\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"ВИНОДЕЛНЯ\",\n    \"1869\",\n    \"МЫСХАКО\",\n    \"CABERNET SAUVIGNON\",\n    \"РИПАССО\",\n    \"2020\",\n    \"КУБАНЬ, НОВОРОССИЙСКИЙ-\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"ВИНОГРАД 400 БУТЕЛКОК\",\n    \"Алкоголь 15,2% об.\",\n    \"Объем 0,75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МЫСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2020",
+    "grape": "CABERNET SAUVIGNON",
+    "category": "РИПАССО",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "ВИНОДЕЛНЯ",
+      "1869",
+      "МЫСХАКО",
+      "CABERNET SAUVIGNON",
+      "РИПАССО",
+      "2020",
+      "КУБАНЬ, НОВОРОССИЙСКИЙ-",
+      "СУХОЕ КРАСНОЕ",
+      "ВИНОГРАД 400 БУТЕЛКОК",
+      "Алкоголь 15,2% об.",
+      "Объем 0,75л"
+    ]
+  }
+}

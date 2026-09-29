@@ -1,0 +1,24 @@
+{
+  "slug": "cantiani-cabernet-sauvignon-merlot",
+  "seconds": 1.4283175468444824,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"Cantiani\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Cantiani\",\n    \"INEMAKING TRADITION\",\n    \"CANTIANI\",\n    \"WINE & TRADITIONS\",\n    \"CABERNET SAUVIGNON MERLOT\",\n    \"MASTER OF WINE\",\n    \"A. Ch\",\n    \"PRODUCED AND BOTTLED IN DAGESTAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "Cantiani",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Cantiani",
+      "INEMAKING TRADITION",
+      "CANTIANI",
+      "WINE & TRADITIONS",
+      "CABERNET SAUVIGNON MERLOT",
+      "MASTER OF WINE",
+      "A. Ch",
+      "PRODUCED AND BOTTLED IN DAGESTAN"
+    ]
+  }
+}

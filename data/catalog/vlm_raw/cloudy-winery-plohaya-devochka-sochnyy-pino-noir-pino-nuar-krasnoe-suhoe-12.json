@@ -1,0 +1,20 @@
+{
+  "slug": "cloudy-winery-plohaya-devochka-sochnyy-pino-noir-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 6.443801164627075,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПАРОХАЯ ДЕВОЧКА\",\n  \"producer\": \"CLOUDY WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"СОЧНЫЙ\",\n  \"raw_visible_text\": [\n    \"ПАРОХАЯ ДЕВОЧКА\",\n    \"СОЧНЫЙ PINOT NOIR · 2022\",\n    \"CLOUDY WINERY\",\n    \"COMMUNITY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПАРОХАЯ ДЕВОЧКА",
+    "producer": "CLOUDY WINERY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT NOIR",
+    "category": "СОЧНЫЙ",
+    "raw_visible_text": [
+      "ПАРОХАЯ ДЕВОЧКА",
+      "СОЧНЫЙ PINOT NOIR · 2022",
+      "CLOUDY WINERY",
+      "COMMUNITY"
+    ]
+  }
+}

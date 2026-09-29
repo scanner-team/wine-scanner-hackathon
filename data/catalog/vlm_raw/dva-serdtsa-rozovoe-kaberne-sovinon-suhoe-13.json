@@ -1,0 +1,20 @@
+{
+  "slug": "dva-serdtsa-rozovoe-kaberne-sovinon-suhoe-13",
+  "seconds": 5.023203134536743,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА СЕРДЦА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Розе\",\n  \"category\": \"Сухое Розовое\",\n  \"raw_visible_text\": [\n    \"ДВА СЕРДЦА\",\n    \"РОЗЕ\",\n    \"Сухое Розовое\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА СЕРДЦА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Розе",
+    "category": "Сухое Розовое",
+    "raw_visible_text": [
+      "ДВА СЕРДЦА",
+      "РОЗЕ",
+      "Сухое Розовое",
+      "КРЫМ"
+    ]
+  }
+}

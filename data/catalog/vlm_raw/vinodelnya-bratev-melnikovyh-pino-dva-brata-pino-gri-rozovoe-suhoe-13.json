@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-bratev-melnikovyh-pino-dva-brata-pino-gri-rozovoe-suhoe-13",
+  "seconds": 5.6160876750946045,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"ДВА БРАТА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT\",\n  \"category\": \"SEVASTOPOl\",\n  \"raw_visible_text\": [\n    \"ДВА БРАТА\",\n    \"виродитель\",\n    \"БРАТА МИНИМЕДОВИ\",\n    \"EST 2020\",\n    \"PINOT\",\n    \"SEVASTOPOl\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "ДВА БРАТА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT",
+    "category": "SEVASTOPOl",
+    "raw_visible_text": [
+      "ДВА БРАТА",
+      "виродитель",
+      "БРАТА МИНИМЕДОВИ",
+      "EST 2020",
+      "PINOT",
+      "SEVASTOPOl"
+    ]
+  }
+}

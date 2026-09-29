@@ -1,0 +1,20 @@
+{
+  "slug": "denisov_pino_noir_klaret",
+  "seconds": 1.391352653503418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНАЯ СТРЕЛКА\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино Нуар\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"САМАРА\",\n    \"КРАСНАЯ СТРЕЛКА\",\n    \"Пино Нуар\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНАЯ СТРЕЛКА",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино Нуар",
+    "category": null,
+    "raw_visible_text": [
+      "DENISOV",
+      "САМАРА",
+      "КРАСНАЯ СТРЕЛКА",
+      "Пино Нуар"
+    ]
+  }
+}

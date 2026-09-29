@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-blanc-de-noir-mene-extra-brut-2019-pino-nuar-beloe-ekstra-bryut-12",
+  "seconds": 13.354745149612427,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": null,\n  \"cuvee\": \"Blanc de Noirs\",\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"Extra Brut\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"BLANC DE NOIRS\",\n    \"FANAGORIA\",\n    \"METHODE CLASSIQUE\",\n    \"EXTRA BRUT • 2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": null,
+    "cuvee": "Blanc de Noirs",
+    "vintage": "2019",
+    "grape": null,
+    "category": "Extra Brut",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "BLANC DE NOIRS",
+      "FANAGORIA",
+      "METHODE CLASSIQUE",
+      "EXTRA BRUT • 2019"
+    ]
+  }
+}

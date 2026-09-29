@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-rodnoe-gnezdo-4-elements-kaberne-sovinon-krasnoe-suhoe-15",
+  "seconds": 5.031505346298218,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"4 ELEMENTS\",\n  \"producer\": \"РОДНОЕ ПРЕДЛО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"РОДНОЕ ПРЕДЛО\",\n    \"4 ELEMENTS\",\n    \"CABERNET SAUVIGNON\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "4 ELEMENTS",
+    "producer": "РОДНОЕ ПРЕДЛО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "РОДНОЕ ПРЕДЛО",
+      "4 ELEMENTS",
+      "CABERNET SAUVIGNON",
+      "2022"
+    ]
+  }
+}

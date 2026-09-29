@@ -1,0 +1,21 @@
+{
+  "slug": "belaya-lvicza",
+  "seconds": 1.1105015277862549,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"ARATTI\",\n    \"БЕЛАЯ\",\n    \"АЛЬВИША\",\n    \"Российское вино с ЭТУ\",\n    \"полусладкое белое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "ARATTI",
+      "БЕЛАЯ",
+      "АЛЬВИША",
+      "Российское вино с ЭТУ",
+      "полусладкое белое"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-myshako-semilon-aligote-reserve-beloe-suhoe-126",
+  "seconds": 6.631683826446533,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСХАКО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"АЛИГИОТЕ\",\n  \"category\": \"СЕМЕЙНОН\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛНЯ\",\n    \"1869\",\n    \"RESERVE\",\n    \"2021\",\n    \"АЛИГИОТЕ\",\n    \"СЕМЕЙНОН\",\n    \"12,5%\",\n    \"СУХОЕ СЕКТО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСХАКО",
+    "producer": "МЫСХАКО",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "АЛИГИОТЕ",
+    "category": "СЕМЕЙНОН",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕЛНЯ",
+      "1869",
+      "RESERVE",
+      "2021",
+      "АЛИГИОТЕ",
+      "СЕМЕЙНОН",
+      "12,5%",
+      "СУХОЕ СЕКТО"
+    ]
+  }
+}

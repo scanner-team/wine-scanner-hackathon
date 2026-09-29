@@ -1,0 +1,18 @@
+{
+  "slug": "nikolaev-i-synovya-festeliya-pti-verdo-krasnoe-suhoe-135",
+  "seconds": 12.093220233917236,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Pichon\",\n  \"producer\": \"Nicholas & Son\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Pichon\",\n    \"by Nicholas & Son\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Pichon",
+    "producer": "Nicholas & Son",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Pichon",
+      "by Nicholas & Son"
+    ]
+  }
+}

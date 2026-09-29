@@ -1,0 +1,20 @@
+{
+  "slug": "grand-jete-blanc-de-noirs",
+  "seconds": 5.105679750442505,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND JETÉ\",\n  \"producer\": \"GALTIER\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Piano de Aigre\",\n  \"raw_visible_text\": [\n    \"GRAND JETÉ\",\n    \"Piano de Aigre\",\n    \"GALTIER\",\n    \"GALTIER\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND JETÉ",
+    "producer": "GALTIER",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Piano de Aigre",
+    "raw_visible_text": [
+      "GRAND JETÉ",
+      "Piano de Aigre",
+      "GALTIER",
+      "GALTIER"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zhemchuzhnaya-9-risling-sovinon-blan",
+  "seconds": 1.5496573448181152,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"АРАТТИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"БЕЛОЕ ПОЛУСУХОЕ\",\n  \"raw_visible_text\": [\n    \"· ЖЕМЧУЖНАЯ ·\",\n    \"9\",\n    \"АРАТТИ\",\n    \"РИСЛИНГ\",\n    \"СОВИНЬОН БЛАН\",\n    \"БЕЛОЕ ПОЛУСУХОЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "АРАТТИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "БЕЛОЕ ПОЛУСУХОЕ",
+    "raw_visible_text": [
+      "· ЖЕМЧУЖНАЯ ·",
+      "9",
+      "АРАТТИ",
+      "РИСЛИНГ",
+      "СОВИНЬОН БЛАН",
+      "БЕЛОЕ ПОЛУСУХОЕ",
+      "2024"
+    ]
+  }
+}

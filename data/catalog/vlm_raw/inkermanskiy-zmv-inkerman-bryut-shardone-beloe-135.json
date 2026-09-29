@@ -1,0 +1,24 @@
+{
+  "slug": "inkermanskiy-zmv-inkerman-bryut-shardone-beloe-135",
+  "seconds": 14.629027843475342,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"INKERMAN\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"SINCE 1961 CRIMEA\",\n    \"SPARKLING WINE\",\n    \"INKERMAN\",\n    \"THE TASTE OF CRIMEA\",\n    \"BRUT\",\n    \"ОБЪЕМ 0,75 Л\",\n    \"ИГРИСТОЕ ВИНО БРЮТ БЕЛОЕ 'БРИОТ'\",\n    \"Сорт 125,50\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "INKERMAN",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "SINCE 1961 CRIMEA",
+      "SPARKLING WINE",
+      "INKERMAN",
+      "THE TASTE OF CRIMEA",
+      "BRUT",
+      "ОБЪЕМ 0,75 Л",
+      "ИГРИСТОЕ ВИНО БРЮТ БЕЛОЕ 'БРИОТ'",
+      "Сорт 125,50"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-beloe-novyy-svet-zolotoy-risling-suhoe-13",
+  "seconds": 7.623833894729614,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Gold Riesling\",\n  \"producer\": \"Святъ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": \"КОЛЛЕКЦИОННОЕ СУХОЕ БЕЛОГО\",\n  \"raw_visible_text\": [\n    \"Gold Riesling\",\n    \"Новый\",\n    \"Святъ\",\n    \"1878\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\",\n    \"КОЛЛЕКЦИОННОЕ СУХОЕ БЕЛОГО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Gold Riesling",
+    "producer": "Святъ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": "КОЛЛЕКЦИОННОЕ СУХОЕ БЕЛОГО",
+    "raw_visible_text": [
+      "Gold Riesling",
+      "Новый",
+      "Святъ",
+      "1878",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ",
+      "КОЛЛЕКЦИОННОЕ СУХОЕ БЕЛОГО"
+    ]
+  }
+}

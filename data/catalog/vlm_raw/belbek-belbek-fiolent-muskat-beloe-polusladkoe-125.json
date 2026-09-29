@@ -1,0 +1,20 @@
+{
+  "slug": "belbek-belbek-fiolent-muskat-beloe-polusladkoe-125",
+  "seconds": 6.654921054840088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Чиолент\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"Чиолент\",\n    \"МУСКАТ\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Чиолент",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "МУСКАТ",
+    "category": "ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "Чиолент",
+      "МУСКАТ",
+      "ПОЛУСЛАДКОЕ",
+      "2023"
+    ]
+  }
+}

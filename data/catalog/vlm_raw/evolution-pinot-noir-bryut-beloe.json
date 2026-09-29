@@ -1,0 +1,20 @@
+{
+  "slug": "evolution-pinot-noir-bryut-beloe",
+  "seconds": 1.251119613647461,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"EVOLUTION\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"BRUT\",\n    \"2024\",\n    \"EVOLUTION\",\n    \"AVA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "EVOLUTION",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "BRUT",
+      "2024",
+      "EVOLUTION",
+      "AVA"
+    ]
+  }
+}

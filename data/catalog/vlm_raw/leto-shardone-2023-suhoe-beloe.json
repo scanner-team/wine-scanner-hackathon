@@ -1,0 +1,22 @@
+{
+  "slug": "leto-shardone-2023-suhoe-beloe",
+  "seconds": 1.7456512451171875,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LE TO\",\n  \"producer\": \"винодельня\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"вино сухое белое\",\n  \"raw_visible_text\": [\n    \"LE TO\",\n    \"винодельня\",\n    \"вино сухое белое\",\n    \"ШАРДОНЕ\",\n    \"2023\",\n    \"УРОЖАЙ 2023 ГОДА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LE TO",
+    "producer": "винодельня",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ШАРДОНЕ",
+    "category": "вино сухое белое",
+    "raw_visible_text": [
+      "LE TO",
+      "винодельня",
+      "вино сухое белое",
+      "ШАРДОНЕ",
+      "2023",
+      "УРОЖАЙ 2023 ГОДА"
+    ]
+  }
+}

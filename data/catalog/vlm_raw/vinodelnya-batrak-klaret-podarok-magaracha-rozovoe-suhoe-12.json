@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-batrak-klaret-podarok-magaracha-rozovoe-suhoe-12",
+  "seconds": 4.959201097488403,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Кларет\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Кларет\",\n    \"Тосподин батрак!\",\n    \"Виталий Батрак\",\n    \"ВИНОДЕЛЬНЯ-1895\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Кларет",
+    "producer": "Виталий Батрак",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Кларет",
+      "Тосподин батрак!",
+      "Виталий Батрак",
+      "ВИНОДЕЛЬНЯ-1895"
+    ]
+  }
+}

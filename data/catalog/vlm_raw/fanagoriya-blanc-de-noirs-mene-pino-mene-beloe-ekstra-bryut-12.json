@@ -1,0 +1,24 @@
+{
+  "slug": "fanagoriya-blanc-de-noirs-mene-pino-mene-beloe-ekstra-bryut-12",
+  "seconds": 13.405672073364258,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PRIMUM ALVEUS\",\n  \"producer\": \"ANAGORIA\",\n  \"cuvee\": \"IV\",\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"EXTRA BRUT\",\n  \"raw_visible_text\": [\n    \"ANAGORIA\",\n    \"IV\",\n    \"PRIMUM\",\n    \"ALVEUS\",\n    \"MEUNIER\",\n    \"BLANC DE NOIRS\",\n    \"EXTRA BRUT\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PRIMUM ALVEUS",
+    "producer": "ANAGORIA",
+    "cuvee": "IV",
+    "vintage": "2019",
+    "grape": null,
+    "category": "EXTRA BRUT",
+    "raw_visible_text": [
+      "ANAGORIA",
+      "IV",
+      "PRIMUM",
+      "ALVEUS",
+      "MEUNIER",
+      "BLANC DE NOIRS",
+      "EXTRA BRUT",
+      "2019"
+    ]
+  }
+}

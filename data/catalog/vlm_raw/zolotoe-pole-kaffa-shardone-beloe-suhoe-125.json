@@ -1,0 +1,21 @@
+{
+  "slug": "zolotoe-pole-kaffa-shardone-beloe-suhoe-125",
+  "seconds": 8.910098314285278,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАҒА\",\n  \"producer\": \"КАҒА\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"БЕЛОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"КАҒА\",\n    \"2024\",\n    \"ШАРДОНЕ\",\n    \"БЕЛОЕ СУХОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАҒА",
+    "producer": "КАҒА",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ШАРДОНЕ",
+    "category": "БЕЛОЕ СУХОЕ",
+    "raw_visible_text": [
+      "КАҒА",
+      "2024",
+      "ШАРДОНЕ",
+      "БЕЛОЕ СУХОЕ",
+      "КРЫМ"
+    ]
+  }
+}

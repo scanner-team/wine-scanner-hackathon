@@ -1,0 +1,23 @@
+{
+  "slug": "millstream-cellar-vyderzhannoe-igristoe-polusuhoe-beloe",
+  "seconds": 1.3563289642333984,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CELLAR\",\n  \"producer\": \"MILLSTREAM\",\n  \"cuvee\": null,\n  \"vintage\": \"18\",\n  \"grape\": null,\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"MILLSTREAM ORIGINAL\",\n    \"CELLAR\",\n    \"ВЫДЕРЖАННОЕ\",\n    \"ПОЛУСУХОЕ БЕЛОЕ\",\n    \"ВЫДЕРЖКА МЕСЯЦЕВ\",\n    \"18\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CELLAR",
+    "producer": "MILLSTREAM",
+    "cuvee": null,
+    "vintage": "18",
+    "grape": null,
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "CELLAR",
+      "MILLSTREAM ORIGINAL",
+      "CELLAR",
+      "ВЫДЕРЖАННОЕ",
+      "ПОЛУСУХОЕ БЕЛОЕ",
+      "ВЫДЕРЖКА МЕСЯЦЕВ",
+      "18"
+    ]
+  }
+}

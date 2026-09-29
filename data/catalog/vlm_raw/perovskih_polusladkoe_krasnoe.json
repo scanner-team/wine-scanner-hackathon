@@ -1,0 +1,23 @@
+{
+  "slug": "perovskih_polusladkoe_krasnoe",
+  "seconds": 1.5019495487213135,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Полусладкое\",\n  \"producer\": \"Усадьба Перовских\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"полусладкое красное\",\n  \"raw_visible_text\": [\n    \"1890\",\n    \"Усадьба\",\n    \"Перовских\",\n    \"Полусладкое\",\n    \"КРАСНОЕ\",\n    \"2024\",\n    \"Крым\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Полусладкое",
+    "producer": "Усадьба Перовских",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "полусладкое красное",
+    "raw_visible_text": [
+      "1890",
+      "Усадьба",
+      "Перовских",
+      "Полусладкое",
+      "КРАСНОЕ",
+      "2024",
+      "Крым"
+    ]
+  }
+}

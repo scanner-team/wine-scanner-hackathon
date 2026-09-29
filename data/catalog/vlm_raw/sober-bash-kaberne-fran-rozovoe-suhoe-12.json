@@ -1,0 +1,21 @@
+{
+  "slug": "sober-bash-kaberne-fran-rozovoe-suhoe-12",
+  "seconds": 14.969631910324097,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ ФРАН\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"КАБЕРНЕ ФРАН\",\n    \"ВИНО С ЗАВЕДЕНИМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«КУБАНЬ, ДОЛINA РЕКИ АДЫГА»\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ ФРАН",
+    "producer": "СОБЕР БАШ",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "КАБЕРНЕ ФРАН",
+      "ВИНО С ЗАВЕДЕНИМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«КУБАНЬ, ДОЛINA РЕКИ АДЫГА»",
+      "2021"
+    ]
+  }
+}

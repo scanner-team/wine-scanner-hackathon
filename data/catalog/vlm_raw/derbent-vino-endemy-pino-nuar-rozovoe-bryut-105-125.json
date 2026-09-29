@@ -1,0 +1,20 @@
+{
+  "slug": "derbent-vino-endemy-pino-nuar-rozovoe-bryut-105-125",
+  "seconds": 5.389465808868408,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРВЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"ДЕРВЕНТ ВИНО\",\n    \"ПИНО НУАР\",\n    \"брют\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРВЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПИНО НУАР",
+    "category": "брют",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "ДЕРВЕНТ ВИНО",
+      "ПИНО НУАР",
+      "брют"
+    ]
+  }
+}

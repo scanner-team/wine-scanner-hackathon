@@ -1,0 +1,30 @@
+{
+  "slug": "fanagoriya-formula-q-saperavi-krasnoe-suhoe-135",
+  "seconds": 17.216100931167603,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FORMULA Q\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"Quintessence\",\n  \"vintage\": \"2022\",\n  \"grape\": \"КАБЕРНЕ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Quintessence\",\n    \"Q\",\n    \"FANAGORIA\",\n    \"NOBLESSE OBLIGE\",\n    \"FORMULA\",\n    \"Q\",\n    \"Четыре сорта винограда четырех последних урожаев\",\n    \"Ручной сбор с наших лучших виноградников\",\n    \"Квинтэссенция фанагорийского терруара\",\n    \"КАБЕРНЕ · 2019\",\n    \"МЕРЛО · 2020\",\n    \"КРАСНОСТОП · 2021\",\n    \"САПЕРАВИ · 2022\",\n    \"Quintessence\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FORMULA Q",
+    "producer": "FANAGORIA",
+    "cuvee": "Quintessence",
+    "vintage": "2022",
+    "grape": "КАБЕРНЕ",
+    "category": null,
+    "raw_visible_text": [
+      "Quintessence",
+      "Q",
+      "FANAGORIA",
+      "NOBLESSE OBLIGE",
+      "FORMULA",
+      "Q",
+      "Четыре сорта винограда четырех последних урожаев",
+      "Ручной сбор с наших лучших виноградников",
+      "Квинтэссенция фанагорийского терруара",
+      "КАБЕРНЕ · 2019",
+      "МЕРЛО · 2020",
+      "КРАСНОСТОП · 2021",
+      "САПЕРАВИ · 2022",
+      "Quintessence"
+    ]
+  }
+}

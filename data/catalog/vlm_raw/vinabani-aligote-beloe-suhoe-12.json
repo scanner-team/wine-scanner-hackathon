@@ -1,0 +1,18 @@
+{
+  "slug": "vinabani-aligote-beloe-suhoe-12",
+  "seconds": 4.204742193222046,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VINABANI\",\n  \"producer\": null,\n  \"cuvee\": \"ALIGOTE/JOVEN\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VINABANI\",\n    \"ALIGOTE/JOVEN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VINABANI",
+    "producer": null,
+    "cuvee": "ALIGOTE/JOVEN",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "VINABANI",
+      "ALIGOTE/JOVEN"
+    ]
+  }
+}

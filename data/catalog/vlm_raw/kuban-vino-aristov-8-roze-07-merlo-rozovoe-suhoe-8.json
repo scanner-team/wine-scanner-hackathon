@@ -1,0 +1,23 @@
+{
+  "slug": "kuban-vino-aristov-8-roze-07-merlo-rozovoe-suhoe-8",
+  "seconds": 4.790792226791382,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": \"NATURALE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"нежное ликерное вино\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"8\",\n    \"ROSE\",\n    \"NATURALE\",\n    \"РОЗОВОЕ\",\n    \"ЛИКЕРНОЕ\",\n    \"ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE",
+    "producer": "ARISTOV",
+    "cuvee": "NATURALE",
+    "vintage": null,
+    "grape": null,
+    "category": "нежное ликерное вино",
+    "raw_visible_text": [
+      "ARISTOV",
+      "8",
+      "ROSE",
+      "NATURALE",
+      "РОЗОВОЕ",
+      "ЛИКЕРНОЕ",
+      "ВИНО"
+    ]
+  }
+}

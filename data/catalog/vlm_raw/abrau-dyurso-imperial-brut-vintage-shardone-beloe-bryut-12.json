@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-imperial-brut-vintage-shardone-beloe-bryut-12",
+  "seconds": 6.11865234375,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ ДЮРСО\",\n  \"producer\": \"АБРАУ ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"BRUT VINTAGE\",\n  \"raw_visible_text\": [\n    \"АБРАУ ДЮРСО\",\n    \"ESTD 1870\",\n    \"АБРАУ ДЮРСО\",\n    \"BRUT VINTAGE\",\n    \"Интриг\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ ДЮРСО",
+    "producer": "АБРАУ ДЮРСО",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": "BRUT VINTAGE",
+    "raw_visible_text": [
+      "АБРАУ ДЮРСО",
+      "ESTD 1870",
+      "АБРАУ ДЮРСО",
+      "BRUT VINTAGE",
+      "Интриг",
+      "2020"
+    ]
+  }
+}

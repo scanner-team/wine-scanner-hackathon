@@ -1,0 +1,20 @@
+{
+  "slug": "endemy-saperavi",
+  "seconds": 13.208435773849487,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"САПЕРАВИ\",\n    \"БРЮТ\",\n    \"Вино игристое розовое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "САПЕРАВИ",
+      "БРЮТ",
+      "Вино игристое розовое"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-ice-wine-risling-tihoe-beloe-sladkoe-10",
+  "seconds": 6.6653220653533936,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ice Wine\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": \"ЛЕДЯНОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"Ice\",\n    \"WINE\",\n    \"Riesling\",\n    \"ЛЕДЯНОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ice Wine",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": "ЛЕДЯНОЕ ВИНО",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "Ice",
+      "WINE",
+      "Riesling",
+      "ЛЕДЯНОЕ ВИНО"
+    ]
+  }
+}

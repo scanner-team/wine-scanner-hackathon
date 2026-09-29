@@ -1,0 +1,20 @@
+{
+  "slug": "soyuz-vino-sheremetevskie-pogreba-shardone-beloe-suhoe-11",
+  "seconds": 4.438118934631348,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОГРЕБА\",\n  \"producer\": \"Маргарет\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Маргарет\",\n    \"ПОГРЕБА\",\n    \"Вино ставлене сухе ймін\",\n    \"Маргарет\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОГРЕБА",
+    "producer": "Маргарет",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Маргарет",
+      "ПОГРЕБА",
+      "Вино ставлене сухе ймін",
+      "Маргарет"
+    ]
+  }
+}

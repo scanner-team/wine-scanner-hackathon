@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-belbek-sira-krasnoe-suhoe-132",
+  "seconds": 6.023850917816162,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": \"СИРА РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"СИРА\",\n    \"РЕЗЕРВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": "СИРА РЕЗЕРВ",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "СИРА",
+      "РЕЗЕРВ"
+    ]
+  }
+}

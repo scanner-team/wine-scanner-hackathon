@@ -1,0 +1,18 @@
+{
+  "slug": "katharon-katharon-brut-blanc-de-blan",
+  "seconds": 1.5197510719299316,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KATHARON\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"KATHARON\",\n    \"БИТНЕ БЛАВ БРЮТ 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KATHARON",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "KATHARON",
+      "БИТНЕ БЛАВ БРЮТ 2023"
+    ]
+  }
+}

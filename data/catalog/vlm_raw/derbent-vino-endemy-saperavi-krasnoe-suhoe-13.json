@@ -1,0 +1,22 @@
+{
+  "slug": "derbent-vino-endemy-saperavi-krasnoe-suhoe-13",
+  "seconds": 2.039268970489502,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ\",\n  \"producer\": \"ЭНДЕМЫ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"САПЕРАВИ\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ\",\n    \"УКАЗАНИЕМ ДАГЕСТАН\",\n    \"ГИРАЖ 1200 БУЛ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ",
+    "producer": "ЭНДЕМЫ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "САПЕРАВИ",
+      "КРАСНОЕ СУХОЕ",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ",
+      "УКАЗАНИЕМ ДАГЕСТАН",
+      "ГИРАЖ 1200 БУЛ"
+    ]
+  }
+}

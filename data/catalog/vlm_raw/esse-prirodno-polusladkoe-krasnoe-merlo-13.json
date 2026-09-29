@@ -1,0 +1,21 @@
+{
+  "slug": "esse-prirodno-polusladkoe-krasnoe-merlo-13",
+  "seconds": 4.318361043930054,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"vse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"vse\",\n    \"Природно\",\n    \"Покусадское\",\n    \"Красное\",\n    \"Крым\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "vse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "vse",
+      "Природно",
+      "Покусадское",
+      "Красное",
+      "Крым"
+    ]
+  }
+}

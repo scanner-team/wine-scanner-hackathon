@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-flute-vione-aligote-beloe-bryut-12",
+  "seconds": 5.691256761550903,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FLUTE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Viognier\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"ВИНОДЕЛЕНЬЯ\",\n    \"FLUTE\",\n    \"BRUT\",\n    \"VIOGNIER\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FLUTE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Viognier",
+    "category": "Brut",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "ВИНОДЕЛЕНЬЯ",
+      "FLUTE",
+      "BRUT",
+      "VIOGNIER",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-myshako-sesto-senso-yagodnyy-vzryv-merlo-rozovoe-suhoe-122",
+  "seconds": 5.379404067993164,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SESTO SENSO\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"DRY ROSE\",\n  \"raw_visible_text\": [\n    \"SESTO\",\n    \"BERRY EXPLOSION\",\n    \"МЫСХАКО\",\n    \"DRY ROSE\",\n    \"2023\",\n    \"SENSO\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SESTO SENSO",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "DRY ROSE",
+    "raw_visible_text": [
+      "SESTO",
+      "BERRY EXPLOSION",
+      "МЫСХАКО",
+      "DRY ROSE",
+      "2023",
+      "SENSO"
+    ]
+  }
+}

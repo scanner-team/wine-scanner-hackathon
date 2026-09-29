@@ -1,0 +1,21 @@
+{
+  "slug": "blush-mirage-sovinon-zelyonyj",
+  "seconds": 1.070124864578247,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLUSH MIRAGE\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"WHITE WINE\",\n  \"raw_visible_text\": [\n    \"AGORA WINERY\",\n    \"BLUSH MIRAGE\",\n    \"VINHO BLANCO\",\n    \"WHITE WINE\",\n    \"FRESH AND YOUNG\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLUSH MIRAGE",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "WHITE WINE",
+    "raw_visible_text": [
+      "AGORA WINERY",
+      "BLUSH MIRAGE",
+      "VINHO BLANCO",
+      "WHITE WINE",
+      "FRESH AND YOUNG"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "esse-muskat-belyy-beloe-suhoe-135",
+  "seconds": 13.426836967468262,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"esse\",\n    \"МУСКАТ\",\n    \"УРОЖАЙ 2023 ГОДА\",\n    \"ДОЛИНА РЕКИ ЧЕРНАЯ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "МУСКАТ",
+    "category": null,
+    "raw_visible_text": [
+      "esse",
+      "МУСКАТ",
+      "УРОЖАЙ 2023 ГОДА",
+      "ДОЛИНА РЕКИ ЧЕРНАЯ",
+      "КРЫМ"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-pokrovskaya-sovinon-blan-pokrovskoe-beloe-suhoe-12",
+  "seconds": 5.037430047988892,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"THEOREO\",\n  \"producer\": \"СОВИНЬОН ВИНА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СОВИНЬОН\",\n  \"category\": \"вина\",\n  \"raw_visible_text\": [\n    \"ТЕОРЕО\",\n    \"СОВИНЬОН ВИНА\",\n    \"ВИНА СУХОЕ ВИНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "THEOREO",
+    "producer": "СОВИНЬОН ВИНА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СОВИНЬОН",
+    "category": "вина",
+    "raw_visible_text": [
+      "ТЕОРЕО",
+      "СОВИНЬОН ВИНА",
+      "ВИНА СУХОЕ ВИНА"
+    ]
+  }
+}

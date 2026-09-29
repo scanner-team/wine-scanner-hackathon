@@ -1,0 +1,21 @@
+{
+  "slug": "pet-nat-sosedi-2024",
+  "seconds": 1.4567475318908691,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"COCEAU\",\n  \"producer\": \"Коммуника\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"PETNAT\",\n  \"raw_visible_text\": [\n    \"PETNAT\",\n    \"COCEAU\",\n    \"PINOT NOIR\",\n    \"КРЫМ 2024\",\n    \"Коммуника\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "COCEAU",
+    "producer": "Коммуника",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "PINOT NOIR",
+    "category": "PETNAT",
+    "raw_visible_text": [
+      "PETNAT",
+      "COCEAU",
+      "PINOT NOIR",
+      "КРЫМ 2024",
+      "Коммуника"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "dnk-pokolenie",
+  "seconds": 1.3150577545166016,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"УСАДЬБА МЕРКОТАН\",\n  \"producer\": \"Усадьба Меркотан\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"ПОКОЛЕНИЕ\",\n  \"raw_visible_text\": [\n    \"УСАДЬБА МЕРКОТАН\",\n    \"УСАДЬБА МЕРКОТАН\",\n    \"2024\",\n    \"ПОКОЛЕНИЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "УСАДЬБА МЕРКОТАН",
+    "producer": "Усадьба Меркотан",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "ПОКОЛЕНИЕ",
+    "raw_visible_text": [
+      "УСАДЬБА МЕРКОТАН",
+      "УСАДЬБА МЕРКОТАН",
+      "2024",
+      "ПОКОЛЕНИЕ"
+    ]
+  }
+}

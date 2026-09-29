@@ -1,0 +1,24 @@
+{
+  "slug": "domaine-de-la-vivandiere-tsimlyanskiy-chyornyy-ctes-du-don-tsimlyanskiy-chernyy-rozovoe-suhoe-134",
+  "seconds": 5.787399053573608,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVAN DIÈRE\",\n  \"producer\": \"null\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"null\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"ЦИМАЛЯНСКИЙ\",\n    \"ЧЕРНЫЙ\",\n    \"VIVAN\",\n    \"DIÈRE\",\n    \"13.4% alc\",\n    \"CÔTES DU DON\",\n    \"2023\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVAN DIÈRE",
+    "producer": "null",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "null",
+    "category": "null",
+    "raw_visible_text": [
+      "ЦИМАЛЯНСКИЙ",
+      "ЧЕРНЫЙ",
+      "VIVAN",
+      "DIÈRE",
+      "13.4% alc",
+      "CÔTES DU DON",
+      "2023",
+      "750 ml"
+    ]
+  }
+}

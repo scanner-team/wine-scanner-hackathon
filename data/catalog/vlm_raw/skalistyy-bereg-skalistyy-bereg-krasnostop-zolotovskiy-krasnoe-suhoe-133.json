@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-krasnostop-zolotovskiy-krasnoe-suhoe-133",
+  "seconds": 14.77475881576538,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Красностоп\",\n  \"category\": \"Золотовский\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2022\",\n    \"Красностоп\",\n    \"Золотовский\",\n    \"№ 7490\",\n    \"Lepuse\",\n    \"Uropeus\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Красностоп",
+    "category": "Золотовский",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2022",
+      "Красностоп",
+      "Золотовский",
+      "№ 7490",
+      "Lepuse",
+      "Uropeus"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b-yu-rne-krasnostop-suhoe-krasnoe-classic",
+  "seconds": 1.6499249935150146,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЮРНЫЕ\",\n  \"producer\": \"БЮРНЫЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"BURNIER\",\n    \"КРАСНОСТОП / красное сухое\",\n    \"20\",\n    \"24\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЮРНЫЕ",
+    "producer": "БЮРНЫЕ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "BURNIER",
+      "КРАСНОСТОП / красное сухое",
+      "20",
+      "24",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК"
+    ]
+  }
+}

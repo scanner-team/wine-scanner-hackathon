@@ -1,0 +1,21 @@
+{
+  "slug": "good-steak-merlot",
+  "seconds": 5.459331750869751,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Good STEAK\",\n  \"producer\": \"Good Steak\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MERLOT\",\n    \"MERLOT\",\n    \"Good STEAK\",\n    \"Alc.10-12%Vol. 0.75L\",\n    \"Good Steak\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Good STEAK",
+    "producer": "Good Steak",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "MERLOT",
+      "MERLOT",
+      "Good STEAK",
+      "Alc.10-12%Vol. 0.75L",
+      "Good Steak"
+    ]
+  }
+}

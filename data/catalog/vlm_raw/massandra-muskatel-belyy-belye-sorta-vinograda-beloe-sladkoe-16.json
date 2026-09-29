@@ -1,0 +1,20 @@
+{
+  "slug": "massandra-muskatel-belyy-belye-sorta-vinograda-beloe-sladkoe-16",
+  "seconds": 5.106528043746948,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"Масскатель Массандара Белый\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Массандара\",\n  \"category\": \"Белый\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"1894\",\n    \"МУССКАТЕЛЬ МАССАНДАРА БЕЛЫЙ\",\n    \"Год урожая 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "Масскатель Массандара Белый",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Массандара",
+    "category": "Белый",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "1894",
+      "МУССКАТЕЛЬ МАССАНДАРА БЕЛЫЙ",
+      "Год урожая 2024"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "amelia",
+  "seconds": 1.0183169841766357,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Amelia\",\n  \"producer\": \"Winemafia\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Riesling\",\n  \"category\": \"Limited Release\",\n  \"raw_visible_text\": [\n    \"Winemafia\",\n    \"Amelia\",\n    \"Riesling 2022\",\n    \"Limited Release by Parnac Nogalar\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Amelia",
+    "producer": "Winemafia",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Riesling",
+    "category": "Limited Release",
+    "raw_visible_text": [
+      "Winemafia",
+      "Amelia",
+      "Riesling 2022",
+      "Limited Release by Parnac Nogalar"
+    ]
+  }
+}

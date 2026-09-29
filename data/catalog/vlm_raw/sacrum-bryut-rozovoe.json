@@ -1,0 +1,22 @@
+{
+  "slug": "sacrum-bryut-rozovoe",
+  "seconds": 1.1788928508758545,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SACRUM\",\n  \"producer\": \"KOHLMANN BROTHERS\",\n  \"cuvee\": \"Limited Release\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Brut Rosé\",\n  \"raw_visible_text\": [\n    \"MÉTHODE CLASSIQUE\",\n    \"• COGLIX •\",\n    \"KOHLMANN BROTHERS\",\n    \"SACRUM\",\n    \"BRUT ROSÉ\",\n    \"LIMITED RELEASE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SACRUM",
+    "producer": "KOHLMANN BROTHERS",
+    "cuvee": "Limited Release",
+    "vintage": null,
+    "grape": null,
+    "category": "Brut Rosé",
+    "raw_visible_text": [
+      "MÉTHODE CLASSIQUE",
+      "• COGLIX •",
+      "KOHLMANN BROTHERS",
+      "SACRUM",
+      "BRUT ROSÉ",
+      "LIMITED RELEASE"
+    ]
+  }
+}

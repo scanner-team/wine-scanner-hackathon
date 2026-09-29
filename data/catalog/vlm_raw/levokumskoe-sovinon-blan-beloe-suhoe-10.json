@@ -1,0 +1,20 @@
+{
+  "slug": "levokumskoe-sovinon-blan-beloe-suhoe-10",
+  "seconds": 5.414813995361328,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОВИНЬОН БЛАНА\",\n  \"producer\": \"ЛЕВОКУМСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"белое сухое\",\n  \"raw_visible_text\": [\n    \"ЛЕВОКУМСКОЕ\",\n    \"СОВИНЬОН БЛАНА\",\n    \"белое сухое\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОВИНЬОН БЛАНА",
+    "producer": "ЛЕВОКУМСКОЕ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "белое сухое",
+    "raw_visible_text": [
+      "ЛЕВОКУМСКОЕ",
+      "СОВИНЬОН БЛАНА",
+      "белое сухое",
+      "2022"
+    ]
+  }
+}

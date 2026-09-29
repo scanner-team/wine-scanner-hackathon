@@ -1,0 +1,21 @@
+{
+  "slug": "zmv-koktebel-blan-aligote-beloe-suhoe-12",
+  "seconds": 13.651802062988281,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Блан\",\n  \"producer\": \"КОКТЕБЕЛ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Алиготе\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ЗАВОД НАРОДНИХ ВИНОГРАДНИХ\",\n    \"КОКТЕБЕЛ\",\n    \"EST 1973\",\n    \"Блан\",\n    \"Алиготе\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Блан",
+    "producer": "КОКТЕБЕЛ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Алиготе",
+    "category": null,
+    "raw_visible_text": [
+      "ЗАВОД НАРОДНИХ ВИНОГРАДНИХ",
+      "КОКТЕБЕЛ",
+      "EST 1973",
+      "Блан",
+      "Алиготе"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "fanagoriya-velvet-season-muskat-ottonel-beloe-sladkoe-13",
+  "seconds": 7.720458984375,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VELVET SEASON\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"LATE HARVEST\",\n  \"vintage\": null,\n  \"grape\": \"SAPERAVI\",\n  \"category\": \"Десертное\",\n  \"raw_visible_text\": [\n    \"VELVET\",\n    \"SEASON\",\n    \"SAPERAVI\",\n    \"Десертное\",\n    \"ПОЗДНИЙ СБОР\",\n    \"FANAGORIA\",\n    \"LATE HARVEST\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VELVET SEASON",
+    "producer": "FANAGORIA",
+    "cuvee": "LATE HARVEST",
+    "vintage": null,
+    "grape": "SAPERAVI",
+    "category": "Десертное",
+    "raw_visible_text": [
+      "VELVET",
+      "SEASON",
+      "SAPERAVI",
+      "Десертное",
+      "ПОЗДНИЙ СБОР",
+      "FANAGORIA",
+      "LATE HARVEST"
+    ]
+  }
+}

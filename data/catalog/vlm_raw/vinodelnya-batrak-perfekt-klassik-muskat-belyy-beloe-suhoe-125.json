@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-muskat-belyy-beloe-suhoe-125",
+  "seconds": 5.337339878082275,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мускат Белый\",\n  \"producer\": \"Батрак\",\n  \"cuvee\": \"PERFEKT KLASSEK\",\n  \"vintage\": null,\n  \"grape\": \"Мускат Белый\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Батрак\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1895\",\n    \"Мускат Белый\",\n    \"PERFEKT KLASSEK\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мускат Белый",
+    "producer": "Батрак",
+    "cuvee": "PERFEKT KLASSEK",
+    "vintage": null,
+    "grape": "Мускат Белый",
+    "category": null,
+    "raw_visible_text": [
+      "Батрак",
+      "ВИНОДЕЛЬНЯ",
+      "1895",
+      "Мускат Белый",
+      "PERFEKT KLASSEK"
+    ]
+  }
+}

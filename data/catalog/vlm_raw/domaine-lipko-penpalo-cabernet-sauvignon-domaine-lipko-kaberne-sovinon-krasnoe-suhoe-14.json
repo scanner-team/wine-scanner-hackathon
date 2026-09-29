@@ -1,0 +1,21 @@
+{
+  "slug": "domaine-lipko-penpalo-cabernet-sauvignon-domaine-lipko-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 5.362568140029907,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PENPALO\",\n  \"producer\": \"Севастополь\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": \"Сухое красное\",\n  \"raw_visible_text\": [\n    \"Спире лози\",\n    \"PENPALO\",\n    \"Cabernet Sauvignon\",\n    \"Севастополь\",\n    \"14% Об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PENPALO",
+    "producer": "Севастополь",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Cabernet Sauvignon",
+    "category": "Сухое красное",
+    "raw_visible_text": [
+      "Спире лози",
+      "PENPALO",
+      "Cabernet Sauvignon",
+      "Севастополь",
+      "14% Об."
+    ]
+  }
+}

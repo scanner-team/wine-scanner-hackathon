@@ -1,0 +1,21 @@
+{
+  "slug": "zmv-koktebel-oranzh-rkatsiteli-beloe-suhoe-125",
+  "seconds": 14.060776948928833,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОКТЕБЕЛЬ\",\n  \"producer\": \"ЗАВОД МАРОЧИНЫХ ВИНОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": \"Оранж\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧИНЫХ ВИНОВ\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"Оранж\",\n    \"Ркацители\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОКТЕБЕЛЬ",
+    "producer": "ЗАВОД МАРОЧИНЫХ ВИНОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": "Оранж",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧИНЫХ ВИНОВ",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "Оранж",
+      "Ркацители"
+    ]
+  }
+}

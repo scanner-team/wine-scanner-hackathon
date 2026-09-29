@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-muskat-oranzh-muskat-belyy-oranzhevoe-suhoe-125",
+  "seconds": 4.79761004447937,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ОРАНЖ МУСКАТ\",\n  \"producer\": \"Беловек\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Беловек\",\n    \"ОРАНЖ МУСКАТ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ОРАНЖ МУСКАТ",
+    "producer": "Беловек",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Беловек",
+      "ОРАНЖ МУСКАТ",
+      "2021"
+    ]
+  }
+}

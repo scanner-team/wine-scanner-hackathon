@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-graviti-pino-blan-beloe-suhoe-135",
+  "seconds": 6.7696919441223145,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAVI Y\",\n  \"producer\": \"BY ALMA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ПИНО БЛАН / ПИНО ГРИ / РИСЛИНГ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GRAVI Y\",\n    \"BY ALMA\",\n    \"ПИНО БЛАН /\",\n    \"ПИНО ГРИ / РИСЛИНГ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAVI Y",
+    "producer": "BY ALMA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ПИНО БЛАН / ПИНО ГРИ / РИСЛИНГ",
+    "category": null,
+    "raw_visible_text": [
+      "GRAVI Y",
+      "BY ALMA",
+      "ПИНО БЛАН /",
+      "ПИНО ГРИ / РИСЛИНГ",
+      "2023"
+    ]
+  }
+}

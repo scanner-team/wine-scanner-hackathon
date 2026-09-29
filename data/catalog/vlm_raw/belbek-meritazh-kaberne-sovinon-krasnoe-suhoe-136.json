@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-meritazh-kaberne-sovinon-krasnoe-suhoe-136",
+  "seconds": 4.728944778442383,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"МЕРИТАЖ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"МЕРИТАЖ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "МЕРИТАЖ",
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "МЕРИТАЖ",
+      "2021"
+    ]
+  }
+}

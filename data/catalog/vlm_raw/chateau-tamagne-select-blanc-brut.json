@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-tamagne-select-blanc-brut",
+  "seconds": 0.94045090675354,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAVAGNE\",\n  \"producer\": \"Château TAVAGNE\",\n  \"cuvee\": \"SELECT\",\n  \"vintage\": \"2017\",\n  \"grape\": null,\n  \"category\": \"brut\",\n  \"raw_visible_text\": [\n    \"Château TAVAGNE\",\n    \"SELECT\",\n    \"2017\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAVAGNE",
+    "producer": "Château TAVAGNE",
+    "cuvee": "SELECT",
+    "vintage": "2017",
+    "grape": null,
+    "category": "brut",
+    "raw_visible_text": [
+      "Château TAVAGNE",
+      "SELECT",
+      "2017"
+    ]
+  }
+}

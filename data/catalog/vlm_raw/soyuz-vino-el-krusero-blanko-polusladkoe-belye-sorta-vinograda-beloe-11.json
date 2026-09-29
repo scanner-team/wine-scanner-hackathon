@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-el-krusero-blanko-polusladkoe-belye-sorta-vinograda-beloe-11",
+  "seconds": 17.35518217086792,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"EL CRUCERO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Tinto Semidulce\",\n  \"raw_visible_text\": [\n    \"EL\",\n    \"CRUCERO\",\n    \"EL\",\n    \"CRUCERO\",\n    \"Tinto Semidulce\",\n    \"СУХОЕ СТОЛОВОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n    \"ПУСТАДКОЕ БЕЛОЕ\",\n   ",
+  "parsed": {
+    "visible_name": "EL CRUCERO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Tinto Semidulce"
+  }
+}

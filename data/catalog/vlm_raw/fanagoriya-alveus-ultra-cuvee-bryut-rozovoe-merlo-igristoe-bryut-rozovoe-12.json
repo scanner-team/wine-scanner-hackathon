@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-alveus-ultra-cuvee-bryut-rozovoe-merlo-igristoe-bryut-rozovoe-12",
+  "seconds": 13.08124303817749,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALVEUS\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"ULTRA CUVÉE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ROSE BRUT\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"ALVEUS\",\n    \"ULTRA CUVÉE\",\n    \"ROSE\",\n    \"BRUT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALVEUS",
+    "producer": "FANAGORIA",
+    "cuvee": "ULTRA CUVÉE",
+    "vintage": null,
+    "grape": null,
+    "category": "ROSE BRUT",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "ALVEUS",
+      "ULTRA CUVÉE",
+      "ROSE",
+      "BRUT"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "villa-di-alma-en-barrique-shardone-beloe-ekstra-bryut-12",
+  "seconds": 13.27540922164917,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"EN BARRIQUE\",\n  \"producer\": \"VILLA DI ALMA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"EXTRA BRUT\",\n  \"raw_visible_text\": [\n    \"VILLA DI ALMA\",\n    \"EN BARRIQUE\",\n    \"EXTRA BRUT\",\n    \"METHOD CLASSIC\",\n    \"ORGANIC\",\n    \"WHITE WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "EN BARRIQUE",
+    "producer": "VILLA DI ALMA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "EXTRA BRUT",
+    "raw_visible_text": [
+      "VILLA DI ALMA",
+      "EN BARRIQUE",
+      "EXTRA BRUT",
+      "METHOD CLASSIC",
+      "ORGANIC",
+      "WHITE WINE"
+    ]
+  }
+}

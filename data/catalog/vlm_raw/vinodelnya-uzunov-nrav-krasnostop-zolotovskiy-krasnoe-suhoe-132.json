@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-nrav-krasnostop-zolotovskiy-krasnoe-suhoe-132",
+  "seconds": 14.04096794128418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"НРАВ\",\n  \"producer\": \"ВИНОДЕЛНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"НРАВ\",\n    \"красное сухое\",\n    \"2022\",\n    \"0.75 л\",\n    \"13.2 %\",\n    \"ВИНОДЕЛНЯ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "НРАВ",
+    "producer": "ВИНОДЕЛНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "НРАВ",
+      "красное сухое",
+      "2022",
+      "0.75 л",
+      "13.2 %",
+      "ВИНОДЕЛНЯ",
+      "УЗУНОВ"
+    ]
+  }
+}

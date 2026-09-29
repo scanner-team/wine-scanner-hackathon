@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-sovinon-blan-beloe-suhoe-14",
+  "seconds": 7.036388874053955,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON BLANC\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"БЕЛОЕ СУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"2023\",\n    \"SAUVIGNON BLANC\",\n    \"БЕЛОЕ СУХОЕ ВИНО\",\n    \"КРЫМ | РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON BLANC",
+    "producer": "ALMA VALLEY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SAUVIGNON BLANC",
+    "category": "БЕЛОЕ СУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "2023",
+      "SAUVIGNON BLANC",
+      "БЕЛОЕ СУХОЕ ВИНО",
+      "КРЫМ | РОССИЯ"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-krasnaya-kniga-glava-2-merlo-krasnoe-suhoe-15",
+  "seconds": 14.774070024490356,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": \"Красная книга Глава 2\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2022\",\n    \"Красная книга\",\n    \"Глава 2\",\n    \"№ 4377\",\n    \"Felis\",\n    \"Silvestris\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": "Красная книга Глава 2",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2022",
+      "Красная книга",
+      "Глава 2",
+      "№ 4377",
+      "Felis",
+      "Silvestris"
+    ]
+  }
+}

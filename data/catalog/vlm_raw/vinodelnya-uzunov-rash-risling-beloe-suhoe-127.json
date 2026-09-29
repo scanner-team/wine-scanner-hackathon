@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-rash-risling-beloe-suhoe-127",
+  "seconds": 13.874274730682373,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РАШ.\",\n  \"producer\": \"ВИНОДЕЛЬНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"белое сухое\",\n  \"raw_visible_text\": [\n    \"РАШ.\",\n    \"белое сухое\",\n    \"2024\",\n    \"12.7 %\",\n    \"0.75 л\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РАШ.",
+    "producer": "ВИНОДЕЛЬНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "белое сухое",
+    "raw_visible_text": [
+      "РАШ.",
+      "белое сухое",
+      "2024",
+      "12.7 %",
+      "0.75 л",
+      "ВИНОДЕЛЬНЯ",
+      "УЗУНОВ"
+    ]
+  }
+}

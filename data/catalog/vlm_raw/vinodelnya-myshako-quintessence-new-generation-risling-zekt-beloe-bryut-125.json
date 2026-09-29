@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-risling-zekt-beloe-bryut-125",
+  "seconds": 5.59881591796875,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"WICKXAO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": \"RIESLING SEKT\",\n  \"category\": \"BRUT WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"WICKXAO\",\n    \"1867\",\n    \"BRUT WHITE\",\n    \"NEW GENERATION\",\n    \"RIESLING SEKT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "WICKXAO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": "RIESLING SEKT",
+    "category": "BRUT WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "WICKXAO",
+      "1867",
+      "BRUT WHITE",
+      "NEW GENERATION",
+      "RIESLING SEKT"
+    ]
+  }
+}

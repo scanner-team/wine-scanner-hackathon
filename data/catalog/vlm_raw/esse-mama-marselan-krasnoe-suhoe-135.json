@@ -1,0 +1,20 @@
+{
+  "slug": "esse-mama-marselan-krasnoe-suhoe-135",
+  "seconds": 13.31908106803894,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MAMA\",\n  \"producer\": \"ESSE\",\n  \"cuvee\": \"UNPLUGGED\",\n  \"vintage\": \"2024\",\n  \"grape\": \"MARSÉLAN/MALBEC\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"MAMA\",\n    \"MARSÉLAN/MALBEC\",\n    \"ESSE UNPLUGGED\",\n    \"CRIMEA 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MAMA",
+    "producer": "ESSE",
+    "cuvee": "UNPLUGGED",
+    "vintage": "2024",
+    "grape": "MARSÉLAN/MALBEC",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "MAMA",
+      "MARSÉLAN/MALBEC",
+      "ESSE UNPLUGGED",
+      "CRIMEA 2024"
+    ]
+  }
+}

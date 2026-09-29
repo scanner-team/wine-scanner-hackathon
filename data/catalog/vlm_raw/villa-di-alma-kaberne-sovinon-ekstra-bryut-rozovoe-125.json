@@ -1,0 +1,25 @@
+{
+  "slug": "villa-di-alma-kaberne-sovinon-ekstra-bryut-rozovoe-125",
+  "seconds": 14.26668906211853,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET SAUVIGNON\",\n  \"producer\": \"VILLAIN ALMANY\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"коль фондо\",\n  \"raw_visible_text\": [\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"коль фондо\",\n    \"2024\",\n    \"КРЫМ\",\n    \"ORGANIC\",\n    \"VILLAIN ALMANY\",\n    \"organic\",\n    \"ORGANIC WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET SAUVIGNON",
+    "producer": "VILLAIN ALMANY",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CABERNET SAUVIGNON",
+    "category": "коль фондо",
+    "raw_visible_text": [
+      "CABERNET",
+      "SAUVIGNON",
+      "коль фондо",
+      "2024",
+      "КРЫМ",
+      "ORGANIC",
+      "VILLAIN ALMANY",
+      "organic",
+      "ORGANIC WINE"
+    ]
+  }
+}

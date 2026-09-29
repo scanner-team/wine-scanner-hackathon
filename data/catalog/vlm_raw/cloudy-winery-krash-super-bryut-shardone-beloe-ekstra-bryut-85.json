@@ -1,0 +1,21 @@
+{
+  "slug": "cloudy-winery-krash-super-bryut-shardone-beloe-ekstra-bryut-85",
+  "seconds": 9.694569110870361,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KRAW\",\n  \"producer\": \"Cloudy Winery\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"KRAW\",\n    \"SYNER BRUT\",\n    \"2022\",\n    \"CLOUDY WINERY\",\n    \"COMMUNITY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KRAW",
+    "producer": "Cloudy Winery",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "Brut",
+    "raw_visible_text": [
+      "KRAW",
+      "SYNER BRUT",
+      "2022",
+      "CLOUDY WINERY",
+      "COMMUNITY"
+    ]
+  }
+}

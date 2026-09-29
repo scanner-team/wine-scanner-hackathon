@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-shary-kolduna-ramato-pino-gri-rozovoe-suhoe-115",
+  "seconds": 5.270075082778931,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PAMATO\",\n  \"producer\": \"ШАРД КОЛДУНА\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PAMATO\",\n    \"ШАРД КОЛДУНА\",\n    \"ПИНОТ\",\n    \"30%\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PAMATO",
+    "producer": "ШАРД КОЛДУНА",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT",
+    "category": null,
+    "raw_visible_text": [
+      "PAMATO",
+      "ШАРД КОЛДУНА",
+      "ПИНОТ",
+      "30%",
+      "2022"
+    ]
+  }
+}

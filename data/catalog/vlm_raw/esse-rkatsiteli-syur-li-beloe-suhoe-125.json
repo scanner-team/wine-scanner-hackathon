@@ -1,0 +1,21 @@
+{
+  "slug": "esse-rkatsiteli-syur-li-beloe-suhoe-125",
+  "seconds": 4.868381023406982,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Раушен Сон\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Раушен Сон\",\n    \"винар\",\n    \"Мария Калка\",\n    \"2023\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Раушен Сон",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Раушен Сон",
+      "винар",
+      "Мария Калка",
+      "2023",
+      "esse"
+    ]
+  }
+}

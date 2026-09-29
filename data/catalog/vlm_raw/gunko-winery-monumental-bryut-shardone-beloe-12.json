@@ -1,0 +1,20 @@
+{
+  "slug": "gunko-winery-monumental-bryut-shardone-beloe-12",
+  "seconds": 4.645993947982788,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MONUMENTAL\",\n  \"producer\": \"Ganko Winery\",\n  \"cuvee\": \"Spirit\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Spirit\",\n    \"MONUMENTAL\",\n    \"Ganko\",\n    \"Winery\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MONUMENTAL",
+    "producer": "Ganko Winery",
+    "cuvee": "Spirit",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Spirit",
+      "MONUMENTAL",
+      "Ganko",
+      "Winery"
+    ]
+  }
+}

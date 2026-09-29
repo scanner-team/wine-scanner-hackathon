@@ -1,0 +1,21 @@
+{
+  "slug": "kaberne-sovinon",
+  "seconds": 1.2079277038574219,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНАРА\",\n  \"producer\": \"КАСТЕЛЬ СОВИНЬОН\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Мерло\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"МАССАНАРА\",\n    \"КАСТЕЛЬ СОВИНЬОН\",\n    \"2024\",\n    \"Мерло\",\n    \"сухое красное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНАРА",
+    "producer": "КАСТЕЛЬ СОВИНЬОН",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Мерло",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "МАССАНАРА",
+      "КАСТЕЛЬ СОВИНЬОН",
+      "2024",
+      "Мерло",
+      "сухое красное"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "denisov-winery-pino-nuar-shardone-ekstra-bryut-beloe-125",
+  "seconds": 5.52553391456604,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПаJорь\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ОМЗВЕДЕНО В СЕРИИ РО\",\n    \"Самара\",\n    \"DENISOV\",\n    \"САМАРА\",\n    \"ПаJорь\",\n    \"белое брют\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПаJорь",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ОМЗВЕДЕНО В СЕРИИ РО",
+      "Самара",
+      "DENISOV",
+      "САМАРА",
+      "ПаJорь",
+      "белое брют"
+    ]
+  }
+}

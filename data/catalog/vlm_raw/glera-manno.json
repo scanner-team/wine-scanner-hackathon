@@ -1,0 +1,22 @@
+{
+  "slug": "glera-manno",
+  "seconds": 1.0060181617736816,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANNO\",\n  \"producer\": \"MANNOS\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Glera\",\n  \"category\": \"brut\",\n  \"raw_visible_text\": [\n    \"MANNO\",\n    \"MANNOS\",\n    \"EUROPEAN\",\n    \"GLERA\",\n    \"BRUT\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANNO",
+    "producer": "MANNOS",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Glera",
+    "category": "brut",
+    "raw_visible_text": [
+      "MANNO",
+      "MANNOS",
+      "EUROPEAN",
+      "GLERA",
+      "BRUT",
+      "2023"
+    ]
+  }
+}

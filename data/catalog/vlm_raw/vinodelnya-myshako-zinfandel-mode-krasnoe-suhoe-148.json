@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-myshako-zinfandel-mode-krasnoe-suhoe-148",
+  "seconds": 6.325253963470459,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MODE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"ZINFANDEL\",\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛАНКА\",\n    \"MODE\",\n    \"Ripasso 2022\",\n    \"ZINFANDEL\",\n    \"DRY RED\",\n    \"42 000 BOTTLES\",\n    \"Alc. 14,0% vol. 0,75 L\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MODE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "ZINFANDEL",
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕЛАНКА",
+      "MODE",
+      "Ripasso 2022",
+      "ZINFANDEL",
+      "DRY RED",
+      "42 000 BOTTLES",
+      "Alc. 14,0% vol. 0,75 L"
+    ]
+  }
+}

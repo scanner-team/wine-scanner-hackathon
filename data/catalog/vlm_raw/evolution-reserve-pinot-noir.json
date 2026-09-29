@@ -1,0 +1,20 @@
+{
+  "slug": "evolution-reserve-pinot-noir",
+  "seconds": 0.8647842407226562,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"EVOLUTION\",\n  \"producer\": null,\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RESERVE\",\n    \"2022\",\n    \"EVOLUTION\",\n    \"PINOT NOIR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "EVOLUTION",
+    "producer": null,
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "RESERVE",
+      "2022",
+      "EVOLUTION",
+      "PINOT NOIR"
+    ]
+  }
+}

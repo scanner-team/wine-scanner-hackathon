@@ -1,0 +1,20 @@
+{
+  "slug": "miroir-de-talu-merlot-krasnostop",
+  "seconds": 1.1845290660858154,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MIROIR DE TALU\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"КРАСНОСТОП\",\n  \"raw_visible_text\": [\n    \"MIROIR DE TALU\",\n    \"МЕРЛО\",\n    \"КРАСНОСТОП\",\n    \"CHÂTEAU de TALU\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MIROIR DE TALU",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "КРАСНОСТОП",
+    "raw_visible_text": [
+      "MIROIR DE TALU",
+      "МЕРЛО",
+      "КРАСНОСТОП",
+      "CHÂTEAU de TALU"
+    ]
+  }
+}

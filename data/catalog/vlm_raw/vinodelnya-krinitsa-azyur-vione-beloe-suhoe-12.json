@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-azyur-vione-beloe-suhoe-12",
+  "seconds": 4.59233832359314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AZUR\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"AZUR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AZUR",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "ВИНОДЕЛЬНЯ",
+      "AZUR"
+    ]
+  }
+}

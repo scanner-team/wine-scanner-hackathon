@@ -1,0 +1,20 @@
+{
+  "slug": "denisov-winery-petnat-rkatsiteli-beloe-ekstra-bryut-107",
+  "seconds": 4.9462571144104,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТ-ХАТ\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": \"Skin contact\",\n  \"raw_visible_text\": [\n    \"ПЕТ-ХАТ\",\n    \"Ркацители\",\n    \"Skin contact\",\n    \"DENISOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТ-ХАТ",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": "Skin contact",
+    "raw_visible_text": [
+      "ПЕТ-ХАТ",
+      "Ркацители",
+      "Skin contact",
+      "DENISOV"
+    ]
+  }
+}

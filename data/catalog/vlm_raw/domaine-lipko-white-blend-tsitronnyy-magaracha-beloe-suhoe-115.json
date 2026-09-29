@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-lipko-white-blend-tsitronnyy-magaracha-beloe-suhoe-115",
+  "seconds": 13.907531976699829,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DOMAINe LIPKO\",\n  \"producer\": \"DOMAINe LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"WHITE BLEND\",\n  \"raw_visible_text\": [\n    \"WHITE BLEND\",\n    \"20–DOMAINe LIPKO–17\",\n    \"FAMILY VINEYARDS & WINERY\",\n    \"SEVASTOPOL\",\n    \"11.5% vol.\",\n    \"2023\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DOMAINe LIPKO",
+    "producer": "DOMAINe LIPKO",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "WHITE BLEND",
+    "raw_visible_text": [
+      "WHITE BLEND",
+      "20–DOMAINe LIPKO–17",
+      "FAMILY VINEYARDS & WINERY",
+      "SEVASTOPOL",
+      "11.5% vol.",
+      "2023",
+      "750ml"
+    ]
+  }
+}

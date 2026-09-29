@@ -1,0 +1,20 @@
+{
+  "slug": "riesling",
+  "seconds": 0.9808080196380615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KORPHANN BROTHERS\",\n  \"producer\": \"KORPHANN BROTHERS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KORPHANN\",\n    \"BROTHERS\",\n    \"Riesling\",\n    \"M. Hoff\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KORPHANN BROTHERS",
+    "producer": "KORPHANN BROTHERS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": null,
+    "raw_visible_text": [
+      "KORPHANN",
+      "BROTHERS",
+      "Riesling",
+      "M. Hoff"
+    ]
+  }
+}

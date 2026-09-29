@@ -1,0 +1,22 @@
+{
+  "slug": "twopeters_tandem",
+  "seconds": 1.2759404182434082,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА ПЕТРА\",\n  \"producer\": \"СП\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"Красное сухое\",\n  \"raw_visible_text\": [\n    \"WINE OF CRIMEA\",\n    \"ДВА ПЕТРА\",\n    \"2022\",\n    \"TANDEM\",\n    \"Красное сухое\",\n    \"04697\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА ПЕТРА",
+    "producer": "СП",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "Красное сухое",
+    "raw_visible_text": [
+      "WINE OF CRIMEA",
+      "ДВА ПЕТРА",
+      "2022",
+      "TANDEM",
+      "Красное сухое",
+      "04697"
+    ]
+  }
+}

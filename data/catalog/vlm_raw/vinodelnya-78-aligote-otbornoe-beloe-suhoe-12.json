@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-78-aligote-otbornoe-beloe-suhoe-12",
+  "seconds": 5.100589036941528,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИНОДЕЛЬНЯ №78\",\n  \"producer\": \"Айдате Отъбрый\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"рублай сбор\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ №78\",\n    \"Айдате Отъбрый\",\n    \"рублай сбор\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИНОДЕЛЬНЯ №78",
+    "producer": "Айдате Отъбрый",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "рублай сбор",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ №78",
+      "Айдате Отъбрый",
+      "рублай сбор"
+    ]
+  }
+}

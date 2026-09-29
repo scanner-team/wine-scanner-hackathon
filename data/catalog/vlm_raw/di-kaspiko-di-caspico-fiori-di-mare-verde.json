@@ -1,0 +1,23 @@
+{
+  "slug": "di-kaspiko-di-caspico-fiori-di-mare-verde",
+  "seconds": 1.704493761062622,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FORI DI MARE\",\n  \"producer\": \"ДЕРБЕНТ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"белое полусладкое\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИН\",\n    \"FORI DI MARE\",\n    \"DI CASPICO\",\n    \"VERDE\",\n    \"белое\",\n    \"полусладкое\",\n    \"вино\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FORI DI MARE",
+    "producer": "ДЕРБЕНТ ВИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "белое полусладкое",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИН",
+      "FORI DI MARE",
+      "DI CASPICO",
+      "VERDE",
+      "белое",
+      "полусладкое",
+      "вино"
+    ]
+  }
+}

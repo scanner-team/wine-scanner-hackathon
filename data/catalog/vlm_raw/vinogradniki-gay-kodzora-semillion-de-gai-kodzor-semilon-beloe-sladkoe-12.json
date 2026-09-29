@@ -1,0 +1,24 @@
+{
+  "slug": "vinogradniki-gay-kodzora-semillion-de-gai-kodzor-semilon-beloe-sladkoe-12",
+  "seconds": 5.9894118309021,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Semillen de GAI-KODZOR\",\n  \"producer\": \"GAÏ-KODZOR\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GAÏ-KODZOR\",\n    \"Semillen\",\n    \"de\",\n    \"GAÏ-KODZOR\",\n    \"1250ml 13% vol.\",\n    \"PRODUCED IN RUSSIA\",\n    \"PRODUCT OF RUSSIA\",\n    \"Capp 13%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Semillen de GAI-KODZOR",
+    "producer": "GAÏ-KODZOR",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GAÏ-KODZOR",
+      "Semillen",
+      "de",
+      "GAÏ-KODZOR",
+      "1250ml 13% vol.",
+      "PRODUCED IN RUSSIA",
+      "PRODUCT OF RUSSIA",
+      "Capp 13%"
+    ]
+  }
+}

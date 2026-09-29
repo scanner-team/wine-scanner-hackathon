@@ -1,0 +1,12 @@
+.git
+.env
+*.log
+__pycache__/
+*.pyc
+winescanner/predict_log.jsonl
+winescanner/marks_log.jsonl
+winescanner/SCANNER_ERRORS.md
+winescanner/CONFIDENT_MISSES.md
+winescanner/query_log/
+winescanner/query_crops/
+winescanner/batch_staging/

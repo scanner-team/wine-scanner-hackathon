@@ -1,0 +1,21 @@
+{
+  "slug": "tempelhof-winery-tsimlyanskiy-chernyy-krasnoe-suhoe-125",
+  "seconds": 13.187870979309082,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Tempelhof\",\n  \"producer\": \"Kuma River Valley\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Tsimpliansky Cherny\",\n  \"category\": \"Product of Russia\",\n  \"raw_visible_text\": [\n    \"Kuma River Valley\",\n    \"Tempelhof\",\n    \"Tsimpliansky Cherny\",\n    \"2023\",\n    \"Product of Russia\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Tempelhof",
+    "producer": "Kuma River Valley",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Tsimpliansky Cherny",
+    "category": "Product of Russia",
+    "raw_visible_text": [
+      "Kuma River Valley",
+      "Tempelhof",
+      "Tsimpliansky Cherny",
+      "2023",
+      "Product of Russia"
+    ]
+  }
+}

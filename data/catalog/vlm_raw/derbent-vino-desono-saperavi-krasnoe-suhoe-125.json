@@ -1,0 +1,22 @@
+{
+  "slug": "derbent-vino-desono-saperavi-krasnoe-suhoe-125",
+  "seconds": 11.878130197525024,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DESONO\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SAPERAVI\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИНО\",\n    \"DESONO\",\n    \"SAPERAVI\",\n    \"2022\",\n    \"КРАСНОЕ СУХОЕ ВИНО ИЗ ВИНОГРАДА.\",\n    \"ВЫРАЩЕННОГО В ДАФЕСТАНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DESONO",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SAPERAVI",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИНО",
+      "DESONO",
+      "SAPERAVI",
+      "2022",
+      "КРАСНОЕ СУХОЕ ВИНО ИЗ ВИНОГРАДА.",
+      "ВЫРАЩЕННОГО В ДАФЕСТАНЕ"
+    ]
+  }
+}

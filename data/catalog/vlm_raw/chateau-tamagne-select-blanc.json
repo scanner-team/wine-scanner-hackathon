@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-tamagne-select-blanc",
+  "seconds": 1.1048290729522705,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TANAGRO\",\n  \"producer\": \"CHATEAU TANAGRO\",\n  \"cuvee\": \"SELECT\",\n  \"vintage\": \"2023\",\n  \"grape\": \"Савойяр Блон\",\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"CHATEAU TANAGRO\",\n    \"SELECT\",\n    \"2023\",\n    \"Савойяр Блон\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TANAGRO",
+    "producer": "CHATEAU TANAGRO",
+    "cuvee": "SELECT",
+    "vintage": "2023",
+    "grape": "Савойяр Блон",
+    "category": "сухое",
+    "raw_visible_text": [
+      "CHATEAU TANAGRO",
+      "SELECT",
+      "2023",
+      "Савойяр Блон"
+    ]
+  }
+}

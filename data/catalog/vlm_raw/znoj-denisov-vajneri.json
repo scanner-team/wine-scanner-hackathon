@@ -1,0 +1,18 @@
+{
+  "slug": "znoj-denisov-vajneri",
+  "seconds": 0.8044877052307129,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЗНОЙ\",\n  \"producer\": \"ДЕНИСОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ДЕНИСОВ\",\n    \"ЗНОЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЗНОЙ",
+    "producer": "ДЕНИСОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ДЕНИСОВ",
+      "ЗНОЙ"
+    ]
+  }
+}

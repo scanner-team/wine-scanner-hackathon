@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-krasnaya-kniga-glava-1-kaberne-sovinon-krasnoe-suhoe-147",
+  "seconds": 14.906042098999023,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": \"Красная книга Глава 1\",\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2020\",\n    \"Красная книга\",\n    \"Глава 1\",\n    \"№ 2316\",\n    \"Testudo Graeca\",\n    \"Mikolstki\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": "Красная книга Глава 1",
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2020",
+      "Красная книга",
+      "Глава 1",
+      "№ 2316",
+      "Testudo Graeca",
+      "Mikolstki"
+    ]
+  }
+}

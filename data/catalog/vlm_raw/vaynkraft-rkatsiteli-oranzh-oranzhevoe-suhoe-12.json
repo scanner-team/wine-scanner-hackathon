@@ -1,0 +1,19 @@
+{
+  "slug": "vaynkraft-rkatsiteli-oranzh-oranzhevoe-suhoe-12",
+  "seconds": 4.732538938522339,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PHANTHEM\",\n  \"producer\": \"WINECRAFT 2024\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PHANTHEM\",\n    \"ФАНТЭМ\",\n    \"WINECRAFT 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PHANTHEM",
+    "producer": "WINECRAFT 2024",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "PHANTHEM",
+      "ФАНТЭМ",
+      "WINECRAFT 2024"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "agora-terruarnoe-bastardo",
+  "seconds": 1.5359697341918945,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАСТАРДО\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"АГЛАГАН КАЯ\",\n  \"category\": \"выдержанное красное сухое\",\n  \"raw_visible_text\": [\n    \"AGORA WINERY\",\n    \"БАСТАРДО\",\n    \"ВЫДЕРЖАННОЕ КРАСНОЕ СУХОЕ\",\n    \"ТЕРРУРАНОЕ ВИНО\",\n    \"АГЛАГАН КАЯ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАСТАРДО",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "АГЛАГАН КАЯ",
+    "category": "выдержанное красное сухое",
+    "raw_visible_text": [
+      "AGORA WINERY",
+      "БАСТАРДО",
+      "ВЫДЕРЖАННОЕ КРАСНОЕ СУХОЕ",
+      "ТЕРРУРАНОЕ ВИНО",
+      "АГЛАГАН КАЯ",
+      "2023"
+    ]
+  }
+}

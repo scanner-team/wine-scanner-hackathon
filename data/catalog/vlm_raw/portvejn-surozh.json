@@ -1,0 +1,21 @@
+{
+  "slug": "portvejn-surozh",
+  "seconds": 1.12330961227417,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"МАССАНДРА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"белый сухой\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"ПОРТВЕЙН\",\n    \"БЕЛЫЙ СУРОЖ\",\n    \"Сухой\",\n    \"0.75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "МАССАНДРА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "белый сухой",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "ПОРТВЕЙН",
+      "БЕЛЫЙ СУРОЖ",
+      "Сухой",
+      "0.75 л"
+    ]
+  }
+}

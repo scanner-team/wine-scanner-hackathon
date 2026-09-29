@@ -1,0 +1,19 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-red-blend-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 4.374075174331665,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"Красный Белец\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"Красный Белец\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "Красный Белец",
+    "category": null,
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "RESERVE",
+      "Красный Белец"
+    ]
+  }
+}

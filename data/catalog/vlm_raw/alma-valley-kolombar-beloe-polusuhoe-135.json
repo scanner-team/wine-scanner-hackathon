@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-kolombar-beloe-polusuhoe-135",
+  "seconds": 6.9790449142456055,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"COLOMBARD\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"БЕЛОЕ ПОЛУСУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"2023\",\n    \"COLOMBARD\",\n    \"БЕЛОЕ ПОЛУСУХОЕ ВИНО\",\n    \"КРЫМ | РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "COLOMBARD",
+    "producer": "ALMA VALLEY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "БЕЛОЕ ПОЛУСУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "2023",
+      "COLOMBARD",
+      "БЕЛОЕ ПОЛУСУХОЕ ВИНО",
+      "КРЫМ | РОССИЯ"
+    ]
+  }
+}

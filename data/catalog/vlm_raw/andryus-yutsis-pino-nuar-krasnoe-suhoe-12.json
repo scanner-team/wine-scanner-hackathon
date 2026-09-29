@@ -1,0 +1,20 @@
+{
+  "slug": "andryus-yutsis-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 4.8713061809539795,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryus Yutsis\",\n  \"producer\": \"Даво Хэйд\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Andryus\",\n    \"Yutsis\",\n    \"Даво Хэйд\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryus Yutsis",
+    "producer": "Даво Хэйд",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Andryus",
+      "Yutsis",
+      "Даво Хэйд",
+      "2023"
+    ]
+  }
+}

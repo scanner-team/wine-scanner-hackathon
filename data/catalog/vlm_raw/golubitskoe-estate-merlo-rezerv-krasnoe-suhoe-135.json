@@ -1,0 +1,22 @@
+{
+  "slug": "golubitskoe-estate-merlo-rezerv-krasnoe-suhoe-135",
+  "seconds": 5.514775037765503,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GOLUBITSKOE ESTATE\",\n  \"producer\": \"GOLUBITSKAYA STRELKA\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"MERLOT\",\n  \"category\": \"TAWAGNE\",\n  \"raw_visible_text\": [\n    \"RESERVE\",\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"MERLOT\",\n    \"GOLUBITSKAYA STRELKA\",\n    \"TAWAGNE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GOLUBITSKOE ESTATE",
+    "producer": "GOLUBITSKAYA STRELKA",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "MERLOT",
+    "category": "TAWAGNE",
+    "raw_visible_text": [
+      "RESERVE",
+      "GOLUBITSKOE",
+      "ESTATE",
+      "MERLOT",
+      "GOLUBITSKAYA STRELKA",
+      "TAWAGNE"
+    ]
+  }
+}

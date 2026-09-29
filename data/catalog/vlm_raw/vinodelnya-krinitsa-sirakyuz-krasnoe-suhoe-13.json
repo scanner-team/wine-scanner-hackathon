@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-sirakyuz-krasnoe-suhoe-13",
+  "seconds": 4.567108154296875,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SYRACUSE\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SYRACUSE\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"ВИНОДЕЛЕНЬЯ\",\n    \"SYRACUSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SYRACUSE",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SYRACUSE",
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "ВИНОДЕЛЕНЬЯ",
+      "SYRACUSE"
+    ]
+  }
+}

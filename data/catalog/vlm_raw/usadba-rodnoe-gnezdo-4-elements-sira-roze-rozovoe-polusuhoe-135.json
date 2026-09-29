@@ -1,0 +1,18 @@
+{
+  "slug": "usadba-rodnoe-gnezdo-4-elements-sira-roze-rozovoe-polusuhoe-135",
+  "seconds": 4.5790488719940186,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"4 ELEMENTS\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SYRAH\",\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"4 ELEMENTS\",\n    \"SYRAH ROSE / 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "4 ELEMENTS",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SYRAH",
+    "category": "ROSE",
+    "raw_visible_text": [
+      "4 ELEMENTS",
+      "SYRAH ROSE / 2023"
+    ]
+  }
+}

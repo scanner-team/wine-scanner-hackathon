@@ -1,0 +1,21 @@
+{
+  "slug": "cosaque-krasnaya-gorka",
+  "seconds": 1.7032155990600586,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"COSAQUE\",\n  \"producer\": \"Галицкий • Галицкий\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ГАЛИЦКИЙ • ГАЛИЦКИЙ\",\n    \"COSAQUE\",\n    \"СВЕДЬМОЙ УРОЖАЙ\",\n    \"КРАСНАЯ ГОРКА\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "COSAQUE",
+    "producer": "Галицкий • Галицкий",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ГАЛИЦКИЙ • ГАЛИЦКИЙ",
+      "COSAQUE",
+      "СВЕДЬМОЙ УРОЖАЙ",
+      "КРАСНАЯ ГОРКА",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "david-2021",
+  "seconds": 6.411381959915161,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"David\",\n  \"producer\": \"WINEMAFIA\",\n  \"cuvee\": \"Limited Release\",\n  \"vintage\": \"2021\",\n  \"grape\": \"Saperavi\",\n  \"category\": \"SINGLE VINEYARD\",\n  \"raw_visible_text\": [\n    \"WINEMAFIA\",\n    \"Vineyards Discoveries\",\n    \"David\",\n    \"LIMITED RELEASE\",\n    \"by FARKHAD NAGDALIY\",\n    \"SAPERAVI\",\n    \"2021\",\n    \"SINGLE VINEYARD\",\n    \"MORINGA & VITASSA DERBENTA\",\n    \"Bottle № 703/900\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "David",
+    "producer": "WINEMAFIA",
+    "cuvee": "Limited Release",
+    "vintage": "2021",
+    "grape": "Saperavi",
+    "category": "SINGLE VINEYARD",
+    "raw_visible_text": [
+      "WINEMAFIA",
+      "Vineyards Discoveries",
+      "David",
+      "LIMITED RELEASE",
+      "by FARKHAD NAGDALIY",
+      "SAPERAVI",
+      "2021",
+      "SINGLE VINEYARD",
+      "MORINGA & VITASSA DERBENTA",
+      "Bottle № 703/900"
+    ]
+  }
+}

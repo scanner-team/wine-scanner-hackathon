@@ -1,0 +1,21 @@
+{
+  "slug": "zmv-koktebel-atmosfera-rkatsiteli-aligote-kokur-muskat-belyy-shardone-beloe-polusladkoe-11",
+  "seconds": 14.611808776855469,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЛАНЕРСКОЕ\",\n  \"producer\": \"КОКТЕБЕАД\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПЛАНЕРСКОЕ\",\n  \"category\": \"БЕЛОЕ ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНЫХ ВИН\",\n    \"КОКТЕБЕАД\",\n    \"EST 1879\",\n    \"ПЛАНЕРСКОЕ\",\n    \"БЕЛОЕ ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЛАНЕРСКОЕ",
+    "producer": "КОКТЕБЕАД",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПЛАНЕРСКОЕ",
+    "category": "БЕЛОЕ ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНЫХ ВИН",
+      "КОКТЕБЕАД",
+      "EST 1879",
+      "ПЛАНЕРСКОЕ",
+      "БЕЛОЕ ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

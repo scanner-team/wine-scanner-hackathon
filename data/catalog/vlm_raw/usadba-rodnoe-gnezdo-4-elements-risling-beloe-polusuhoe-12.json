@@ -1,0 +1,19 @@
+{
+  "slug": "usadba-rodnoe-gnezdo-4-elements-risling-beloe-polusuhoe-12",
+  "seconds": 4.583652019500732,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"4 ELEMENTS\",\n  \"producer\": \"PODHOE THEGLO\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PODHOE THEGLO\",\n    \"4 ELEMENTS\",\n    \"RIESLING / 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "4 ELEMENTS",
+    "producer": "PODHOE THEGLO",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "PODHOE THEGLO",
+      "4 ELEMENTS",
+      "RIESLING / 2023"
+    ]
+  }
+}

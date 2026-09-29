@@ -1,0 +1,20 @@
+{
+  "slug": "villa-urkusta-kaberne-sovinon-klaret-rozovoe-polusuhoe-15",
+  "seconds": 8.932579040527344,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Clairet\",\n  \"producer\": \"Villa Urban\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cabernet Sauvignon\",\n    \"Clairet\",\n    \"Villa Urban\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Clairet",
+    "producer": "Villa Urban",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Cabernet Sauvignon",
+    "category": null,
+    "raw_visible_text": [
+      "Cabernet Sauvignon",
+      "Clairet",
+      "Villa Urban",
+      "2023"
+    ]
+  }
+}

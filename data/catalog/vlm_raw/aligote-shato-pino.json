@@ -1,0 +1,20 @@
+{
+  "slug": "aligote-shato-pino",
+  "seconds": 1.1122806072235107,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALIGOTE\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"ALIGOTE\",\n  \"category\": \"brut\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"ALIGOTE\",\n    \"2025\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALIGOTE",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "ALIGOTE",
+    "category": "brut",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "ALIGOTE",
+      "2025"
+    ]
+  }
+}

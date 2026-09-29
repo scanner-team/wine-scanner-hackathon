@@ -1,0 +1,21 @@
+{
+  "slug": "orlov_sauvignon_blan",
+  "seconds": 1.2258415222167969,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Совиньон Блан\",\n  \"producer\": \"Орлов\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Совиньон\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"Орлов\",\n    \"Совиньон Блан\",\n    \"2022\",\n    \"сухое белое\",\n    \"содержание алкоголя 11,0%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Совиньон Блан",
+    "producer": "Орлов",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Совиньон",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "Орлов",
+      "Совиньон Блан",
+      "2022",
+      "сухое белое",
+      "содержание алкоголя 11,0%"
+    ]
+  }
+}

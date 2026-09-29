@@ -1,0 +1,19 @@
+{
+  "slug": "leto-risling-2020",
+  "seconds": 10.198328018188477,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛЕТО\",\n  \"producer\": \"ВИНОДЕЛЬНИЯ ЛЕТО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рислинг\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНИЯ ЛЕТО\",\n    \"ЛЕТО\",\n    \"Рислинг\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛЕТО",
+    "producer": "ВИНОДЕЛЬНИЯ ЛЕТО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рислинг",
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНИЯ ЛЕТО",
+      "ЛЕТО",
+      "Рислинг"
+    ]
+  }
+}

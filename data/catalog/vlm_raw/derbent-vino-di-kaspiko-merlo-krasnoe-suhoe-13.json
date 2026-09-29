@@ -1,0 +1,23 @@
+{
+  "slug": "derbent-vino-di-kaspiko-merlo-krasnoe-suhoe-13",
+  "seconds": 14.53282904624939,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"DI CASPICO\",\n    \"МЕРЛО\",\n    \"ВИНО ИЗ ВИНОГРАДА,\",\n    \"ВЫРАЩЕННОГО В ДАГЕСТАНЕ\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"АКЛ.13% ОБ.\",\n    \"750 МЛ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "DI CASPICO",
+      "МЕРЛО",
+      "ВИНО ИЗ ВИНОГРАДА,",
+      "ВЫРАЩЕННОГО В ДАГЕСТАНЕ",
+      "КРАСНОЕ СУХОЕ",
+      "АКЛ.13% ОБ.",
+      "750 МЛ"
+    ]
+  }
+}

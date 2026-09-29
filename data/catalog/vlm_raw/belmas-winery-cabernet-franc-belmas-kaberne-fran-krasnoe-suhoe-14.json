@@ -1,0 +1,19 @@
+{
+  "slug": "belmas-winery-cabernet-franc-belmas-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 4.486674785614014,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cf\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cf\",\n    \"2022\",\n    \"Belmäs\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cf",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Cf",
+      "2022",
+      "Belmäs"
+    ]
+  }
+}

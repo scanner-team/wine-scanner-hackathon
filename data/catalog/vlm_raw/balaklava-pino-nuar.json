@@ -1,0 +1,27 @@
+{
+  "slug": "balaklava-pino-nuar",
+  "seconds": 2.6356990337371826,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАЛАКЛАВА\",\n  \"producer\": \"КРЫМ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"КРЫМ\",\n    \"1889\",\n    \"ЗОЛОТАЯ\",\n    \"БАЛКА\",\n    \"ПИНО НУАР БРЮТ РОЗОВОЕ\",\n    \"Российское игристое вино\",\n    \"БАЛАКЛАВА\",\n    \"PINOT NOIR\",\n    \".Brut\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\",\n    \"0.75l\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАЛАКЛАВА",
+    "producer": "КРЫМ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": "брют",
+    "raw_visible_text": [
+      "КРЫМ",
+      "1889",
+      "ЗОЛОТАЯ",
+      "БАЛКА",
+      "ПИНО НУАР БРЮТ РОЗОВОЕ",
+      "Российское игристое вино",
+      "БАЛАКЛАВА",
+      "PINOT NOIR",
+      ".Brut",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»",
+      "0.75l"
+    ]
+  }
+}

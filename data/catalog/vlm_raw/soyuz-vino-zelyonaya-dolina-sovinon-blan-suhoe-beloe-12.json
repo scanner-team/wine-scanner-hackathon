@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-zelyonaya-dolina-sovinon-blan-suhoe-beloe-12",
+  "seconds": 8.014334917068481,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZELËNAYA DOLINA\",\n  \"producer\": \"Zelenaya Dolina\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"WHITE DRY WINE\",\n  \"raw_visible_text\": [\n    \"ZELËNAYA\",\n    \"DOLINA\",\n    \"SAUVIGNON BLANC\",\n    \"WHITE DRY WINE\",\n    \"Вино сухое белое\",\n    \"-Зеленая Долина- Сочиньон Блан-\",\n    \"ПРОИЗВЕДЕНО В КОСОВЕ\",\n    \"Спирт 12.0 % об. Объем 0.75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZELËNAYA DOLINA",
+    "producer": "Zelenaya Dolina",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": "WHITE DRY WINE",
+    "raw_visible_text": [
+      "ZELËNAYA",
+      "DOLINA",
+      "SAUVIGNON BLANC",
+      "WHITE DRY WINE",
+      "Вино сухое белое",
+      "-Зеленая Долина- Сочиньон Блан-",
+      "ПРОИЗВЕДЕНО В КОСОВЕ",
+      "Спирт 12.0 % об. Объем 0.75 л"
+    ]
+  }
+}

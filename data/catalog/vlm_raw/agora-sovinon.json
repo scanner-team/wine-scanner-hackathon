@@ -1,0 +1,22 @@
+{
+  "slug": "agora-sovinon",
+  "seconds": 7.445183992385864,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"WHITE DRY WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"SAUVIGNON\",\n    \"WHITE DRY WINE\",\n    \"СОУМЫВОЙ • БЕЛОЕ СУХОЕ\",\n    \"ВЫДЕРЖАНО В ДУБЕ • РУЧНОЙ СВОР\",\n    \"ЗТУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": "WHITE DRY WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "SAUVIGNON",
+      "WHITE DRY WINE",
+      "СОУМЫВОЙ • БЕЛОЕ СУХОЕ",
+      "ВЫДЕРЖАНО В ДУБЕ • РУЧНОЙ СВОР",
+      "ЗТУ"
+    ]
+  }
+}

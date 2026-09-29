@@ -1,0 +1,19 @@
+{
+  "slug": "ivan-ksenia-kruz-argonne-sauvignon-blanc-sovinon-blan-beloe-suhoe-115",
+  "seconds": 4.927297592163086,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARGONNE\",\n  \"producer\": \"IVAN & KSENIA KRUZ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SOVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"IVAN & KSENIA KRUZ\",\n    \"ARGONNE\",\n    \"SOVIGNON BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARGONNE",
+    "producer": "IVAN & KSENIA KRUZ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SOVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "IVAN & KSENIA KRUZ",
+      "ARGONNE",
+      "SOVIGNON BLANC"
+    ]
+  }
+}

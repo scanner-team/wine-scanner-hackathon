@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-aristov-8-roze-merlo-rozovoe-suhoe-8",
+  "seconds": 5.793046951293945,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"незакалогольное розовое российское вино\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"ROSE\",\n    \"NATURAL\",\n    \"МЕРЛО\",\n    \"незакалогольное розовое российское вино\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "незакалогольное розовое российское вино",
+    "raw_visible_text": [
+      "ARISTOV",
+      "ROSE",
+      "NATURAL",
+      "МЕРЛО",
+      "незакалогольное розовое российское вино"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-grande-cuvee-shardone-beloe-bryut-125",
+  "seconds": 13.659114122390747,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"УСАЛЬБА ДИВНОМОРСКОЕ\",\n  \"producer\": null,\n  \"cuvee\": \"GRANDE CUVÉE\",\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"УСАЛЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"GRANDE CUVÉE\",\n    \"BRUT\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "УСАЛЬБА ДИВНОМОРСКОЕ",
+    "producer": null,
+    "cuvee": "GRANDE CUVÉE",
+    "vintage": "2020",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "УСАЛЬБА",
+      "ДИВНОМОРСКОЕ",
+      "GRANDE CUVÉE",
+      "BRUT",
+      "2020"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "gavras-sira-krasnoe-suhoe-135",
+  "seconds": 4.16761589050293,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СИРА\",\n  \"producer\": \"GAVRAS\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"3337 бутылок\",\n  \"category\": \"КРЫМ\"\n}",
+  "parsed": {
+    "visible_name": "СИРА",
+    "producer": "GAVRAS",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "3337 бутылок",
+    "category": "КРЫМ"
+  }
+}

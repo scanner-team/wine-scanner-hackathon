@@ -1,0 +1,20 @@
+{
+  "slug": "dva-serdtsa-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 5.499835968017578,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА СЕРДЦА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"ДВА СЕРДЦА\",\n    \"КАБЕРНЕ ФРАН\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА СЕРДЦА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "ДВА СЕРДЦА",
+      "КАБЕРНЕ ФРАН",
+      "СУХОЕ КРАСНОЕ",
+      "КРЫМ"
+    ]
+  }
+}

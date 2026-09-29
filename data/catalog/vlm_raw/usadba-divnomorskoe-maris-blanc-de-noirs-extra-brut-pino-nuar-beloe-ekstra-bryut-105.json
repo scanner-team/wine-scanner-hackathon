@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-maris-blanc-de-noirs-extra-brut-pino-nuar-beloe-ekstra-bryut-105",
+  "seconds": 4.888240098953247,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MARIS\",\n  \"producer\": \"VILASSA AMBROMOPORCO\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": \"BLANC DE NOIRS\",\n  \"category\": \"BRUT NATURE\",\n  \"raw_visible_text\": [\n    \"VILASSA AMBROMOPORCO\",\n    \"MARIS\",\n    \"BLANC DE NOIRS\",\n    \"BRUT NATURE\",\n    \"2015\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MARIS",
+    "producer": "VILASSA AMBROMOPORCO",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": "BLANC DE NOIRS",
+    "category": "BRUT NATURE",
+    "raw_visible_text": [
+      "VILASSA AMBROMOPORCO",
+      "MARIS",
+      "BLANC DE NOIRS",
+      "BRUT NATURE",
+      "2015"
+    ]
+  }
+}

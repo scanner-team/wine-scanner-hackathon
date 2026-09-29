@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-reserve-pino-nuar-krasnoe-suhoe-148",
+  "seconds": 7.375136852264404,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"MŠICKÁKO\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2018\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"RESERVE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"MŠICKÁKO\",\n    \"PINOT NOIR\",\n    \"RESERVE\",\n    \"2018\",\n    \"СТРАНД-НОВОРОССИЙСКИЙ\",\n    \"СУХОЕ\",\n    \"КРАСНОЕ\",\n    \"ТИРАН\",\n    \"ОСНОВА\",\n    \"АЛКОГОЛЬ 14,5% об.\",\n    \"ОБЪЕМ 0,75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "MŠICKÁKO",
+    "cuvee": "COLLECTION",
+    "vintage": "2018",
+    "grape": "PINOT NOIR",
+    "category": "RESERVE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "MŠICKÁKO",
+      "PINOT NOIR",
+      "RESERVE",
+      "2018",
+      "СТРАНД-НОВОРОССИЙСКИЙ",
+      "СУХОЕ",
+      "КРАСНОЕ",
+      "ТИРАН",
+      "ОСНОВА",
+      "АЛКОГОЛЬ 14,5% об.",
+      "ОБЪЕМ 0,75л"
+    ]
+  }
+}

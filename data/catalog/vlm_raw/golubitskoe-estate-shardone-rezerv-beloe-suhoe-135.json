@@ -1,0 +1,22 @@
+{
+  "slug": "golubitskoe-estate-shardone-rezerv-beloe-suhoe-135",
+  "seconds": 5.755168914794922,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GOLUBITSKOE ESTATE\",\n  \"producer\": \"GOLUBITSKAYA STRELSKA\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"RESERVE\",\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"CHARDONNAY\",\n    \"GOLUBITSKAYA STRELSKA\",\n    \"PAMAKNE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GOLUBITSKOE ESTATE",
+    "producer": "GOLUBITSKAYA STRELSKA",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": "null",
+    "raw_visible_text": [
+      "RESERVE",
+      "GOLUBITSKOE",
+      "ESTATE",
+      "CHARDONNAY",
+      "GOLUBITSKAYA STRELSKA",
+      "PAMAKNE"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-myshako-risling-blanc-out-beloe-suhoe-145",
+  "seconds": 6.886420965194702,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC OUT\",\n  \"producer\": \"ВИНОДЕЛНЯ МЫСКАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛНЯ\",\n    \"МЫСКАКО\",\n    \"1869\",\n    \"2022\",\n    \"14,5%\",\n    \"BLANC\",\n    \"OUT\",\n    \"КРУГОС\",\n    \"РИСЛИНГ\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC OUT",
+    "producer": "ВИНОДЕЛНЯ МЫСКАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "РИСЛИНГ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛНЯ",
+      "МЫСКАКО",
+      "1869",
+      "2022",
+      "14,5%",
+      "BLANC",
+      "OUT",
+      "КРУГОС",
+      "РИСЛИНГ",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

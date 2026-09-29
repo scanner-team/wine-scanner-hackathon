@@ -1,0 +1,21 @@
+{
+  "slug": "vaynkraft-blan-pino-nuar-beloe-suhoe-12",
+  "seconds": 5.385442018508911,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WINECRAFT 2024\",\n  \"producer\": \"WINECRAFT\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"белое\",\n  \"raw_visible_text\": [\n    \"СИНО НУАР\",\n    \"ПО БЕЛОМУ\",\n    \"WINECRAFT 2024\",\n    \"28\",\n    \"0.75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WINECRAFT 2024",
+    "producer": "WINECRAFT",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "белое",
+    "raw_visible_text": [
+      "СИНО НУАР",
+      "ПО БЕЛОМУ",
+      "WINECRAFT 2024",
+      "28",
+      "0.75л"
+    ]
+  }
+}

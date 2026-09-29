@@ -1,0 +1,20 @@
+{
+  "slug": "sober-bash-trezvaya-golova-saperavi-krasnoe-suhoe-14",
+  "seconds": 7.1199750900268555,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": \"ТРЕЗВАЯ ГОЛОВА\",\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ТРЕЗВАЯ ГОЛОВА\",\n    \"САПЕРАВИ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ",
+    "producer": "СОБЕР БАШ",
+    "cuvee": "ТРЕЗВАЯ ГОЛОВА",
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ТРЕЗВАЯ ГОЛОВА",
+      "САПЕРАВИ",
+      "2024"
+    ]
+  }
+}

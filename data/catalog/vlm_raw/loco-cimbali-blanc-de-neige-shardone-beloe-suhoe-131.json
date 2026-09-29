@@ -1,0 +1,24 @@
+{
+  "slug": "loco-cimbali-blanc-de-neige-shardone-beloe-suhoe-131",
+  "seconds": 5.685512065887451,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE NEIGE\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"VIN BLANC SEC\",\n  \"raw_visible_text\": [\n    \"GRAND VIN\",\n    \"BLANC\",\n    \"DE\",\n    \"NEIGE\",\n    \"Oly Regin\",\n    \"in Suzanne G\",\n    \"VIN BLANC SEC\",\n    \"SEVASTOPOL 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE NEIGE",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "VIN BLANC SEC",
+    "raw_visible_text": [
+      "GRAND VIN",
+      "BLANC",
+      "DE",
+      "NEIGE",
+      "Oly Regin",
+      "in Suzanne G",
+      "VIN BLANC SEC",
+      "SEVASTOPOL 2022"
+    ]
+  }
+}

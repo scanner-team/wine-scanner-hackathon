@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-belbek-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 5.9682958126068115,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"КАБЕРНЕ\",\n    \"ФРАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "КАБЕРНЕ",
+      "ФРАН"
+    ]
+  }
+}

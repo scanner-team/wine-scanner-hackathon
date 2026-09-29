@@ -1,0 +1,24 @@
+{
+  "slug": "inkermanskiy-zmv-winemakers-selection-saperavi-krasnoe-polusladkoe-12",
+  "seconds": 14.552609205245972,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": \"WINEMAKER'S SELECTION\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"полусладкое красное\",\n  \"raw_visible_text\": [\n    \"19\",\n    \"61\",\n    \"INKERMAN\",\n    \"САПЕРАВИ\",\n    \"Pemi-sweet\",\n    \"ИГРИСТОЕ ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ\",\n    \"2023\",\n    \"WINEMAKER'S SELECTION\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ",
+    "producer": "INKERMAN",
+    "cuvee": "WINEMAKER'S SELECTION",
+    "vintage": "2023",
+    "grape": null,
+    "category": "полусладкое красное",
+    "raw_visible_text": [
+      "19",
+      "61",
+      "INKERMAN",
+      "САПЕРАВИ",
+      "Pemi-sweet",
+      "ИГРИСТОЕ ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ",
+      "2023",
+      "WINEMAKER'S SELECTION"
+    ]
+  }
+}

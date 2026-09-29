@@ -1,0 +1,26 @@
+{
+  "slug": "fanagoriya-5-elements-bryut-rozovoe-saperavi-igristoe-bryut-rozovoe-125",
+  "seconds": 15.03382396697998,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"5 ELEMENTS\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"РОЗОВОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"5\",\n    \"ELEMENTS\",\n    \"ВИНОДЕЛ\",\n    \"ЛОЗА\",\n    \"ВОДА\",\n    \"ЗЕМЛЯ\",\n    \"СОЛНЦЕ\",\n    \"РОЗОВОЕ БРЮТ\",\n    \"ИГРИСТОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "5 ELEMENTS",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "РОЗОВОЕ БРЮТ",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "5",
+      "ELEMENTS",
+      "ВИНОДЕЛ",
+      "ЛОЗА",
+      "ВОДА",
+      "ЗЕМЛЯ",
+      "СОЛНЦЕ",
+      "РОЗОВОЕ БРЮТ",
+      "ИГРИСТОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ"
+    ]
+  }
+}

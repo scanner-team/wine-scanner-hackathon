@@ -1,0 +1,18 @@
+{
+  "slug": "koldun-beloe-suhoe",
+  "seconds": 0.8803451061248779,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНОТ\",\n  \"producer\": \"ЖОПДУН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино-Нуар\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПИНОТ\",\n    \"ЖОПДУН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНОТ",
+    "producer": "ЖОПДУН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино-Нуар",
+    "category": null,
+    "raw_visible_text": [
+      "ПИНОТ",
+      "ЖОПДУН"
+    ]
+  }
+}

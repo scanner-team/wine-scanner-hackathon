@@ -1,0 +1,20 @@
+{
+  "slug": "vina-arpachina-arpachino-inohodets-kumshatskiy-beloe-ekstra-bryut-125",
+  "seconds": 5.953951835632324,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРПАЧИНО\",\n  \"producer\": \"ИНОХОДЕЦ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"КУМШАЦКИЙ\",\n  \"category\": \"ЭКСТРА БРЮТ\",\n  \"raw_visible_text\": [\n    \"АРПАЧИНО\",\n    \"ИНОХОДЕЦ\",\n    \"КУМШАЦКИЙ БЕЛЫЙ 2022\",\n    \"ЭКСТРА БРЮТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРПАЧИНО",
+    "producer": "ИНОХОДЕЦ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "КУМШАЦКИЙ",
+    "category": "ЭКСТРА БРЮТ",
+    "raw_visible_text": [
+      "АРПАЧИНО",
+      "ИНОХОДЕЦ",
+      "КУМШАЦКИЙ БЕЛЫЙ 2022",
+      "ЭКСТРА БРЮТ"
+    ]
+  }
+}

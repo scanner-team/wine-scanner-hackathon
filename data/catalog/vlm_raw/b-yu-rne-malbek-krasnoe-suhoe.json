@@ -1,0 +1,22 @@
+{
+  "slug": "b-yu-rne-malbek-krasnoe-suhoe",
+  "seconds": 1.4405238628387451,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЮРНЫЕ\",\n  \"producer\": \"БЮРНЫЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"МАЛЬБЕК\",\n  \"category\": \"красное узло\",\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"BURNIER\",\n    \"МАЛЬБЕК / красное узло\",\n    \"2020\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"ЗГУ «КУЗЬЯ»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЮРНЫЕ",
+    "producer": "БЮРНЫЕ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "МАЛЬБЕК",
+    "category": "красное узло",
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "BURNIER",
+      "МАЛЬБЕК / красное узло",
+      "2020",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "ЗГУ «КУЗЬЯ»"
+    ]
+  }
+}

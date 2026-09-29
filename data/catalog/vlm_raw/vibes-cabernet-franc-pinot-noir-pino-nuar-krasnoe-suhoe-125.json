@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-cabernet-franc-pinot-noir-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 4.680438995361328,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Cabernet Franc - Pinot Noir\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Cabernet Franc - Pinot Noir 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Cabernet Franc - Pinot Noir",
+    "category": null,
+    "raw_visible_text": [
+      "VIBES",
+      "Cabernet Franc - Pinot Noir 2022"
+    ]
+  }
+}

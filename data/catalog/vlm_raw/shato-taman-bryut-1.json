@@ -1,0 +1,21 @@
+{
+  "slug": "shato-taman-bryut-1",
+  "seconds": 1.093127965927124,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"BRUT ROSE\",\n    \"БРЮТ РОЗОВОЕ\",\n    \"750 ml\",\n    \"12% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "BRUT ROSE",
+      "БРЮТ РОЗОВОЕ",
+      "750 ml",
+      "12% vol"
+    ]
+  }
+}

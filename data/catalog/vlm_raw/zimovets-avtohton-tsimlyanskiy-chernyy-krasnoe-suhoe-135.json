@@ -1,0 +1,19 @@
+{
+  "slug": "zimovets-avtohton-tsimlyanskiy-chernyy-krasnoe-suhoe-135",
+  "seconds": 12.839570045471191,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЗИМОВЕЦ\",\n  \"producer\": \"АВТОХТОН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ЗИМОВЕЦ\",\n    \"ВИНО С ИСТОРИЕЙ\",\n    \"АВТОХТОН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЗИМОВЕЦ",
+    "producer": "АВТОХТОН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ЗИМОВЕЦ",
+      "ВИНО С ИСТОРИЕЙ",
+      "АВТОХТОН"
+    ]
+  }
+}

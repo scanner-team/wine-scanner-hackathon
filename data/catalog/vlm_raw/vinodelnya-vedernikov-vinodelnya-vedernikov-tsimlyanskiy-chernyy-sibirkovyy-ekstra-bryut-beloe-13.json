@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-vinodelnya-vedernikov-tsimlyanskiy-chernyy-sibirkovyy-ekstra-bryut-beloe-13",
+  "seconds": 8.644482135772705,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": \"ЦИМЛЯНСКИЙ ЧЕРНЫЙ\",\n  \"category\": \"ЭКСТРА БРЮТ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"РЕЗЕРВ\",\n    \"ЦИМЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"СИБИРЬКОВЫЙ\",\n    \"ЭКСТРА БРЮТ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": "ЦИМЛЯНСКИЙ ЧЕРНЫЙ",
+    "category": "ЭКСТРА БРЮТ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "РЕЗЕРВ",
+      "ЦИМЛЯНСКИЙ ЧЕРНЫЙ",
+      "СИБИРЬКОВЫЙ",
+      "ЭКСТРА БРЮТ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

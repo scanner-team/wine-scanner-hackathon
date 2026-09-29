@@ -1,0 +1,21 @@
+{
+  "slug": "villa-sofiya-trio-krasnoe-merlo-suhoe-135",
+  "seconds": 13.790220975875854,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Винная СоФия\",\n  \"producer\": \"Винная СоФия\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Мерло каберне совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Винная СоФия\",\n    \"мерло\",\n    \"каберне совиньон\",\n    \"сухое красное\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Винная СоФия",
+    "producer": "Винная СоФия",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Мерло каберне совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Винная СоФия",
+      "мерло",
+      "каберне совиньон",
+      "сухое красное",
+      "2023"
+    ]
+  }
+}

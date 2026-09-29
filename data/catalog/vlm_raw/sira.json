@@ -1,0 +1,25 @@
+{
+  "slug": "sira",
+  "seconds": 7.617937803268433,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANTRA ESTATE\",\n  \"producer\": \"MANTRA ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SINCE 2017\",\n    \"MANTRA ESTATE\",\n    \"SYRAH\",\n    \"ВИРАДИЄНО Й БУТИЛИРОВАНО В ДОЛІНЕ ЛЕВАДА\",\n    \"РОССІЇ: ПРЕДСТОР СЕВЕРНОГО КАВАЛА\",\n    \"2022\",\n    \"0.75 L\",\n    \"BOTTLE NUMBER 00932 AMONG 14435\",\n    \"11% ALC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANTRA ESTATE",
+    "producer": "MANTRA ESTATE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "SINCE 2017",
+      "MANTRA ESTATE",
+      "SYRAH",
+      "ВИРАДИЄНО Й БУТИЛИРОВАНО В ДОЛІНЕ ЛЕВАДА",
+      "РОССІЇ: ПРЕДСТОР СЕВЕРНОГО КАВАЛА",
+      "2022",
+      "0.75 L",
+      "BOTTLE NUMBER 00932 AMONG 14435",
+      "11% ALC"
+    ]
+  }
+}

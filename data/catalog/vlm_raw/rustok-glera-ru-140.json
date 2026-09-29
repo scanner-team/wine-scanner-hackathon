@@ -1,0 +1,22 @@
+{
+  "slug": "rustok-glera-ru-140",
+  "seconds": 1.0620546340942383,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROOTSTOCK\",\n  \"producer\": \"ROOTSTOCK\",\n  \"cuvee\": \"Collection\",\n  \"vintage\": \"2019\",\n  \"grape\": \"Glera\",\n  \"category\": \"Brut Blanc\",\n  \"raw_visible_text\": [\n    \"ROOTSTOCK\",\n    \"COLLECTION\",\n    \"GLERA\",\n    \"RU 140\",\n    \"2019\",\n    \"BRUT BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROOTSTOCK",
+    "producer": "ROOTSTOCK",
+    "cuvee": "Collection",
+    "vintage": "2019",
+    "grape": "Glera",
+    "category": "Brut Blanc",
+    "raw_visible_text": [
+      "ROOTSTOCK",
+      "COLLECTION",
+      "GLERA",
+      "RU 140",
+      "2019",
+      "BRUT BLANC"
+    ]
+  }
+}

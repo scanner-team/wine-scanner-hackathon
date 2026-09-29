@@ -1,0 +1,21 @@
+{
+  "slug": "sober-bash-dve-doliny-liuri-2023-dostoynyy-rozovoe-suhoe-13",
+  "seconds": 9.716246128082275,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВЕ ДОЛИНЫ\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": \"ЛИУРИ\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ДВЕ ДОЛИНЫ\",\n    \"ЛИУРИ\",\n    \"2023\",\n    \"Российское вино с защищенным географическим указанием «Кубань»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВЕ ДОЛИНЫ",
+    "producer": "СОБЕР БАШ",
+    "cuvee": "ЛИУРИ",
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ДВЕ ДОЛИНЫ",
+      "ЛИУРИ",
+      "2023",
+      "Российское вино с защищенным географическим указанием «Кубань»"
+    ]
+  }
+}

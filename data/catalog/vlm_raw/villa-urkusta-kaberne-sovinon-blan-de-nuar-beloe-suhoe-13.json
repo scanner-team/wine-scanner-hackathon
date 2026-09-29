@@ -1,0 +1,22 @@
+{
+  "slug": "villa-urkusta-kaberne-sovinon-blan-de-nuar-beloe-suhoe-13",
+  "seconds": 7.510210990905762,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cabernet Sauvignon\",\n  \"producer\": \"Villa Urkusta\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": \"Blanc de Noirs\",\n  \"raw_visible_text\": [\n    \"VU\",\n    \"Villa Urkusta\",\n    \"Cabernet Sauvignon\",\n    \"Blanc de Noirs\",\n    \"Valeriy Dvorydenkov\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cabernet Sauvignon",
+    "producer": "Villa Urkusta",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Cabernet Sauvignon",
+    "category": "Blanc de Noirs",
+    "raw_visible_text": [
+      "VU",
+      "Villa Urkusta",
+      "Cabernet Sauvignon",
+      "Blanc de Noirs",
+      "Valeriy Dvorydenkov",
+      "2024"
+    ]
+  }
+}

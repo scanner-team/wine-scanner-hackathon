@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-pokrovskaya-ryzhest-rkatsiteli-beloe-suhoe-11",
+  "seconds": 7.281882047653198,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИНЕЦ\",\n  \"producer\": \"«Винодельня Покровская»\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"ВИНЕЦ\",\n    \"0,75 л • 12,2 %\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"«ВИНОДЕЛЬНЯ ПОКРОВСКАЯ»\",\n    \"САМЫЕ СЕВЕРНЫЕ ВИНОГРАДНИКИ РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИНЕЦ",
+    "producer": "«Винодельня Покровская»",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "ВИНЕЦ",
+      "0,75 л • 12,2 %",
+      "СУХОЕ БЕЛОЕ",
+      "«ВИНОДЕЛЬНЯ ПОКРОВСКАЯ»",
+      "САМЫЕ СЕВЕРНЫЕ ВИНОГРАДНИКИ РОССИИ"
+    ]
+  }
+}

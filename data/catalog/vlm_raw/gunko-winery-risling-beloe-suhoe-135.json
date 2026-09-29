@@ -1,0 +1,20 @@
+{
+  "slug": "gunko-winery-risling-beloe-suhoe-135",
+  "seconds": 4.704852104187012,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Рислина\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Рислина\",\n    \"Gunko Winery\",\n    \"12,0% об.\",\n    \"0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Рислина",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Рислина",
+      "Gunko Winery",
+      "12,0% об.",
+      "0,75 л"
+    ]
+  }
+}

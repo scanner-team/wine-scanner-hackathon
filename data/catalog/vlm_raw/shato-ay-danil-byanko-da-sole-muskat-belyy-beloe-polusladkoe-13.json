@@ -1,0 +1,24 @@
+{
+  "slug": "shato-ay-danil-byanko-da-sole-muskat-belyy-beloe-polusladkoe-13",
+  "seconds": 15.434919834136963,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЬЯНКО ДА СОЛЕ\",\n  \"producer\": \"ШАТО АЙ-ДАНИАЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"популярное белое\",\n  \"raw_visible_text\": [\n    \"ШАТО АЙ-ДАНИАЛЬ\",\n    \"БЬЯНКО\",\n    \"ДА СОЛЕ\",\n    \"2023\",\n    \"Российское вино с защищенным\",\n    \"географическим указанием «КРЫМ»\",\n    \"популярное белое «Bianco Da Sole»\",\n    \"Бутылка № 6128\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЬЯНКО ДА СОЛЕ",
+    "producer": "ШАТО АЙ-ДАНИАЛЬ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "популярное белое",
+    "raw_visible_text": [
+      "ШАТО АЙ-ДАНИАЛЬ",
+      "БЬЯНКО",
+      "ДА СОЛЕ",
+      "2023",
+      "Российское вино с защищенным",
+      "географическим указанием «КРЫМ»",
+      "популярное белое «Bianco Da Sole»",
+      "Бутылка № 6128"
+    ]
+  }
+}

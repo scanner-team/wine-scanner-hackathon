@@ -1,0 +1,28 @@
+{
+  "slug": "vinodelnya-myshako-sovinon-blan-avtorskaya-tehnologiya-mono-beloe-suhoe-128",
+  "seconds": 8.289529085159302,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОВИНЬОН БЛАНА\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"СОВИНЬОН\",\n    \"БЛАНА\",\n    \"2018\",\n    \"ЗГУ\",\n    \"КУБАНЬ НОВОРОССИЙСКИЙ\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"ТИРАК 12 000 БУКИВОК\",\n    \"СИМПЛ 1869\",\n    \"АВТОРСКАЯ ТЕХНОЛОГИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОВИНЬОН БЛАНА",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "ВИНОДЕЛЬНЯ",
+      "СОВИНЬОН",
+      "БЛАНА",
+      "2018",
+      "ЗГУ",
+      "КУБАНЬ НОВОРОССИЙСКИЙ",
+      "СУХОЕ БЕЛОЕ",
+      "ТИРАК 12 000 БУКИВОК",
+      "СИМПЛ 1869",
+      "АВТОРСКАЯ ТЕХНОЛОГИЯ"
+    ]
+  }
+}

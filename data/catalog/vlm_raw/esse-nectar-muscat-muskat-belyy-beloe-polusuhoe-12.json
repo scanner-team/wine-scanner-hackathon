@@ -1,0 +1,21 @@
+{
+  "slug": "esse-nectar-muscat-muskat-belyy-beloe-polusuhoe-12",
+  "seconds": 12.980645179748535,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"ESSE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT\",\n  \"category\": \"DEMI-SEC\",\n  \"raw_visible_text\": [\n    \"CRIMEA\",\n    \"METHODE CLASSIQUE\",\n    \"ESSE\",\n    \"DEMI-SEC\",\n    \"MECTAR MUSCAT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "ESSE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT",
+    "category": "DEMI-SEC",
+    "raw_visible_text": [
+      "CRIMEA",
+      "METHODE CLASSIQUE",
+      "ESSE",
+      "DEMI-SEC",
+      "MECTAR MUSCAT"
+    ]
+  }
+}

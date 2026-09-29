@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-tsimlyanskiy-chernyy-rozovyy-rozovoe-suhoe-125",
+  "seconds": 5.896234035491943,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"розовый\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"КИММАНСКИЙ ЧЕРНЫЙ\",\n    \"РОЗОВЫЙ\",\n    \"2023\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "розовый",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "КИММАНСКИЙ ЧЕРНЫЙ",
+      "РОЗОВЫЙ",
+      "2023",
+      "750 ml"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "wein-und-wasser-vayn-taym-sovinon-blan-krym-beloe-suhoe-12",
+  "seconds": 6.380879878997803,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WINE TIME\",\n  \"producer\": \"by Petya\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"WINE TIME\",\n    \"SAUVIGNON BLANC\",\n    \"CRIMEA\",\n    \"by Petya\",\n    \"0,75L 12% vol.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WINE TIME",
+    "producer": "by Petya",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "WINE TIME",
+      "SAUVIGNON BLANC",
+      "CRIMEA",
+      "by Petya",
+      "0,75L 12% vol."
+    ]
+  }
+}

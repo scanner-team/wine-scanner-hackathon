@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-sovinon-blan-beloe-suhoe-122",
+  "seconds": 6.938247919082642,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МБИСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"NEW GENERATION\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"САУВИГОН БЛАНК\",\n    \"NEW GENERATION\",\n    \"2022\",\n    \"СУХОЕ БЕРЕ\",\n    \"ТЕРРА 2022 ГОД УРОЖАЯ\",\n    \"АЛКОГОЛЬ 12,2% об\",\n    \"ОБЪЕМ 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МБИСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": "NEW GENERATION",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "САУВИГОН БЛАНК",
+      "NEW GENERATION",
+      "2022",
+      "СУХОЕ БЕРЕ",
+      "ТЕРРА 2022 ГОД УРОЖАЯ",
+      "АЛКОГОЛЬ 12,2% об",
+      "ОБЪЕМ 0,75 л"
+    ]
+  }
+}

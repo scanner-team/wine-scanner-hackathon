@@ -1,0 +1,21 @@
+{
+  "slug": "roze-premium",
+  "seconds": 4.766562223434448,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Resé\",\n  \"producer\": \"LITWINKER WINE & BRAND\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Riesling\",\n  \"category\": \"Riesling\",\n  \"raw_visible_text\": [\n    \"LITWINKER\",\n    \"WINE & BRAND\",\n    \"2022\",\n    \"Resé\",\n    \"RIESLING\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Resé",
+    "producer": "LITWINKER WINE & BRAND",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Riesling",
+    "category": "Riesling",
+    "raw_visible_text": [
+      "LITWINKER",
+      "WINE & BRAND",
+      "2022",
+      "Resé",
+      "RIESLING"
+    ]
+  }
+}

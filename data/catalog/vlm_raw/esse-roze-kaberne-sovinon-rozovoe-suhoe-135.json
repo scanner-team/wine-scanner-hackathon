@@ -1,0 +1,18 @@
+{
+  "slug": "esse-roze-kaberne-sovinon-rozovoe-suhoe-135",
+  "seconds": 12.072753190994263,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"vssé\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Rosé\",\n  \"raw_visible_text\": [\n    \"vssé\",\n    \"Rosé\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "vssé",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Rosé",
+    "raw_visible_text": [
+      "vssé",
+      "Rosé"
+    ]
+  }
+}

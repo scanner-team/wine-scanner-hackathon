@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-silvaner-silvaner-beloe-suhoe-125",
+  "seconds": 4.2658891677856445,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Silvaner\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Silvaner 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Silvaner",
+    "category": null,
+    "raw_visible_text": [
+      "VIBES",
+      "Silvaner 2022"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "mancopia-risling",
+  "seconds": 7.4279279708862305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANCOPIA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MANCOPIA\",\n    \"RIESLING\",\n    \"2024\",\n    \"АБРАУДУРА, РОСА, КАРА, КРАМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANCOPIA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "MANCOPIA",
+      "RIESLING",
+      "2024",
+      "АБРАУДУРА, РОСА, КАРА, КРАМ"
+    ]
+  }
+}

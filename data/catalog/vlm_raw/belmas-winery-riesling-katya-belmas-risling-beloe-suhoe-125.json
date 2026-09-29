@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-riesling-katya-belmas-risling-beloe-suhoe-125",
+  "seconds": 5.2145421504974365,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"Belim\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Riesling\",\n  \"category\": \"Sehwa Rovul\",\n  \"raw_visible_text\": [\n    \"Riesling\",\n    \"SEWA ROVUL\",\n    \"Katya\",\n    \"2020\",\n    \"Belim\",\n    \"12,0% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "Belim",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Riesling",
+    "category": "Sehwa Rovul",
+    "raw_visible_text": [
+      "Riesling",
+      "SEWA ROVUL",
+      "Katya",
+      "2020",
+      "Belim",
+      "12,0% VOL",
+      "750 ML"
+    ]
+  }
+}

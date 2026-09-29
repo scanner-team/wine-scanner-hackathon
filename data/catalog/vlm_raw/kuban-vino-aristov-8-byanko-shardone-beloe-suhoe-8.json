@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-aristov-8-byanko-shardone-beloe-suhoe-8",
+  "seconds": 5.819000005722046,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BIANCO\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"НАТУРАЛЕ\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"8\",\n    \"BIANCO\",\n    \"NATURALE\",\n    \"ШАРДОНЕ\",\n    \"НЕВЗОКОГАЛЬНОЕ БЕЛОЕ РОССИЙСКОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BIANCO",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "НАТУРАЛЕ",
+    "raw_visible_text": [
+      "ARISTOV",
+      "8",
+      "BIANCO",
+      "NATURALE",
+      "ШАРДОНЕ",
+      "НЕВЗОКОГАЛЬНОЕ БЕЛОЕ РОССИЙСКОЕ ВИНО"
+    ]
+  }
+}

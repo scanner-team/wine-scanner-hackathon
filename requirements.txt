@@ -1,0 +1,21 @@
+# Python 3.12. Прямые зависимости с точными версиями; транзитивные
+# подтянет pip.
+#
+# torch/torchvision — под CUDA 12.1, отдельным индексом пакетов:
+#   pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cu121
+# Остальное — pip install -r requirements.txt.
+
+fastapi==0.141.1
+uvicorn==0.54.0
+python-multipart==0.0.32
+pydantic==2.13.5
+python-dotenv==1.2.3
+sentence-transformers==6.1.0
+numpy==2.5.3
+pillow==12.3.0
+requests==2.34.2
+
+# --- Опционально: только для экспериментального BOTTLE_CROP ---
+# (ENABLE_BOTTLE_CROP=False по умолчанию, см. winescanner/app.py и
+# ARCHITECTURE.md — не нужны для основного пайплайна поиска)
+# ultralytics==8.4.164

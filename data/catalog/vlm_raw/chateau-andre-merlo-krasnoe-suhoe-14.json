@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-andre-merlo-krasnoe-suhoe-14",
+  "seconds": 4.557837963104248,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MERLOT\",\n  \"producer\": \"Chateau Andre\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Chateau Andre\",\n    \"MERLOT\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MERLOT",
+    "producer": "Chateau Andre",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "Chateau Andre",
+      "MERLOT",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "soyuz-vino-sheremetevskie-pogreba-krasnoe-polusladkoe-krasnye-sorta-vinograda-11",
+  "seconds": 4.4150307178497314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОГРЕБА\",\n  \"producer\": \"МЕЛЬНИК\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Вино сухое\",\n  \"raw_visible_text\": [\n    \"Мельник\",\n    \"ПОГРЕБА\",\n    \"Вино сухое\",\n    \"Полусладкое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОГРЕБА",
+    "producer": "МЕЛЬНИК",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Вино сухое",
+    "raw_visible_text": [
+      "Мельник",
+      "ПОГРЕБА",
+      "Вино сухое",
+      "Полусладкое"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-begildeeva-merlo-krasnoe-suhoe-14",
+  "seconds": 4.988803148269653,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕРЛО\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ВИНО КРАСНОЕ СУХОЕ\",\n    \"МЕРЛО\",\n    \"ВИНОДЕЛЬНЯ ВЕТРАГАЛЕВО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕРЛО",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ВИНО КРАСНОЕ СУХОЕ",
+      "МЕРЛО",
+      "ВИНОДЕЛЬНЯ ВЕТРАГАЛЕВО"
+    ]
+  }
+}

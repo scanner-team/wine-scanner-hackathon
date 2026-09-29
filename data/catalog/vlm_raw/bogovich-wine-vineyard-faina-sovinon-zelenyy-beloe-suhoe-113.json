@@ -1,0 +1,18 @@
+{
+  "slug": "bogovich-wine-vineyard-faina-sovinon-zelenyy-beloe-suhoe-113",
+  "seconds": 4.604380130767822,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FAINA\",\n  \"producer\": \"SALVIGNI BORGHESI\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FAINA\",\n    \"SALVIGNI BORGHESI\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FAINA",
+    "producer": "SALVIGNI BORGHESI",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FAINA",
+      "SALVIGNI BORGHESI"
+    ]
+  }
+}

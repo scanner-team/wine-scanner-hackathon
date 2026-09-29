@@ -1,0 +1,21 @@
+{
+  "slug": "arie-vyderzhka-bochka-francziya-2020",
+  "seconds": 1.1681256294250488,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Arie\",\n  \"producer\": \"KOFFMANN BROTHERS\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"RED WINE\",\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"Arie\",\n    \"CABERNET SAUVIGNON\",\n    \"RED WINE\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Arie",
+    "producer": "KOFFMANN BROTHERS",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "CABERNET SAUVIGNON",
+    "category": "RED WINE",
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "Arie",
+      "CABERNET SAUVIGNON",
+      "RED WINE",
+      "2020"
+    ]
+  }
+}

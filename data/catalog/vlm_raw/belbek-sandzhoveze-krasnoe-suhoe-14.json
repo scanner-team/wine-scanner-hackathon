@@ -1,0 +1,21 @@
+{
+  "slug": "belbek-sandzhoveze-krasnoe-suhoe-14",
+  "seconds": 5.125483989715576,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Белбек\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Белбек\",\n    \"САНАЖОВЕЗЕ\",\n    \"2022\",\n    \"0.75л\",\n    \"610мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Белбек",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Белбек",
+      "САНАЖОВЕЗЕ",
+      "2022",
+      "0.75л",
+      "610мл"
+    ]
+  }
+}

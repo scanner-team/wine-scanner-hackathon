@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-holodnyy-tuman-risling-beloe-suhoe-115",
+  "seconds": 13.377448320388794,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Терруар\",\n  \"producer\": \"Вторая Линия\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"Холодный Муцан\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Терруар",
+    "producer": "Вторая Линия",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "ДИВНОМОРСКОЕ",
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "Холодный Муцан"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "agora-shardone",
+  "seconds": 7.690472841262817,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"AGORA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"БЕЛЫЕ СУХОЙ\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"CHARDONNAY\",\n    \"WHITE DRY WINE\",\n    \"ШАРДОНЕ • БЕЛЫЕ СУХОЙ\",\n    \"ВЫАТРЖАНО В ДУСЕ • РУЧНОЙ СЕР\",\n    \"3ГУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "AGORA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "БЕЛЫЕ СУХОЙ",
+    "raw_visible_text": [
+      "AGORA",
+      "CHARDONNAY",
+      "WHITE DRY WINE",
+      "ШАРДОНЕ • БЕЛЫЕ СУХОЙ",
+      "ВЫАТРЖАНО В ДУСЕ • РУЧНОЙ СЕР",
+      "3ГУ"
+    ]
+  }
+}

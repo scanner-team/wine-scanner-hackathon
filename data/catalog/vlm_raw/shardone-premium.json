@@ -1,0 +1,20 @@
+{
+  "slug": "shardone-premium",
+  "seconds": 4.5268330574035645,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"STROMONTI\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"SAUVIGNON\",\n  \"raw_visible_text\": [\n    \"STROMONTI\",\n    \"2024\",\n    \"CHARDONNAY\",\n    \"SAUVIGNON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "STROMONTI",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CHARDONNAY",
+    "category": "SAUVIGNON",
+    "raw_visible_text": [
+      "STROMONTI",
+      "2024",
+      "CHARDONNAY",
+      "SAUVIGNON"
+    ]
+  }
+}

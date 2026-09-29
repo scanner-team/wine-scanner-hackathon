@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-de-la-vivandiere-vn-beloe-aligote-suhoe-131",
+  "seconds": 5.1166090965271,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVANDIÈRE\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIVANDIÈRE\",\n    \"alc. 11.0% vol.\",\n    \"750 ml\",\n    \"Rs\",\n    \"Ch\",\n    \"Al\",\n    \"Vn\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVANDIÈRE",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "VIVANDIÈRE",
+      "alc. 11.0% vol.",
+      "750 ml",
+      "Rs",
+      "Ch",
+      "Al",
+      "Vn"
+    ]
+  }
+}

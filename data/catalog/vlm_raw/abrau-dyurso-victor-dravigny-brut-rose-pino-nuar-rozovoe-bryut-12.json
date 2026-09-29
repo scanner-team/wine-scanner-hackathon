@@ -1,0 +1,24 @@
+{
+  "slug": "abrau-dyurso-victor-dravigny-brut-rose-pino-nuar-rozovoe-bryut-12",
+  "seconds": 6.626949071884155,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ-ДЮРСО\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"МЕТОДЕ КЛАССИЧЕК\",\n    \"1870г.\",\n    \"АБРАУ-ДЮРСО\",\n    \"VICTOR DRAVIGNY\",\n    \"РУССКИЙ ВИНИЙ ДОМ\",\n    \"РОЗОВОЕ\",\n    \"БРЮТ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ-ДЮРСО",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "МЕТОДЕ КЛАССИЧЕК",
+      "1870г.",
+      "АБРАУ-ДЮРСО",
+      "VICTOR DRAVIGNY",
+      "РУССКИЙ ВИНИЙ ДОМ",
+      "РОЗОВОЕ",
+      "БРЮТ",
+      "2022"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "cabernet-franc-pinot-noir-2021",
+  "seconds": 1.373826026916504,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Cabernet Franc - Pinot Noir 2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Pinot Noir",
+    "category": null,
+    "raw_visible_text": [
+      "VIBES",
+      "Cabernet Franc - Pinot Noir 2021"
+    ]
+  }
+}

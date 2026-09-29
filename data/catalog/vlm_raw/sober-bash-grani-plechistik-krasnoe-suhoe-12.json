@@ -1,0 +1,20 @@
+{
+  "slug": "sober-bash-grani-plechistik-krasnoe-suhoe-12",
+  "seconds": 8.777086019515991,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ПЛЕЧИСТИК\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР\",\n    \"БАШ\",\n    \"ПЛЕЧИСТИК\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ПЛЕЧИСТИК",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР",
+      "БАШ",
+      "ПЛЕЧИСТИК",
+      "2023"
+    ]
+  }
+}

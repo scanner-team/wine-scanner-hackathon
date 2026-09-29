@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-batrak-contadina-merlo-krasnoe-suhoe-14",
+  "seconds": 4.935844898223877,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Виталий Батрак\",\n  \"producer\": \"Винодельня-1895\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"винодельня-1895\",\n    \"СОЛТУМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Виталий Батрак",
+    "producer": "Винодельня-1895",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "винодельня-1895",
+      "СОЛТУМ"
+    ]
+  }
+}

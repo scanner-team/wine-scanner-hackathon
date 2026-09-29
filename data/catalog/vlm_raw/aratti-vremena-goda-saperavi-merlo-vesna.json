@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-vremena-goda-saperavi-merlo-vesna",
+  "seconds": 1.2756342887878418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"САПЕРАВИ\",\n  \"raw_visible_text\": [\n    \"АРАТТИ\",\n    \"САПЕРАВИ\",\n    \"МЕРЛО\",\n    \"2024\",\n    \"44.895466, 37.472316\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "МЕРЛО",
+    "category": "САПЕРАВИ",
+    "raw_visible_text": [
+      "АРАТТИ",
+      "САПЕРАВИ",
+      "МЕРЛО",
+      "2024",
+      "44.895466, 37.472316"
+    ]
+  }
+}

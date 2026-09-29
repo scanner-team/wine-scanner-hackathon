@@ -1,0 +1,19 @@
+{
+  "slug": "czimlyanskoe-bianka",
+  "seconds": 1.1067862510681152,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"БИАНКА\",\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"ЦИМЛЯНСКОЕ\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ\",\n    \"БИАНКА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "БИАНКА",
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "ЦИМЛЯНСКОЕ",
+      "ПОЛУСЛАДКОЕ БЕЛОЕ",
+      "БИАНКА"
+    ]
+  }
+}

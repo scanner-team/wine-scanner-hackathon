@@ -1,0 +1,20 @@
+{
+  "slug": "agrolayn-heritage-dg-skin-contact-rkatsiteli-rkatsiteli-krasnoe-suhoe-12",
+  "seconds": 1.4186651706695557,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"HERITAGE\",\n  \"producer\": \"DG\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"SKIN CONTACT\",\n  \"raw_visible_text\": [\n    \"HERITAGE\",\n    \"2022\",\n    \"SKIN CONTACT\",\n    \"RKATSITELI\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "HERITAGE",
+    "producer": "DG",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "RKATSITELI",
+    "category": "SKIN CONTACT",
+    "raw_visible_text": [
+      "HERITAGE",
+      "2022",
+      "SKIN CONTACT",
+      "RKATSITELI"
+    ]
+  }
+}

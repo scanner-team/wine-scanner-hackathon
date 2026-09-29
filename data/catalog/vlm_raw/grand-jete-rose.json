@@ -1,0 +1,20 @@
+{
+  "slug": "grand-jete-rose",
+  "seconds": 8.551886081695557,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND JETÉ\",\n  \"producer\": \"GALITSKIY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"GRAND JETÉ\",\n    \"ROSE\",\n    \"GALITSKIY\",\n    \"GALITSKIY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND JETÉ",
+    "producer": "GALITSKIY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ROSE",
+    "raw_visible_text": [
+      "GRAND JETÉ",
+      "ROSE",
+      "GALITSKIY",
+      "GALITSKIY"
+    ]
+  }
+}

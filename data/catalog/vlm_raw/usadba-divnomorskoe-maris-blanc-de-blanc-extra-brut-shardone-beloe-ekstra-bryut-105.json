@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-maris-blanc-de-blanc-extra-brut-shardone-beloe-ekstra-bryut-105",
+  "seconds": 5.567113876342773,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MARI5\",\n  \"producer\": \"УСАДЬБА АНДРЮСОВСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": null,\n  \"category\": \"BRUT NATURE\",\n  \"raw_visible_text\": [\n    \"УСАДЬБА АНДРЮСОВСКОЕ\",\n    \"MARI5\",\n    \"BLANC DE BLANCS\",\n    \"BRUT NATURE\",\n    \"2015\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MARI5",
+    "producer": "УСАДЬБА АНДРЮСОВСКОЕ",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": null,
+    "category": "BRUT NATURE",
+    "raw_visible_text": [
+      "УСАДЬБА АНДРЮСОВСКОЕ",
+      "MARI5",
+      "BLANC DE BLANCS",
+      "BRUT NATURE",
+      "2015"
+    ]
+  }
+}

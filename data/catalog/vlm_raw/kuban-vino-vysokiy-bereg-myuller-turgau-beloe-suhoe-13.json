@@ -1,0 +1,20 @@
+{
+  "slug": "kuban-vino-vysokiy-bereg-myuller-turgau-beloe-suhoe-13",
+  "seconds": 5.721511125564575,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЫСОКИЙ БЕРЕГ\",\n  \"producer\": \"ВЫСОКИЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЮЛЛЕР-ТЮРГАУ\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"ВЫСОКИЙ БЕРЕГ\",\n    \"МЮЛЛЕР-ТЮРГАУ\",\n    \"сухое белое\",\n    \"ПРОИЗВОДСТВО В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЫСОКИЙ БЕРЕГ",
+    "producer": "ВЫСОКИЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЮЛЛЕР-ТЮРГАУ",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "ВЫСОКИЙ БЕРЕГ",
+      "МЮЛЛЕР-ТЮРГАУ",
+      "сухое белое",
+      "ПРОИЗВОДСТВО В РОССИИ"
+    ]
+  }
+}

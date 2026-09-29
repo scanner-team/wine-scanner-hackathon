@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-uzunov-sovinon-kukuoba-sovinon-blan-beloe-ekstra-bryut-12",
+  "seconds": 8.943701982498169,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОВИНЬОН КУКУБА\",\n  \"producer\": \"ВИНОДЕВИЕ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"экскурс брют\",\n  \"raw_visible_text\": [\n    \"СОВИНЬОН КУКУБА\",\n    \"экскурс брют\",\n    \"2024\",\n    \"ВИНОДЕВИЕ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОВИНЬОН КУКУБА",
+    "producer": "ВИНОДЕВИЕ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "экскурс брют",
+    "raw_visible_text": [
+      "СОВИНЬОН КУКУБА",
+      "экскурс брют",
+      "2024",
+      "ВИНОДЕВИЕ",
+      "УЗУНОВ"
+    ]
+  }
+}

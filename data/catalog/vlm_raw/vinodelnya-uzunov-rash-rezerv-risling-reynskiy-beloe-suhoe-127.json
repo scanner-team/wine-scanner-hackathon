@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-uzunov-rash-rezerv-risling-reynskiy-beloe-suhoe-127",
+  "seconds": 13.956869840621948,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РАШ РЕЗЕРВ\",\n  \"producer\": \"ВИНОДЕЛНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"твое сухое\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛНЯ УЗУНОВ\",\n    \"РАШ РЕЗЕРВ\",\n    \"твое сухое\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РАШ РЕЗЕРВ",
+    "producer": "ВИНОДЕЛНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "твое сухое",
+    "raw_visible_text": [
+      "ВИНОДЕЛНЯ УЗУНОВ",
+      "РАШ РЕЗЕРВ",
+      "твое сухое",
+      "2022"
+    ]
+  }
+}

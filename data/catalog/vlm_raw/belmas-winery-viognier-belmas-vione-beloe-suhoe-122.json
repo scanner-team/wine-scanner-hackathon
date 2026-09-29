@@ -1,0 +1,19 @@
+{
+  "slug": "belmas-winery-viognier-belmas-vione-beloe-suhoe-122",
+  "seconds": 4.512125253677368,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIognier BELMAS\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"VIognier\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIOGNIER\",\n    \"BELMAS\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIognier BELMAS",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "VIognier",
+    "category": null,
+    "raw_visible_text": [
+      "VIOGNIER",
+      "BELMAS",
+      "2023"
+    ]
+  }
+}

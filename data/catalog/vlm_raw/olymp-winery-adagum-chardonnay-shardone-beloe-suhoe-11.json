@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-chardonnay-shardone-beloe-suhoe-11",
+  "seconds": 8.673439979553223,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM\",\n  \"producer\": \"АДАГУМ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ADAGUM\",\n    \"CHARDONNAY\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"АДАГУМ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«КУБАНЬ»\",\n    \"0,187 Л\",\n    \"АЛК. 10-12% ОБ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM",
+    "producer": "АДАГУМ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ADAGUM",
+      "CHARDONNAY",
+      "СУХОЕ БЕЛОЕ",
+      "АДАГУМ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«КУБАНЬ»",
+      "0,187 Л",
+      "АЛК. 10-12% ОБ"
+    ]
+  }
+}

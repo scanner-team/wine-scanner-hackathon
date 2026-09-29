@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-tte-de-cheval-bryut-risling-beloe-12",
+  "seconds": 4.947396755218506,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TÊTE DE CHEVAL\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"TÊTE\",\n    \"DE CHEVAL\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Brut\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TÊTE DE CHEVAL",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Brut",
+    "raw_visible_text": [
+      "TÊTE",
+      "DE CHEVAL",
+      "MÉTHODE CLASSIQUE",
+      "Brut"
+    ]
+  }
+}

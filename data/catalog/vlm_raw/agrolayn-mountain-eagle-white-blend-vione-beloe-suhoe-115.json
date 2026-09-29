@@ -1,0 +1,23 @@
+{
+  "slug": "agrolayn-mountain-eagle-white-blend-vione-beloe-suhoe-115",
+  "seconds": 5.356437921524048,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"WHITE BLEND\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN\",\n    \"EAGLE\",\n    \"PROTECTED GEOGRAPHIC\",\n    \"APPROVAL\",\n    \"REGION OF RUSSIA\",\n    \"2022\",\n    \"WHITE BLEND\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "WHITE BLEND",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN",
+      "EAGLE",
+      "PROTECTED GEOGRAPHIC",
+      "APPROVAL",
+      "REGION OF RUSSIA",
+      "2022",
+      "WHITE BLEND"
+    ]
+  }
+}

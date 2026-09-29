@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-zhakov-tavkveri-escape-krasnoe-suhoe-117",
+  "seconds": 5.327775001525879,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Красный таблебурикс\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Красный таблебурикс\",\n    \"КРЫСЬОВ\",\n    \"СУХОЕ\",\n    \"БИНО\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Красный таблебурикс",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Красный таблебурикс",
+      "КРЫСЬОВ",
+      "СУХОЕ",
+      "БИНО",
+      "2022"
+    ]
+  }
+}

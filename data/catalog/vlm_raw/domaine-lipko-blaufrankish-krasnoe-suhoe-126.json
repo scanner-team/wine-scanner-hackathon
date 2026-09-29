@@ -1,0 +1,19 @@
+{
+  "slug": "domaine-lipko-blaufrankish-krasnoe-suhoe-126",
+  "seconds": 4.564877986907959,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLAUFRÄNKISCH\",\n  \"producer\": \"DOMAINE LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"DOMAINE LIPKO\",\n    \"BLAUFRÄNKISCH\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLAUFRÄNKISCH",
+    "producer": "DOMAINE LIPKO",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "DOMAINE LIPKO",
+      "BLAUFRÄNKISCH",
+      "2021"
+    ]
+  }
+}

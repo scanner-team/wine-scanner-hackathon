@@ -1,0 +1,21 @@
+{
+  "slug": "vino-suhoe-rozovoe-endemy-kaberne-sovinon",
+  "seconds": 1.337218999862671,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"розовое сухое\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"РОЗОВОЕ СУХОЕ\",\n    \"ВИНО\",\n    \"ДЕРБЕНТ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "розовое сухое",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "РОЗОВОЕ СУХОЕ",
+      "ВИНО",
+      "ДЕРБЕНТ ВИНО"
+    ]
+  }
+}

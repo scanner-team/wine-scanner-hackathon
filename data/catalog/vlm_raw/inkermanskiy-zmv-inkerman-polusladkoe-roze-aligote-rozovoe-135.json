@@ -1,0 +1,22 @@
+{
+  "slug": "inkermanskiy-zmv-inkerman-polusladkoe-roze-aligote-rozovoe-135",
+  "seconds": 13.619622230529785,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"INKERMAN\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"SPARKLING WINE\",\n  \"raw_visible_text\": [\n    \"SINCE 1961 CRIMEA\",\n    \"SPARKLING WINE\",\n    \"INKERMAN\",\n    \"THE TASTE OF CRIMEA\",\n    \"ROSE\",\n    \"ОБЪЕМ 0,75 Л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "INKERMAN",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "SPARKLING WINE",
+    "raw_visible_text": [
+      "SINCE 1961 CRIMEA",
+      "SPARKLING WINE",
+      "INKERMAN",
+      "THE TASTE OF CRIMEA",
+      "ROSE",
+      "ОБЪЕМ 0,75 Л"
+    ]
+  }
+}

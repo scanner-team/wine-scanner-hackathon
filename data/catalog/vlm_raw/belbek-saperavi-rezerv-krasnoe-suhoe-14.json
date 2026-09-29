@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-saperavi-rezerv-krasnoe-suhoe-14",
+  "seconds": 4.881776809692383,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Белбек\",\n  \"producer\": null,\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Белбек\",\n    \"САПЕРАВИ\",\n    \"РЕЗЕРВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Белбек",
+    "producer": null,
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": "САПЕРАВИ",
+    "category": null,
+    "raw_visible_text": [
+      "Белбек",
+      "САПЕРАВИ",
+      "РЕЗЕРВ"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-byurne-kaberne-fran-krasnoe-suhoe-135",
+  "seconds": 6.080786228179932,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОРНЫЕ BURNIER\",\n  \"producer\": \"БОРНЫЕ BURNIER\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БОРНЫЕ\",\n    \"BURNIER\",\n    \"КАБЕРНЕ ФРАН\",\n    \"CABERNET FRANC\",\n    \"2018\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОРНЫЕ BURNIER",
+    "producer": "БОРНЫЕ BURNIER",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": null,
+    "raw_visible_text": [
+      "БОРНЫЕ",
+      "BURNIER",
+      "КАБЕРНЕ ФРАН",
+      "CABERNET FRANC",
+      "2018",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

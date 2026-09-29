@@ -1,0 +1,21 @@
+{
+  "slug": "esse-esse-grand-cuvee-60-shardone-beloe-ekstra-bryut-115",
+  "seconds": 5.012842893600464,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": \"60\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"CRIMEA\",\n    \"PETROSE CLASSE\",\n    \"ESSE\",\n    \"BRUT\",\n    \"CRIMEA 60 CIVR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "CRIMEA",
+    "cuvee": null,
+    "vintage": "60",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "CRIMEA",
+      "PETROSE CLASSE",
+      "ESSE",
+      "BRUT",
+      "CRIMEA 60 CIVR"
+    ]
+  }
+}

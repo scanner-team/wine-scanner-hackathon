@@ -1,0 +1,23 @@
+{
+  "slug": "dubinin-winery-sovinon-blan-beloe-suhoe-12",
+  "seconds": 5.768191337585449,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Совиньон блан\",\n  \"producer\": \"DUBNIN WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Совиньон\",\n  \"category\": \"бело сухое\",\n  \"raw_visible_text\": [\n    \"DIW\",\n    \"DUBNIN\",\n    \"WINERY\",\n    \"Совиньон\",\n    \"блан\",\n    \"Вино белое сухое\",\n    \"0017 / 1000\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Совиньон блан",
+    "producer": "DUBNIN WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Совиньон",
+    "category": "бело сухое",
+    "raw_visible_text": [
+      "DIW",
+      "DUBNIN",
+      "WINERY",
+      "Совиньон",
+      "блан",
+      "Вино белое сухое",
+      "0017 / 1000"
+    ]
+  }
+}

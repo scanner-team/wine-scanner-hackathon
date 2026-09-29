@@ -1,0 +1,20 @@
+{
+  "slug": "esse-gevyurtstraminer-beloe-suhoe-12",
+  "seconds": 4.61943507194519,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Абрамянц\",\n  \"cuvee\": null,\n  \"vintage\": \"2013\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Абрамянц\",\n    \"Мерло\",\n    \"2013\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Абрамянц",
+    "cuvee": null,
+    "vintage": "2013",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Абрамянц",
+      "Мерло",
+      "2013",
+      "esse"
+    ]
+  }
+}

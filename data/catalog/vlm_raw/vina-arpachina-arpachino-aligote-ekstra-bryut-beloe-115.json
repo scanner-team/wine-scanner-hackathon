@@ -1,0 +1,22 @@
+{
+  "slug": "vina-arpachina-arpachino-aligote-ekstra-bryut-beloe-115",
+  "seconds": 6.582824230194092,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРПАЧИНО\",\n  \"producer\": \"ДИАНАВИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"ЭКСТРА БРЮТ\",\n  \"raw_visible_text\": [\n    \"АРПАЧИНО\",\n    \"ВИНО ИГРИСТОЕ БЕЛОЕ\",\n    \"2019\",\n    \"АЛИПОТЕ\",\n    \"ЗАЩИЩЁННОГО ГЕОГРАФИЧЕСКОГО ОБОЗНАЧЕНИЯ\",\n    \"ЭКСТРА БРЮТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРПАЧИНО",
+    "producer": "ДИАНАВИ",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": null,
+    "category": "ЭКСТРА БРЮТ",
+    "raw_visible_text": [
+      "АРПАЧИНО",
+      "ВИНО ИГРИСТОЕ БЕЛОЕ",
+      "2019",
+      "АЛИПОТЕ",
+      "ЗАЩИЩЁННОГО ГЕОГРАФИЧЕСКОГО ОБОЗНАЧЕНИЯ",
+      "ЭКСТРА БРЮТ"
+    ]
+  }
+}

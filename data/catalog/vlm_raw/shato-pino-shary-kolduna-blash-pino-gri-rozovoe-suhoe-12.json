@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-shary-kolduna-blash-pino-gri-rozovoe-suhoe-12",
+  "seconds": 5.275513172149658,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLUSH\",\n  \"producer\": \"ШАРП КОЛЛУНА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"ПИНТ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BLUSH\",\n    \"ШАРП КОЛЛУНА\",\n    \"ПИНТ\",\n    \"3 ГР.\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLUSH",
+    "producer": "ШАРП КОЛЛУНА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "ПИНТ",
+    "category": null,
+    "raw_visible_text": [
+      "BLUSH",
+      "ШАРП КОЛЛУНА",
+      "ПИНТ",
+      "3 ГР.",
+      "2021"
+    ]
+  }
+}

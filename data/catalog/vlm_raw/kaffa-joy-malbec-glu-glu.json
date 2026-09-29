@@ -1,0 +1,22 @@
+{
+  "slug": "kaffa-joy-malbec-glu-glu",
+  "seconds": 1.3091797828674316,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"JOY\",\n  \"producer\": \"КАГА\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"МАЛЬБЕК\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"JOY\",\n    \"КАГА\",\n    \"МАЛЬБЕК\",\n    \"2025\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "JOY",
+    "producer": "КАГА",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "МАЛЬБЕК",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "JOY",
+      "КАГА",
+      "МАЛЬБЕК",
+      "2025",
+      "СУХОЕ КРАСНОЕ",
+      "КРЫМ"
+    ]
+  }
+}

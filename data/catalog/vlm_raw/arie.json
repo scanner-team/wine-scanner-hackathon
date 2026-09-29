@@ -1,0 +1,21 @@
+{
+  "slug": "arie",
+  "seconds": 1.0260627269744873,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Arie\",\n  \"producer\": \"Winemghia\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": \"red wine\",\n  \"raw_visible_text\": [\n    \"Winemghia\",\n    \"Arie\",\n    \"2020\",\n    \"Cabernet Sauvignon\",\n    \"RED WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Arie",
+    "producer": "Winemghia",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Cabernet Sauvignon",
+    "category": "red wine",
+    "raw_visible_text": [
+      "Winemghia",
+      "Arie",
+      "2020",
+      "Cabernet Sauvignon",
+      "RED WINE"
+    ]
+  }
+}

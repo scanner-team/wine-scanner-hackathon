@@ -1,0 +1,21 @@
+{
+  "slug": "katharon-katharon-sovinon-blan",
+  "seconds": 1.9269373416900635,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KATHARON\",\n  \"producer\": null,\n  \"cuvee\": \"SILENT LEISURE\",\n  \"vintage\": \"2025\",\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"KATHARON\",\n    \"SILENT LEISURE\",\n    \"СОВИНЬОН БЛАН\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"2025\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KATHARON",
+    "producer": null,
+    "cuvee": "SILENT LEISURE",
+    "vintage": "2025",
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "KATHARON",
+      "SILENT LEISURE",
+      "СОВИНЬОН БЛАН",
+      "СУХОЕ БЕЛОЕ",
+      "2025"
+    ]
+  }
+}

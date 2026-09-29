@@ -1,0 +1,24 @@
+{
+  "slug": "novyj-svet-kollekczionnoe-bryut",
+  "seconds": 1.5605685710906982,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"Дом Шампанских Вин\",\n  \"cuvee\": \"Коллекционное\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Брют\",\n  \"raw_visible_text\": [\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"НОВЫЙ СВЯТЪ\",\n    \"КОЛЛЕКЦИОННОЕ\",\n    \"Брют\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\",\n    \"18\",\n    \"78\",\n    \"108\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "Дом Шампанских Вин",
+    "cuvee": "Коллекционное",
+    "vintage": null,
+    "grape": null,
+    "category": "Брют",
+    "raw_visible_text": [
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "НОВЫЙ СВЯТЪ",
+      "КОЛЛЕКЦИОННОЕ",
+      "Брют",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ",
+      "18",
+      "78",
+      "108"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nebo-rossii-glera",
+  "seconds": 3.943096160888672,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LIDO POLI CHI\",\n  \"producer\": \"Tazza\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LIDO POLI CHI\",\n    \"Tazza\",\n    \"MASCALONE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LIDO POLI CHI",
+    "producer": "Tazza",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "LIDO POLI CHI",
+      "Tazza",
+      "MASCALONE"
+    ]
+  }
+}

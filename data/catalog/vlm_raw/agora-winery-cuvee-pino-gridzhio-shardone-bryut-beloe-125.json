@@ -1,0 +1,22 @@
+{
+  "slug": "agora-winery-cuvee-pino-gridzhio-shardone-bryut-beloe-125",
+  "seconds": 5.674492835998535,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CUVÉE\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": \"CUVÉE\",\n  \"vintage\": null,\n  \"grape\": \"PINOT GRIGIO CHARDONNAY\",\n  \"category\": \"BLANC BRUT\",\n  \"raw_visible_text\": [\n    \"MÉTHODE CHARMAT\",\n    \"AGORA WINERY\",\n    \"CUVÉE\",\n    \"BLANC BRUT\",\n    \"PINOT GRIGIO\",\n    \"CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CUVÉE",
+    "producer": "AGORA WINERY",
+    "cuvee": "CUVÉE",
+    "vintage": null,
+    "grape": "PINOT GRIGIO CHARDONNAY",
+    "category": "BLANC BRUT",
+    "raw_visible_text": [
+      "MÉTHODE CHARMAT",
+      "AGORA WINERY",
+      "CUVÉE",
+      "BLANC BRUT",
+      "PINOT GRIGIO",
+      "CHARDONNAY"
+    ]
+  }
+}

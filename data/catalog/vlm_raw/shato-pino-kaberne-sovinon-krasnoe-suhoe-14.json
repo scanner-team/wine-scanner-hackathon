@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 4.8910911083221436,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET SAUVIGNON\",\n  \"producer\": \"Château Pinot\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"Château\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET SAUVIGNON",
+    "producer": "Château Pinot",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "CABERNET",
+      "SAUVIGNON",
+      "Château",
+      "PINOT"
+    ]
+  }
+}

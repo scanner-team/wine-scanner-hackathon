@@ -1,0 +1,22 @@
+{
+  "slug": "zmv-koktebel-muskat-yantarnyy-desertnyy-beloe-sladkoe-16",
+  "seconds": 9.253490209579468,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОКТЕБЕЛЬ\",\n  \"producer\": \"ЗАВОД МАРОЧНЫХ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"ЯНТАРНЫЙ\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНЫХ ВИН\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"2020\",\n    \"МУСКАТ\",\n    \"ЯНТАРНЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОКТЕБЕЛЬ",
+    "producer": "ЗАВОД МАРОЧНЫХ ВИН",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "МУСКАТ",
+    "category": "ЯНТАРНЫЙ",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНЫХ ВИН",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "2020",
+      "МУСКАТ",
+      "ЯНТАРНЫЙ"
+    ]
+  }
+}

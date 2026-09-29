@@ -1,0 +1,22 @@
+{
+  "slug": "alma-valley-pino-nuar-beloe-ekstra-bryut-115",
+  "seconds": 13.185534954071045,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE NOIR\",\n  \"producer\": \"Alma Valley\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT NATURE\",\n  \"raw_visible_text\": [\n    \"SUR LIES\",\n    \"96\",\n    \"MOIS\",\n    \"Alma Valley\",\n    \"BLANC DE NOIR\",\n    \"BRUT NATURE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE NOIR",
+    "producer": "Alma Valley",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT NATURE",
+    "raw_visible_text": [
+      "SUR LIES",
+      "96",
+      "MOIS",
+      "Alma Valley",
+      "BLANC DE NOIR",
+      "BRUT NATURE"
+    ]
+  }
+}

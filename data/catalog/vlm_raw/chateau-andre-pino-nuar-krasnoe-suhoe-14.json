@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-andre-pino-nuar-krasnoe-suhoe-14",
+  "seconds": 4.638159990310669,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIRE\",\n  \"producer\": \"Chateau Midre\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT NOIRE\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Chateau Midre\",\n    \"PINOT NOIRE\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIRE",
+    "producer": "Chateau Midre",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT NOIRE",
+    "category": null,
+    "raw_visible_text": [
+      "Chateau Midre",
+      "PINOT NOIRE",
+      "2023"
+    ]
+  }
+}

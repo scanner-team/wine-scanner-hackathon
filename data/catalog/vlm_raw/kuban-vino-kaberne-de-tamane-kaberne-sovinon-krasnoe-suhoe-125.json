@@ -1,0 +1,24 @@
+{
+  "slug": "kuban-vino-kaberne-de-tamane-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 6.943047285079956,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"ЦЕНТР ЭКОЛОГИИ ШАТО ТАМАНГ\",\n    \"CABERNET\",\n    \"КАБЕРНЕ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ТЕРРАРИЕСКИМ УКАЗАНИЕМ\",\n    \"Курган. Таманский ингредиент\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "ЦЕНТР ЭКОЛОГИИ ШАТО ТАМАНГ",
+      "CABERNET",
+      "КАБЕРНЕ",
+      "СУХОЕ КРАСНОЕ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ТЕРРАРИЕСКИМ УКАЗАНИЕМ",
+      "Курган. Таманский ингредиент"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "inkermanskiy-zmv-inkerman-muskat-polusladkoe-beloe-13",
+  "seconds": 7.264657020568848,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"INKERMAN\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT\",\n  \"category\": \"SPARKLING WINE\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"THE TASTE OF CRIMEA\",\n    \"SEMI-SWEET\",\n    \"MUSCAT\",\n    \"SPARKLING WINE\",\n    \"SINCE 1961 CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "INKERMAN",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT",
+    "category": "SPARKLING WINE",
+    "raw_visible_text": [
+      "INKERMAN",
+      "THE TASTE OF CRIMEA",
+      "SEMI-SWEET",
+      "MUSCAT",
+      "SPARKLING WINE",
+      "SINCE 1961 CRIMEA"
+    ]
+  }
+}

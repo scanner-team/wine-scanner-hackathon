@@ -1,0 +1,20 @@
+{
+  "slug": "bogovich-wine-vineyard-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 5.0884459018707275,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET SAUVIGNON\",\n  \"producer\": \"TRINA BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"RED WINE\",\n  \"raw_visible_text\": [\n    \"TRINA BOGOVICH\",\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"RED WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET SAUVIGNON",
+    "producer": "TRINA BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": "RED WINE",
+    "raw_visible_text": [
+      "TRINA BOGOVICH",
+      "CABERNET",
+      "SAUVIGNON",
+      "RED WINE"
+    ]
+  }
+}

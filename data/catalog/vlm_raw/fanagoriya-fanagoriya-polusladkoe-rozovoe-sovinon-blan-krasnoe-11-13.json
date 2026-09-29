@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-fanagoriya-polusladkoe-rozovoe-sovinon-blan-krasnoe-11-13",
+  "seconds": 13.42813491821289,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SEMI-SWEET ROSE\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"SEMI-SWEET ROSE\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"SEMI-SWEET ROSE\",\n    \"MÉTHODE CHARMAT\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SEMI-SWEET ROSE",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "SEMI-SWEET ROSE",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "SEMI-SWEET ROSE",
+      "MÉTHODE CHARMAT",
+      "2022"
+    ]
+  }
+}

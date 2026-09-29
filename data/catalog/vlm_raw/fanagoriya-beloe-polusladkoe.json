@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-beloe-polusladkoe",
+  "seconds": 1.0377352237701416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"FANAGORIA\",\n    \"SEMI-SWEET\",\n    \"PRIVILEGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "ПОЛУСЛАДКОЕ",
+      "FANAGORIA",
+      "SEMI-SWEET",
+      "PRIVILEGE"
+    ]
+  }
+}

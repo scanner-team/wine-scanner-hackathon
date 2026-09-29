@@ -1,0 +1,22 @@
+{
+  "slug": "chateau-cachalot-muskat-blan-muskat-belyy-beloe-suhoe-117",
+  "seconds": 5.823920965194702,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МУСКАТ БЛЯН\",\n  \"producer\": \"CHATEAU CACHALOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"МУСКАТ БЛЯН\",\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"CACHALOT\",\n    \"МУСКАТ БЛЯН\",\n    \"ГЕРОНСКОЕ\",\n    \"2022\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МУСКАТ БЛЯН",
+    "producer": "CHATEAU CACHALOT",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "МУСКАТ БЛЯН",
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "CACHALOT",
+      "МУСКАТ БЛЯН",
+      "ГЕРОНСКОЕ",
+      "2022",
+      "КРЫМ"
+    ]
+  }
+}

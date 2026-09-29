@@ -1,0 +1,19 @@
+{
+  "slug": "fanagoriya-rs-noir-saperavi-krasnoe-polusladkoe-125",
+  "seconds": 13.003848791122437,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FANAGORIA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"NOIR\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"RESIDUAL SUGAR\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"NOIR\",\n    \"RESIDUAL SUGAR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FANAGORIA",
+    "producer": "FANAGORIA",
+    "cuvee": "NOIR",
+    "vintage": null,
+    "grape": null,
+    "category": "RESIDUAL SUGAR",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "NOIR",
+      "RESIDUAL SUGAR"
+    ]
+  }
+}

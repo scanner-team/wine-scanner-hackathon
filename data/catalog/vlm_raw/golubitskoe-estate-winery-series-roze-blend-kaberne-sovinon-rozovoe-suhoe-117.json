@@ -1,0 +1,22 @@
+{
+  "slug": "golubitskoe-estate-winery-series-roze-blend-kaberne-sovinon-rozovoe-suhoe-117",
+  "seconds": 5.534203052520752,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE BLEND\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": \"Winery Series\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE ESTATE\",\n    \"Winery Series\",\n    \"ROSE BLEND\",\n    \"2022\",\n    \"Nº\",\n    \"GOLUBITSKAYA STRELKA / TAMAGNE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE BLEND",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": "Winery Series",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GOLUBITSKOE ESTATE",
+      "Winery Series",
+      "ROSE BLEND",
+      "2022",
+      "Nº",
+      "GOLUBITSKAYA STRELKA / TAMAGNE"
+    ]
+  }
+}

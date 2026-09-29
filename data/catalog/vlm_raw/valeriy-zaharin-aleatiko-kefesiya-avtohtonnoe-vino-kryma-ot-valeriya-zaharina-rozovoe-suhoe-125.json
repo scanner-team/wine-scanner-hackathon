@@ -1,0 +1,27 @@
+{
+  "slug": "valeriy-zaharin-aleatiko-kefesiya-avtohtonnoe-vino-kryma-ot-valeriya-zaharina-rozovoe-suhoe-125",
+  "seconds": 8.22321891784668,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АЛЕАТИКО • КЕРЕСИЯ\",\n  \"producer\": \"ВАЛЕРИЯ ЗАХАРИНА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"розовое\",\n  \"raw_visible_text\": [\n    \"АВТОХТОННОЕ\",\n    \"ВИНО КРЫМА\",\n    \"от ВАЛЕРИЯ ЗАХАРИНА\",\n    \"АЛЕАТИКО • КЕРЕСИЯ\",\n    \"РОЗОВОЕ\",\n    \"ОГРАНИЧЕННАЯ ПАРТИЯ\",\n    \"РУЧНОЙ СОР\",\n    \"ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УХАЖАНИЕМ\",\n    \"«КРЫМ»\",\n    \"ОЖ 0,75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АЛЕАТИКО • КЕРЕСИЯ",
+    "producer": "ВАЛЕРИЯ ЗАХАРИНА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "розовое",
+    "raw_visible_text": [
+      "АВТОХТОННОЕ",
+      "ВИНО КРЫМА",
+      "от ВАЛЕРИЯ ЗАХАРИНА",
+      "АЛЕАТИКО • КЕРЕСИЯ",
+      "РОЗОВОЕ",
+      "ОГРАНИЧЕННАЯ ПАРТИЯ",
+      "РУЧНОЙ СОР",
+      "ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УХАЖАНИЕМ",
+      "«КРЫМ»",
+      "ОЖ 0,75"
+    ]
+  }
+}

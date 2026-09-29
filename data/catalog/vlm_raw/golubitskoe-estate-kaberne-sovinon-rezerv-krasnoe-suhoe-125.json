@@ -1,0 +1,23 @@
+{
+  "slug": "golubitskoe-estate-kaberne-sovinon-rezerv-krasnoe-suhoe-125",
+  "seconds": 5.790637969970703,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GOLUBITSKOE ESTATE\",\n  \"producer\": \"GOLUBITSKAYA STELKLA TAWAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RESERVE\",\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"GOLUBITSKAYA STELKLA\",\n    \"TAWAGNE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GOLUBITSKOE ESTATE",
+    "producer": "GOLUBITSKAYA STELKLA TAWAGNE",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "RESERVE",
+      "GOLUBITSKOE",
+      "ESTATE",
+      "CABERNET",
+      "SAUVIGNON",
+      "GOLUBITSKAYA STELKLA",
+      "TAWAGNE"
+    ]
+  }
+}

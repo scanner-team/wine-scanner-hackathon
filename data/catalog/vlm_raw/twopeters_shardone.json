@@ -1,0 +1,22 @@
+{
+  "slug": "twopeters_shardone",
+  "seconds": 1.3787181377410889,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА ПЕТРА\",\n  \"producer\": \"WINE OF CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"Кейное сухое\",\n  \"raw_visible_text\": [\n    \"WINE OF CRIMEA\",\n    \"ДВА ПЕТРА\",\n    \"2024\",\n    \"CHARDONNAY\",\n    \"Кейное сухое\",\n    \"№1051\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА ПЕТРА",
+    "producer": "WINE OF CRIMEA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CHARDONNAY",
+    "category": "Кейное сухое",
+    "raw_visible_text": [
+      "WINE OF CRIMEA",
+      "ДВА ПЕТРА",
+      "2024",
+      "CHARDONNAY",
+      "Кейное сухое",
+      "№1051"
+    ]
+  }
+}

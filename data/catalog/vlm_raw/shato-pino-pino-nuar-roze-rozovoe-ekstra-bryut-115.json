@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-pino-nuar-roze-rozovoe-ekstra-bryut-115",
+  "seconds": 4.9504194259643555,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"CHATEAU\",\n    \"PINOT NOIR\",\n    \"ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": "ROSE",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "CHATEAU",
+      "PINOT NOIR",
+      "ROSE"
+    ]
+  }
+}

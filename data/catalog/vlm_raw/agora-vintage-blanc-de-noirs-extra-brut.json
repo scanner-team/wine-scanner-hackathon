@@ -1,0 +1,27 @@
+{
+  "slug": "agora-vintage-blanc-de-noirs-extra-brut",
+  "seconds": 1.2640814781188965,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Vintage\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"METODO\",\n    \"CLASSICO\",\n    \"Vintage\",\n    \"BRUT\",\n    \"BLANC DE NOIRS\",\n    \"24 MESI\",\n    \"METODO CLASSICO\",\n    \"BLANC DE NOIRS\",\n    \"24\",\n    \"MESI\",\n    \"AGORA WINERY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Vintage",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "METODO",
+      "CLASSICO",
+      "Vintage",
+      "BRUT",
+      "BLANC DE NOIRS",
+      "24 MESI",
+      "METODO CLASSICO",
+      "BLANC DE NOIRS",
+      "24",
+      "MESI",
+      "AGORA WINERY"
+    ]
+  }
+}

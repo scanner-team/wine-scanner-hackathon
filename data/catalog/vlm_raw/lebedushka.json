@@ -1,0 +1,22 @@
+{
+  "slug": "lebedushka",
+  "seconds": 1.4755630493164062,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": \"Родное Севастополь\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": null,\n  \"category\": \"природно-полусладкое\",\n  \"raw_visible_text\": [\n    \"Le K2\",\n    \"ЛЕБЁДУШКА\",\n    \"2025\",\n    \"ПРИРОДНО-ПОЛУСЛАДКОЕ\",\n    \"12.5% об.\",\n    \"Родное Севастополь\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": "Родное Севастополь",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": null,
+    "category": "природно-полусладкое",
+    "raw_visible_text": [
+      "Le K2",
+      "ЛЕБЁДУШКА",
+      "2025",
+      "ПРИРОДНО-ПОЛУСЛАДКОЕ",
+      "12.5% об.",
+      "Родное Севастополь"
+    ]
+  }
+}

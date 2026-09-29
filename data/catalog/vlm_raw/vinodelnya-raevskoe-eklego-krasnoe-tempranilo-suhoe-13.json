@@ -1,0 +1,18 @@
+{
+  "slug": "vinodelnya-raevskoe-eklego-krasnoe-tempranilo-suhoe-13",
+  "seconds": 4.452083110809326,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Hlego\",\n  \"producer\": \"RAEVSKOE WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": [\n    \"Tempranillo\",\n    \"Merlot\",\n    \"Petit Verdot\"\n  ],\n  \"category\": \"Red\"\n}",
+  "parsed": {
+    "visible_name": "Hlego",
+    "producer": "RAEVSKOE WINERY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": [
+      "Tempranillo",
+      "Merlot",
+      "Petit Verdot"
+    ],
+    "category": "Red"
+  }
+}

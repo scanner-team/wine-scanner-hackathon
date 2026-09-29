@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-estate-sauvignon-blanc-sovinon-blan-beloe-suhoe-11",
+  "seconds": 9.266475915908813,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM ESTATE\",\n  \"producer\": \"ВЯЧЕСЛАВ ЗОТИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"ВИНО СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛ\",\n    \"ВЯЧЕСЛАВ ЗОТИН\",\n    \"ADAGUM\",\n    \"ESTATE\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«КУБАНЬ»\",\n    \"СОВИНЬОН БЛАН\",\n    \"ВИНО СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM ESTATE",
+    "producer": "ВЯЧЕСЛАВ ЗОТИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "ВИНО СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛ",
+      "ВЯЧЕСЛАВ ЗОТИН",
+      "ADAGUM",
+      "ESTATE",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«КУБАНЬ»",
+      "СОВИНЬОН БЛАН",
+      "ВИНО СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

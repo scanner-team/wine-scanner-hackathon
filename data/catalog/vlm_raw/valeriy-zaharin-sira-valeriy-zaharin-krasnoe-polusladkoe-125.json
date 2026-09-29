@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-sira-valeriy-zaharin-krasnoe-polusladkoe-125",
+  "seconds": 5.7084832191467285,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СИРА\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРБИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"природно полусладкое красное\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРБИН\",\n    \"СИРА\",\n    \"ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СИРА",
+    "producer": "ВАЛЕРИЙ ЗАХАРБИН",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "природно полусладкое красное",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ",
+      "ЗАХАРБИН",
+      "СИРА",
+      "ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ",
+      "2023"
+    ]
+  }
+}

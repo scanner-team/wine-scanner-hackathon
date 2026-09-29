@@ -1,0 +1,23 @@
+{
+  "slug": "golubitskoe-estate-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+  "seconds": 5.965881109237671,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GOLUBITSKOE ESTATE\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Cabernet Sauvignon Merlot\",\n  \"category\": \"Red blend\",\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"Cabernet Sauvignon\",\n    \"Merlot\",\n    \"Red blend\",\n    \"GOLUBITSKAYA STREKLA\",\n    \"TAMAGNE / 2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GOLUBITSKOE ESTATE",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Cabernet Sauvignon Merlot",
+    "category": "Red blend",
+    "raw_visible_text": [
+      "GOLUBITSKOE",
+      "ESTATE",
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Red blend",
+      "GOLUBITSKAYA STREKLA",
+      "TAMAGNE / 2021"
+    ]
+  }
+}

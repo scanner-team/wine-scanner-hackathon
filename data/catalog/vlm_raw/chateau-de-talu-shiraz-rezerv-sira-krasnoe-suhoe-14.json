@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-de-talu-shiraz-rezerv-sira-krasnoe-suhoe-14",
+  "seconds": 5.664029836654663,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШИРАЗ\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"ШИРАЗ\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"ШИРАЗ\",\n    \"РЕЗЕРВ\",\n    \"2020\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШИРАЗ",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": "ШИРАЗ",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "ШИРАЗ",
+      "РЕЗЕРВ",
+      "2020",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "mancopia-saperavi",
+  "seconds": 1.5608177185058594,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANCOPIA\",\n  \"producer\": \"ЗОЛОТАЯ ПЕРВАЯ, КРЫМ\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2023\",\n  \"grape\": \"SAPERAVI\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MANCOPIA\",\n    \"SAPERAVI\",\n    \"RESERVE • 2023\",\n    \"ЗОЛОТАЯ ПЕРВАЯ, КРЫМ\",\n    \"1.5 L\",\n    \"12% vol\",\n    \"1.000\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANCOPIA",
+    "producer": "ЗОЛОТАЯ ПЕРВАЯ, КРЫМ",
+    "cuvee": "RESERVE",
+    "vintage": "2023",
+    "grape": "SAPERAVI",
+    "category": null,
+    "raw_visible_text": [
+      "MANCOPIA",
+      "SAPERAVI",
+      "RESERVE • 2023",
+      "ЗОЛОТАЯ ПЕРВАЯ, КРЫМ",
+      "1.5 L",
+      "12% vol",
+      "1.000"
+    ]
+  }
+}

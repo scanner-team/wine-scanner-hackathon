@@ -1,0 +1,21 @@
+{
+  "slug": "chteau-le-grand-vostock-merlot-merlo-krasnoe-suhoe-14",
+  "seconds": 11.129515886306763,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château Le Grand Vostock\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"LE GRAND VOSTOCK\",\n    \"MERLOT\",\n    \"ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОДАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château Le Grand Vostock",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "LE GRAND VOSTOCK",
+      "MERLOT",
+      "ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОДАНА"
+    ]
+  }
+}

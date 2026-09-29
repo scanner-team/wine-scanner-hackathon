@@ -1,0 +1,28 @@
+{
+  "slug": "uppa-winery-kokur-kokur-belyy-beloe-suhoe-12",
+  "seconds": 14.753591775894165,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PAVEL SHVETS\",\n  \"producer\": \"UP PA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"KOKUR\",\n  \"category\": \"Cler Polati\",\n  \"raw_visible_text\": [\n    \"Pavel Shvets\",\n    \"CRIMEA\",\n    \"SEVASTOPOL\",\n    \"UP\",\n    \"PA\",\n    \"PAVEL SHVETS\",\n    \"KOKUR\",\n    \"Cler Polati\",\n    \"2022\",\n    \"12,5%\",\n    \"BOTTLE N°1828 OF 2036\",\n    \"0,75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PAVEL SHVETS",
+    "producer": "UP PA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "KOKUR",
+    "category": "Cler Polati",
+    "raw_visible_text": [
+      "Pavel Shvets",
+      "CRIMEA",
+      "SEVASTOPOL",
+      "UP",
+      "PA",
+      "PAVEL SHVETS",
+      "KOKUR",
+      "Cler Polati",
+      "2022",
+      "12,5%",
+      "BOTTLE N°1828 OF 2036",
+      "0,75"
+    ]
+  }
+}

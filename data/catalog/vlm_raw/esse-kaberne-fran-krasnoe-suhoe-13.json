@@ -1,0 +1,19 @@
+{
+  "slug": "esse-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 4.315664291381836,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Keropas Thian\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Keropas Thian\",\n    \"ess\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Keropas Thian",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Keropas Thian",
+      "ess",
+      "esse"
+    ]
+  }
+}

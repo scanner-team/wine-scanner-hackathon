@@ -1,0 +1,19 @@
+{
+  "slug": "fanagoriya-sur-lie-chardonnay-shardone-beloe-suhoe-135",
+  "seconds": 13.181998014450073,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Chardonnay Sur Lie\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Chardonnay\",\n  \"category\": \"Sur Lie\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"Chardonnay Sur Lie\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Chardonnay Sur Lie",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Chardonnay",
+    "category": "Sur Lie",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "Chardonnay Sur Lie",
+      "2022"
+    ]
+  }
+}

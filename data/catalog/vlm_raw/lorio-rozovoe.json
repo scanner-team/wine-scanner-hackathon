@@ -1,0 +1,19 @@
+{
+  "slug": "lorio-rozovoe",
+  "seconds": 4.372632026672363,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МОРПИО\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МОРПИО\",\n    \"ИСТОЧНИК\",\n    \"ПИВОНОМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МОРПИО",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МОРПИО",
+      "ИСТОЧНИК",
+      "ПИВОНОМ"
+    ]
+  }
+}

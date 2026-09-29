@@ -1,0 +1,25 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-shardone-suhoe-beloe-11",
+  "seconds": 7.993144989013672,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"SOYUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРАДОНЕ\",\n  \"category\": \"ВИНО СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"SOYUZ VINO\",\n    \"CHARDONNAY\",\n    \"ШАРАДОНЕ\",\n    \"ВИНО СУХОЕ БЕЛОЕ\",\n    \"УНИКАЛЬНЫЕ КУХОННЫЕ ВИНА\",\n    \"ИЗ СЕМЕЙ РОССИЙСКОГО ВИНА\",\n    \"КУДАВИЕ ТАМБОВСКИЙ ПОДСТАВОК\",\n    \"ЗАПАСНОЕ ВИНО\",\n    \"СКИДКА 10% В СЕРВИСЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "SOYUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРАДОНЕ",
+    "category": "ВИНО СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "SOYUZ VINO",
+      "CHARDONNAY",
+      "ШАРАДОНЕ",
+      "ВИНО СУХОЕ БЕЛОЕ",
+      "УНИКАЛЬНЫЕ КУХОННЫЕ ВИНА",
+      "ИЗ СЕМЕЙ РОССИЙСКОГО ВИНА",
+      "КУДАВИЕ ТАМБОВСКИЙ ПОДСТАВОК",
+      "ЗАПАСНОЕ ВИНО",
+      "СКИДКА 10% В СЕРВИСЕ"
+    ]
+  }
+}

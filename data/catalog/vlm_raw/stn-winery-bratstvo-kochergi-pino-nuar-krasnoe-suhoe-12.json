@@ -1,0 +1,18 @@
+{
+  "slug": "stn-winery-bratstvo-kochergi-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 4.390976905822754,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PINOT NOIR\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "PINOT NOIR",
+      "2020"
+    ]
+  }
+}

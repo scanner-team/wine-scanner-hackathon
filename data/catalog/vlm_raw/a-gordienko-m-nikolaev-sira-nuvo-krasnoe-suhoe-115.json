@@ -1,0 +1,19 @@
+{
+  "slug": "a-gordienko-m-nikolaev-sira-nuvo-krasnoe-suhoe-115",
+  "seconds": 5.2279369831085205,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СИРА НУВО\",\n  \"producer\": \"А.ГОРАДЕНКО & М.НИКОЛАЕВ\",\n  \"cuvee\": null,\n  \"vintage\": \"MMXIX\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"А.ГОРАДЕНКО & М.НИКОЛАЕВ\",\n    \"СИРА НУВО\",\n    \"MMXIX\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СИРА НУВО",
+    "producer": "А.ГОРАДЕНКО & М.НИКОЛАЕВ",
+    "cuvee": null,
+    "vintage": "MMXIX",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "А.ГОРАДЕНКО & М.НИКОЛАЕВ",
+      "СИРА НУВО",
+      "MMXIX"
+    ]
+  }
+}

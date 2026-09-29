@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-shardone-rezerv-beloe-suhoe-135",
+  "seconds": 14.703012228012085,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДОНЕ РЕЗЕРВ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Шардоне\",\n  \"category\": \"белое сухое\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"УЗУНОВ\",\n    \"ШАРДОНЕ РЕЗЕРВ\",\n    \"белое сухое\",\n    \"2023\",\n    \"13.5 %\",\n    \"0.75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДОНЕ РЕЗЕРВ",
+    "producer": "ВИНОДЕЛЬНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Шардоне",
+    "category": "белое сухое",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "УЗУНОВ",
+      "ШАРДОНЕ РЕЗЕРВ",
+      "белое сухое",
+      "2023",
+      "13.5 %",
+      "0.75 л"
+    ]
+  }
+}

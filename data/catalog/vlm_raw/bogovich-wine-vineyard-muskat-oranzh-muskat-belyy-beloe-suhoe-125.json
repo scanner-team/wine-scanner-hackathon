@@ -1,0 +1,19 @@
+{
+  "slug": "bogovich-wine-vineyard-muskat-oranzh-muskat-belyy-beloe-suhoe-125",
+  "seconds": 4.513253688812256,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MUSCAT ORANGE\",\n  \"producer\": \"BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT\",\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"BOGOVICH\",\n    \"MUSCAT\",\n    \"ORANGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MUSCAT ORANGE",
+    "producer": "BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT",
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "BOGOVICH",
+      "MUSCAT",
+      "ORANGE"
+    ]
+  }
+}

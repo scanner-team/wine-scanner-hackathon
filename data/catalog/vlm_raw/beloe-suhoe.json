@@ -1,0 +1,18 @@
+{
+  "slug": "beloe-suhoe",
+  "seconds": 0.9794204235076904,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОЛНЕЧНАЯ АДОЛИНА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"СОЛНЕЧНАЯ АДОЛИНА\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОЛНЕЧНАЯ АДОЛИНА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "СОЛНЕЧНАЯ АДОЛИНА",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

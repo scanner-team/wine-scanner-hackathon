@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-berdyaeva-kaberne-kaberne-sovinon-krasnoe-suhoe-138",
+  "seconds": 5.196439981460571,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне\",\n  \"producer\": \"Винодельня Бердьева\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"КАБЕРНЕ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"ВИНОДЕЛЬНЯ БЕРДЬЕВА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне",
+    "producer": "Винодельня Бердьева",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "КАБЕРНЕ",
+      "СУХОЕ КРАСНОЕ",
+      "ВИНОДЕЛЬНЯ БЕРДЬЕВА"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "muskat-premium",
+  "seconds": 4.510098218917847,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Muscad\",\n  \"producer\": \"LES VIGNERONS DE VINCENNES\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LES VIGNERONS DE VINCENNES\",\n    \"2020\",\n    \"Muscad\",\n    \"MUSCAD\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Muscad",
+    "producer": "LES VIGNERONS DE VINCENNES",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "LES VIGNERONS DE VINCENNES",
+      "2020",
+      "Muscad",
+      "MUSCAD"
+    ]
+  }
+}

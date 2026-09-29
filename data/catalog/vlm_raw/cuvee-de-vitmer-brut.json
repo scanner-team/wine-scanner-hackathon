@@ -1,0 +1,23 @@
+{
+  "slug": "cuvee-de-vitmer-brut",
+  "seconds": 1.86946702003479,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BALAKLAVA\",\n  \"producer\": \"Sevastopol\",\n  \"cuvee\": \"CUVÉE DE VITMER\",\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"Sevastopol\",\n    \"BALAKLAVA\",\n    \"MÉTHODE CLASSIQUE\",\n    \"CUVÉE\",\n    \"DE VITMER\",\n    \"2021\",\n    \"BRUT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BALAKLAVA",
+    "producer": "Sevastopol",
+    "cuvee": "CUVÉE DE VITMER",
+    "vintage": "2021",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "Sevastopol",
+      "BALAKLAVA",
+      "MÉTHODE CLASSIQUE",
+      "CUVÉE",
+      "DE VITMER",
+      "2021",
+      "BRUT"
+    ]
+  }
+}

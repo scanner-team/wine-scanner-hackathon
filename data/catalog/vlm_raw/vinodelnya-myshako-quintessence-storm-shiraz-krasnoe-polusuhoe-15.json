@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-storm-shiraz-krasnoe-polusuhoe-15",
+  "seconds": 8.172708988189697,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2018\",\n  \"grape\": \"SHIRAZ\",\n  \"category\": \"RIPASSO\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"ВИНОДЕЛНЯ\",\n    \"МЫСХАКО\",\n    \"1869\",\n    \"SHIRAZ\",\n    \"RIPASSO\",\n    \"2018\",\n    \"ПОЛУСЛУХОЕ КРАСНОЕ\",\n    \"ТИРАК 26 000 БУТЫЛК\",\n    \"АЛКОГОЛЬ 13,5% ОБ. СОДР 1,5% ОБ.\",\n    \"СТОРМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МЫСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2018",
+    "grape": "SHIRAZ",
+    "category": "RIPASSO",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "QUINTESSENCE",
+      "COLLECTION",
+      "ВИНОДЕЛНЯ",
+      "МЫСХАКО",
+      "1869",
+      "SHIRAZ",
+      "RIPASSO",
+      "2018",
+      "ПОЛУСЛУХОЕ КРАСНОЕ",
+      "ТИРАК 26 000 БУТЫЛК",
+      "АЛКОГОЛЬ 13,5% ОБ. СОДР 1,5% ОБ.",
+      "СТОРМ"
+    ]
+  }
+}

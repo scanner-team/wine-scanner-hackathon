@@ -1,0 +1,22 @@
+{
+  "slug": "derbent-vino-kavkazian-dzharauli-moldova-krasnoe-polusladkoe-11",
+  "seconds": 14.292882204055786,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAUCASIAN\",\n  \"producer\": \"ДЕРБЕН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РАХАТ\",\n  \"category\": \"ПРИРОДНОЕ ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕН\",\n    \"CAUCASIAN\",\n    \"ΣΩΑΣΕΣ\",\n    \"РАХАТ\",\n    \"ПРИРОДНОЕ ПОЛУСЛАДКОЕ\",\n    \"КРАСНОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAUCASIAN",
+    "producer": "ДЕРБЕН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РАХАТ",
+    "category": "ПРИРОДНОЕ ПОЛУСЛАДКОЕ КРАСНОЕ ВИНО",
+    "raw_visible_text": [
+      "ДЕРБЕН",
+      "CAUCASIAN",
+      "ΣΩΑΣΕΣ",
+      "РАХАТ",
+      "ПРИРОДНОЕ ПОЛУСЛАДКОЕ",
+      "КРАСНОЕ ВИНО"
+    ]
+  }
+}

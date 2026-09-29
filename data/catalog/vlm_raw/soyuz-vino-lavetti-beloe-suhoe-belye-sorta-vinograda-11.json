@@ -1,0 +1,27 @@
+{
+  "slug": "soyuz-vino-lavetti-beloe-suhoe-belye-sorta-vinograda-11",
+  "seconds": 6.755431890487671,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LAVETTI\",\n  \"producer\": \"Lavetti\",\n  \"cuvee\": \"Grande\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Secco\",\n  \"raw_visible_text\": [\n    \"LAVETTI\",\n    \"Superiore\",\n    \"GRANDE\",\n    \"LAVETTI\",\n    \"Superiore\",\n    \"EST. L 1844\",\n    \"VINO BIANCO\",\n    \"SECCO\",\n    \"VINO DA TAVOLA\",\n    \"12346\",\n    \"7341\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LAVETTI",
+    "producer": "Lavetti",
+    "cuvee": "Grande",
+    "vintage": null,
+    "grape": null,
+    "category": "Secco",
+    "raw_visible_text": [
+      "LAVETTI",
+      "Superiore",
+      "GRANDE",
+      "LAVETTI",
+      "Superiore",
+      "EST. L 1844",
+      "VINO BIANCO",
+      "SECCO",
+      "VINO DA TAVOLA",
+      "12346",
+      "7341"
+    ]
+  }
+}

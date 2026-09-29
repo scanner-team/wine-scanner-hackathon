@@ -1,0 +1,22 @@
+{
+  "slug": "chateau-cachalot-risling-beloe-suhoe-115",
+  "seconds": 5.598880052566528,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CACHALOT\",\n  \"producer\": \"виноградник мангуй\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"рислинг\",\n  \"category\": \"севастополь\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"CACHALOT\",\n    \"РИСЛИНГ\",\n    \"ВИНОГРАДНИК МАНГУЙ\",\n    \"2023\",\n    \"СЕВАСТОПОЛЬ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CACHALOT",
+    "producer": "виноградник мангуй",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "рислинг",
+    "category": "севастополь",
+    "raw_visible_text": [
+      "CHATEAU",
+      "CACHALOT",
+      "РИСЛИНГ",
+      "ВИНОГРАДНИК МАНГУЙ",
+      "2023",
+      "СЕВАСТОПОЛЬ"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kyuve-czimlyanskij-chernyj-i-krasnostop-zolotoj",
+  "seconds": 1.375859260559082,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": \"КИОВЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Сладкое Просное\",\n  \"raw_visible_text\": [\n    \"ВИДЕРКАНУС\",\n    \"1986\",\n    \"ЦИМЛЯНСКИЕ\",\n    \"ВИНЫ\",\n    \"КИОВЕ\",\n    \"АВТОГОН\",\n    \"Сладкое Просное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": "КИОВЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Сладкое Просное",
+    "raw_visible_text": [
+      "ВИДЕРКАНУС",
+      "1986",
+      "ЦИМЛЯНСКИЕ",
+      "ВИНЫ",
+      "КИОВЕ",
+      "АВТОГОН",
+      "Сладкое Просное"
+    ]
+  }
+}

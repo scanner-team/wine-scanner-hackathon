@@ -1,0 +1,21 @@
+{
+  "slug": "agora-winery-cuvee-pino-nuar-shardone-bryut-rozovoe-125",
+  "seconds": 5.525389909744263,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CUVÉE\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": \"CUVÉE\",\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR CHARDONNAY\",\n  \"category\": \"ROSÉ BRUT\",\n  \"raw_visible_text\": [\n    \"MÉTHODE CHARMAT\",\n    \"AGORA WINERY\",\n    \"CUVÉE\",\n    \"ROSÉ BRUT\",\n    \"PINOT NOIR CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CUVÉE",
+    "producer": "AGORA WINERY",
+    "cuvee": "CUVÉE",
+    "vintage": null,
+    "grape": "PINOT NOIR CHARDONNAY",
+    "category": "ROSÉ BRUT",
+    "raw_visible_text": [
+      "MÉTHODE CHARMAT",
+      "AGORA WINERY",
+      "CUVÉE",
+      "ROSÉ BRUT",
+      "PINOT NOIR CHARDONNAY"
+    ]
+  }
+}

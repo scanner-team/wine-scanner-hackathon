@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-krinitsa-rivazh-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 5.149213075637817,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРИНИЦА\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": \"RIVAGE\",\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"БИОГОСЕДАМЫ\",\n    \"RIVAGE\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРИНИЦА",
+    "producer": "КРИНИЦА",
+    "cuvee": "RIVAGE",
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "БИОГОСЕДАМЫ",
+      "RIVAGE",
+      "2021"
+    ]
+  }
+}

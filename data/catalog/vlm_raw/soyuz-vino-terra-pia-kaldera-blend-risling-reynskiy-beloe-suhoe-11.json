@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-terra-pia-kaldera-blend-risling-reynskiy-beloe-suhoe-11",
+  "seconds": 15.095103979110718,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"TERRA PIA\",\n  \"producer\": null,\n  \"cuvee\": \"Caldera Blend\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"White Dry Wine\",\n  \"raw_visible_text\": [\n    \"GROWN ON VOLCANIC SOIL\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE BEREK\",\n    \"TERRA PIA\",\n    \"CALDERA BLEND\",\n    \"WHITE DRY WINE\",\n    \"BROKE CZYŻE B",
+  "parsed": {
+    "visible_name": "TERRA PIA",
+    "producer": null,
+    "cuvee": "Caldera Blend",
+    "vintage": null,
+    "grape": null,
+    "category": "White Dry Wine"
+  }
+}

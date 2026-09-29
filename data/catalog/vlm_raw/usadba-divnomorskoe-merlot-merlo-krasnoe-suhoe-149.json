@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-divnomorskoe-merlot-merlo-krasnoe-suhoe-149",
+  "seconds": 4.838559150695801,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MERLOT\",\n  \"producer\": \"УСАЛЬВА АМЕРКОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАЛЬВА АМЕРКОМОРСКОЕ\",\n    \"The Black Sea\",\n    \"MERLOT\",\n    \"N° 02/100\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MERLOT",
+    "producer": "УСАЛЬВА АМЕРКОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "УСАЛЬВА АМЕРКОМОРСКОЕ",
+      "The Black Sea",
+      "MERLOT",
+      "N° 02/100"
+    ]
+  }
+}

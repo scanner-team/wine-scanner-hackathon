@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-de-la-vivandiere-sibirkovyy-sur-lies-beloe-suhoe-121",
+  "seconds": 5.8410186767578125,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVANCIÈRE\",\n  \"producer\": \"СИБИРЬКОВЫЙ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СИБИРЬКОВЫЙ\",\n    \"SUR LIES\",\n    \"VIVANCIÈRE\",\n    \"12,5% alc\",\n    \"CÔTES DU DON\",\n    \"2023\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVANCIÈRE",
+    "producer": "СИБИРЬКОВЫЙ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СИБИРЬКОВЫЙ",
+      "SUR LIES",
+      "VIVANCIÈRE",
+      "12,5% alc",
+      "CÔTES DU DON",
+      "2023",
+      "750 ml"
+    ]
+  }
+}

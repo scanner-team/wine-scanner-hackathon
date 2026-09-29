@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-de-talu-kaberne-fran-rezerv-krasnoe-suhoe-13",
+  "seconds": 6.007550001144409,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ ФРАН\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗІРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"КАБЕРНЕ ФРАН\",\n    \"РЕЗІРВ\",\n    \"2020\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ ФРАН",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗІРВ",
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "КАБЕРНЕ ФРАН",
+      "РЕЗІРВ",
+      "2020",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

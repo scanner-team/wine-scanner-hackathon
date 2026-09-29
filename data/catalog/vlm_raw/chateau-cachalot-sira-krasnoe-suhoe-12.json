@@ -1,0 +1,14 @@
+{
+  "slug": "chateau-cachalot-sira-krasnoe-suhoe-12",
+  "seconds": 4.093394994735718,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СИРА\",\n  \"producer\": \"CHATEAU CACHALOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МАНГУП\",\n  \"category\": \"СЕВАСТОПОЛЬ\"\n}",
+  "parsed": {
+    "visible_name": "СИРА",
+    "producer": "CHATEAU CACHALOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МАНГУП",
+    "category": "СЕВАСТОПОЛЬ"
+  }
+}

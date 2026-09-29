@@ -1,0 +1,17 @@
+{
+  "slug": "vaynkraft-traminer-traminer-rozovyy-beloe-suhoe-14",
+  "seconds": 4.107224702835083,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРАММИНЕР\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТРАММИНЕР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРАММИНЕР",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ТРАММИНЕР"
+    ]
+  }
+}

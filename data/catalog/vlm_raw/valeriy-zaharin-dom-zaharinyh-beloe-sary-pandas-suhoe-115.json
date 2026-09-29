@@ -1,0 +1,23 @@
+{
+  "slug": "valeriy-zaharin-dom-zaharinyh-beloe-sary-pandas-suhoe-115",
+  "seconds": 6.785134315490723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ОМ ЗИХАРЬИНЫХ\",\n  \"producer\": \"ГРАНД ВИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"ВИНОГРАДА\",\n  \"category\": \"ГУЧНОЙ СВОР\",\n  \"raw_visible_text\": [\n    \"ГРАНД ВИН\",\n    \"ОМ ЗИХАРЬИНЫХ\",\n    \"ГУЧНОЙ СВОР\",\n    \"ВИНОГРАДА\",\n    \"2020\",\n    \"Содержит 13,2% об.\",\n    \"ВАЛЕРИЙ ЗАКАРЬИЧ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ОМ ЗИХАРЬИНЫХ",
+    "producer": "ГРАНД ВИН",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "ВИНОГРАДА",
+    "category": "ГУЧНОЙ СВОР",
+    "raw_visible_text": [
+      "ГРАНД ВИН",
+      "ОМ ЗИХАРЬИНЫХ",
+      "ГУЧНОЙ СВОР",
+      "ВИНОГРАДА",
+      "2020",
+      "Содержит 13,2% об.",
+      "ВАЛЕРИЙ ЗАКАРЬИЧ"
+    ]
+  }
+}

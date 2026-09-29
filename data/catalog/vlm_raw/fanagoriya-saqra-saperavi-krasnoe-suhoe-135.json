@@ -1,0 +1,22 @@
+{
+  "slug": "fanagoriya-saqra-saperavi-krasnoe-suhoe-135",
+  "seconds": 13.792217016220093,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAQRA\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"САПЕРАМ КРАСНОСТОП\",\n  \"category\": \"свяной\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"SAQRA\",\n    \"САПЕРАМ КРАСНОСТОП\",\n    \"+\",\n    \"2021\",\n    \"СВЯНОЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAQRA",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "САПЕРАМ КРАСНОСТОП",
+    "category": "свяной",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "SAQRA",
+      "САПЕРАМ КРАСНОСТОП",
+      "+",
+      "2021",
+      "СВЯНОЙ"
+    ]
+  }
+}

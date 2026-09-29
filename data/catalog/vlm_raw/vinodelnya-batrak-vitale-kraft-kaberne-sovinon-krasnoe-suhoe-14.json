@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-batrak-vitale-kraft-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 4.902281045913696,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Vitale Kraft\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"ВИНОДЕВЬЯ-1895\",\n    \"Vitale Kraft\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Vitale Kraft",
+    "producer": "Виталий Батрак",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "ВИНОДЕВЬЯ-1895",
+      "Vitale Kraft"
+    ]
+  }
+}

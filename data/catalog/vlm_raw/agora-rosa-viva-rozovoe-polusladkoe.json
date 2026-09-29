@@ -1,0 +1,20 @@
+{
+  "slug": "agora-rosa-viva-rozovoe-polusladkoe",
+  "seconds": 1.0533998012542725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSA VIVA\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"PINK SEMI-SWEET\",\n  \"raw_visible_text\": [\n    \"AGORA WINERY\",\n    \"ROSA VIVA\",\n    \"PINK SEMI-SWEET\",\n    \"SPARKLING WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSA VIVA",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "PINK SEMI-SWEET",
+    "raw_visible_text": [
+      "AGORA WINERY",
+      "ROSA VIVA",
+      "PINK SEMI-SWEET",
+      "SPARKLING WINE"
+    ]
+  }
+}

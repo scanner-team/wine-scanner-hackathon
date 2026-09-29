@@ -1,0 +1,23 @@
+{
+  "slug": "merlo-1",
+  "seconds": 1.63515305519104,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANTRA ESTATE\",\n  \"producer\": \"MANTRA ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"MERLOT\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"MANTRA ESTATE\",\n    \"MERLOT\",\n    \"ПАРТНЕРСТВО С БОГАТЫМИ СЕРДЦАМИ\",\n    \"РОССИЯ - ПРАВДА ПОД СЕРДЕЦЕМ КАМЕРА\",\n    \"2023\",\n    \"BOTTLE NUMBER 202\",\n    \"AMONG 1250\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANTRA ESTATE",
+    "producer": "MANTRA ESTATE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "MERLOT",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "MANTRA ESTATE",
+      "MERLOT",
+      "ПАРТНЕРСТВО С БОГАТЫМИ СЕРДЦАМИ",
+      "РОССИЯ - ПРАВДА ПОД СЕРДЕЦЕМ КАМЕРА",
+      "2023",
+      "BOTTLE NUMBER 202",
+      "AMONG 1250"
+    ]
+  }
+}

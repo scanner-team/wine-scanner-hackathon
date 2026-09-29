@@ -1,0 +1,22 @@
+{
+  "slug": "chteau-le-grand-vostock-krasnostop-reserve-krasnostop-krasnoe-suhoe-14",
+  "seconds": 11.431929111480713,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Krasnostop\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": \"Reserve\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château\",\n    \"LE GRAND VOSTOCK\",\n    \"Krasnostop\",\n    \"RESERVE\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОППАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Krasnostop",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": "Reserve",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Château",
+      "LE GRAND VOSTOCK",
+      "Krasnostop",
+      "RESERVE",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОППАНА"
+    ]
+  }
+}

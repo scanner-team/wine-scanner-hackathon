@@ -1,0 +1,20 @@
+{
+  "slug": "denisov-winery-tsitron-oranzh-tsitronnyy-magaracha-oranzhevoe-suhoe-105",
+  "seconds": 4.901749134063721,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Оранж\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"ЧИМПАН\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"Оранж\",\n    \"2022\",\n    \"ЧИМПАН\",\n    \"DENISOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Оранж",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "ЧИМПАН",
+    "category": "null",
+    "raw_visible_text": [
+      "Оранж",
+      "2022",
+      "ЧИМПАН",
+      "DENISOV"
+    ]
+  }
+}

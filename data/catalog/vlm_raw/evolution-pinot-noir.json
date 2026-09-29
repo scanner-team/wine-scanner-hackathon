@@ -1,0 +1,19 @@
+{
+  "slug": "evolution-pinot-noir",
+  "seconds": 0.8930160999298096,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"EVOLUTION\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"EVOLUTION\",\n    \"PINOT NOIR\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "EVOLUTION",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "PINOT NOIR",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "EVOLUTION",
+      "PINOT NOIR",
+      "2024"
+    ]
+  }
+}

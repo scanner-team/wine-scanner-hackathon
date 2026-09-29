@@ -1,0 +1,20 @@
+{
+  "slug": "aratti-shardone-beloe-suhoe",
+  "seconds": 1.194957971572876,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ШАРАДОНЕ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"ШАРАДОНЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ШАРАДОНЕ",
+    "category": null,
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "ШАРАДОНЕ",
+      "2023"
+    ]
+  }
+}

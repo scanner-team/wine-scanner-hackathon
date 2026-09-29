@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-tte-de-cheval-blanc-de-blancs-shardone-beloe-bryut-12",
+  "seconds": 5.292923927307129,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TÊTE DE CHEVAL\",\n  \"producer\": \"TÊTE DE CHEVAL\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Blanc de Blancs\",\n  \"raw_visible_text\": [\n    \"TÊTE\",\n    \"DE CHEVAL\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Blanc de Blancs\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TÊTE DE CHEVAL",
+    "producer": "TÊTE DE CHEVAL",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Blanc de Blancs",
+    "raw_visible_text": [
+      "TÊTE",
+      "DE CHEVAL",
+      "MÉTHODE CLASSIQUE",
+      "Blanc de Blancs"
+    ]
+  }
+}

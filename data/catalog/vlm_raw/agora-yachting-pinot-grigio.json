@@ -1,0 +1,23 @@
+{
+  "slug": "agora-yachting-pinot-grigio",
+  "seconds": 1.5271656513214111,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AGORA\",\n  \"producer\": null,\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2018\",\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": \"WHITE DRY WINE\",\n  \"raw_visible_text\": [\n    \"AGORA\",\n    \"PINOT GRIGIO\",\n    \"WHITE DRY WINE\",\n    \"2018\",\n    \"RESERVE\",\n    \"YACHTING\",\n    \"ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AGORA",
+    "producer": null,
+    "cuvee": "RESERVE",
+    "vintage": "2018",
+    "grape": "PINOT GRIGIO",
+    "category": "WHITE DRY WINE",
+    "raw_visible_text": [
+      "AGORA",
+      "PINOT GRIGIO",
+      "WHITE DRY WINE",
+      "2018",
+      "RESERVE",
+      "YACHTING",
+      "ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»"
+    ]
+  }
+}

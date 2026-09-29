@@ -1,0 +1,19 @@
+{
+  "slug": "derbent-vino-kavkazian-saperavi-krasnoe-suhoe-105-125",
+  "seconds": 13.42468810081482,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAUCASIAN\",\n  \"producer\": \"ДЕРБЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"КРАСНОЕ СУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕ\",\n    \"САПЕРАВИ\",\n    \"КРАСНОЕ СУХОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAUCASIAN",
+    "producer": "ДЕРБЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "САПЕРАВИ",
+    "category": "КРАСНОЕ СУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ДЕРБЕ",
+      "САПЕРАВИ",
+      "КРАСНОЕ СУХОЕ ВИНО"
+    ]
+  }
+}

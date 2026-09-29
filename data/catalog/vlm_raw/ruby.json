@@ -1,0 +1,23 @@
+{
+  "slug": "ruby",
+  "seconds": 5.467315912246704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RUBY\",\n  \"producer\": \"WINEMAFFIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Kraazmstostop\",\n  \"category\": \"1 year\",\n  \"raw_visible_text\": [\n    \"WINEMAFFIA\",\n    \"Vineyard Ownership\",\n    \"RUBY\",\n    \"by Tarkhan Nagyshliew\",\n    \"Kraazmstostop\",\n    \"2023\",\n    \"1 year\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RUBY",
+    "producer": "WINEMAFFIA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Kraazmstostop",
+    "category": "1 year",
+    "raw_visible_text": [
+      "WINEMAFFIA",
+      "Vineyard Ownership",
+      "RUBY",
+      "by Tarkhan Nagyshliew",
+      "Kraazmstostop",
+      "2023",
+      "1 year"
+    ]
+  }
+}

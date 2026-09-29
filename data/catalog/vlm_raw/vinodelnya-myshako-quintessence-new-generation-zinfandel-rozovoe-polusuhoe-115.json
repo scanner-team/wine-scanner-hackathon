@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-zinfandel-rozovoe-polusuhoe-115",
+  "seconds": 6.084007740020752,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIRODEAN & MISCXANDO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": \"ZINFANDEL\",\n  \"category\": \"SEMI-DRY ROSE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIRODEAN &\",\n    \"MISCXANDO\",\n    \"1869\",\n    \"ZINFANDEL\",\n    \"SEMI-DRY ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIRODEAN & MISCXANDO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": "ZINFANDEL",
+    "category": "SEMI-DRY ROSE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIRODEAN &",
+      "MISCXANDO",
+      "1869",
+      "ZINFANDEL",
+      "SEMI-DRY ROSE"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "soyuz-vino-konfessa-sandzhoveze-krasnoe-suhoe-11",
+  "seconds": 5.458495140075684,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SANGIOVESE\",\n  \"producer\": \"CONFESSA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SANGIOVESE\",\n  \"category\": \"Rosso Secco\",\n  \"raw_visible_text\": [\n    \"VINO DA TAVOLA\",\n    \"TRADIZIONALE\",\n    \"CONFESSA\",\n    \"SANGIOVESE\",\n    \"Rosso Secco\",\n    \"750 ML\",\n    \"17% VOL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SANGIOVESE",
+    "producer": "CONFESSA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SANGIOVESE",
+    "category": "Rosso Secco",
+    "raw_visible_text": [
+      "VINO DA TAVOLA",
+      "TRADIZIONALE",
+      "CONFESSA",
+      "SANGIOVESE",
+      "Rosso Secco",
+      "750 ML",
+      "17% VOL"
+    ]
+  }
+}

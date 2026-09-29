@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-dolina-dona-beloe-suhoe-aligote-12",
+  "seconds": 8.352204084396362,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕЛИЕ С 1756 Г.\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"АЛИГОТЕ РИСЛИНГ РКАЦИТЕЛИ\",\n  \"category\": \"СИВИРЬКОВЫЙ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"ВИНОДЕЛИЕ С 1756 Г.\",\n    \"АЛИГОТЕ РИСЛИНГ\",\n    \"РКАЦИТЕЛИ\",\n    \"СИВИРЬКОВЫЙ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕЛИЕ С 1756 Г.",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "АЛИГОТЕ РИСЛИНГ РКАЦИТЕЛИ",
+    "category": "СИВИРЬКОВЫЙ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "ВИНОДЕЛИЕ С 1756 Г.",
+      "АЛИГОТЕ РИСЛИНГ",
+      "РКАЦИТЕЛИ",
+      "СИВИРЬКОВЫЙ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

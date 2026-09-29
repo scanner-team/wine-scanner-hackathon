@@ -1,0 +1,21 @@
+{
+  "slug": "derbent-vino-desono-merlo-krasnoe-suhoe-125",
+  "seconds": 1.4395427703857422,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DESONO\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"MERLOT\",\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИНО\",\n    \"DESONO\",\n    \"MERLOT\",\n    \"2022\",\n    \"КРАСНОЕ СУХОЕ ВИНО ИЗ ВИНОГРАДА, ВЫРАЩЕННОГО В ДАГЕСТАНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DESONO",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "MERLOT",
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИНО",
+      "DESONO",
+      "MERLOT",
+      "2022",
+      "КРАСНОЕ СУХОЕ ВИНО ИЗ ВИНОГРАДА, ВЫРАЩЕННОГО В ДАГЕСТАНЕ"
+    ]
+  }
+}

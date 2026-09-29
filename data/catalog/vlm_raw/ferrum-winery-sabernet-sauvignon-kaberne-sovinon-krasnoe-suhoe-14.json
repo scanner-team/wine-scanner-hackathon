@@ -1,0 +1,23 @@
+{
+  "slug": "ferrum-winery-sabernet-sauvignon-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 5.195187091827393,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Fe Ferrum\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"WINERY\",\n    \"26\",\n    \"Fe\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"CABERNET\",\n    \"SAUVIGNON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Fe Ferrum",
+    "producer": "FERRUM WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "WINERY",
+      "26",
+      "Fe",
+      "FERRUM",
+      "PYATIGORSK",
+      "CABERNET",
+      "SAUVIGNON"
+    ]
+  }
+}

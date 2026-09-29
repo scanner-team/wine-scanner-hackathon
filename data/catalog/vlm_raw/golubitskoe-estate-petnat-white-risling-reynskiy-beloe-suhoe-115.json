@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-petnat-white-risling-reynskiy-beloe-suhoe-115",
+  "seconds": 5.732112169265747,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GOLUBITSKOE ESTATE WHITE\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"PÉTILLANT NATUREL\",\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE\",\n    \"ESTATE\",\n    \"WHITE\",\n    \"PÉTILLANT NATUREL 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GOLUBITSKOE ESTATE WHITE",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "PÉTILLANT NATUREL",
+    "raw_visible_text": [
+      "GOLUBITSKOE",
+      "ESTATE",
+      "WHITE",
+      "PÉTILLANT NATUREL 2022"
+    ]
+  }
+}

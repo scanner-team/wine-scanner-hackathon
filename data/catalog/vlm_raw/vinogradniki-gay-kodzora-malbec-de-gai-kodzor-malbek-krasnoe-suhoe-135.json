@@ -1,0 +1,20 @@
+{
+  "slug": "vinogradniki-gay-kodzora-malbec-de-gai-kodzor-malbek-krasnoe-suhoe-135",
+  "seconds": 4.961035966873169,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GAI-KODZOR\",\n  \"producer\": \"GAI-KODZOR\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MALBEC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MALBEC\",\n    \"GAI-KODZOR\",\n    \"TERROIR DE LA VILLA\",\n    \"PRODUIT DE BELGA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GAI-KODZOR",
+    "producer": "GAI-KODZOR",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MALBEC",
+    "category": null,
+    "raw_visible_text": [
+      "MALBEC",
+      "GAI-KODZOR",
+      "TERROIR DE LA VILLA",
+      "PRODUIT DE BELGA"
+    ]
+  }
+}

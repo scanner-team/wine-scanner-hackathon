@@ -1,0 +1,21 @@
+{
+  "slug": "orlov_merlo",
+  "seconds": 1.1178157329559326,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мерло\",\n  \"producer\": \"Орлов\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Мерло\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Орлов\",\n    \"2022\",\n    \"Мерло\",\n    \"сухое красное\",\n    \"алкоголь 13,7%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мерло",
+    "producer": "Орлов",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Мерло",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Орлов",
+      "2022",
+      "Мерло",
+      "сухое красное",
+      "алкоголь 13,7%"
+    ]
+  }
+}

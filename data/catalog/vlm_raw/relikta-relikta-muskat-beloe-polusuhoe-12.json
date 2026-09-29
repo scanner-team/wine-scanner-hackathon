@@ -1,0 +1,22 @@
+{
+  "slug": "relikta-relikta-muskat-beloe-polusuhoe-12",
+  "seconds": 13.546123743057251,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РЕЛИКТА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"Полусухое\",\n  \"raw_visible_text\": [\n    \"РЕЛИКТА\",\n    \"МУСКАТ\",\n    \"Вино Белое\",\n    \"Полусухое\",\n    \"Год урожая\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РЕЛИКТА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "МУСКАТ",
+    "category": "Полусухое",
+    "raw_visible_text": [
+      "РЕЛИКТА",
+      "МУСКАТ",
+      "Вино Белое",
+      "Полусухое",
+      "Год урожая",
+      "2023"
+    ]
+  }
+}

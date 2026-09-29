@@ -1,0 +1,22 @@
+{
+  "slug": "donskoe-vinodelcheskoe-hozyaystvo-elbuzd-risling-beloe-suhoe-12",
+  "seconds": 14.106969833374023,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Рислинг\",\n  \"producer\": \"винодельня Эльбруз\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Рислинг\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"винодельня\",\n    \"Эльбруз\",\n    \"Рислинг\",\n    \"сухое белое\",\n    \"Российское вино с защищенным географическим указанием\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Рислинг",
+    "producer": "винодельня Эльбруз",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Рислинг",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "винодельня",
+      "Эльбруз",
+      "Рислинг",
+      "сухое белое",
+      "Российское вино с защищенным географическим указанием",
+      "2022"
+    ]
+  }
+}

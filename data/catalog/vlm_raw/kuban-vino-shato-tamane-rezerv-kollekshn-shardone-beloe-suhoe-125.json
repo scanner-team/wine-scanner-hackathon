@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-kollekshn-shardone-beloe-suhoe-125",
+  "seconds": 5.422878980636597,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2013\",\n  \"grape\": \"Chardonnay\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RESERVE\",\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"COLLECTION\",\n    \"CHARDONNAY\",\n    \"2013\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2013",
+    "grape": "Chardonnay",
+    "category": null,
+    "raw_visible_text": [
+      "RESERVE",
+      "Château TAMAGNE",
+      "RESERVE",
+      "COLLECTION",
+      "CHARDONNAY",
+      "2013"
+    ]
+  }
+}

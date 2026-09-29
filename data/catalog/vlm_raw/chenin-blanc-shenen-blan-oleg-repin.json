@@ -1,0 +1,22 @@
+{
+  "slug": "chenin-blanc-shenen-blan-oleg-repin",
+  "seconds": 13.552003145217896,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Oleg Repin\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CHENIN BLANC\",\n  \"category\": \"SEVASTOPOL\",\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"2024\",\n    \"CHENIN BLANC\",\n    \"SEVASTOPOL\",\n    \"bottle № limited edition\",\n    \"000793\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Oleg Repin",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CHENIN BLANC",
+    "category": "SEVASTOPOL",
+    "raw_visible_text": [
+      "Oleg Repin",
+      "2024",
+      "CHENIN BLANC",
+      "SEVASTOPOL",
+      "bottle № limited edition",
+      "000793"
+    ]
+  }
+}

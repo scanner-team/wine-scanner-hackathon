@@ -1,0 +1,18 @@
+{
+  "slug": "bogovich-wine-vineyard-klaret-pino-nuar-krasnoe-suhoe-119",
+  "seconds": 12.292913913726807,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BOGOVICH CLARET\",\n  \"producer\": \"BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BOGOVICH\",\n    \"CLARET\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BOGOVICH CLARET",
+    "producer": "BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "BOGOVICH",
+      "CLARET"
+    ]
+  }
+}

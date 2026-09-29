@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-raevskoe-genezis-krasnoe-kaberne-sovinon-suhoe-13",
+  "seconds": 4.286339998245239,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GENESIS\",\n  \"producer\": \"RAEVSKOE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"RED\",\n  \"raw_visible_text\": [\n    \"RAEVSKOE\",\n    \"GENESIS\",\n    \"RED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GENESIS",
+    "producer": "RAEVSKOE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "RED",
+    "raw_visible_text": [
+      "RAEVSKOE",
+      "GENESIS",
+      "RED"
+    ]
+  }
+}

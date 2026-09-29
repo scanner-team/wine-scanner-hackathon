@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-berdyaeva-kaberne-fran-krasnoe-suhoe-115",
+  "seconds": 5.255267143249512,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне Фран\",\n  \"producer\": \"Винодельня Бердьева\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Фран\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Каберне Фран\",\n    \"сухое красное\",\n    \"Винодельня Бердьева\",\n    \"0.75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне Фран",
+    "producer": "Винодельня Бердьева",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Фран",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Каберне Фран",
+      "сухое красное",
+      "Винодельня Бердьева",
+      "0.75"
+    ]
+  }
+}

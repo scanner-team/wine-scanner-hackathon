@@ -1,0 +1,23 @@
+{
+  "slug": "olymp-winery-adagum-pinot-noir-pino-nuar-krasnoe-suhoe-11",
+  "seconds": 6.977704048156738,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Адагум\",\n  \"producer\": \"КУБАНЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино Нуар\",\n  \"category\": \"Сухое Красное\",\n  \"raw_visible_text\": [\n    \"Адагум\",\n    \"Пино Нуар\",\n    \"Сухое Красное\",\n    \"Вино с защищенным географическим указанием\",\n    \"КУБАНЬ\",\n    \"1.7\",\n    \"11-12% об\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Адагум",
+    "producer": "КУБАНЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино Нуар",
+    "category": "Сухое Красное",
+    "raw_visible_text": [
+      "Адагум",
+      "Пино Нуар",
+      "Сухое Красное",
+      "Вино с защищенным географическим указанием",
+      "КУБАНЬ",
+      "1.7",
+      "11-12% об"
+    ]
+  }
+}

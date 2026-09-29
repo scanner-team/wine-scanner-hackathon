@@ -1,0 +1,22 @@
+{
+  "slug": "pozdnij-sbor-beloe",
+  "seconds": 1.473050594329834,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОЗДНИЙ\",\n  \"producer\": \"ЕЛЕНА С. БУРГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ЕЛЕНА С. БУРГ\",\n    \"Виноградник на Морозе\",\n    \"ПОЗДНИЙ\",\n    \"2023 СБОР\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"ВИНО С ДАЛЬНИХ ПОЛЯН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОЗДНИЙ",
+    "producer": "ЕЛЕНА С. БУРГ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ЕЛЕНА С. БУРГ",
+      "Виноградник на Морозе",
+      "ПОЗДНИЙ",
+      "2023 СБОР",
+      "СУХОЕ КРАСНОЕ",
+      "ВИНО С ДАЛЬНИХ ПОЛЯН"
+    ]
+  }
+}

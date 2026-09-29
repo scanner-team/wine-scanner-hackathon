@@ -1,0 +1,28 @@
+{
+  "slug": "inkermanskiy-zmv-special-reserve-rkatsiteli-beloe-suhoe-13",
+  "seconds": 15.978992938995361,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SPECIAL RESERVE\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": \"SPECIAL RESERVE\",\n  \"vintage\": \"2023\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"СУХОЕ\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"SINCE 1961\",\n    \"SPECIAL RESERVE\",\n    \"RKATSITELI\",\n    \"HARVEST 2023\",\n    \"A RARE EDITION LIMITED RUN OF\",\n    \"4200 BOTTLES OF WHICH THIS IS\",\n    \"No 3496\",\n    \"СУХОЕ 12,5 % ОЕ\",\n    \"СЕМЕЙ 0,75 Л\",\n    \"INKERMAN\",\n    \"SINCE 1961\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SPECIAL RESERVE",
+    "producer": "INKERMAN",
+    "cuvee": "SPECIAL RESERVE",
+    "vintage": "2023",
+    "grape": "RKATSITELI",
+    "category": "СУХОЕ",
+    "raw_visible_text": [
+      "INKERMAN",
+      "SINCE 1961",
+      "SPECIAL RESERVE",
+      "RKATSITELI",
+      "HARVEST 2023",
+      "A RARE EDITION LIMITED RUN OF",
+      "4200 BOTTLES OF WHICH THIS IS",
+      "No 3496",
+      "СУХОЕ 12,5 % ОЕ",
+      "СЕМЕЙ 0,75 Л",
+      "INKERMAN",
+      "SINCE 1961"
+    ]
+  }
+}

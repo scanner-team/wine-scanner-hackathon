@@ -1,0 +1,22 @@
+{
+  "slug": "rem-akchurin-rem-akchurin-pino-nuar-roze-rozovoe-suhoe-14",
+  "seconds": 6.879269123077393,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHHURIN R TEIM\",\n  \"producer\": \"AKCHHURIN R TEIM\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"AKCHHURIN\",\n    \"R TEIM\",\n    \"Pinot Noir\",\n    \"Chernaya River Valley\",\n    \"2023\",\n    \"Sevastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHHURIN R TEIM",
+    "producer": "AKCHHURIN R TEIM",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Pinot Noir",
+    "category": "null",
+    "raw_visible_text": [
+      "AKCHHURIN",
+      "R TEIM",
+      "Pinot Noir",
+      "Chernaya River Valley",
+      "2023",
+      "Sevastopol"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "andryus-yutsis-vione-beloe-suhoe-112",
+  "seconds": 5.860120058059692,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andrzej\",\n  \"producer\": \"Andrzej\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"БИОГЕ\",\n  \"category\": \"Твёрдое 600-граммовое\",\n  \"raw_visible_text\": [\n    \"Andrzej\",\n    \"БИОГЕ\",\n    \"Розове Красне 2023\",\n    \"Твёрдое 600-граммовое\",\n    \"бутылка 750 г\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andrzej",
+    "producer": "Andrzej",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "БИОГЕ",
+    "category": "Твёрдое 600-граммовое",
+    "raw_visible_text": [
+      "Andrzej",
+      "БИОГЕ",
+      "Розове Красне 2023",
+      "Твёрдое 600-граммовое",
+      "бутылка 750 г"
+    ]
+  }
+}

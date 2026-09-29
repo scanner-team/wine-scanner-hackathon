@@ -1,0 +1,20 @@
+{
+  "slug": "kaberne-sovinon-2",
+  "seconds": 1.1461963653564453,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАБИЯ\",\n  \"producer\": \"ТАБИЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ТАБИЯ\",\n    \"ВИНОГРАДНИК\",\n    \"2020\",\n    \"КАБЕРНЕ СОВИНЬОН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАБИЯ",
+    "producer": "ТАБИЯ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Каберне Совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ТАБИЯ",
+      "ВИНОГРАДНИК",
+      "2020",
+      "КАБЕРНЕ СОВИНЬОН"
+    ]
+  }
+}

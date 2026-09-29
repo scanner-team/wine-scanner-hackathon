@@ -1,0 +1,25 @@
+{
+  "slug": "soyuz-vino-lavetti-krasnoe-polusladkoe-krasnye-sorta-vinograda-11",
+  "seconds": 6.523700952529907,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LAVETTI\",\n  \"producer\": \"Lavetti\",\n  \"cuvee\": \"Superiore\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"VINO ROSO SEMIDOLCE\",\n  \"raw_visible_text\": [\n    \"LAVETTI\",\n    \"Superiore\",\n    \"GRANDE\",\n    \"LAVETTI\",\n    \"Superiore\",\n    \"EST. L 1844\",\n    \"Vino Rosso\",\n    \"Semidolce\",\n    \"Vino da Tavola\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LAVETTI",
+    "producer": "Lavetti",
+    "cuvee": "Superiore",
+    "vintage": null,
+    "grape": null,
+    "category": "VINO ROSO SEMIDOLCE",
+    "raw_visible_text": [
+      "LAVETTI",
+      "Superiore",
+      "GRANDE",
+      "LAVETTI",
+      "Superiore",
+      "EST. L 1844",
+      "Vino Rosso",
+      "Semidolce",
+      "Vino da Tavola"
+    ]
+  }
+}

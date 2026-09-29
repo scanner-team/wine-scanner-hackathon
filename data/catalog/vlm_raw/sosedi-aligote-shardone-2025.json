@@ -1,0 +1,22 @@
+{
+  "slug": "sosedi-aligote-shardone-2025",
+  "seconds": 1.8286588191986084,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОСЕДИ\",\n  \"producer\": \"Коммуна\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"АЛИГОТЕ\",\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"СОСЕДИ\",\n    \"АЛИГОТЕ\",\n    \"ШАРДОНЕ\",\n    \"КРЫМ 2025\",\n    \"АЛК. 11.0 %\",\n    \"Коммуна\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОСЕДИ",
+    "producer": "Коммуна",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "АЛИГОТЕ",
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "СОСЕДИ",
+      "АЛИГОТЕ",
+      "ШАРДОНЕ",
+      "КРЫМ 2025",
+      "АЛК. 11.0 %",
+      "Коммуна"
+    ]
+  }
+}

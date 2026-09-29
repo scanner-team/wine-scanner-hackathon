@@ -1,0 +1,22 @@
+{
+  "slug": "rem-akchurin-shardone-beloe-bryut-14",
+  "seconds": 13.129638195037842,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHURIN\",\n  \"producer\": \"AKCHURIN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Chardonnay\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"AKCHURIN\",\n    \"RIEM\",\n    \"Chardonnay\",\n    \"Chernaya River Valley\",\n    \"Brut\",\n    \"Sevastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHURIN",
+    "producer": "AKCHURIN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Chardonnay",
+    "category": "Brut",
+    "raw_visible_text": [
+      "AKCHURIN",
+      "RIEM",
+      "Chardonnay",
+      "Chernaya River Valley",
+      "Brut",
+      "Sevastopol"
+    ]
+  }
+}

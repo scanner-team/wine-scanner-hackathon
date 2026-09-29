@@ -1,0 +1,20 @@
+{
+  "slug": "grand-jete-blanc-de-blancs",
+  "seconds": 1.1616864204406738,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND JETÉ\",\n  \"producer\": \"GALITHEON\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BLANC DE BLANCS\",\n  \"raw_visible_text\": [\n    \"GRAND JETÉ\",\n    \"BLANC DE BLANCS\",\n    \"GALITHEON\",\n    \"GALITHEON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND JETÉ",
+    "producer": "GALITHEON",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BLANC DE BLANCS",
+    "raw_visible_text": [
+      "GRAND JETÉ",
+      "BLANC DE BLANCS",
+      "GALITHEON",
+      "GALITHEON"
+    ]
+  }
+}

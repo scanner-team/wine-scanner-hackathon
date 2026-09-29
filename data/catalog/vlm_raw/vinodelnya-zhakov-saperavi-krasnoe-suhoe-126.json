@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-zhakov-saperavi-krasnoe-suhoe-126",
+  "seconds": 5.114566802978516,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"саперави\",\n  \"producer\": \"Класс\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"саперави\",\n  \"category\": \"красное\",\n  \"raw_visible_text\": [\n    \"Класс\",\n    \"саперави\",\n    \"красное\",\n    \"сухое\",\n    \"Вино\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "саперави",
+    "producer": "Класс",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "саперави",
+    "category": "красное",
+    "raw_visible_text": [
+      "Класс",
+      "саперави",
+      "красное",
+      "сухое",
+      "Вино",
+      "2022"
+    ]
+  }
+}

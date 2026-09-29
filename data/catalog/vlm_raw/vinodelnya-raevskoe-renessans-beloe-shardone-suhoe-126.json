@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-beloe-shardone-suhoe-126",
+  "seconds": 4.803193807601929,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ремессанс\",\n  \"producer\": \"Раевское\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Раевское\",\n    \"Ремессанс\",\n    \"2022\",\n    \"№ 0001\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ремессанс",
+    "producer": "Раевское",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Раевское",
+      "Ремессанс",
+      "2022",
+      "№ 0001"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "dubinin-winery-risling-beloe-suhoe-12",
+  "seconds": 5.5321221351623535,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Рислинг\",\n  \"producer\": \"DUBANIN WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рислинг\",\n  \"category\": \"Вино сухое белое\",\n  \"raw_visible_text\": [\n    \"D.W\",\n    \"DUBANIN\",\n    \"WINERY\",\n    \"Рислинг\",\n    \"Вино сухое белое\",\n    \"0217 / 2300\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Рислинг",
+    "producer": "DUBANIN WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рислинг",
+    "category": "Вино сухое белое",
+    "raw_visible_text": [
+      "D.W",
+      "DUBANIN",
+      "WINERY",
+      "Рислинг",
+      "Вино сухое белое",
+      "0217 / 2300"
+    ]
+  }
+}

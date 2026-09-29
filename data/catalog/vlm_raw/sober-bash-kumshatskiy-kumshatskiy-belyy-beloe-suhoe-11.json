@@ -1,0 +1,21 @@
+{
+  "slug": "sober-bash-kumshatskiy-kumshatskiy-belyy-beloe-suhoe-11",
+  "seconds": 6.064450025558472,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"КУМШАЦКИЙ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР\",\n    \"БАШ\",\n    \"КУМШАЦКИЙ\",\n    \"ДИНО С ЗАНИВЕННИМ ГОСТРАФИЧЕСКИМ УЗАВАНЕМ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "КУМШАЦКИЙ",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР",
+      "БАШ",
+      "КУМШАЦКИЙ",
+      "ДИНО С ЗАНИВЕННИМ ГОСТРАФИЧЕСКИМ УЗАВАНЕМ",
+      "2024"
+    ]
+  }
+}

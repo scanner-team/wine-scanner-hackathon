@@ -1,0 +1,26 @@
+{
+  "slug": "uppa-winery-sovinon-blan-rezerva-beloe-suhoe-12",
+  "seconds": 14.454914093017578,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PAVEL SHVETS\",\n  \"producer\": \"UPPA\",\n  \"cuvee\": \"RESERVA\",\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"BLANC RESERVA\",\n  \"raw_visible_text\": [\n    \"SEVASTOPOL\",\n    \"UP\",\n    \"PA\",\n    \"2022\",\n    \"PAVEL SHVETS\",\n    \"SAUVIGNON BLANC RESERVA\",\n    \"Chernaya River Valley\",\n    \"CRIMEA\",\n    \"UPPAWINERY.RU\",\n    \"0.75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PAVEL SHVETS",
+    "producer": "UPPA",
+    "cuvee": "RESERVA",
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": "BLANC RESERVA",
+    "raw_visible_text": [
+      "SEVASTOPOL",
+      "UP",
+      "PA",
+      "2022",
+      "PAVEL SHVETS",
+      "SAUVIGNON BLANC RESERVA",
+      "Chernaya River Valley",
+      "CRIMEA",
+      "UPPAWINERY.RU",
+      "0.75"
+    ]
+  }
+}

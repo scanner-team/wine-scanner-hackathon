@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-avtorskoe-vino-ot-valeriya-zaharina-bastardo-bastardo-magarachskiy-krasnoe-suhoe-12",
+  "seconds": 7.648426055908203,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"авторское вино с собственных виноградников\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ ЗАХАРЫН\",\n    \"АВТОРСКОЕ ВИНО С СОБСТВЕННЫХ ВИНОГРАДНИКОВ\",\n    \"БАСТАРДО\",\n    \"2022\",\n    \"ПОЛУСОК ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ КРУП\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВАЛЕРИЙ ЗАХАРЫН",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "авторское вино с собственных виноградников",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ ЗАХАРЫН",
+      "АВТОРСКОЕ ВИНО С СОБСТВЕННЫХ ВИНОГРАДНИКОВ",
+      "БАСТАРДО",
+      "2022",
+      "ПОЛУСОК ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ КРУП"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shardone-barrel-2023",
+  "seconds": 1.9577021598815918,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Коммуника\",\n  \"producer\": null,\n  \"cuvee\": \"Barrel\",\n  \"vintage\": \"2024\",\n  \"grape\": \"Chardonnay\",\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"Коммуника\",\n    \"CHARDONNAY BARREL\",\n    \"2024\",\n    \"КРЫМ\",\n    \"ТИРАЖ 600\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Коммуника",
+    "producer": null,
+    "cuvee": "Barrel",
+    "vintage": "2024",
+    "grape": "Chardonnay",
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "Коммуника",
+      "CHARDONNAY BARREL",
+      "2024",
+      "КРЫМ",
+      "ТИРАЖ 600"
+    ]
+  }
+}

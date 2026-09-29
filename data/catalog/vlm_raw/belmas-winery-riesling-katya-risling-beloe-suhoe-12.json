@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-riesling-katya-risling-beloe-suhoe-12",
+  "seconds": 1.5501296520233154,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"SEVASTOPOL\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RIESLING\",\n    \"SEVASTOPOL\",\n    \"Katya\",\n    \"Belm\",\n    \"2022\",\n    \"12,0% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "SEVASTOPOL",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "RIESLING",
+      "SEVASTOPOL",
+      "Katya",
+      "Belm",
+      "2022",
+      "12,0% VOL",
+      "750 ML"
+    ]
+  }
+}

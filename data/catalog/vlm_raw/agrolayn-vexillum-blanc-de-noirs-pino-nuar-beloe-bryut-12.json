@@ -1,0 +1,17 @@
+{
+  "slug": "agrolayn-vexillum-blanc-de-noirs-pino-nuar-beloe-bryut-12",
+  "seconds": 3.9806299209594727,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VEXILLUM\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VEXILLUM\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VEXILLUM",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "VEXILLUM"
+    ]
+  }
+}

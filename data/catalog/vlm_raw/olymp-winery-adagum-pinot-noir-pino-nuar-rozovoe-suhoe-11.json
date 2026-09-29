@@ -1,0 +1,24 @@
+{
+  "slug": "olymp-winery-adagum-pinot-noir-pino-nuar-rozovoe-suhoe-11",
+  "seconds": 7.060289621353149,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Адагум\",\n  \"producer\": \"Кубань\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино Нуар\",\n  \"category\": \"Сухое Розовое\",\n  \"raw_visible_text\": [\n    \"Адагум\",\n    \"Пино Нуар\",\n    \"Розе\",\n    \"Сухое Розовое\",\n    \"Вино с защищенным географическим указанием\",\n    \"КУБАНЬ\",\n    \"11% об.\",\n    \"750 мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Адагум",
+    "producer": "Кубань",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино Нуар",
+    "category": "Сухое Розовое",
+    "raw_visible_text": [
+      "Адагум",
+      "Пино Нуар",
+      "Розе",
+      "Сухое Розовое",
+      "Вино с защищенным географическим указанием",
+      "КУБАНЬ",
+      "11% об.",
+      "750 мл"
+    ]
+  }
+}

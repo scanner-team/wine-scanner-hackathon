@@ -1,0 +1,19 @@
+{
+  "slug": "fanagoriya-sur-lie-vi-vi-aligote-beloe-suhoe-125",
+  "seconds": 12.867305994033813,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ViVi Sur Lie\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"ViVi Sur Lie\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ViVi Sur Lie",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FANAGORIA",
+      "ViVi Sur Lie",
+      "2022"
+    ]
+  }
+}

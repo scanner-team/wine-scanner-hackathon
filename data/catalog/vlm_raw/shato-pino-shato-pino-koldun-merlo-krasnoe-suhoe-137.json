@@ -1,0 +1,19 @@
+{
+  "slug": "shato-pino-shato-pino-koldun-merlo-krasnoe-suhoe-137",
+  "seconds": 5.9673802852630615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHÂTEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT\",\n  \"category\": \"КОЛДУН\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"PINOT\",\n    \"КОЛДУН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHÂTEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT",
+    "category": "КОЛДУН",
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "PINOT",
+      "КОЛДУН"
+    ]
+  }
+}

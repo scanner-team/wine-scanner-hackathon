@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-vedernikov-tsimlyanskiy-chernyy-rezerv-krasnoe-suhoe-145",
+  "seconds": 7.016942977905273,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РЕЗЕРВ\",\n  \"producer\": \"ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"цимлянский черный\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЬ\",\n    \"РЕЗЕРВ\",\n    \"КРАСНОСТОТ ЗОЛОТОВСКИЙ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ЦИМЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"ВЫДЕРЖАНО В ДУГЕ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РЕЗЕРВ",
+    "producer": "ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Каберне Совиньон",
+    "category": "цимлянский черный",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЬ",
+      "РЕЗЕРВ",
+      "КРАСНОСТОТ ЗОЛОТОВСКИЙ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ЦИМЛЯНСКИЙ ЧЕРНЫЙ",
+      "ВЫДЕРЖАНО В ДУГЕ",
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "grand-kyuve",
+  "seconds": 3.959969997406006,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Champagne\",\n  \"producer\": \"C.R.\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"brut\",\n  \"raw_visible_text\": [\n    \"C.R.\",\n    \"Champagne\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Champagne",
+    "producer": "C.R.",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "brut",
+    "raw_visible_text": [
+      "C.R.",
+      "Champagne"
+    ]
+  }
+}

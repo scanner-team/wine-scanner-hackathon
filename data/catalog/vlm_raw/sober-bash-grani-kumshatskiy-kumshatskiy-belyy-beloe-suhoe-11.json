@@ -1,0 +1,19 @@
+{
+  "slug": "sober-bash-grani-kumshatskiy-kumshatskiy-belyy-beloe-suhoe-11",
+  "seconds": 8.790038108825684,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"КУМШАЦКИЙ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"КУМШАЦКИЙ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "КУМШАЦКИЙ",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "КУМШАЦКИЙ",
+      "2023"
+    ]
+  }
+}

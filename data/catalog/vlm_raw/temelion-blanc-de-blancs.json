@@ -1,0 +1,22 @@
+{
+  "slug": "temelion-blanc-de-blancs",
+  "seconds": 1.2326598167419434,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТЕМЕЛИОН\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"ТЕМЕЛИОН\",\n    \"BLANC DE BLANC\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"2017\",\n    \"А.76.2L.00\",\n    \"0.75 Л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТЕМЕЛИОН",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "ТЕМЕЛИОН",
+      "BLANC DE BLANC",
+      "СУХОЕ БЕЛОЕ",
+      "2017",
+      "А.76.2L.00",
+      "0.75 Л"
+    ]
+  }
+}

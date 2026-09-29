@@ -1,0 +1,21 @@
+{
+  "slug": "dacha-serdyuka-kazache-krasnostop-zolotovskiy-krasnoe-suhoe-135",
+  "seconds": 5.404016017913818,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дача Сердюка\",\n  \"producer\": \"ДОЛИНА ДОНА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"КАЗАЧЬЕ\",\n  \"raw_visible_text\": [\n    \"Орлен Сефирохов\",\n    \"Вино без диксикида серы\",\n    \"Дача Сердюка\",\n    \"КАЗАЧЬЕ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дача Сердюка",
+    "producer": "ДОЛИНА ДОНА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "КАЗАЧЬЕ",
+    "raw_visible_text": [
+      "Орлен Сефирохов",
+      "Вино без диксикида серы",
+      "Дача Сердюка",
+      "КАЗАЧЬЕ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

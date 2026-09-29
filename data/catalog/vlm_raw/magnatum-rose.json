@@ -1,0 +1,28 @@
+{
+  "slug": "magnatum-rose",
+  "seconds": 5.869184970855713,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MAGNATUM\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"Extra Brut Rosé\",\n  \"raw_visible_text\": [\n    \"2020\",\n    \"MAGNATUM\",\n    \"EXTRA BRUT ROSÉ\",\n    \"Méthode Champenoise\",\n    \"LIEFENBACH VALLEY\",\n    \"GERMANY\",\n    \"0.75\",\n    \"12.0\",\n    \"12.00\",\n    \"LITER\",\n    \"ALC.\",\n    \"BOTTLED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MAGNATUM",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": "Extra Brut Rosé",
+    "raw_visible_text": [
+      "2020",
+      "MAGNATUM",
+      "EXTRA BRUT ROSÉ",
+      "Méthode Champenoise",
+      "LIEFENBACH VALLEY",
+      "GERMANY",
+      "0.75",
+      "12.0",
+      "12.00",
+      "LITER",
+      "ALC.",
+      "BOTTLED"
+    ]
+  }
+}

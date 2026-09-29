@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-vedernikov-fantom-3070-krasnostop-zolotovskiy-krasnoe-suhoe-145",
+  "seconds": 4.647159099578857,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ФАНТОМ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ФАНТОМ\",\n    \"2018\",\n    \"750ml\",\n    \"2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ФАНТОМ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ФАНТОМ",
+      "2018",
+      "750ml",
+      "2018"
+    ]
+  }
+}

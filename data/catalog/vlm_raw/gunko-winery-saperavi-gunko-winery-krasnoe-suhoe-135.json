@@ -1,0 +1,21 @@
+{
+  "slug": "gunko-winery-saperavi-gunko-winery-krasnoe-suhoe-135",
+  "seconds": 4.946697950363159,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Canepeasu\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GW\",\n    \"Gunko Winery\",\n    \"Canepeasu\",\n    \"Сухий 14,0% об.\",\n    \"0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Canepeasu",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GW",
+      "Gunko Winery",
+      "Canepeasu",
+      "Сухий 14,0% об.",
+      "0,75 л"
+    ]
+  }
+}

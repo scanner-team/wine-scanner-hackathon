@@ -1,0 +1,20 @@
+{
+  "slug": "le-k2-temnaya-roza-sira-rozovoe-suhoe-13",
+  "seconds": 4.946264982223511,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ТЁМНАЯ РОЗА\",\n  \"raw_visible_text\": [\n    \"Родник, Севастополь\",\n    \"Le K2\",\n    \"ТЁМНАЯ РОЗА\",\n    \"Алк.13,5%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ТЁМНАЯ РОЗА",
+    "raw_visible_text": [
+      "Родник, Севастополь",
+      "Le K2",
+      "ТЁМНАЯ РОЗА",
+      "Алк.13,5%"
+    ]
+  }
+}

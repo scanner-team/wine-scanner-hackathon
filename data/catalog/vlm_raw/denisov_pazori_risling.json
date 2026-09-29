@@ -1,0 +1,22 @@
+{
+  "slug": "denisov_pazori_risling",
+  "seconds": 1.6011836528778076,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Па Йори\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"белое брют\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"САМАРА\",\n    \"Па Йори\",\n    \"белое брют\",\n    \"2022\",\n    \"традиционный метод\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Па Йори",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "белое брют",
+    "raw_visible_text": [
+      "DENISOV",
+      "САМАРА",
+      "Па Йори",
+      "белое брют",
+      "2022",
+      "традиционный метод"
+    ]
+  }
+}

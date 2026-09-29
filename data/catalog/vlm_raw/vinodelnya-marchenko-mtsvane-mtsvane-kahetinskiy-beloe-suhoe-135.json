@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-marchenko-mtsvane-mtsvane-kahetinskiy-beloe-suhoe-135",
+  "seconds": 4.640246152877808,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мицване\",\n  \"producer\": \"МАРЧЕНКО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мицване\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАРЧЕНКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"Мицване\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мицване",
+    "producer": "МАРЧЕНКО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мицване",
+    "category": null,
+    "raw_visible_text": [
+      "МАРЧЕНКО",
+      "ВИНОДЕЛЬНЯ",
+      "Мицване"
+    ]
+  }
+}

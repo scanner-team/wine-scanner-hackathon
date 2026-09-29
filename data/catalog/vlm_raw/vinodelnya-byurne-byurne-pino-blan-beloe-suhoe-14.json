@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-byurne-byurne-pino-blan-beloe-suhoe-14",
+  "seconds": 5.783351182937622,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОРНЬЕ\",\n  \"producer\": \"BURNIER\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"ПИНО БЛАН\",\n  \"category\": \"PINOT BLANC\",\n  \"raw_visible_text\": [\n    \"БОРНЬЕ\",\n    \"BURNIER\",\n    \"ПИНО БЛАН\",\n    \"PINOT BLANC\",\n    \"2019\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОРНЬЕ",
+    "producer": "BURNIER",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "ПИНО БЛАН",
+    "category": "PINOT BLANC",
+    "raw_visible_text": [
+      "БОРНЬЕ",
+      "BURNIER",
+      "ПИНО БЛАН",
+      "PINOT BLANC",
+      "2019",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

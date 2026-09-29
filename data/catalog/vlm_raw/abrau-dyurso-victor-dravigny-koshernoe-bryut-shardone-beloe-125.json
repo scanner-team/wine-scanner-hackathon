@@ -1,0 +1,25 @@
+{
+  "slug": "abrau-dyurso-victor-dravigny-koshernoe-bryut-shardone-beloe-125",
+  "seconds": 15.558297872543335,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ-ДЮРСО\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": null,\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"МЕТОДОКЛАССИКУ\",\n    \"с 1870 г.\",\n    \"РУССКИЙ ВИННИЙ ДОМ\",\n    \"КОШЕРНАЯ КОЛЛЕКЦИЯ\",\n    \"АБРАУ-ДЮРСО\",\n    \"VICTOR DRAVIGNY\",\n    \"Винодел Царского Двора\",\n    \"БРЮТ\",\n    \"2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ-ДЮРСО",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": null,
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "МЕТОДОКЛАССИКУ",
+      "с 1870 г.",
+      "РУССКИЙ ВИННИЙ ДОМ",
+      "КОШЕРНАЯ КОЛЛЕКЦИЯ",
+      "АБРАУ-ДЮРСО",
+      "VICTOR DRAVIGNY",
+      "Винодел Царского Двора",
+      "БРЮТ",
+      "2018"
+    ]
+  }
+}

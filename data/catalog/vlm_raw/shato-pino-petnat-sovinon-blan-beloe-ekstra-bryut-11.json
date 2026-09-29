@@ -1,0 +1,18 @@
+{
+  "slug": "shato-pino-petnat-sovinon-blan-beloe-ekstra-bryut-11",
+  "seconds": 4.57515287399292,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТНАТ\",\n  \"producer\": \"ПЕТНАТ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПЕТНАТ\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТНАТ",
+    "producer": "ПЕТНАТ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT",
+    "category": null,
+    "raw_visible_text": [
+      "ПЕТНАТ",
+      "PINOT"
+    ]
+  }
+}

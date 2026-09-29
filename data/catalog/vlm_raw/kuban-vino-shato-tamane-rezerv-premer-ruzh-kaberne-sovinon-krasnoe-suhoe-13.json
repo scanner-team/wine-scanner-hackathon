@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-premer-ruzh-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 5.09878396987915,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PREMIER ROUGE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"R\",\n    \"CHATEAU TAMAGNE\",\n    \"RESERVE\",\n    \"PREMIER ROUGE\",\n    \"ЗАПРЕЩЕНО КРУГАТЬ\",\n    \"ВОДА СЕРТ ТАМАГНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PREMIER ROUGE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "R",
+      "CHATEAU TAMAGNE",
+      "RESERVE",
+      "PREMIER ROUGE",
+      "ЗАПРЕЩЕНО КРУГАТЬ",
+      "ВОДА СЕРТ ТАМАГНЕ"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "novyj-svet-paradizio",
+  "seconds": 0.9058558940887451,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Paradisio\",\n  \"producer\": \"Новый Свет\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Новый Свет\",\n    \"Paradisio\",\n    \"мадонна дром фезефь\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Paradisio",
+    "producer": "Новый Свет",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Новый Свет",
+      "Paradisio",
+      "мадонна дром фезефь"
+    ]
+  }
+}

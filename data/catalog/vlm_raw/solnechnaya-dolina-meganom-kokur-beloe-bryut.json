@@ -1,0 +1,23 @@
+{
+  "slug": "solnechnaya-dolina-meganom-kokur-beloe-bryut",
+  "seconds": 1.26424241065979,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Меганом\",\n  \"producer\": \"Солнечная Долина\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Кокур\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"Солнечная Долина\",\n    \"1998\",\n    \"Меганом\",\n    \"КОКУР\",\n    \"БРИОТ\",\n    \"750 мл\",\n    \"алк. 11,5 % об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Меганом",
+    "producer": "Солнечная Долина",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Кокур",
+    "category": "брют",
+    "raw_visible_text": [
+      "Солнечная Долина",
+      "1998",
+      "Меганом",
+      "КОКУР",
+      "БРИОТ",
+      "750 мл",
+      "алк. 11,5 % об."
+    ]
+  }
+}

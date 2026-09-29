@@ -1,0 +1,22 @@
+{
+  "slug": "domaine-de-la-vivandiere-sibirkovyy-fresh-beloe-suhoe-125",
+  "seconds": 5.345288038253784,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVANCIÈRE\",\n  \"producer\": \"СИБИРЬКОВЫЙ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"FRESH\",\n  \"raw_visible_text\": [\n    \"СИБИРЬКОВЫЙ\",\n    \"FRESH\",\n    \"VIVANCIÈRE\",\n    \"12,4% alc.\",\n    \"CÔTES DU DON\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVANCIÈRE",
+    "producer": "СИБИРЬКОВЫЙ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "FRESH",
+    "raw_visible_text": [
+      "СИБИРЬКОВЫЙ",
+      "FRESH",
+      "VIVANCIÈRE",
+      "12,4% alc.",
+      "CÔTES DU DON",
+      "750 ml"
+    ]
+  }
+}

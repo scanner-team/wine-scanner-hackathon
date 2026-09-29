@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-semi-sweet-white-vione-beloe-polusladkoe-11",
+  "seconds": 5.851253032684326,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIODEAARS MISCXALO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"SEMI-SWEET WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIODEAARS\",\n    \"MISCXALO\",\n    \"1869\",\n    \"SEMI-SWEET WHITE\",\n    \"NEW GENERATION\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIODEAARS MISCXALO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": null,
+    "category": "SEMI-SWEET WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIODEAARS",
+      "MISCXALO",
+      "1869",
+      "SEMI-SWEET WHITE",
+      "NEW GENERATION"
+    ]
+  }
+}

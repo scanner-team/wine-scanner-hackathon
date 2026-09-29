@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-rouge-de-noirs-merlo-krasnoe-bryut-13",
+  "seconds": 6.434782981872559,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСХАКО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРИОТ\",\n  \"category\": \"БРЮТ СТИЛЬ\",\n  \"raw_visible_text\": [\n    \"1869\",\n    \"МЫСХАКО\",\n    \"БРЮТ СТИЛЬ\",\n    \"МЕРИОТ\",\n    \"ТЕМПРАНІЛО\",\n    \"РОУГЕ ДЕ НОИРС\",\n    \"МЕТОДОМ КЛАРІТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСХАКО",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРИОТ",
+    "category": "БРЮТ СТИЛЬ",
+    "raw_visible_text": [
+      "1869",
+      "МЫСХАКО",
+      "БРЮТ СТИЛЬ",
+      "МЕРИОТ",
+      "ТЕМПРАНІЛО",
+      "РОУГЕ ДЕ НОИРС",
+      "МЕТОДОМ КЛАРІТ"
+    ]
+  }
+}

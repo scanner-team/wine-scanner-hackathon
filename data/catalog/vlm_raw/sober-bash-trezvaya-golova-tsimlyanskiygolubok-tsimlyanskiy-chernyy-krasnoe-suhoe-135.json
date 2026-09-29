@@ -1,0 +1,21 @@
+{
+  "slug": "sober-bash-trezvaya-golova-tsimlyanskiygolubok-tsimlyanskiy-chernyy-krasnoe-suhoe-135",
+  "seconds": 9.257729053497314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ТРЕЗВАЯ ГОЛОВА\",\n    \"ЧИМЛЯНСКИЙ\",\n    \"+ ГОЛУБОК\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ТРЕЗВАЯ ГОЛОВА",
+      "ЧИМЛЯНСКИЙ",
+      "+ ГОЛУБОК",
+      "2022"
+    ]
+  }
+}

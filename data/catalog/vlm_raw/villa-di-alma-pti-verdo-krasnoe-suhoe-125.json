@@ -1,0 +1,20 @@
+{
+  "slug": "villa-di-alma-pti-verdo-krasnoe-suhoe-125",
+  "seconds": 13.138106107711792,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PETIT VERDOT\",\n  \"producer\": \"VILLA de ALMA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PETIT VERDOT\",\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"PETIT VERDOT\",\n    \"КРАПЧОЕ СУХОЕ\",\n    \"КРЫМ\",\n    \"VILLA de ALMA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PETIT VERDOT",
+    "producer": "VILLA de ALMA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PETIT VERDOT",
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "PETIT VERDOT",
+      "КРАПЧОЕ СУХОЕ",
+      "КРЫМ",
+      "VILLA de ALMA"
+    ]
+  }
+}

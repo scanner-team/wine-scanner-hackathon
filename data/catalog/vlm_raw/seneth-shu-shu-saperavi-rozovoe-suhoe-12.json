@@ -1,0 +1,20 @@
+{
+  "slug": "seneth-shu-shu-saperavi-rozovoe-suhoe-12",
+  "seconds": 5.045593976974487,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Chou chou\",\n  \"producer\": \"SENETKH SINGLE VINEYARD\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"ROSE\",\n    \"2023\",\n    \"Chou chou\",\n    \"SENETKH SINGLE VINEYARD\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Chou chou",
+    "producer": "SENETKH SINGLE VINEYARD",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "ROSE",
+    "raw_visible_text": [
+      "ROSE",
+      "2023",
+      "Chou chou",
+      "SENETKH SINGLE VINEYARD"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "cloudy-winery-dubrovskiy-orange-rkatsiteli-beloe-suhoe-125",
+  "seconds": 9.219316244125366,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Dypapobert\",\n  \"producer\": \"CLOUD WINERY COMMUNITE\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"Dypapobert\",\n    \"ORANGE\",\n    \"2019\",\n    \"CLOUD WINERY\",\n    \"COMMUNITE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Dypapobert",
+    "producer": "CLOUD WINERY COMMUNITE",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": null,
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "Dypapobert",
+      "ORANGE",
+      "2019",
+      "CLOUD WINERY",
+      "COMMUNITE"
+    ]
+  }
+}

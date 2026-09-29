@@ -1,0 +1,22 @@
+{
+  "slug": "balaklava-muskat-beloe-polusladkoe",
+  "seconds": 8.107239961624146,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАЛАКЛАВА\",\n  \"producer\": \"ЗОЛОТАЯ БАЛКА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Muscat\",\n  \"category\": \"ПОЛУСЛАДКОЕ БЕЛЕ\",\n  \"raw_visible_text\": [\n    \"МУСКАТ ПОЛУСЛАДКОЕ БЕЛЕ\",\n    \"Российское сиропное вино\",\n    \"БАЛАКЛАВА\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"Muscat\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ. КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАЛАКЛАВА",
+    "producer": "ЗОЛОТАЯ БАЛКА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Muscat",
+    "category": "ПОЛУСЛАДКОЕ БЕЛЕ",
+    "raw_visible_text": [
+      "МУСКАТ ПОЛУСЛАДКОЕ БЕЛЕ",
+      "Российское сиропное вино",
+      "БАЛАКЛАВА",
+      "ПОЛУСЛАДКОЕ",
+      "Muscat",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ. КРЫМ"
+    ]
+  }
+}

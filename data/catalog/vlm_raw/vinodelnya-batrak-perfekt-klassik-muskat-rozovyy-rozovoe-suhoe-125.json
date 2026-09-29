@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-muskat-rozovyy-rozovoe-suhoe-125",
+  "seconds": 5.2454750537872314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мускат Розовый\",\n  \"producer\": \"Батрак\",\n  \"cuvee\": \"PERFEKT Klassik\",\n  \"vintage\": null,\n  \"grape\": \"Мускат\",\n  \"category\": \"PERFEKT Klassik\",\n  \"raw_visible_text\": [\n    \"Батрак\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1895\",\n    \"Мускат Розовый\",\n    \"PERFEKT Klassik\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мускат Розовый",
+    "producer": "Батрак",
+    "cuvee": "PERFEKT Klassik",
+    "vintage": null,
+    "grape": "Мускат",
+    "category": "PERFEKT Klassik",
+    "raw_visible_text": [
+      "Батрак",
+      "ВИНОДЕЛЬНЯ",
+      "1895",
+      "Мускат Розовый",
+      "PERFEKT Klassik"
+    ]
+  }
+}

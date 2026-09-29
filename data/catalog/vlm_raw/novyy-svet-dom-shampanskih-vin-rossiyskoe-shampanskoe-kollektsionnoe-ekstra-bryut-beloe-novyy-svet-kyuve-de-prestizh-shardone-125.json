@@ -1,0 +1,21 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-ekstra-bryut-beloe-novyy-svet-kyuve-de-prestizh-shardone-125",
+  "seconds": 6.943317890167236,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Chardonnay\",\n  \"producer\": \"Новый Свет\",\n  \"cuvee\": \"CUVEE DE PRESTIGE\",\n  \"vintage\": \"2013\",\n  \"grape\": \"Chardonnay\",\n  \"category\": \"российское шампанское\",\n  \"raw_visible_text\": [\n    \"Новый Свет\",\n    \"1874\",\n    \"российское шампанское\",\n    \"Chardonnay\",\n    \"CUVEE DE PRESTIGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Chardonnay",
+    "producer": "Новый Свет",
+    "cuvee": "CUVEE DE PRESTIGE",
+    "vintage": "2013",
+    "grape": "Chardonnay",
+    "category": "российское шампанское",
+    "raw_visible_text": [
+      "Новый Свет",
+      "1874",
+      "российское шампанское",
+      "Chardonnay",
+      "CUVEE DE PRESTIGE"
+    ]
+  }
+}

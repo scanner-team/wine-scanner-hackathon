@@ -1,0 +1,19 @@
+{
+  "slug": "inkermanskiy-zmv-inkerman-roze-zero-dozazh-kokur-rozovoe-ekstra-bryut-12",
+  "seconds": 5.9582319259643555,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"POSE\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Zero Dosage\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"POSE\",\n    \"Zero Dosage\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "POSE",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Zero Dosage",
+    "raw_visible_text": [
+      "INKERMAN",
+      "POSE",
+      "Zero Dosage"
+    ]
+  }
+}

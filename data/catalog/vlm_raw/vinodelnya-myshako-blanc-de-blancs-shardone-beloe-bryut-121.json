@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-blanc-de-blancs-shardone-beloe-bryut-121",
+  "seconds": 5.93509316444397,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСХАКО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"BLANC DE BLANCS\",\n  \"vintage\": null,\n  \"grape\": \"ЧАРДОНАЙ\",\n  \"category\": \"BRUT STYLE\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"BRUT STYLE\",\n    \"CHARDONNAY\",\n    \"VIIGNIER\",\n    \"BLANC DE BLANCS\",\n    \"CUVEE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСХАКО",
+    "producer": "МЫСХАКО",
+    "cuvee": "BLANC DE BLANCS",
+    "vintage": null,
+    "grape": "ЧАРДОНАЙ",
+    "category": "BRUT STYLE",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "BRUT STYLE",
+      "CHARDONNAY",
+      "VIIGNIER",
+      "BLANC DE BLANCS",
+      "CUVEE"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj",
+  "seconds": 1.4295496940612793,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО НУАР\",\n  \"producer\": \"АРАТТИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"розовое сухое\",\n  \"raw_visible_text\": [\n    \"ЖЕМЧУЖНАЯ\",\n    \"6\",\n    \"АРАТТИ\",\n    \"ПИНО НУАР\",\n    \"МУСКАТ РОЗОВЫЙ\",\n    \"РОЗОВОЕ СУХОЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО НУАР",
+    "producer": "АРАТТИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "МУСКАТ",
+    "category": "розовое сухое",
+    "raw_visible_text": [
+      "ЖЕМЧУЖНАЯ",
+      "6",
+      "АРАТТИ",
+      "ПИНО НУАР",
+      "МУСКАТ РОЗОВЫЙ",
+      "РОЗОВОЕ СУХОЕ",
+      "2024"
+    ]
+  }
+}

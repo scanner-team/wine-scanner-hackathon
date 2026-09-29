@@ -1,0 +1,20 @@
+{
+  "slug": "novyj-svet-shardone-kyuve-de-prestizh-1",
+  "seconds": 1.2054994106292725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Chardonnay\",\n  \"producer\": \"Новый Свет\",\n  \"cuvee\": \"CUVEE DE PRESTIGE\",\n  \"vintage\": null,\n  \"grape\": \"Chardonnay\",\n  \"category\": \"шампанское\",\n  \"raw_visible_text\": [\n    \"Новый Свет\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\",\n    \"Chardonnay\",\n    \"CUVEE DE PRESTIGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Chardonnay",
+    "producer": "Новый Свет",
+    "cuvee": "CUVEE DE PRESTIGE",
+    "vintage": null,
+    "grape": "Chardonnay",
+    "category": "шампанское",
+    "raw_visible_text": [
+      "Новый Свет",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ",
+      "Chardonnay",
+      "CUVEE DE PRESTIGE"
+    ]
+  }
+}

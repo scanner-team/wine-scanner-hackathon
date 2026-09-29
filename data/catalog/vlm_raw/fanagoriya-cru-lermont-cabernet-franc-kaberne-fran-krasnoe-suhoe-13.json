@@ -1,0 +1,26 @@
+{
+  "slug": "fanagoriya-cru-lermont-cabernet-franc-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 16.471013069152832,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cru Lermont\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"ВИНО КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"CRU LERMONT\",\n    \"FANAGORIA\",\n    \"Cru Lermont\",\n    \"2021\",\n    \"CABERNET FRANC\",\n    \"ВИНО КРАСНОЕ СУХОЕ\",\n    \"РУЧНОЙ СБОР, ВЫДЕРЖАНО В БОЧКАХ\",\n    \"Сенной\",\n    \"С ЗАЩИЩЕННЫМ НАИМЕНОВАНИЕМ\",\n    \"МЕСТА ПРОИСХОЖДЕНИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cru Lermont",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "CABERNET FRANC",
+    "category": "ВИНО КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "CRU LERMONT",
+      "FANAGORIA",
+      "Cru Lermont",
+      "2021",
+      "CABERNET FRANC",
+      "ВИНО КРАСНОЕ СУХОЕ",
+      "РУЧНОЙ СБОР, ВЫДЕРЖАНО В БОЧКАХ",
+      "Сенной",
+      "С ЗАЩИЩЕННЫМ НАИМЕНОВАНИЕМ",
+      "МЕСТА ПРОИСХОЖДЕНИЯ"
+    ]
+  }
+}

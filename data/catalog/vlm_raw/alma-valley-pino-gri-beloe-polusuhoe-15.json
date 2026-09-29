@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-pino-gri-beloe-polusuhoe-15",
+  "seconds": 7.131516218185425,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT GRIS\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT GRIS\",\n  \"category\": \"БЕЛОЕ ПОЛУСУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"2023\",\n    \"PINOT GRIS\",\n    \"БЕЛОЕ ПОЛУСУХОЕ ВИНО\",\n    \"КРЫМ | РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT GRIS",
+    "producer": "ALMA VALLEY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT GRIS",
+    "category": "БЕЛОЕ ПОЛУСУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "2023",
+      "PINOT GRIS",
+      "БЕЛОЕ ПОЛУСУХОЕ ВИНО",
+      "КРЫМ | РОССИЯ"
+    ]
+  }
+}

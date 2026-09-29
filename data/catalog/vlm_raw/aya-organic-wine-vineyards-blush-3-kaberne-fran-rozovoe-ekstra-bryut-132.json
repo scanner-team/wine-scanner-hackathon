@@ -1,0 +1,21 @@
+{
+  "slug": "aya-organic-wine-vineyards-blush-3-kaberne-fran-rozovoe-ekstra-bryut-132",
+  "seconds": 5.305530786514282,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Blush #3\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"Pet Nat\",\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"Blush #3\",\n    \"CABERNET FRANC\",\n    \"Pet Nat\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Blush #3",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "CABERNET FRANC",
+    "category": "Pet Nat",
+    "raw_visible_text": [
+      "AVA",
+      "Blush #3",
+      "CABERNET FRANC",
+      "Pet Nat",
+      "2023"
+    ]
+  }
+}

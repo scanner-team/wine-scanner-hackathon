@@ -1,0 +1,27 @@
+{
+  "slug": "valeriy-zaharin-avtohtonnoe-vino-kryma-sary-pandas-rezerv-beloe-suhoe-115",
+  "seconds": 9.064905881881714,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VALERY ZAHARIN\",\n  \"producer\": \"VALERY ZAHARIN\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2021\",\n  \"grape\": \"САРЫ ПАНДАС\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"VALERY ZAHARIN\",\n    \"АВТОХОТНОЕ ВИНО КРЫМА\",\n    \"РЕЗЕРВ\",\n    \"2021\",\n    \"САРЫ ПАНДАС\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"РУЧНОЙ СБОР\",\n    \"ОГРАНИЧЕННАЯ ПАРТИЯ\",\n    \"БУТ. № 08742\",\n    \"РОССИЙСКОЕ ВИНО\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VALERY ZAHARIN",
+    "producer": "VALERY ZAHARIN",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2021",
+    "grape": "САРЫ ПАНДАС",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "VALERY ZAHARIN",
+      "АВТОХОТНОЕ ВИНО КРЫМА",
+      "РЕЗЕРВ",
+      "2021",
+      "САРЫ ПАНДАС",
+      "СУХОЕ БЕЛОЕ",
+      "РУЧНОЙ СБОР",
+      "ОГРАНИЧЕННАЯ ПАРТИЯ",
+      "БУТ. № 08742",
+      "РОССИЙСКОЕ ВИНО",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»"
+    ]
+  }
+}

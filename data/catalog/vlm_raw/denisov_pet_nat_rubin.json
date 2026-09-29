@@ -1,0 +1,20 @@
+{
+  "slug": "denisov_pet_nat_rubin",
+  "seconds": 1.321967363357544,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТ-НАТ\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рубин\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ПЕТ-НАТ\",\n    \"Рубин\",\n    \"DENISOV\",\n    \"САМАРА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТ-НАТ",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рубин",
+    "category": "брют",
+    "raw_visible_text": [
+      "ПЕТ-НАТ",
+      "Рубин",
+      "DENISOV",
+      "САМАРА"
+    ]
+  }
+}

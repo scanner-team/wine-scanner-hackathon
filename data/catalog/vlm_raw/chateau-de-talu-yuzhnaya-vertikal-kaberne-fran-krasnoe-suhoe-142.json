@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-de-talu-yuzhnaya-vertikal-kaberne-fran-krasnoe-suhoe-142",
+  "seconds": 5.028933048248291,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Южная Вертикаль\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Фран\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"de TALU\",\n    \"Южная Вертикаль\",\n    \"Каберне Фран\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Южная Вертикаль",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Фран",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "de TALU",
+      "Южная Вертикаль",
+      "Каберне Фран"
+    ]
+  }
+}

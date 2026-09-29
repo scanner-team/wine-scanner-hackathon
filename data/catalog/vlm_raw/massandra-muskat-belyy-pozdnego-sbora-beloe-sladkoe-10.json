@@ -1,0 +1,22 @@
+{
+  "slug": "massandra-muskat-belyy-pozdnego-sbora-beloe-sladkoe-10",
+  "seconds": 5.279026031494141,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНАРА\",\n  \"producer\": \"Массанара\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мускат\",\n  \"category\": \"вино-столовое белое\",\n  \"raw_visible_text\": [\n    \"МАССАНАРА\",\n    \"1894\",\n    \"Мир и Свет\",\n    \"МУСКАТ\",\n    \"ПОЗДНЕГО СВОРА\",\n    \"ВИНО-СТОЛОВОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНАРА",
+    "producer": "Массанара",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мускат",
+    "category": "вино-столовое белое",
+    "raw_visible_text": [
+      "МАССАНАРА",
+      "1894",
+      "Мир и Свет",
+      "МУСКАТ",
+      "ПОЗДНЕГО СВОРА",
+      "ВИНО-СТОЛОВОЕ БЕЛОЕ"
+    ]
+  }
+}

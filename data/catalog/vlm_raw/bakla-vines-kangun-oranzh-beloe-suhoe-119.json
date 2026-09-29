@@ -1,0 +1,21 @@
+{
+  "slug": "bakla-vines-kangun-oranzh-beloe-suhoe-119",
+  "seconds": 5.117457151412964,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАНГУН ОРАНЖ\",\n  \"producer\": \"BAKLA\",\n  \"cuvee\": null,\n  \"vintage\": \"21\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КАНГУН ОРАНЖ\",\n    \"THE SENSE\",\n    \"BAKLA\",\n    \"21\",\n    \"700мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАНГУН ОРАНЖ",
+    "producer": "BAKLA",
+    "cuvee": null,
+    "vintage": "21",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КАНГУН ОРАНЖ",
+      "THE SENSE",
+      "BAKLA",
+      "21",
+      "700мл"
+    ]
+  }
+}

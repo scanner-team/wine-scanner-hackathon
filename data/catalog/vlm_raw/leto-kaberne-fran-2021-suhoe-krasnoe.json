@@ -1,0 +1,22 @@
+{
+  "slug": "leto-kaberne-fran-2021-suhoe-krasnoe",
+  "seconds": 1.8515148162841797,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LE\",\n  \"producer\": \"Винодельня\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Каберне Фран\",\n  \"category\": \"вино сухое красное\",\n  \"raw_visible_text\": [\n    \"LE\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВИНО СУХОЕ КРАСНОЕ\",\n    \"КАБЕРНЕ ФРАН\",\n    \"2021\",\n    \"УРОЖАЙ 2021 ГОДА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LE",
+    "producer": "Винодельня",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Каберне Фран",
+    "category": "вино сухое красное",
+    "raw_visible_text": [
+      "LE",
+      "ВИНОДЕЛЬНЯ",
+      "ВИНО СУХОЕ КРАСНОЕ",
+      "КАБЕРНЕ ФРАН",
+      "2021",
+      "УРОЖАЙ 2021 ГОДА"
+    ]
+  }
+}

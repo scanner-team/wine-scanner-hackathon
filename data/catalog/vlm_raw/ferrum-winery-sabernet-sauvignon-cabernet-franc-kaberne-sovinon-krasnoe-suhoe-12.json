@@ -1,0 +1,25 @@
+{
+  "slug": "ferrum-winery-sabernet-sauvignon-cabernet-franc-kaberne-sovinon-krasnoe-suhoe-12",
+  "seconds": 5.928426027297974,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Fe 26\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"CABERNET SAUVIGNON CABERNET FRANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FERRUM\",\n    \"WINERY\",\n    \"26\",\n    \"Fe\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"CABERNET SAUVIGNON\",\n    \"CABERNET FRANC\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Fe 26",
+    "producer": "FERRUM WINERY",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "CABERNET SAUVIGNON CABERNET FRANC",
+    "category": null,
+    "raw_visible_text": [
+      "FERRUM",
+      "WINERY",
+      "26",
+      "Fe",
+      "FERRUM",
+      "PYATIGORSK",
+      "CABERNET SAUVIGNON",
+      "CABERNET FRANC",
+      "2021"
+    ]
+  }
+}

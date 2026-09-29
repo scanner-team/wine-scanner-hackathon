@@ -1,0 +1,19 @@
+{
+  "slug": "gunko-winery-monumental-saperavi-krasnoe-suhoe-145",
+  "seconds": 4.5376269817352295,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MONUMENTAL\",\n  \"producer\": \"Gundo Wines\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Санерави\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Gundo Wines\",\n    \"Санерави\",\n    \"MONUMENTAL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MONUMENTAL",
+    "producer": "Gundo Wines",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Санерави",
+    "category": null,
+    "raw_visible_text": [
+      "Gundo Wines",
+      "Санерави",
+      "MONUMENTAL"
+    ]
+  }
+}

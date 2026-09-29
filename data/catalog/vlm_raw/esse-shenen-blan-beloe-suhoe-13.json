@@ -1,0 +1,19 @@
+{
+  "slug": "esse-shenen-blan-beloe-suhoe-13",
+  "seconds": 5.046890020370483,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHENIN BLANC\",\n  \"producer\": \"ESSE\",\n  \"cuvee\": \"UNPLUGGED\",\n  \"vintage\": \"2019\",\n  \"grape\": \"CHENIN BLANC\",\n  \"category\": \"UNPLUGGED\",\n  \"raw_visible_text\": [\n    \"CHENIN BLANC\",\n    \"ESSE UNPLUGGED\",\n    \"CRIMEA 2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHENIN BLANC",
+    "producer": "ESSE",
+    "cuvee": "UNPLUGGED",
+    "vintage": "2019",
+    "grape": "CHENIN BLANC",
+    "category": "UNPLUGGED",
+    "raw_visible_text": [
+      "CHENIN BLANC",
+      "ESSE UNPLUGGED",
+      "CRIMEA 2019"
+    ]
+  }
+}

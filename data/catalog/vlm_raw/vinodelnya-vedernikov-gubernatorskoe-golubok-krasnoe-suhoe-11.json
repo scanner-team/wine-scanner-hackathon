@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-vedernikov-gubernatorskoe-golubok-krasnoe-suhoe-11",
+  "seconds": 7.15358304977417,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЬ\",\n  \"producer\": \"ВИНА ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"ЧИММАНСКИЙ ЧЕРНЫЙ\",\n  \"raw_visible_text\": [\n    \"ВИНА\",\n    \"ВЕДЕРНИКОВЬ\",\n    \"ГУБЕРНАТОРСКОЕ\",\n    \"ГОЛУБОК\",\n    \"ГОЛУБОК\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ЧИММАНСКИЙ ЧЕРНЫЙ\",\n    \"750 ml\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЬ",
+    "producer": "ВИНА ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "ЧИММАНСКИЙ ЧЕРНЫЙ",
+    "raw_visible_text": [
+      "ВИНА",
+      "ВЕДЕРНИКОВЬ",
+      "ГУБЕРНАТОРСКОЕ",
+      "ГОЛУБОК",
+      "ГОЛУБОК",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ЧИММАНСКИЙ ЧЕРНЫЙ",
+      "750 ml",
+      "750 ml"
+    ]
+  }
+}

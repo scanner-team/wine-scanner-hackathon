@@ -1,0 +1,22 @@
+{
+  "slug": "suhoe-beloe-zb-vajn-frizzante",
+  "seconds": 1.0252177715301514,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FRIZZANTE\",\n  \"producer\": \"ZB\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"white dry\",\n  \"raw_visible_text\": [\n    \"FRIZZANTE\",\n    \"LIGHT SPARKLING WINE\",\n    \"WHITE DRY\",\n    \"750ml\",\n    \"ZB\",\n    \"FRIZZANTE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FRIZZANTE",
+    "producer": "ZB",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "white dry",
+    "raw_visible_text": [
+      "FRIZZANTE",
+      "LIGHT SPARKLING WINE",
+      "WHITE DRY",
+      "750ml",
+      "ZB",
+      "FRIZZANTE"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "shato-ay-danil-presto-rezerv-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 15.297054052352905,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PRESTO\",\n  \"producer\": \"ШАТО АЙ-ДАНИАЛЬ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"2023\",\n    \"ШАТО АЙ-ДАНИАЛЬ\",\n    \"PRESTO\",\n    \"РЕЗЕРВ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\",\n    \"КРАСНОЕ СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PRESTO",
+    "producer": "ШАТО АЙ-ДАНИАЛЬ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2023",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "2023",
+      "ШАТО АЙ-ДАНИАЛЬ",
+      "PRESTO",
+      "РЕЗЕРВ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»",
+      "КРАСНОЕ СУХОЕ"
+    ]
+  }
+}

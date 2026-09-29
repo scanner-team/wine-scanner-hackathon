@@ -1,0 +1,19 @@
+{
+  "slug": "legato-legato-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 4.360437870025635,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEGATO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Pinot noir\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LEGATO\",\n    \"Pinot noir\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEGATO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Pinot noir",
+    "category": null,
+    "raw_visible_text": [
+      "LEGATO",
+      "Pinot noir",
+      "2021"
+    ]
+  }
+}

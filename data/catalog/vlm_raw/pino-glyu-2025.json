@@ -1,0 +1,21 @@
+{
+  "slug": "pino-glyu-2025",
+  "seconds": 1.443509817123413,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR GLU\",\n  \"producer\": \"Коммуника\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PINOT NOIR GLU\",\n    \"by Olga G.\",\n    \"Крым\",\n    \"2025\",\n    \"Коммуника\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR GLU",
+    "producer": "Коммуника",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "PINOT NOIR GLU",
+      "by Olga G.",
+      "Крым",
+      "2025",
+      "Коммуника"
+    ]
+  }
+}

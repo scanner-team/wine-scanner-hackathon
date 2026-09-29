@@ -1,0 +1,22 @@
+{
+  "slug": "petrouchka",
+  "seconds": 1.8523004055023193,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PETROUCHKA\",\n  \"producer\": \"ГАЛИЦКИЙ & ГАЛИЦКИЙ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Петрушка\",\n  \"category\": \"седьмой урожай\",\n  \"raw_visible_text\": [\n    \"ГАЛИЦКИЙ & ГАЛИЦКИЙ\",\n    \"PETROUCHKA\",\n    \"[Петрушка]\",\n    \"СЕДЬМОЙ УРОЖАЙ\",\n    \"КРАСНАЯ ГОРКА\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PETROUCHKA",
+    "producer": "ГАЛИЦКИЙ & ГАЛИЦКИЙ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Петрушка",
+    "category": "седьмой урожай",
+    "raw_visible_text": [
+      "ГАЛИЦКИЙ & ГАЛИЦКИЙ",
+      "PETROUCHKA",
+      "[Петрушка]",
+      "СЕДЬМОЙ УРОЖАЙ",
+      "КРАСНАЯ ГОРКА",
+      "2024"
+    ]
+  }
+}

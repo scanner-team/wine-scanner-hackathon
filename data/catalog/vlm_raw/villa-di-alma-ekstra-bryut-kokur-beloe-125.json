@@ -1,0 +1,26 @@
+{
+  "slug": "villa-di-alma-ekstra-bryut-kokur-beloe-125",
+  "seconds": 14.243746042251587,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KOKUR\",\n  \"producer\": \"VILLA DI ALEXANDRO\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"100% ФОНДО\",\n  \"raw_visible_text\": [\n    \"KOKUR\",\n    \"100% ФОНДО\",\n    \"2024\",\n    \"КРЫМ\",\n    \"VILLA DI ALEXANDRO\",\n    \"organic\",\n    \"ORGANIC\",\n    \"WINE\",\n    \"ORGANIC\",\n    \"ДИСА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KOKUR",
+    "producer": "VILLA DI ALEXANDRO",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "100% ФОНДО",
+    "raw_visible_text": [
+      "KOKUR",
+      "100% ФОНДО",
+      "2024",
+      "КРЫМ",
+      "VILLA DI ALEXANDRO",
+      "organic",
+      "ORGANIC",
+      "WINE",
+      "ORGANIC",
+      "ДИСА"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "esse-sovinon-blan-beloe-suhoe-12",
+  "seconds": 5.491230010986328,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"esse\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"БЛАН\",\n  \"raw_visible_text\": [\n    \"esse\",\n    \"СОВИНЬОН БЛАН\",\n    \"УРОЖАЙ 2027 ГОДА\",\n    \"ЗОЛОНА РИСИ КАМА\",\n    \"ТРЕТЬ БЛАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "esse",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "БЛАН",
+    "raw_visible_text": [
+      "esse",
+      "СОВИНЬОН БЛАН",
+      "УРОЖАЙ 2027 ГОДА",
+      "ЗОЛОНА РИСИ КАМА",
+      "ТРЕТЬ БЛАН"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-perovskih-blanc-de-blancs-shardone-beloe-ekstra-bryut-11",
+  "seconds": 5.522542953491211,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Extra Brut Blanc De Blancs\",\n  \"producer\": \"Владьба Неровских\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": null,\n  \"category\": \"Extra Brut\",\n  \"raw_visible_text\": [\n    \"Владьба Неровских\",\n    \"Extra Brut Blanc De Blancs\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Крым\",\n    \"2015\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Extra Brut Blanc De Blancs",
+    "producer": "Владьба Неровских",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": null,
+    "category": "Extra Brut",
+    "raw_visible_text": [
+      "Владьба Неровских",
+      "Extra Brut Blanc De Blancs",
+      "MÉTHODE CLASSIQUE",
+      "Крым",
+      "2015"
+    ]
+  }
+}

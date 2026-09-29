@@ -1,0 +1,22 @@
+{
+  "slug": "tamara",
+  "seconds": 1.376413345336914,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TAMARA\",\n  \"producer\": \"KOFFMANN BROTHERS FAMILY VINEYARDS\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"FERMENTATION IN BARRELS\",\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"TAMARA\",\n    \"FERMENTATION IN BARRELS\",\n    \"2023\",\n    \"BOTTLE NO. 033/300\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TAMARA",
+    "producer": "KOFFMANN BROTHERS FAMILY VINEYARDS",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "FERMENTATION IN BARRELS",
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "TAMARA",
+      "FERMENTATION IN BARRELS",
+      "2023",
+      "BOTTLE NO. 033/300"
+    ]
+  }
+}

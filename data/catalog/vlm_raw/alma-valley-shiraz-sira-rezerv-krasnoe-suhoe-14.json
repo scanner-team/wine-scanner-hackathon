@@ -1,0 +1,23 @@
+{
+  "slug": "alma-valley-shiraz-sira-rezerv-krasnoe-suhoe-14",
+  "seconds": 7.184934854507446,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALMA VALLEY\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"SHIRAZ\",\n  \"category\": \"красное сухое вино\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"RESERVE\",\n    \"2021\",\n    \"SHIRAZ\",\n    \"КРЫМ\",\n    \"красное сухое вино\",\n    \"СПИРТ: 15,0% об. | ОБЪЕМ: 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALMA VALLEY",
+    "producer": "ALMA VALLEY",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "SHIRAZ",
+    "category": "красное сухое вино",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "RESERVE",
+      "2021",
+      "SHIRAZ",
+      "КРЫМ",
+      "красное сухое вино",
+      "СПИРТ: 15,0% об. | ОБЪЕМ: 0,75 л"
+    ]
+  }
+}

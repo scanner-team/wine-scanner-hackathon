@@ -1,0 +1,21 @@
+{
+  "slug": "denisov-winery-rkatsiteli-beloe-suhoe-112",
+  "seconds": 4.8938000202178955,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ркацители\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"Ркацители\",\n    \"сухое белое\",\n    \"0,75 л\",\n    \"12% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ркацители",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "DENISOV",
+      "Ркацители",
+      "сухое белое",
+      "0,75 л",
+      "12% об."
+    ]
+  }
+}

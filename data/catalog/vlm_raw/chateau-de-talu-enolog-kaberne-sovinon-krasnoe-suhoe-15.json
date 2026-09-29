@@ -1,0 +1,24 @@
+{
+  "slug": "chateau-de-talu-enolog-kaberne-sovinon-krasnoe-suhoe-15",
+  "seconds": 6.682811975479126,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНОЛОГ\",\n  \"producer\": \"Château &\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ЭНОЛОГ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"РОССИЙСКОЕ ВИНО С ЭНЗИДИНИАМ ГЕОГРАФЕСКИМ\",\n    \"МАЛЫЙ СИМПАТЫ, ТЕЛЯДИНИЯ\",\n    \"ВИНИГЕР\",\n    \"БИЗНЕС\",\n    \"Аромат\",\n    \"ИВЕН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНОЛОГ",
+    "producer": "Château &",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ЭНОЛОГ",
+      "СУХОЕ КРАСНОЕ",
+      "РОССИЙСКОЕ ВИНО С ЭНЗИДИНИАМ ГЕОГРАФЕСКИМ",
+      "МАЛЫЙ СИМПАТЫ, ТЕЛЯДИНИЯ",
+      "ВИНИГЕР",
+      "БИЗНЕС",
+      "Аромат",
+      "ИВЕН"
+    ]
+  }
+}

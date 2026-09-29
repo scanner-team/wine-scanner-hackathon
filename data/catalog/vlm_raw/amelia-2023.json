@@ -1,0 +1,20 @@
+{
+  "slug": "amelia-2023",
+  "seconds": 1.1394569873809814,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Amelia\",\n  \"producer\": \"KOFFMANN BROTHERS\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Riesling\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"Amelia\",\n    \"Riesling 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Amelia",
+    "producer": "KOFFMANN BROTHERS",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Riesling",
+    "category": null,
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "Amelia",
+      "Riesling 2023"
+    ]
+  }
+}

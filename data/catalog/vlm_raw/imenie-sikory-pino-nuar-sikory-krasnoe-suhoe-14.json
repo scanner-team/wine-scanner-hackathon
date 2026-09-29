@@ -1,0 +1,21 @@
+{
+  "slug": "imenie-sikory-pino-nuar-sikory-krasnoe-suhoe-14",
+  "seconds": 13.511574029922485,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО НУАР\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": \"Сикурь\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"СЕМИГОРЬЕ\",\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"ПИНО НУАР\",\n    \"Сикурь\",\n    \"СЕМИГОРЬЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО НУАР",
+    "producer": "SIKORY",
+    "cuvee": "Сикурь",
+    "vintage": "2023",
+    "grape": null,
+    "category": "СЕМИГОРЬЕ",
+    "raw_visible_text": [
+      "SIKORY",
+      "ПИНО НУАР",
+      "Сикурь",
+      "СЕМИГОРЬЕ",
+      "2023"
+    ]
+  }
+}

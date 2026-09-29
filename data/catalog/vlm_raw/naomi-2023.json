@@ -1,0 +1,21 @@
+{
+  "slug": "naomi-2023",
+  "seconds": 1.1023147106170654,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"NAOMI\",\n  \"producer\": \"KOHFMANN BROTHERS\",\n  \"cuvee\": \"LIMITED RELEASE\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"Rosé\",\n  \"raw_visible_text\": [\n    \"KOHFMANN BROTHERS\",\n    \"FAMILY WINERY\",\n    \"NAOMI\",\n    \"2023 LIMITED RELEASE\",\n    \"Rosé\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "NAOMI",
+    "producer": "KOHFMANN BROTHERS",
+    "cuvee": "LIMITED RELEASE",
+    "vintage": "2023",
+    "grape": null,
+    "category": "Rosé",
+    "raw_visible_text": [
+      "KOHFMANN BROTHERS",
+      "FAMILY WINERY",
+      "NAOMI",
+      "2023 LIMITED RELEASE",
+      "Rosé"
+    ]
+  }
+}

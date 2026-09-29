@@ -1,0 +1,21 @@
+{
+  "slug": "rem-akchurin-muskat-oranzh-oranzhevoe-suhoe-115",
+  "seconds": 5.169891119003296,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHURIN REIM\",\n  \"producer\": \"AKCHURIN REIM\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Muscat Orange\",\n  \"category\": \"Savastopol\",\n  \"raw_visible_text\": [\n    \"AKCHURIN\",\n    \"REIM\",\n    \"Muscat Orange\",\n    \"Chimayna River Valley\",\n    \"Savastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHURIN REIM",
+    "producer": "AKCHURIN REIM",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Muscat Orange",
+    "category": "Savastopol",
+    "raw_visible_text": [
+      "AKCHURIN",
+      "REIM",
+      "Muscat Orange",
+      "Chimayna River Valley",
+      "Savastopol"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "agrolayn-heritage-dg-skin-contact-rkatsiteli-rkatsiteli-beloe-suhoe-12",
+  "seconds": 5.024367094039917,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"HERITAGE\",\n  \"producer\": \"null\",\n  \"cuvee\": \"null\",\n  \"vintage\": \"2022\",\n  \"grape\": \"РКАТСИТЕЛИ\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"HERITAGE\",\n    \"2022\",\n    \"SKIN CONTACT\",\n    \"РКАТСИТЕЛИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "HERITAGE",
+    "producer": "null",
+    "cuvee": "null",
+    "vintage": "2022",
+    "grape": "РКАТСИТЕЛИ",
+    "category": "null",
+    "raw_visible_text": [
+      "HERITAGE",
+      "2022",
+      "SKIN CONTACT",
+      "РКАТСИТЕЛИ"
+    ]
+  }
+}

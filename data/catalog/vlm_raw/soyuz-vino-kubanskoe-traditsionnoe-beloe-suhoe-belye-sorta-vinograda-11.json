@@ -1,0 +1,31 @@
+{
+  "slug": "soyuz-vino-kubanskoe-traditsionnoe-beloe-suhoe-belye-sorta-vinograda-11",
+  "seconds": 9.102519750595093,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЕЛОЕ\",\n  \"producer\": \"КУБАНСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"СУХОЕ\",\n  \"raw_visible_text\": [\n    \"КУБАНСКОЕ\",\n    \"ТРАДИЦИОННОЕ\",\n    \"РОССИЙСКИЕ ВИНА\",\n    \"БЕЛОЕ\",\n    \"СУХОЕ\",\n    \"Вино отоловое\",\n    \"1Л\",\n    \"до 11%\",\n    \"ТРАДИЦИИ ВИНОДЕЛИЯ\",\n    \"1976\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"1976\",\n    \"INTERNATIONAL\",\n    \"WINE PRODUCTION\",\n    \"GROUP\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЕЛОЕ",
+    "producer": "КУБАНСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "СУХОЕ",
+    "raw_visible_text": [
+      "КУБАНСКОЕ",
+      "ТРАДИЦИОННОЕ",
+      "РОССИЙСКИЕ ВИНА",
+      "БЕЛОЕ",
+      "СУХОЕ",
+      "Вино отоловое",
+      "1Л",
+      "до 11%",
+      "ТРАДИЦИИ ВИНОДЕЛИЯ",
+      "1976",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "1976",
+      "INTERNATIONAL",
+      "WINE PRODUCTION",
+      "GROUP"
+    ]
+  }
+}

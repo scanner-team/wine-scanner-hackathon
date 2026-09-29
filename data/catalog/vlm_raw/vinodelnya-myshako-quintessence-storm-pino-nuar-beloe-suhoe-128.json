@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-storm-pino-nuar-beloe-suhoe-128",
+  "seconds": 6.700922012329102,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"MBICKAKO\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2021\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"BLANC DE NOIR\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"СИНОВИДОВО\",\n    \"MBICKAKO\",\n    \"1869\",\n    \"PINOT NOIR\",\n    \"BLANC DE NOIR\",\n    \"2021\",\n    \"СТОЛ\",\n    \"Алкоголь: 12,8% об. Объем: 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "MBICKAKO",
+    "cuvee": "COLLECTION",
+    "vintage": "2021",
+    "grape": "PINOT NOIR",
+    "category": "BLANC DE NOIR",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "СИНОВИДОВО",
+      "MBICKAKO",
+      "1869",
+      "PINOT NOIR",
+      "BLANC DE NOIR",
+      "2021",
+      "СТОЛ",
+      "Алкоголь: 12,8% об. Объем: 0,75 л"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "belmas-winery-risling-beloe-suhoe-135",
+  "seconds": 12.359090805053711,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ri\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Ri\",\n    \"Belmäs\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ri",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Ri",
+      "Belmäs",
+      "2024"
+    ]
+  }
+}

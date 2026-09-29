@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-aristov-anima-pino-gridzhio-beloe-suhoe-12",
+  "seconds": 5.317347764968872,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ANIMA\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"ANIMA\",\n    \"PINOT\",\n    \"GRIGIO\",\n    \"S.A. DI VINAI\",\n    \"VINAI\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ANIMA",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT GRIGIO",
+    "category": null,
+    "raw_visible_text": [
+      "ARISTOV",
+      "ANIMA",
+      "PINOT",
+      "GRIGIO",
+      "S.A. DI VINAI",
+      "VINAI"
+    ]
+  }
+}

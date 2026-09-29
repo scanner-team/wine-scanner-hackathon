@@ -1,0 +1,19 @@
+{
+  "slug": "aya-organic-wine-vineyards-purity-in-trinity-pino-nuar-rozovoe-suhoe-13",
+  "seconds": 4.48147177696228,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PURITY\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"PURITY\",\n    \"In Trilogy 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PURITY",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "AVA",
+      "PURITY",
+      "In Trilogy 2023"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-vedernikov-tsimlyanskiy-chernyy-bryut-roze-rozovoe-129",
+  "seconds": 7.249805212020874,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"чёрный розе\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ИТРИСОЕ ВИНО\",\n    \"ЧИМЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"РОЗЕРТ\",\n    \"ЗАТО ВЕДЕРНИКОВЪ\",\n    \"ДОМА ВЕДА\",\n    \"РОССИЯ\",\n    \"10.5% 750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "чёрный розе",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "ИТРИСОЕ ВИНО",
+      "ЧИМЛЯНСКИЙ ЧЕРНЫЙ",
+      "РОЗЕРТ",
+      "ЗАТО ВЕДЕРНИКОВЪ",
+      "ДОМА ВЕДА",
+      "РОССИЯ",
+      "10.5% 750 ml"
+    ]
+  }
+}

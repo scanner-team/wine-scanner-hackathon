@@ -1,0 +1,29 @@
+{
+  "slug": "agora-vintage-blanc-de-blancs-extra-brut",
+  "seconds": 1.42722749710083,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Vintage\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"METODO CLASSICO\",\n    \"Vintage\",\n    \"CLASSICO\",\n    \"BRUT\",\n    \"BLANC DE BLANC\",\n    \"24 MESI\",\n    \"AGORA WINERY\",\n    \"METODO CLASSICO\",\n    \"24\",\n    \"BLANC DE BLANC\",\n    \"METODO CLASSICO\",\n    \"24\",\n    \"BLANC DE BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Vintage",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "METODO CLASSICO",
+      "Vintage",
+      "CLASSICO",
+      "BRUT",
+      "BLANC DE BLANC",
+      "24 MESI",
+      "AGORA WINERY",
+      "METODO CLASSICO",
+      "24",
+      "BLANC DE BLANC",
+      "METODO CLASSICO",
+      "24",
+      "BLANC DE BLANC"
+    ]
+  }
+}

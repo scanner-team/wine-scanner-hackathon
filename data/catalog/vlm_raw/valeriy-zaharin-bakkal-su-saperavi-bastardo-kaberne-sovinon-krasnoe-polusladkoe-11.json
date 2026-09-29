@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-bakkal-su-saperavi-bastardo-kaberne-sovinon-krasnoe-polusladkoe-11",
+  "seconds": 7.049905061721802,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАККАЛ СУ\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ-БАСТАРЬО-КАБЕРНЕ-СОВИНЬОН\",\n  \"category\": \"АВТОРСКОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"БАККАЛ СУ\",\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРЫН\",\n    \"АВТОРСКОЕ ВИНО\",\n    \"САПЕРАВИ-БАСТАРЬО-КАБЕРНЕ-СОВИНЬОН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАККАЛ СУ",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "САПЕРАВИ-БАСТАРЬО-КАБЕРНЕ-СОВИНЬОН",
+    "category": "АВТОРСКОЕ ВИНО",
+    "raw_visible_text": [
+      "БАККАЛ СУ",
+      "ВАЛЕРИЙ",
+      "ЗАХАРЫН",
+      "АВТОРСКОЕ ВИНО",
+      "САПЕРАВИ-БАСТАРЬО-КАБЕРНЕ-СОВИНЬОН"
+    ]
+  }
+}

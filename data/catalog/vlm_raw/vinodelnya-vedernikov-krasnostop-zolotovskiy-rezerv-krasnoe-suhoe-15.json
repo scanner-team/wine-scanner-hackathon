@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-vedernikov-krasnostop-zolotovskiy-rezerv-krasnoe-suhoe-15",
+  "seconds": 7.579753875732422,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП ЗОЛОТОВСКИЙ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЬ\",\n    \"КРАСНОСТОП\",\n    \"ЗОЛОТОВСКИЙ\",\n    \"2020\",\n    \"ВИДИТРАННО В ДУБОВЫХ БОЧКАХ\",\n    \"ГОРД МАЛЫШЕВА\",\n    \"БОЛЬШАЯ ДОНА\",\n    \"БОГАТ\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП ЗОЛОТОВСКИЙ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЬ",
+      "КРАСНОСТОП",
+      "ЗОЛОТОВСКИЙ",
+      "2020",
+      "ВИДИТРАННО В ДУБОВЫХ БОЧКАХ",
+      "ГОРД МАЛЫШЕВА",
+      "БОЛЬШАЯ ДОНА",
+      "БОГАТ",
+      "750 ml"
+    ]
+  }
+}

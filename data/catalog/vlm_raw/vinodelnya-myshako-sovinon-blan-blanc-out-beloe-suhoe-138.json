@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-myshako-sovinon-blan-blanc-out-beloe-suhoe-138",
+  "seconds": 7.1605730056762695,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC OUT\",\n  \"producer\": \"ВИНОДЕЛНЯ МЫСЬКАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛНЯ\",\n    \"МЫСЬКАКО\",\n    \"1869\",\n    \"2022\",\n    \"13,8%\",\n    \"BLANC\",\n    \"OUT\",\n    \"КРУГОС\",\n    \"СОВИНЬОН БЛАН\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC OUT",
+    "producer": "ВИНОДЕЛНЯ МЫСЬКАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛНЯ",
+      "МЫСЬКАКО",
+      "1869",
+      "2022",
+      "13,8%",
+      "BLANC",
+      "OUT",
+      "КРУГОС",
+      "СОВИНЬОН БЛАН",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

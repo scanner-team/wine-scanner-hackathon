@@ -1,0 +1,18 @@
+{
+  "slug": "mons-albus-merlo-rozovoe-suhoe-132",
+  "seconds": 4.949686765670776,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕРАЛО\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"МЕРАЛО\",\n    \"ВИНО СУХОЕ РОЗОВОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕРАЛО",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "МЕРАЛО",
+      "ВИНО СУХОЕ РОЗОВОЕ"
+    ]
+  }
+}

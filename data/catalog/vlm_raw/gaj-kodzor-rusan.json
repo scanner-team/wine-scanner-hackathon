@@ -1,0 +1,24 @@
+{
+  "slug": "gaj-kodzor-rusan",
+  "seconds": 1.4877047538757324,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Roussanne\",\n  \"producer\": \"GAÏ-KODZOR\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Roussanne\",\n  \"category\": \"PRODUCT OF RUSSIA\",\n  \"raw_visible_text\": [\n    \"GAÏ-KODZOR\",\n    \"Roussanne\",\n    \"de\",\n    \"GAÏ-KODZOR\",\n    \"750 ml\",\n    \"ВИНОГРАДНИК ТАЙ-КОДЗОРА\",\n    \"PRODUCT OF RUSSIA\",\n    \"Алк 14,4% об\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Roussanne",
+    "producer": "GAÏ-KODZOR",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Roussanne",
+    "category": "PRODUCT OF RUSSIA",
+    "raw_visible_text": [
+      "GAÏ-KODZOR",
+      "Roussanne",
+      "de",
+      "GAÏ-KODZOR",
+      "750 ml",
+      "ВИНОГРАДНИК ТАЙ-КОДЗОРА",
+      "PRODUCT OF RUSSIA",
+      "Алк 14,4% об"
+    ]
+  }
+}

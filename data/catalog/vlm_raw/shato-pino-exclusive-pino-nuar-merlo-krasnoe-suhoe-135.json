@@ -1,0 +1,23 @@
+{
+  "slug": "shato-pino-exclusive-pino-nuar-merlo-krasnoe-suhoe-135",
+  "seconds": 5.87682032585144,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": \"EXCLUSIVE\",\n  \"vintage\": \"2022\",\n  \"grape\": \"ПИНО НУАР МЕРЛО\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"EXCLUSIVE\",\n    \"ПИНО НУАР\",\n    \"МЕРЛО\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": "EXCLUSIVE",
+    "vintage": "2022",
+    "grape": "ПИНО НУАР МЕРЛО",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "EXCLUSIVE",
+      "ПИНО НУАР",
+      "МЕРЛО",
+      "КРАСНОЕ СУХОЕ",
+      "2022"
+    ]
+  }
+}

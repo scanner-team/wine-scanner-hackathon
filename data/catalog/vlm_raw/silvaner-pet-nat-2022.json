@@ -1,0 +1,22 @@
+{
+  "slug": "silvaner-pet-nat-2022",
+  "seconds": 13.73983097076416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Sylvaner\",\n  \"category\": \"Méthode Ancestrale\",\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"PÉ-NAT\",\n    \"SLYNER\",\n    \"VIBES\",\n    \"Méthode Ancestrale\",\n    \"Sylvaner 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Sylvaner",
+    "category": "Méthode Ancestrale",
+    "raw_visible_text": [
+      "VIBES",
+      "PÉ-NAT",
+      "SLYNER",
+      "VIBES",
+      "Méthode Ancestrale",
+      "Sylvaner 2022"
+    ]
+  }
+}

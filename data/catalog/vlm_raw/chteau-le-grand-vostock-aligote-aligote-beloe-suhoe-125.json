@@ -1,0 +1,21 @@
+{
+  "slug": "chteau-le-grand-vostock-aligote-aligote-beloe-suhoe-125",
+  "seconds": 11.025390148162842,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château Le Grand Vostock\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ALIGOTE\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"LE GRAND VOSTOCK\",\n    \"ALIGOTE\",\n    \"ВИНО С ЗАЩИЩЕННЫМ ТЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОЛЛАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château Le Grand Vostock",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ALIGOTE",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "LE GRAND VOSTOCK",
+      "ALIGOTE",
+      "ВИНО С ЗАЩИЩЕННЫМ ТЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОЛЛАНА"
+    ]
+  }
+}

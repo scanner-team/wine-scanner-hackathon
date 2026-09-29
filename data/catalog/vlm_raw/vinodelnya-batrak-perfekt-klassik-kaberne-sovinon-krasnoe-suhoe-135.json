@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 5.451957941055298,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне Совиньон\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": \"PERFEKT Klassik\",\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"винодельня\",\n    \"1895\",\n    \"Каберне Совиньон\",\n    \"PERFEKT Klassik\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне Совиньон",
+    "producer": "Виталий Батрак",
+    "cuvee": "PERFEKT Klassik",
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "винодельня",
+      "1895",
+      "Каберне Совиньон",
+      "PERFEKT Klassik"
+    ]
+  }
+}

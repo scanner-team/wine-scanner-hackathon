@@ -1,0 +1,22 @@
+{
+  "slug": "tempelhof-winery-shpetburgunder-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 13.288626909255981,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Tempelhof\",\n  \"producer\": \"Tempelhof winery\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Spätburgunder\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Tempelhof winery\",\n    \"Kuma River Valley\",\n    \"Tempelhof\",\n    \"Spätburgunder\",\n    \"2023\",\n    \"ect of Russia\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Tempelhof",
+    "producer": "Tempelhof winery",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Spätburgunder",
+    "category": null,
+    "raw_visible_text": [
+      "Tempelhof winery",
+      "Kuma River Valley",
+      "Tempelhof",
+      "Spätburgunder",
+      "2023",
+      "ect of Russia"
+    ]
+  }
+}

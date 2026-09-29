@@ -1,0 +1,24 @@
+{
+  "slug": "loco-cimbali-pino-nuar-krasnoe-suhoe-126",
+  "seconds": 6.603935956954956,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"BALAKLAVA\",\n  \"cuvee\": \"Reserve\",\n  \"vintage\": \"2002\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BALAKLAVA\",\n    \"2002\",\n    \"LOCO CIMBALI\",\n    \"PINOT NOIR\",\n    \"Reserve\",\n    \"С ЗАПИСЬЮ ГЕОГРАФІЧЕСКИХ УКРАЗНИКІВ \\\"ЧЕРНІ\\\"\",\n    \"GL\",\n    \"075\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "BALAKLAVA",
+    "cuvee": "Reserve",
+    "vintage": "2002",
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "BALAKLAVA",
+      "2002",
+      "LOCO CIMBALI",
+      "PINOT NOIR",
+      "Reserve",
+      "С ЗАПИСЬЮ ГЕОГРАФІЧЕСКИХ УКРАЗНИКІВ \"ЧЕРНІ\"",
+      "GL",
+      "075"
+    ]
+  }
+}

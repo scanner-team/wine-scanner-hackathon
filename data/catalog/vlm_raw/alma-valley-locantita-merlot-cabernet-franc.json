@@ -1,0 +1,20 @@
+{
+  "slug": "alma-valley-locantita-merlot-cabernet-franc",
+  "seconds": 1.281336784362793,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Locantita\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"МЕРЛО-КАБЕРНЕ\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"2023\",\n    \"Locantita, МОРЕ\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"МЕРЛО-КАБЕРНЕ ФРАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Locantita",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "МЕРЛО-КАБЕРНЕ",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "2023",
+      "Locantita, МОРЕ",
+      "КРАСНОЕ СУХОЕ",
+      "МЕРЛО-КАБЕРНЕ ФРАН"
+    ]
+  }
+}

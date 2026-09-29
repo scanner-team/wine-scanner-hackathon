@@ -1,0 +1,18 @@
+{
+  "slug": "kuban-vino-aristov-verde-muskat-beloe-polusuhoe-11",
+  "seconds": 3.560990810394287,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VERDE\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"VERDE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VERDE",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ARISTOV",
+      "VERDE"
+    ]
+  }
+}

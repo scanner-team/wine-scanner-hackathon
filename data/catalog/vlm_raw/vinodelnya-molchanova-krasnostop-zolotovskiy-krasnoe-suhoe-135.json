@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-molchanova-krasnostop-zolotovskiy-krasnoe-suhoe-135",
+  "seconds": 5.335066795349121,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Красностоп Золотовский\",\n  \"producer\": \"Винодельня Мочанковы\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Винодельня Мочанковы\",\n    \"М\",\n    \"Красностоп\",\n    \"Золотовский\",\n    \"Вино сухое красное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Красностоп Золотовский",
+    "producer": "Винодельня Мочанковы",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Винодельня Мочанковы",
+      "М",
+      "Красностоп",
+      "Золотовский",
+      "Вино сухое красное"
+    ]
+  }
+}

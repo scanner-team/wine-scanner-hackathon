@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# Секреты и конфигурация
+.env
+
+# Журналы и рабочие данные сервиса
+*.log
+predict_log.jsonl
+marks_log.jsonl
+SCANNER_ERRORS.md
+CONFIDENT_MISSES.md
+query_log/
+query_crops/
+batch_staging/
+
+# Кэш моделей (скачивается автоматически при первом запуске)
+.cache/

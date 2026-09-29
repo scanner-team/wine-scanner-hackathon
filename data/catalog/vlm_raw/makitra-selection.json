@@ -1,0 +1,19 @@
+{
+  "slug": "makitra-selection",
+  "seconds": 0.8832094669342041,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MAKITRA\",\n  \"producer\": \"MAKITRA\",\n  \"cuvee\": \"SELECTION\",\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MAKITRA\",\n    \"SELECTION\",\n    \"CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MAKITRA",
+    "producer": "MAKITRA",
+    "cuvee": "SELECTION",
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "MAKITRA",
+      "SELECTION",
+      "CHARDONNAY"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "abrau-dyurso-brut-dor-blanc-de-noirs-pino-nuar-beloe-bryut-115",
+  "seconds": 14.679571866989136,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Brut d'Or\",\n  \"producer\": \"Абрау-Дюрсо\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"1870\",\n    \"РУССКИЙ ВИННЫЙ ДОМ\",\n    \"Абрау-Дюрсо\",\n    \"Brut d'Or\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Blanc de Noirs\",\n    \"2021\",\n    \"ВИДЕРЖАНО В ТОРНИХ\",\n    \"ТОННЕВАХ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Brut d'Or",
+    "producer": "Абрау-Дюрсо",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "Brut",
+    "raw_visible_text": [
+      "1870",
+      "РУССКИЙ ВИННЫЙ ДОМ",
+      "Абрау-Дюрсо",
+      "Brut d'Or",
+      "MÉTHODE CLASSIQUE",
+      "Blanc de Noirs",
+      "2021",
+      "ВИДЕРЖАНО В ТОРНИХ",
+      "ТОННЕВАХ"
+    ]
+  }
+}

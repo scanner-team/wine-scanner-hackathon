@@ -1,0 +1,19 @@
+{
+  "slug": "bogovich-wine-vineyard-rkatsiteli-oranzh-beloe-suhoe-125",
+  "seconds": 4.86021614074707,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RKA TSITELI ORANGE\",\n  \"producer\": \"BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RKA TSITELI\",\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"BOGOVICH\",\n    \"RKA TSITELI\",\n    \"ORANGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RKA TSITELI ORANGE",
+    "producer": "BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RKA TSITELI",
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "BOGOVICH",
+      "RKA TSITELI",
+      "ORANGE"
+    ]
+  }
+}

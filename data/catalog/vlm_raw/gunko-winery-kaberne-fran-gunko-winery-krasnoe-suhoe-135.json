@@ -1,0 +1,21 @@
+{
+  "slug": "gunko-winery-kaberne-fran-gunko-winery-krasnoe-suhoe-135",
+  "seconds": 5.277926921844482,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне Фран\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Фран\",\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"GV\",\n    \"Gunko Winery\",\n    \"Каберне Фран\",\n    \"сухое 13,5% об\",\n    \"0,75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне Фран",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Фран",
+    "category": "сухое",
+    "raw_visible_text": [
+      "GV",
+      "Gunko Winery",
+      "Каберне Фран",
+      "сухое 13,5% об",
+      "0,75л"
+    ]
+  }
+}

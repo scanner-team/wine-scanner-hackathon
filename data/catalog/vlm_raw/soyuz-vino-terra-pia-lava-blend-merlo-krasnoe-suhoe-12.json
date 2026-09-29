@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-terra-pia-lava-blend-merlo-krasnoe-suhoe-12",
+  "seconds": 5.293925046920776,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TERRA PIA\",\n  \"producer\": \"TERRA PIA\",\n  \"cuvee\": \"LAVA BLEND\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GROWN\",\n    \"ON VOLCANIC\",\n    \"SOIL\",\n    \"TERRA PIA\",\n    \"LAVA BLEND\",\n    \"RED BOTTLE\",\n    \"FROM LIVING SPARKLE\",\n    \"FILLED THE BUSH GROUND\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TERRA PIA",
+    "producer": "TERRA PIA",
+    "cuvee": "LAVA BLEND",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GROWN",
+      "ON VOLCANIC",
+      "SOIL",
+      "TERRA PIA",
+      "LAVA BLEND",
+      "RED BOTTLE",
+      "FROM LIVING SPARKLE",
+      "FILLED THE BUSH GROUND"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-ice-wine-saperavi-tihoe-krasnoe-sladkoe-10",
+  "seconds": 6.656769037246704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ice Wine\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Saperavi\",\n  \"category\": \"ЛЕДЯНОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"Ice\",\n    \"WINE\",\n    \"Saperavi\",\n    \"ЛЕДЯНОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ice Wine",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Saperavi",
+    "category": "ЛЕДЯНОЕ ВИНО",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "Ice",
+      "WINE",
+      "Saperavi",
+      "ЛЕДЯНОЕ ВИНО"
+    ]
+  }
+}

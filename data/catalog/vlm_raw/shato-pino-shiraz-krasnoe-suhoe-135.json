@@ -1,0 +1,19 @@
+{
+  "slug": "shato-pino-shiraz-krasnoe-suhoe-135",
+  "seconds": 4.399976015090942,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SHIRAZ\",\n  \"producer\": \"GNATIER\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SHIRAZ\",\n  \"category\": \"PINOT\",\n  \"raw_visible_text\": [\n    \"SHIRAZ\",\n    \"GNATIER\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SHIRAZ",
+    "producer": "GNATIER",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SHIRAZ",
+    "category": "PINOT",
+    "raw_visible_text": [
+      "SHIRAZ",
+      "GNATIER",
+      "PINOT"
+    ]
+  }
+}

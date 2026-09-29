@@ -1,0 +1,20 @@
+{
+  "slug": "esse-pino-gri-blash-rozovoe-suhoe-125",
+  "seconds": 13.193696022033691,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT GRIS BLUSH\",\n  \"producer\": \"ESSE UNPLUGGED\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"PINOT GRIS\",\n  \"category\": \"BLUSH\",\n  \"raw_visible_text\": [\n    \"PINOT GRIS\",\n    \"BLUSH\",\n    \"ESSE UNPLUGGED\",\n    \"CRIMEA 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT GRIS BLUSH",
+    "producer": "ESSE UNPLUGGED",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "PINOT GRIS",
+    "category": "BLUSH",
+    "raw_visible_text": [
+      "PINOT GRIS",
+      "BLUSH",
+      "ESSE UNPLUGGED",
+      "CRIMEA 2024"
+    ]
+  }
+}

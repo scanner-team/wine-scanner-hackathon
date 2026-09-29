@@ -1,0 +1,22 @@
+{
+  "slug": "zb-vajn-spumante-bryut-beloe",
+  "seconds": 1.0269134044647217,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SPUMANTE\",\n  \"producer\": \"ZB WINE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"WHITE BRUT\",\n  \"raw_visible_text\": [\n    \"SPUMANTE\",\n    \"ZB\",\n    \"WINE\",\n    \"NATURAL SPARKLING WINE\",\n    \"WHITE BRUT\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SPUMANTE",
+    "producer": "ZB WINE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "WHITE BRUT",
+    "raw_visible_text": [
+      "SPUMANTE",
+      "ZB",
+      "WINE",
+      "NATURAL SPARKLING WINE",
+      "WHITE BRUT",
+      "750ml"
+    ]
+  }
+}

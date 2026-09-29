@@ -1,0 +1,20 @@
+{
+  "slug": "soyuz-vino-shato-de-mongolfer-risling-polusuhoe-beloe-11",
+  "seconds": 5.128276109695435,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Riesling\",\n  \"producer\": \"Château de MONTGOLFIERE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": \"blanc demi-sec\",\n  \"raw_visible_text\": [\n    \"Château de MONTGOLFIERE\",\n    \"Riesling\",\n    \"blanc demi-sec\",\n    \"75cl / 11% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Riesling",
+    "producer": "Château de MONTGOLFIERE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": "blanc demi-sec",
+    "raw_visible_text": [
+      "Château de MONTGOLFIERE",
+      "Riesling",
+      "blanc demi-sec",
+      "75cl / 11% vol"
+    ]
+  }
+}

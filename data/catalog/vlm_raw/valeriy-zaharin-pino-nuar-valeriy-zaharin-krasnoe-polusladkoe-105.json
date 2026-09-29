@@ -1,0 +1,20 @@
+{
+  "slug": "valeriy-zaharin-pino-nuar-valeriy-zaharin-krasnoe-polusladkoe-105",
+  "seconds": 6.0477378368377686,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО НУАР\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРБИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРБИН\",\n    \"ПИНО НУАР\",\n    \"ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО НУАР",
+    "producer": "ВАЛЕРИЙ ЗАХАРБИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПИНО НУАР",
+    "category": "ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ",
+      "ЗАХАРБИН",
+      "ПИНО НУАР",
+      "ПРИРОДНО ПОЛУСЛАДКОЕ КРАСНОЕ"
+    ]
+  }
+}

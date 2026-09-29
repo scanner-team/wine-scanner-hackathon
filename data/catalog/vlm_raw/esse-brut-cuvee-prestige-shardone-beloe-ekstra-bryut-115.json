@@ -1,0 +1,21 @@
+{
+  "slug": "esse-brut-cuvee-prestige-shardone-beloe-ekstra-bryut-115",
+  "seconds": 5.180668830871582,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"CRIMEA\",\n  \"cuvee\": \"CIVIÈE PRESTIGE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"CRIMEA\",\n    \"PETRIZONE CLASSICHE\",\n    \"ESSE\",\n    \"BRUT\",\n    \"CIVIÈE PRESTIGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "CRIMEA",
+    "cuvee": "CIVIÈE PRESTIGE",
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "CRIMEA",
+      "PETRIZONE CLASSICHE",
+      "ESSE",
+      "BRUT",
+      "CIVIÈE PRESTIGE"
+    ]
+  }
+}

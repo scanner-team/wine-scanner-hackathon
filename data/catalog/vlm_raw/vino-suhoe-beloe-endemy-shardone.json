@@ -1,0 +1,21 @@
+{
+  "slug": "vino-suhoe-beloe-endemy-shardone",
+  "seconds": 1.264385461807251,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"БЕЛОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"ШАРДОНЕ\",\n    \"БЕЛОЕ СУХОЕ\",\n    \"ВИНО\",\n    \"ДЕРБЕНТ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "БЕЛОЕ СУХОЕ",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "ШАРДОНЕ",
+      "БЕЛОЕ СУХОЕ",
+      "ВИНО",
+      "ДЕРБЕНТ ВИНО"
+    ]
+  }
+}

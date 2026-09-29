@@ -1,0 +1,20 @@
+{
+  "slug": "relikta-relikta-petnat-antey-magarachskiy-rozovoe-ekstra-bryut-11",
+  "seconds": 11.087049961090088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пенял\",\n  \"producer\": null,\n  \"cuvee\": \"РЕЛИКТА\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"РЕЛИКТА\",\n    \"Пенял\",\n    \"РОЗОВОЙ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пенял",
+    "producer": null,
+    "cuvee": "РЕЛИКТА",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "РЕЛИКТА",
+      "Пенял",
+      "РОЗОВОЙ",
+      "2022"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "ya-jla-risling",
+  "seconds": 0.8744246959686279,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Y\",\n  \"producer\": \"Y VINEYARD\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Y\",\n    \"VINEYARD\",\n    \"PHOENIX\",\n    \"17,7% vol.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Y",
+    "producer": "Y VINEYARD",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Y",
+      "VINEYARD",
+      "PHOENIX",
+      "17,7% vol."
+    ]
+  }
+}

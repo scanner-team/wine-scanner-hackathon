@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-zelyonaya-dolina-pino-blan-v-banke-beloe-polusladkoe-115",
+  "seconds": 17.73658275604248,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"PINOT BLANC\",\n  \"producer\": \"ZELËNAYA DOLINA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT BLANC\",\n  \"category\": \"SEMI-SWEET WHITE WINE\",\n  \"raw_visible_text\": [\n    \"HAND-PICKED GRAPES\",\n    \"ZELËNAYA\",\n    \"ЗЕЛЁНАЯ\",\n    \"DOLINA\",\n    \"ЗЕЛЁНАЯ\",\n    \"ДОЛИНА\",\n    \"PINOT BLANC\",\n    \"SEMI-SWEET WHITE WINE\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ В",
+  "parsed": {
+    "visible_name": "PINOT BLANC",
+    "producer": "ZELËNAYA DOLINA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT BLANC",
+    "category": "SEMI-SWEET WHITE WINE"
+  }
+}

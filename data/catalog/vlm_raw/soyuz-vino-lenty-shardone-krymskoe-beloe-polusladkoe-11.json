@@ -1,0 +1,22 @@
+{
+  "slug": "soyuz-vino-lenty-shardone-krymskoe-beloe-polusladkoe-11",
+  "seconds": 7.735936164855957,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Шардоне\",\n  \"producer\": \"SANTUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Шардоне\",\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"Вино столовое полусладкое белое\",\n    \"Шардоне\",\n    \"кремское\",\n    \"ТРАДИЦИИ ВИНОДЕЛИИ\",\n    \"–1976–\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Шардоне",
+    "producer": "SANTUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Шардоне",
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "Вино столовое полусладкое белое",
+      "Шардоне",
+      "кремское",
+      "ТРАДИЦИИ ВИНОДЕЛИИ",
+      "–1976–",
+      "ПРОИЗВЕДЕНО В РОССИИ"
+    ]
+  }
+}

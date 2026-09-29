@@ -1,0 +1,19 @@
+{
+  "slug": "golubitskoe-estate-kaberne-sovinon-noble-selection-krasnoe-suhoe-133",
+  "seconds": 5.199221134185791,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"NOBLE SELECTION\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"NOBLE SELECTION\",\n    \"GOLUBITSKOE ESTATE\",\n    \"CABERNET SAUVIGNON / 2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "NOBLE SELECTION",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "NOBLE SELECTION",
+      "GOLUBITSKOE ESTATE",
+      "CABERNET SAUVIGNON / 2018"
+    ]
+  }
+}

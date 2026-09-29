@@ -1,0 +1,25 @@
+{
+  "slug": "cantiani-cabernet-sauvignon",
+  "seconds": 1.8524048328399658,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"Cantiani\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Cantiani\",\n    \"INEMAKING TRADITION\",\n    \"CANTIANI\",\n    \"WINE & TRADITIONS\",\n    \"CABERNET\",\n    \"SAUVIGNON\",\n    \"MASTER OF WINE\",\n    \"A. Chy-\",\n    \"PRODUCED AND BOTTLED IN DAGESTAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "Cantiani",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Cantiani",
+      "INEMAKING TRADITION",
+      "CANTIANI",
+      "WINE & TRADITIONS",
+      "CABERNET",
+      "SAUVIGNON",
+      "MASTER OF WINE",
+      "A. Chy-",
+      "PRODUCED AND BOTTLED IN DAGESTAN"
+    ]
+  }
+}

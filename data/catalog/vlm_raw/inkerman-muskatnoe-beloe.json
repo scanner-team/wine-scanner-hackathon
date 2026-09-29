@@ -1,0 +1,22 @@
+{
+  "slug": "inkerman-muskatnoe-beloe",
+  "seconds": 1.2005813121795654,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"INKERMAN\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое белое\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"МУСКАТНОЕ\",\n    \"ВИНО\",\n    \"ПОЛУСЛАДКОЕ БЕЛОЕ\",\n    \"750 мл\",\n    \"12,5% alc./vol.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "INKERMAN",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое белое",
+    "raw_visible_text": [
+      "INKERMAN",
+      "МУСКАТНОЕ",
+      "ВИНО",
+      "ПОЛУСЛАДКОЕ БЕЛОЕ",
+      "750 мл",
+      "12,5% alc./vol."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-5050-tsimlyanskiy-sibirkovyy-ekstra-bryut-beloe-12",
+  "seconds": 7.160562992095947,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕАЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"черный/смиряковый\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕАЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ИГРАСТНОЕ ВИНО\",\n    \"ЧИМУТНИКИЙ ЧЕРНЫЙ/СМИРЯКОВЫЙ - 50/50\",\n    \"БЕЛЕЕ ЭКСТРА БРЮТ\",\n    \"12,5% об / 750 мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕАЛЬНЯ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "черный/смиряковый",
+    "category": "брют",
+    "raw_visible_text": [
+      "ВИНОДЕАЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "ИГРАСТНОЕ ВИНО",
+      "ЧИМУТНИКИЙ ЧЕРНЫЙ/СМИРЯКОВЫЙ - 50/50",
+      "БЕЛЕЕ ЭКСТРА БРЮТ",
+      "12,5% об / 750 мл"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "derbent-vino-di-kaspiko-shardone-beloe-bryut-105-125",
+  "seconds": 13.018860816955566,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": \"БРЮТ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"DI CASPICO\",\n    \"БРЮТ\",\n    \"СДЕЛАНО В ДАГЕСТАНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": "БРЮТ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "DI CASPICO",
+      "БРЮТ",
+      "СДЕЛАНО В ДАГЕСТАНЕ"
+    ]
+  }
+}

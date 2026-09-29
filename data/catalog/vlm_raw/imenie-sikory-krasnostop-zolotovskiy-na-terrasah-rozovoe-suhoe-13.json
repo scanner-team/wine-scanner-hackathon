@@ -1,0 +1,20 @@
+{
+  "slug": "imenie-sikory-krasnostop-zolotovskiy-na-terrasah-rozovoe-suhoe-13",
+  "seconds": 13.098114013671875,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"КРАСНОСТОП\",\n    \"На Мербрасах\",\n    \"СЕМИГОРЬЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП",
+    "producer": "SIKORY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "SIKORY",
+      "КРАСНОСТОП",
+      "На Мербрасах",
+      "СЕМИГОРЬЕ"
+    ]
+  }
+}

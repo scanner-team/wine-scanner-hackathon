@@ -1,0 +1,20 @@
+{
+  "slug": "imenie-sikory-risling-sikory-beloe-suhoe-13",
+  "seconds": 13.533863306045532,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"СИКОРЫ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"СЕМИГОРЬЕ\",\n  \"raw_visible_text\": [\n    \"СИКОРЫ\",\n    \"РИСЛИНГ\",\n    \"Сикоры\",\n    \"СЕМИГОРЬЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "СИКОРЫ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНГ",
+    "category": "СЕМИГОРЬЕ",
+    "raw_visible_text": [
+      "СИКОРЫ",
+      "РИСЛИНГ",
+      "Сикоры",
+      "СЕМИГОРЬЕ"
+    ]
+  }
+}

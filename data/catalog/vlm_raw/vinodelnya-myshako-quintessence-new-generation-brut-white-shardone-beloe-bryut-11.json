@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-brut-white-shardone-beloe-bryut-11",
+  "seconds": 5.652145862579346,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIODE AND MBIKXARO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIODE AND\",\n    \"MBIKXARO\",\n    \"1869\",\n    \"BRUT WHITE\",\n    \"NEW GENERATION\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIODE AND MBIKXARO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIODE AND",
+      "MBIKXARO",
+      "1869",
+      "BRUT WHITE",
+      "NEW GENERATION"
+    ]
+  }
+}

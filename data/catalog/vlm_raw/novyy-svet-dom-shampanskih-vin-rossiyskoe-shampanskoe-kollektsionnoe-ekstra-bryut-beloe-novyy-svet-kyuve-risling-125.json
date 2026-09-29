@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-ekstra-bryut-beloe-novyy-svet-kyuve-risling-125",
+  "seconds": 7.484648942947388,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"Дом Шампанских Вин\",\n  \"cuvee\": \"Клуб\",\n  \"vintage\": \"1878\",\n  \"grape\": null,\n  \"category\": \"Бриот Натюр\",\n  \"raw_visible_text\": [\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"НОВЫЙ СВЯТЪ\",\n    \"Клуб\",\n    \"1878\",\n    \"Бриот Натур\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "Дом Шампанских Вин",
+    "cuvee": "Клуб",
+    "vintage": "1878",
+    "grape": null,
+    "category": "Бриот Натюр",
+    "raw_visible_text": [
+      "18",
+      "78",
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "НОВЫЙ СВЯТЪ",
+      "Клуб",
+      "1878",
+      "Бриот Натур",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ"
+    ]
+  }
+}

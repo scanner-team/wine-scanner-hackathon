@@ -1,0 +1,23 @@
+{
+  "slug": "cru-lermont-risling",
+  "seconds": 1.4096553325653076,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CruLermont\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"вино белое сухое\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"CruLermont\",\n    \"RIESLING\",\n    \"ВИНО БЕЛОЕ СУХОЕ 2021\",\n    \"Сенной\",\n    \"ЗНМП\",\n    \"РУЧНОЙ СЕОР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CruLermont",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "RIESLING",
+    "category": "вино белое сухое",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "CruLermont",
+      "RIESLING",
+      "ВИНО БЕЛОЕ СУХОЕ 2021",
+      "Сенной",
+      "ЗНМП",
+      "РУЧНОЙ СЕОР"
+    ]
+  }
+}

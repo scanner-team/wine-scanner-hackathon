@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-de-talu-shardone-rezerv-beloe-suhoe-13",
+  "seconds": 5.65434193611145,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДОНЕ\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"ШАРДОНЕ\",\n    \"РЕЗЕРВ\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДОНЕ",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "ШАРДОНЕ",
+      "РЕЗЕРВ",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "esse-chenin-blanc-shenen-blan-beloe-suhoe-12",
+  "seconds": 4.971617937088013,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KACHA VALLEY\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"CHENIN BLANC\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"KACHA VALLEY\",\n    \"2022\",\n    \"CHENIN BLANC\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KACHA VALLEY",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "CHENIN BLANC",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "KACHA VALLEY",
+      "2022",
+      "CHENIN BLANC",
+      "CRIMEA"
+    ]
+  }
+}

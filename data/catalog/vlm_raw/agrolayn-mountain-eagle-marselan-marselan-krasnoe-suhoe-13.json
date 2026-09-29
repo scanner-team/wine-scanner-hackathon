@@ -1,0 +1,20 @@
+{
+  "slug": "agrolayn-mountain-eagle-marselan-marselan-krasnoe-suhoe-13",
+  "seconds": 5.251404047012329,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"MOUNTAIN EAGLE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"MARSHELAN\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN EAGLE\",\n    \"TAIGSTAN WINE OF RUSSIA\",\n    \"2022\",\n    \"MARSHELAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "MOUNTAIN EAGLE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "MARSHELAN",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN EAGLE",
+      "TAIGSTAN WINE OF RUSSIA",
+      "2022",
+      "MARSHELAN"
+    ]
+  }
+}

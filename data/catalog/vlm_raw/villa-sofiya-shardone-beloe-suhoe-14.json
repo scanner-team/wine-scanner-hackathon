@@ -1,0 +1,20 @@
+{
+  "slug": "villa-sofiya-shardone-beloe-suhoe-14",
+  "seconds": 4.984754323959351,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Винна София\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"шардоне\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"Винна София\",\n    \"шардоне\",\n    \"сухое белое\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Винна София",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "шардоне",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "Винна София",
+      "шардоне",
+      "сухое белое",
+      "2023"
+    ]
+  }
+}

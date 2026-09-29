@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-byurne-lyublyu-krasnoe-kaberne-fran-suhoe-135",
+  "seconds": 2.278499126434326,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛЮБЛЮ\",\n  \"producer\": \"БЮРНЫЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"ВИНОГРАДНАЯ ВИНОГРАДНАЯ И ЖИВОТНЫЕ\",\n    \"ВИНОГРАД СОБРАН ВРУЧНУЮ\",\n    \"ЛЮБЛЮ / красное сухое\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"ЗГУ «КУБАНЬ»\",\n    \"20\",\n    \"24\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛЮБЛЮ",
+    "producer": "БЮРНЫЕ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "ВИНОГРАДНАЯ ВИНОГРАДНАЯ И ЖИВОТНЫЕ",
+      "ВИНОГРАД СОБРАН ВРУЧНУЮ",
+      "ЛЮБЛЮ / красное сухое",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "ЗГУ «КУБАНЬ»",
+      "20",
+      "24"
+    ]
+  }
+}

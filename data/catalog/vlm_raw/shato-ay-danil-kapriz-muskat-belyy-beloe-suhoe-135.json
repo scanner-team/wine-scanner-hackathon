@@ -1,0 +1,23 @@
+{
+  "slug": "shato-ay-danil-kapriz-muskat-belyy-beloe-suhoe-135",
+  "seconds": 14.675495862960815,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАПРИЗ\",\n  \"producer\": \"ШАТО АЙ-ДАНИАЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"ШАТО АЙ-ДАНИАЛЬ\",\n    \"КАПРИЗ\",\n    \"2024\",\n    \"Российское вино с защищенным\",\n    \"географическим указанием «КРЫМ»\",\n    \"сухое белое «Le Caprice»\",\n    \"Бутылка №1406\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАПРИЗ",
+    "producer": "ШАТО АЙ-ДАНИАЛЬ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "ШАТО АЙ-ДАНИАЛЬ",
+      "КАПРИЗ",
+      "2024",
+      "Российское вино с защищенным",
+      "географическим указанием «КРЫМ»",
+      "сухое белое «Le Caprice»",
+      "Бутылка №1406"
+    ]
+  }
+}

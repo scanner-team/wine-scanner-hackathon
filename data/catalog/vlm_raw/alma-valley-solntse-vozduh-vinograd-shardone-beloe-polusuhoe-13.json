@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-solntse-vozduh-vinograd-shardone-beloe-polusuhoe-13",
+  "seconds": 7.893787145614624,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БЕЛЕО ПОЛУСУХОЕ\",\n  \"raw_visible_text\": [\n    \"СОЛНЦЕ,\",\n    \"ВОЗДУХ,\",\n    \"ВИНОГРАД\",\n    \"БЕЛЕО ПОЛУСУХОЕ ВИНО\",\n    \"РОССИЯ, КРЫМ | 0,7 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "БЕЛЕО ПОЛУСУХОЕ",
+    "raw_visible_text": [
+      "СОЛНЦЕ,",
+      "ВОЗДУХ,",
+      "ВИНОГРАД",
+      "БЕЛЕО ПОЛУСУХОЕ ВИНО",
+      "РОССИЯ, КРЫМ | 0,7 л"
+    ]
+  }
+}

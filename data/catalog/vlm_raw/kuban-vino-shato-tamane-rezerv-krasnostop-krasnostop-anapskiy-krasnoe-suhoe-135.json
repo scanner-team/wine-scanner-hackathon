@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-krasnostop-krasnostop-anapskiy-krasnoe-suhoe-135",
+  "seconds": 5.123275995254517,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE RESERVE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"R\",\n    \"CHATEAU TAMAGNE\",\n    \"RESERVE\",\n    \"KRASNOSTOP\",\n    \"ЗАДЕРЖАННОЕ КРАСНОЕ\",\n    \"ВИНО СЕРЫЙ ТАМАГНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE RESERVE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "R",
+      "CHATEAU TAMAGNE",
+      "RESERVE",
+      "KRASNOSTOP",
+      "ЗАДЕРЖАННОЕ КРАСНОЕ",
+      "ВИНО СЕРЫЙ ТАМАГНЕ"
+    ]
+  }
+}

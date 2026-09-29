@@ -1,0 +1,19 @@
+{
+  "slug": "czimlyanskoe-risling",
+  "seconds": 5.635681867599487,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ЦИМЛЯНСКОЕ\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"РИСЛИНГ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНГ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ЦИМЛЯНСКОЕ",
+      "СУХОЕ БЕЛОЕ",
+      "РИСЛИНГ"
+    ]
+  }
+}

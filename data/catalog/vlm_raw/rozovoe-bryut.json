@@ -1,0 +1,20 @@
+{
+  "slug": "rozovoe-bryut",
+  "seconds": 1.2159574031829834,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Montegaru\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"встрясено вино вред родовка\",\n  \"raw_visible_text\": [\n    \"Montegaru\",\n    \"12-15% об. с.\",\n    \"750 мл\",\n    \"ВЕТРЯСЕНО ВИНО ВРЕД РОДОВКА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Montegaru",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "встрясено вино вред родовка",
+    "raw_visible_text": [
+      "Montegaru",
+      "12-15% об. с.",
+      "750 мл",
+      "ВЕТРЯСЕНО ВИНО ВРЕД РОДОВКА"
+    ]
+  }
+}

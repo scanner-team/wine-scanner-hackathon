@@ -1,0 +1,22 @@
+{
+  "slug": "vysokij-bereg-czvajgelt",
+  "seconds": 6.688184976577759,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Высокий Берег\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ЦВАЙГЕЛЬТ\",\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"Высокий Берег\",\n    \"ЦВАЙГЕЛЬТ\",\n    \"сухое розовое\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"ГОД УРОЖАЯ\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Высокий Берег",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ЦВАЙГЕЛЬТ",
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "Высокий Берег",
+      "ЦВАЙГЕЛЬТ",
+      "сухое розовое",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "ГОД УРОЖАЯ",
+      "ПРОИЗВЕДЕНО В РОССИИ"
+    ]
+  }
+}

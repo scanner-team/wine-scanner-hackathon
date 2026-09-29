@@ -1,0 +1,19 @@
+{
+  "slug": "esse-risling-beloe-suhoe-115",
+  "seconds": 4.148096084594727,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Bianche\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Bianche\",\n    \"ess\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Bianche",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Bianche",
+      "ess",
+      "esse"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-lak-dazyur-ruzh-moellyo-belye-sorta-vinograda-krasnoe-polusladkoe-11",
+  "seconds": 17.263683080673218,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"LAC D'AZUR\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"красное\",\n  \"raw_visible_text\": [\n    \"LAC D'AZUR\",\n    \"VIN ROUGE MOELLEUX\",\n    \"СТОЛОВОЕ\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"КРАСНОЕ\",\n    \"«LAC D'AZUR»\",\n    \"ЛМК Д 430/8\",\n    \"СТРУКТУР. 05.05.\",\n    \"САПАР. 30 Г/СМ3\",\n    \"ОБЕМ 1 ЛИТР\",\n    \"ЕАС\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"",
+  "parsed": {
+    "visible_name": "LAC D'AZUR",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "красное"
+  }
+}

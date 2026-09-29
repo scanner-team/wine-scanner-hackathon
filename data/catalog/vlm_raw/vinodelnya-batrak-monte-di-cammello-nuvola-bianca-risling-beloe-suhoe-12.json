@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-monte-di-cammello-nuvola-bianca-risling-beloe-suhoe-12",
+  "seconds": 5.244753837585449,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Monte di Cammello\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"NUVOOLA BIANCA\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1895\",\n    \"Monte di Cammello\",\n    \"NUVOOLA BIANCA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Monte di Cammello",
+    "producer": "Виталий Батрак",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "NUVOOLA BIANCA",
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "ВИНОДЕЛЬНЯ",
+      "1895",
+      "Monte di Cammello",
+      "NUVOOLA BIANCA"
+    ]
+  }
+}

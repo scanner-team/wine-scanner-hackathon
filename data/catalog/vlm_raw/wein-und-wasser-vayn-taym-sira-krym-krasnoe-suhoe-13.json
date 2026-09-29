@@ -1,0 +1,20 @@
+{
+  "slug": "wein-und-wasser-vayn-taym-sira-krym-krasnoe-suhoe-13",
+  "seconds": 5.876737117767334,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WINE TIME\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"WINE TIME\",\n    \"SYRAH\",\n    \"CRIMEA\",\n    \"0,75L 13% vol.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WINE TIME",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "WINE TIME",
+      "SYRAH",
+      "CRIMEA",
+      "0,75L 13% vol."
+    ]
+  }
+}

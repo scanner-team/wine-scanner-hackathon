@@ -1,0 +1,22 @@
+{
+  "slug": "winepark-kokur-kokur-belyy-beloe-suhoe-13",
+  "seconds": 13.456768989562988,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CRIMEA\",\n  \"producer\": \"WINEPARK\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"KOKUR\",\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"WINEPARK\",\n    \"CRIMEA\",\n    \"2023\",\n    \"WINEPARK\",\n    \"KOKUR\",\n    \"2023 КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CRIMEA",
+    "producer": "WINEPARK",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "KOKUR",
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "WINEPARK",
+      "CRIMEA",
+      "2023",
+      "WINEPARK",
+      "KOKUR",
+      "2023 КРЫМ"
+    ]
+  }
+}

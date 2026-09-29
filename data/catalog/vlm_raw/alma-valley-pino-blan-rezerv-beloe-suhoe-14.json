@@ -1,0 +1,23 @@
+{
+  "slug": "alma-valley-pino-blan-rezerv-beloe-suhoe-14",
+  "seconds": 8.109632015228271,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALMA VALLEY\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"PINOT BLANC\",\n  \"category\": \"БЕЛОЕ СУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"RESERVE\",\n    \"2021\",\n    \"PINOT BLANC\",\n    \"КРЫМ\",\n    \"БЕЛОЕ СУХОЕ ВИНО\",\n    \"СПИРТ: 14,0% ОБ. | ОБЪЕМ: 0,75 Л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALMA VALLEY",
+    "producer": "ALMA VALLEY",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "PINOT BLANC",
+    "category": "БЕЛОЕ СУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "RESERVE",
+      "2021",
+      "PINOT BLANC",
+      "КРЫМ",
+      "БЕЛОЕ СУХОЕ ВИНО",
+      "СПИРТ: 14,0% ОБ. | ОБЪЕМ: 0,75 Л"
+    ]
+  }
+}

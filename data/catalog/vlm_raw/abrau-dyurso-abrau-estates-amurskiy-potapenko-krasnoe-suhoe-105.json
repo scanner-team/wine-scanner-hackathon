@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-abrau-estates-amurskiy-potapenko-krasnoe-suhoe-105",
+  "seconds": 13.29608678817749,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU ESTATES\",\n  \"producer\": \"Абрау-Дюрсо\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ЮБИЛЕЙНАЯ\",\n    \"ABRAU\",\n    \"ESTATES\",\n    \"2021\",\n    \"АМУРСКИЙ ПОТАПЕНКО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ABRAU ESTATES",
+    "producer": "Абрау-Дюрсо",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ЮБИЛЕЙНАЯ",
+      "ABRAU",
+      "ESTATES",
+      "2021",
+      "АМУРСКИЙ ПОТАПЕНКО"
+    ]
+  }
+}

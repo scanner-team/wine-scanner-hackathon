@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-spumante-bryut-roze-shardone-rozovoe-12",
+  "seconds": 13.213910102844238,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU\",\n  \"producer\": \"ABRAU DURSO\",\n  \"cuvee\": \"Spumante\",\n  \"vintage\": null,\n  \"grape\": \"Rose\",\n  \"category\": \"SPARKLING WINE\",\n  \"raw_visible_text\": [\n    \"ABRAU\",\n    \"DURSO\",\n    \"SPARKLING WINE\",\n    \"ABRAU\",\n    \"Spumante\",\n    \"Rose\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ABRAU",
+    "producer": "ABRAU DURSO",
+    "cuvee": "Spumante",
+    "vintage": null,
+    "grape": "Rose",
+    "category": "SPARKLING WINE",
+    "raw_visible_text": [
+      "ABRAU",
+      "DURSO",
+      "SPARKLING WINE",
+      "ABRAU",
+      "Spumante",
+      "Rose"
+    ]
+  }
+}

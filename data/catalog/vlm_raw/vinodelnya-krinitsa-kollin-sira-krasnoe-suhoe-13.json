@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-krinitsa-kollin-sira-krasnoe-suhoe-13",
+  "seconds": 5.023720026016235,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРИНИЦА\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"СКИНОДОБАВА\",\n    \"COLLINE\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРИНИЦА",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "СКИНОДОБАВА",
+      "COLLINE",
+      "2021"
+    ]
+  }
+}

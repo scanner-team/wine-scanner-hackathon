@@ -1,0 +1,23 @@
+{
+  "slug": "olymp-winery-adagum-cabernet-franc-kaberne-fran-krasnoe-suhoe-11",
+  "seconds": 7.79779577255249,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM\",\n  \"producer\": \"ADAGUM\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"ADAGUM\",\n    \"CABERNET\",\n    \"FRANC\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"АДАГУМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM",
+    "producer": "ADAGUM",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET FRANC",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "ADAGUM",
+      "CABERNET",
+      "FRANC",
+      "СУХОЕ КРАСНОЕ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "АДАГУМ"
+    ]
+  }
+}

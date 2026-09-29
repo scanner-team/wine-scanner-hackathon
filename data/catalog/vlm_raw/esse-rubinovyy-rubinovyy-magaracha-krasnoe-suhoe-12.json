@@ -1,0 +1,20 @@
+{
+  "slug": "esse-rubinovyy-rubinovyy-magaracha-krasnoe-suhoe-12",
+  "seconds": 4.627680063247681,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Esse\",\n  \"producer\": \"Boswedij\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Boswedij\",\n    \"Terra Vina\",\n    \"2022\",\n    \"Esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Esse",
+    "producer": "Boswedij",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Boswedij",
+      "Terra Vina",
+      "2022",
+      "Esse"
+    ]
+  }
+}

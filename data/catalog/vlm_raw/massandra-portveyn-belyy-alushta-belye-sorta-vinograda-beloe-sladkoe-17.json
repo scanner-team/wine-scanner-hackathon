@@ -1,0 +1,22 @@
+{
+  "slug": "massandra-portveyn-belyy-alushta-belye-sorta-vinograda-beloe-sladkoe-17",
+  "seconds": 5.165058135986328,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОРТВЕЙН БЕЛЫЙ АЛУШТА\",\n  \"producer\": \"МАССАНДРА\",\n  \"cuvee\": null,\n  \"vintage\": \"1894\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"ПОРТВЕЙН\",\n    \"БЕЛЫЙ\",\n    \"АЛУШТА\",\n    \"ГОД УРОЖАЯ\",\n    \"1894\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОРТВЕЙН БЕЛЫЙ АЛУШТА",
+    "producer": "МАССАНДРА",
+    "cuvee": null,
+    "vintage": "1894",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "ПОРТВЕЙН",
+      "БЕЛЫЙ",
+      "АЛУШТА",
+      "ГОД УРОЖАЯ",
+      "1894"
+    ]
+  }
+}

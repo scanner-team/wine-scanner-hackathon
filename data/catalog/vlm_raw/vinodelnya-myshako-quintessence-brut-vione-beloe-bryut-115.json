@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-brut-vione-beloe-bryut-115",
+  "seconds": 5.48915696144104,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"VIÑOCAÑO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": \"VIognier\",\n  \"category\": \"BRUT WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"VIÑOCAÑO\",\n    \"1869\",\n    \"VIognier\",\n    \"BRUT WHITE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "VIÑOCAÑO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": "VIognier",
+    "category": "BRUT WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "VIÑOCAÑO",
+      "1869",
+      "VIognier",
+      "BRUT WHITE"
+    ]
+  }
+}

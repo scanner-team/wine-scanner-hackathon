@@ -1,0 +1,18 @@
+{
+  "slug": "vinabani-saperavi-krasnoe-suhoe-135",
+  "seconds": 4.231351137161255,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VINABANI\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAPERAVI / ROBLE\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VINABANI\",\n    \"SAPERAVI / ROBLE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VINABANI",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAPERAVI / ROBLE",
+    "category": null,
+    "raw_visible_text": [
+      "VINABANI",
+      "SAPERAVI / ROBLE"
+    ]
+  }
+}

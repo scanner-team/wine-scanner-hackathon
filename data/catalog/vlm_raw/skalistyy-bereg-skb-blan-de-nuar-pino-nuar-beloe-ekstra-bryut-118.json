@@ -1,0 +1,23 @@
+{
+  "slug": "skalistyy-bereg-skb-blan-de-nuar-pino-nuar-beloe-ekstra-bryut-118",
+  "seconds": 14.239541053771973,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE NOIRS\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"экстра брют\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ\",\n    \"БЕРЕГ\",\n    \"осн. 2010\",\n    \"BLANC\",\n    \"DE NOIRS\",\n    \"экстра брют\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE NOIRS",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": "экстра брют",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ",
+      "БЕРЕГ",
+      "осн. 2010",
+      "BLANC",
+      "DE NOIRS",
+      "экстра брют",
+      "2020"
+    ]
+  }
+}

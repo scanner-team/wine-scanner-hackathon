@@ -1,0 +1,25 @@
+{
+  "slug": "method-classic-kokur",
+  "seconds": 1.3278725147247314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KOKUR\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ЗИНОДЕЛЬНЫЕ\",\n    \"БРАТЬЯ МЕЛЬНИКОВИЧ\",\n    \"KOKUR\",\n    \"METROD CLASSIC\",\n    \"2024\",\n    \"ГОДА\",\n    \"ОСН.\",\n    \"300\",\n    \"ПУТРОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KOKUR",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ЗИНОДЕЛЬНЫЕ",
+      "БРАТЬЯ МЕЛЬНИКОВИЧ",
+      "KOKUR",
+      "METROD CLASSIC",
+      "2024",
+      "ГОДА",
+      "ОСН.",
+      "300",
+      "ПУТРОВ"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "relikta-relikta-antey-magarachskiy-muskat-belyy-rozovoe-polusuhoe-11",
+  "seconds": 13.299195051193237,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РЕЛИКТА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"полусухое розовое\",\n  \"raw_visible_text\": [\n    \"ВИНО ПОЛУСУХОЕ РОЗОВОЕ\",\n    \"РЕЛИКТА\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РЕЛИКТА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "полусухое розовое",
+    "raw_visible_text": [
+      "ВИНО ПОЛУСУХОЕ РОЗОВОЕ",
+      "РЕЛИКТА",
+      "2024"
+    ]
+  }
+}

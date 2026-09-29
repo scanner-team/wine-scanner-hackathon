@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-sovinon-blan-beloe-suhoe-125",
+  "seconds": 5.5805158615112305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Совиньон Блан\",\n  \"producer\": \"Батрак\",\n  \"cuvee\": \"PERFEKT KLASSEK\",\n  \"vintage\": \"2019\",\n  \"grape\": \"Совиньон Блан\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Батрак\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1895\",\n    \"Совиньон Блан\",\n    \"PERFEKT KLASSEK\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Совиньон Блан",
+    "producer": "Батрак",
+    "cuvee": "PERFEKT KLASSEK",
+    "vintage": "2019",
+    "grape": "Совиньон Блан",
+    "category": null,
+    "raw_visible_text": [
+      "Батрак",
+      "ВИНОДЕЛЬНЯ",
+      "1895",
+      "Совиньон Блан",
+      "PERFEKT KLASSEK",
+      "2019"
+    ]
+  }
+}

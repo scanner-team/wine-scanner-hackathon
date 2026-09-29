@@ -1,0 +1,28 @@
+{
+  "slug": "fanagoriya-101-ottenok-krasnogo-kaberne-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 10.46829891204834,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"101\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"Оттенок красного\",\n  \"vintage\": \"2018\",\n  \"grape\": \"Каберне-Совиньон\",\n  \"category\": \"ЭНМЛ\",\n  \"raw_visible_text\": [\n    \"101\",\n    \"ОТТЕНОК\",\n    \"КРАСНОГО\",\n    \"ЭНМЛ\",\n    \"КАБЕРНЕ-\",\n    \"СОВИНЬОН\",\n    \"ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ\",\n    \"2018\",\n    \"FANAGORIA\",\n    \"ТИРАЖ 3200 БУТ.\",\n    \"БУТЫЛКА НОМЕР:\",\n    \"1632\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "101",
+    "producer": "FANAGORIA",
+    "cuvee": "Оттенок красного",
+    "vintage": "2018",
+    "grape": "Каберне-Совиньон",
+    "category": "ЭНМЛ",
+    "raw_visible_text": [
+      "101",
+      "ОТТЕНОК",
+      "КРАСНОГО",
+      "ЭНМЛ",
+      "КАБЕРНЕ-",
+      "СОВИНЬОН",
+      "ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ",
+      "2018",
+      "FANAGORIA",
+      "ТИРАЖ 3200 БУТ.",
+      "БУТЫЛКА НОМЕР:",
+      "1632"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "gunko-winery-roze-kaberne-fran-rozovoe-suhoe-135",
+  "seconds": 4.6317760944366455,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Poze\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Poze\",\n    \"Gunko Winery\",\n    \"12,5% об.\",\n    \"06см 0,7 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Poze",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Poze",
+      "Gunko Winery",
+      "12,5% об.",
+      "06см 0,7 л"
+    ]
+  }
+}

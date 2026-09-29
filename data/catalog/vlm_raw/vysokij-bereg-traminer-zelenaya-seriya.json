@@ -1,0 +1,20 @@
+{
+  "slug": "vysokij-bereg-traminer-zelenaya-seriya",
+  "seconds": 1.1657800674438477,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРАМИНЕР\",\n  \"producer\": \"ВЫСОКИЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТРАМИНЕР\",\n    \"2023\",\n    \"ВЫСОКИЙ БЕРЕГ\",\n    \"СКЛАДСКИЙ ПОДВАЛ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРАМИНЕР",
+    "producer": "ВЫСОКИЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ТРАМИНЕР",
+      "2023",
+      "ВЫСОКИЙ БЕРЕГ",
+      "СКЛАДСКИЙ ПОДВАЛ"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "zakat-denisov-vajneri",
+  "seconds": 0.8035621643066406,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЗАКАТ\",\n  \"producer\": \"ДЕНИСОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ДЕНИСОВ\",\n    \"ЗАКАТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЗАКАТ",
+    "producer": "ДЕНИСОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ДЕНИСОВ",
+      "ЗАКАТ"
+    ]
+  }
+}

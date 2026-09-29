@@ -1,0 +1,23 @@
+{
+  "slug": "soyuz-vino-kartuli-supris-saperavi-suhoe-krasnoe-11",
+  "seconds": 7.354034185409546,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAPERAVI\",\n  \"producer\": \"KARTULI SUPRIS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"საფერავი\",\n  \"category\": \"WINE GEORGIAN STYLE\",\n  \"raw_visible_text\": [\n    \"WINE GEORGIAN STYLE\",\n    \"KARTULI SUPRIS\",\n    \"Taste of Georgia\",\n    \"Finest Quality - Georgian Style\",\n    \"SAPERAVI\",\n    \"საფერავი\",\n    \"QUALITY WINES\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAPERAVI",
+    "producer": "KARTULI SUPRIS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "საფერავი",
+    "category": "WINE GEORGIAN STYLE",
+    "raw_visible_text": [
+      "WINE GEORGIAN STYLE",
+      "KARTULI SUPRIS",
+      "Taste of Georgia",
+      "Finest Quality - Georgian Style",
+      "SAPERAVI",
+      "საფერავი",
+      "QUALITY WINES"
+    ]
+  }
+}

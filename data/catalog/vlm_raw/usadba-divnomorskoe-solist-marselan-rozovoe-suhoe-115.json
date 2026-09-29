@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-solist-marselan-rozovoe-suhoe-115",
+  "seconds": 13.628098011016846,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Солист\",\n  \"producer\": \"Терруар\",\n  \"cuvee\": \"Вторая Линия\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Усадьба Дивноморское\",\n  \"raw_visible_text\": [\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"Солист\",\n    \"УСАДЬБА\",\n    \"ДИВНОМОРСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Солист",
+    "producer": "Терруар",
+    "cuvee": "Вторая Линия",
+    "vintage": null,
+    "grape": null,
+    "category": "Усадьба Дивноморское",
+    "raw_visible_text": [
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "Солист",
+      "УСАДЬБА",
+      "ДИВНОМОРСКОЕ"
+    ]
+  }
+}

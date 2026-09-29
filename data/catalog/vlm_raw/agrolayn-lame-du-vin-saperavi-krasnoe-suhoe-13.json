@@ -1,0 +1,27 @@
+{
+  "slug": "agrolayn-lame-du-vin-saperavi-krasnoe-suhoe-13",
+  "seconds": 6.754435062408447,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"L'ame du vin\",\n  \"producer\": \"Thérèse Baudouin\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"L'ame\",\n    \"du vin\",\n    \"Moi, suis, l'ame du vin\",\n    \"chantant dans les bois\",\n    \"holand, van, tel, je pense\",\n    \"cher, derrière\",\n    \"vienne, saison, de rêve\",\n    \"je suis, parfois\",\n    \"la chante, aimer, de lumière\",\n    \"et de Traversée\",\n    \"Thérèse Baudouin\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "L'ame du vin",
+    "producer": "Thérèse Baudouin",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "L'ame",
+      "du vin",
+      "Moi, suis, l'ame du vin",
+      "chantant dans les bois",
+      "holand, van, tel, je pense",
+      "cher, derrière",
+      "vienne, saison, de rêve",
+      "je suis, parfois",
+      "la chante, aimer, de lumière",
+      "et de Traversée",
+      "Thérèse Baudouin"
+    ]
+  }
+}

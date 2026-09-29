@@ -1,0 +1,21 @@
+{
+  "slug": "legato-legato-sovinon-blan-mtsvane-beloe-suhoe-125",
+  "seconds": 0.9478375911712646,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEGATO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Sauvignon blanc\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LEGATO\",\n    \"Sauvignon blanc\",\n    \"Mtorane\",\n    \"2020\",\n    \"0.75L\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEGATO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Sauvignon blanc",
+    "category": null,
+    "raw_visible_text": [
+      "LEGATO",
+      "Sauvignon blanc",
+      "Mtorane",
+      "2020",
+      "0.75L"
+    ]
+  }
+}

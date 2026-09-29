@@ -1,0 +1,19 @@
+{
+  "slug": "nosorog-gold",
+  "seconds": 0.9269208908081055,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Krasnostop\",\n  \"producer\": \"KOHFMANN BROTHERS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KOHFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"KRASNOSTOP\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Krasnostop",
+    "producer": "KOHFMANN BROTHERS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "KOHFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "KRASNOSTOP"
+    ]
+  }
+}

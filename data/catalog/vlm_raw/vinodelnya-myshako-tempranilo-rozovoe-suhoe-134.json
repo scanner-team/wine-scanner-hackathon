@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-tempranilo-rozovoe-suhoe-134",
+  "seconds": 6.688477993011475,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТЕМПРАНИЛЬО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"СУХОЕ РОЗОВОЕ\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"ВИНОДЕЛЕНЬЯ\",\n    \"ТЕМПРАНИЛЬО\",\n    \"2021\",\n    \"СУХОЕ РОЗОВОЕ\",\n    \"Алкоголь 13,4% об. Объем 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТЕМПРАНИЛЬО",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "СУХОЕ РОЗОВОЕ",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "ВИНОДЕЛЕНЬЯ",
+      "ТЕМПРАНИЛЬО",
+      "2021",
+      "СУХОЕ РОЗОВОЕ",
+      "Алкоголь 13,4% об. Объем 0,75 л"
+    ]
+  }
+}

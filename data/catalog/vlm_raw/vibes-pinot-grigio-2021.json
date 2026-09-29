@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-pinot-grigio-2021",
+  "seconds": 12.581654071807861,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Pinot Grigio\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Pinot Grigio 2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Pinot Grigio",
+    "category": null,
+    "raw_visible_text": [
+      "VIBES",
+      "Pinot Grigio 2021"
+    ]
+  }
+}

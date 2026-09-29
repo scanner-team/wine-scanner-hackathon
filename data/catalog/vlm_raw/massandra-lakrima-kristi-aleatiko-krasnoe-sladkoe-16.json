@@ -1,0 +1,22 @@
+{
+  "slug": "massandra-lakrima-kristi-aleatiko-krasnoe-sladkoe-16",
+  "seconds": 5.326735019683838,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"Массандра\",\n  \"cuvee\": null,\n  \"vintage\": \"1894\",\n  \"grape\": null,\n  \"category\": \"ДАКРИМА КРИСТИ\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"05.07.2015\",\n    \"МАССАНДРА\",\n    \"05.07.2015\",\n    \"1894\",\n    \"ДАКРИМА КРИСТИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "Массандра",
+    "cuvee": null,
+    "vintage": "1894",
+    "grape": null,
+    "category": "ДАКРИМА КРИСТИ",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "05.07.2015",
+      "МАССАНДРА",
+      "05.07.2015",
+      "1894",
+      "ДАКРИМА КРИСТИ"
+    ]
+  }
+}

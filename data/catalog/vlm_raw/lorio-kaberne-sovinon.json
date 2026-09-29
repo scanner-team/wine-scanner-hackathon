@@ -1,0 +1,20 @@
+{
+  "slug": "lorio-kaberne-sovinon",
+  "seconds": 1.5808353424072266,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LORIOT\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"Вино красное сухое\",\n  \"raw_visible_text\": [\n    \"LORIOT\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"Вино красное сухое\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LORIOT",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "Вино красное сухое",
+    "raw_visible_text": [
+      "LORIOT",
+      "КАБЕРНЕ СОВИНЬОН",
+      "Вино красное сухое",
+      "2024"
+    ]
+  }
+}

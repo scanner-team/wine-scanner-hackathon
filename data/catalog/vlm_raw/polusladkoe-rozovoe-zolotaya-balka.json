@@ -1,0 +1,19 @@
+{
+  "slug": "polusladkoe-rozovoe-zolotaya-balka",
+  "seconds": 0.8956410884857178,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Крым\",\n  \"producer\": \"Винный Клуб\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРЫМ\",\n    \"ВИННЫЙ КЛУБ\",\n    \"Премиум-сухой\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Крым",
+    "producer": "Винный Клуб",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРЫМ",
+      "ВИННЫЙ КЛУБ",
+      "Премиум-сухой"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "abrau-dyurso-femme-dabrau-amurskiy-potapenko-krasnoe-suhoe-107",
+  "seconds": 12.580321073532104,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Femme\",\n  \"producer\": \"D ABR AU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"DRY RED WINE\",\n  \"raw_visible_text\": [\n    \"Femme\",\n    \"D ABR AU\",\n    \"DRY RED WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Femme",
+    "producer": "D ABR AU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "DRY RED WINE",
+    "raw_visible_text": [
+      "Femme",
+      "D ABR AU",
+      "DRY RED WINE"
+    ]
+  }
+}

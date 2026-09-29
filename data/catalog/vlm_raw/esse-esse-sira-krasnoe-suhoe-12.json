@@ -1,0 +1,21 @@
+{
+  "slug": "esse-esse-sira-krasnoe-suhoe-12",
+  "seconds": 4.795063257217407,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Cuvée\",\n  \"cuvee\": \"Cuvée\",\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cuvée\",\n    \"Toscana\",\n    \"Piedi Cuvée\",\n    \"2020\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Cuvée",
+    "cuvee": "Cuvée",
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Cuvée",
+      "Toscana",
+      "Piedi Cuvée",
+      "2020",
+      "esse"
+    ]
+  }
+}

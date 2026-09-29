@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-sur-lie-clairet-saperavi-krasnoe-suhoe-13",
+  "seconds": 13.004592895507812,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Clairet Sur Lie\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"Clairet\",\n    \"Sur Lie\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Clairet Sur Lie",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FANAGORIA",
+      "Clairet",
+      "Sur Lie",
+      "2023"
+    ]
+  }
+}

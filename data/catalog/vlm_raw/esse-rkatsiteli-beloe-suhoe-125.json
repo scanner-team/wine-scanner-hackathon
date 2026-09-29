@@ -1,0 +1,21 @@
+{
+  "slug": "esse-rkatsiteli-beloe-suhoe-125",
+  "seconds": 5.5650811195373535,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РКАЦИТЕЛИ\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"esse\",\n    \"РКАЦИТЕЛИ\",\n    \"УРОЖАЙ 2023 ГОДА\",\n    \"ДОЛГИЙ ПЕРІОД СОВА\",\n    \"ВИНИ ВИРУМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РКАЦИТЕЛИ",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "esse",
+      "РКАЦИТЕЛИ",
+      "УРОЖАЙ 2023 ГОДА",
+      "ДОЛГИЙ ПЕРІОД СОВА",
+      "ВИНИ ВИРУМ"
+    ]
+  }
+}

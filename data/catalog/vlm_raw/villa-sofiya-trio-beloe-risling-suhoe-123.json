@@ -1,0 +1,20 @@
+{
+  "slug": "villa-sofiya-trio-beloe-risling-suhoe-123",
+  "seconds": 12.95710277557373,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Винная Сотня\",\n  \"producer\": null,\n  \"cuvee\": \"трио\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"Винная Сотня\",\n    \"трио\",\n    \"сухое белое\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Винная Сотня",
+    "producer": null,
+    "cuvee": "трио",
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "Винная Сотня",
+      "трио",
+      "сухое белое",
+      "2023"
+    ]
+  }
+}

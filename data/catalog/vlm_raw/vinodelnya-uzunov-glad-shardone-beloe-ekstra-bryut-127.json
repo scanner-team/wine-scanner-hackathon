@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-uzunov-glad-shardone-beloe-ekstra-bryut-127",
+  "seconds": 13.481022119522095,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ГЛАДЬ\",\n  \"producer\": \"Минодельня УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"эстора брют\",\n  \"raw_visible_text\": [\n    \"ГЛАДЬ\",\n    \"эстора брют\",\n    \"2024\",\n    \"МИНОДЕЛЬНЯ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ГЛАДЬ",
+    "producer": "Минодельня УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "эстора брют",
+    "raw_visible_text": [
+      "ГЛАДЬ",
+      "эстора брют",
+      "2024",
+      "МИНОДЕЛЬНЯ",
+      "УЗУНОВ"
+    ]
+  }
+}

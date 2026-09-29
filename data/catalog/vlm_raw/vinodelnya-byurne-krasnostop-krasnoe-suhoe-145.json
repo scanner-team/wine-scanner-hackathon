@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-byurne-krasnostop-krasnoe-suhoe-145",
+  "seconds": 5.68339991569519,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЮРНЫЕ\",\n  \"producer\": \"Krasnostop\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": \"Burnier\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"BURNIER\",\n    \"КРАСНОСТОП\",\n    \"KRAASNOSTOP\",\n    \"2015\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЮРНЫЕ",
+    "producer": "Krasnostop",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": "Burnier",
+    "category": null,
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "BURNIER",
+      "КРАСНОСТОП",
+      "KRAASNOSTOP",
+      "2015",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

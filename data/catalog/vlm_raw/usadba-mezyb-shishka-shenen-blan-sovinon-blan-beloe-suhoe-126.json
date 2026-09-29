@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-mezyb-shishka-shenen-blan-sovinon-blan-beloe-suhoe-126",
+  "seconds": 14.160006046295166,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УСАДЬБА\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ШЕНЕН БЛАН\",\n  \"category\": \"СОВИНЬОН БЛАН\",\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"ШЕНЕН БЛАН\",\n    \"СОВИНЬОН БЛАН\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УСАДЬБА",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ШЕНЕН БЛАН",
+    "category": "СОВИНЬОН БЛАН",
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "ШЕНЕН БЛАН",
+      "СОВИНЬОН БЛАН",
+      "2024"
+    ]
+  }
+}

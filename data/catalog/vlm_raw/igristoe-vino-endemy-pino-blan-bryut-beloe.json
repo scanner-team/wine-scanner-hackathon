@@ -1,0 +1,21 @@
+{
+  "slug": "igristoe-vino-endemy-pino-blan-bryut-beloe",
+  "seconds": 1.2181165218353271,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино Блан\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"ДЕРБЕНТ ВИНО\",\n    \"ПИНО БЛАН\",\n    \"БРЮТ\",\n    \"Вино-органическое био\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино Блан",
+    "category": "брют",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "ДЕРБЕНТ ВИНО",
+      "ПИНО БЛАН",
+      "БРЮТ",
+      "Вино-органическое био"
+    ]
+  }
+}

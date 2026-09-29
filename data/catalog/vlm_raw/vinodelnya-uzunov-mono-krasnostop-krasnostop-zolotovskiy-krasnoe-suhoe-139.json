@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-mono-krasnostop-krasnostop-zolotovskiy-krasnoe-suhoe-139",
+  "seconds": 5.970632314682007,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП\",\n  \"producer\": \"УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"кристалл айгет\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"КРАСНОСТОП\",\n    \"кристалл айгет\",\n    \"НО\",\n    \"2025\",\n    \"1.0% - 0.75л\",\n    \"ВИНОДЕЛ 1918\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП",
+    "producer": "УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "кристалл айгет",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "КРАСНОСТОП",
+      "кристалл айгет",
+      "НО",
+      "2025",
+      "1.0% - 0.75л",
+      "ВИНОДЕЛ 1918",
+      "УЗУНОВ"
+    ]
+  }
+}

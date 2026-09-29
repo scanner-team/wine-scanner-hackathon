@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-batrak-prikumskoe-vitale-kraft-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 5.181182861328125,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Vitale Kraft\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": \"BRILLANZ KLASSEK\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"ВИНОДЕЛЬНЯ·1895\",\n    \"Vitale Kraft\",\n    \"+BRILLANZ KLASSEK+\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Vitale Kraft",
+    "producer": "Виталий Батрак",
+    "cuvee": "BRILLANZ KLASSEK",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "ВИНОДЕЛЬНЯ·1895",
+      "Vitale Kraft",
+      "+BRILLANZ KLASSEK+"
+    ]
+  }
+}

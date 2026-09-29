@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-myshako-chernoe-iz-chernogo-appassimento-kaberne-sovinon-krasnoe-suhoe-15",
+  "seconds": 7.512259006500244,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЧЕРНОЕ ИЗ ЧЕРНОГО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2012\",\n  \"grape\": \"МАРСЕЛАН\",\n  \"category\": \"АППАССИМЕНТО\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"МЫСХАКО\",\n    \"ЧЕРНОЕ ИЗ ЧЕРНОГО\",\n    \"АППАССИМЕНТО\",\n    \"2012\",\n    \"МАРСЕЛАН\",\n    \"КАЗЕРНЕ СОВИНЬОН\",\n    \"ПТИН ВЕРВЕЛО\",\n    \"12,5%\",\n    \"СУХОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЧЕРНОЕ ИЗ ЧЕРНОГО",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2012",
+    "grape": "МАРСЕЛАН",
+    "category": "АППАССИМЕНТО",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "МЫСХАКО",
+      "ЧЕРНОЕ ИЗ ЧЕРНОГО",
+      "АППАССИМЕНТО",
+      "2012",
+      "МАРСЕЛАН",
+      "КАЗЕРНЕ СОВИНЬОН",
+      "ПТИН ВЕРВЕЛО",
+      "12,5%",
+      "СУХОЕ КРАСНОЕ"
+    ]
+  }
+}

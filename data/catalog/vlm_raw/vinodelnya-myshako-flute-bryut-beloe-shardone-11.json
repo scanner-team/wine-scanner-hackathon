@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-flute-bryut-beloe-shardone-11",
+  "seconds": 5.665859699249268,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FLUTE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"1869\",\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛЕНЬЯ\",\n    \"FLUTE\",\n    \"BRUT\",\n    \"BLANC DE BLANCS\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FLUTE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "1869",
+      "МЫСХАКО",
+      "ВИНОДЕЛЕНЬЯ",
+      "FLUTE",
+      "BRUT",
+      "BLANC DE BLANCS",
+      "2020"
+    ]
+  }
+}

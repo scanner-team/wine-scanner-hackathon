@@ -1,0 +1,22 @@
+{
+  "slug": "zolotaya-balka-zb-wine-riesling-risling-beloe-polusuhoe-115",
+  "seconds": 8.266921043395996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"А ВОТ И ТЫ- Riesling МОЕЙ МЕЧТЫ!\",\n  \"producer\": \"ZB VINE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": \"Российское вино с защищенным географическим указанием «Крым»\",\n  \"raw_visible_text\": [\n    \"А ВОТ И\",\n    \"ТЫ-\",\n    \"Riesling\",\n    \"МОЕЙ МЕЧТЫ!\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "А ВОТ И ТЫ- Riesling МОЕЙ МЕЧТЫ!",
+    "producer": "ZB VINE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": "Российское вино с защищенным географическим указанием «Крым»",
+    "raw_visible_text": [
+      "А ВОТ И",
+      "ТЫ-",
+      "Riesling",
+      "МОЕЙ МЕЧТЫ!",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»"
+    ]
+  }
+}

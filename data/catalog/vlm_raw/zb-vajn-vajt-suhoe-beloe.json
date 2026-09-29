@@ -1,0 +1,21 @@
+{
+  "slug": "zb-vajn-vajt-suhoe-beloe",
+  "seconds": 0.866722822189331,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Делу время - а White сейчас\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Делу\",\n    \"время -\",\n    \"а White\",\n    \"сейчас\",\n    \"25\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Делу время - а White сейчас",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Делу",
+      "время -",
+      "а White",
+      "сейчас",
+      "25"
+    ]
+  }
+}

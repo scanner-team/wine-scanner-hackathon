@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-sovinon-blan-mode-petnat-beloe-bryut-12",
+  "seconds": 5.873273849487305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MODE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"Brut White\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"MODE\",\n    \"Petillant Naturelle\",\n    \"BRUT WHITE\",\n    \"SAUVIGNON BLANC\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MODE",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": "Brut White",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕЛЬНЯ",
+      "MODE",
+      "Petillant Naturelle",
+      "BRUT WHITE",
+      "SAUVIGNON BLANC",
+      "2022"
+    ]
+  }
+}

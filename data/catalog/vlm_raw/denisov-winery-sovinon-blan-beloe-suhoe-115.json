@@ -1,0 +1,21 @@
+{
+  "slug": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+  "seconds": 5.078113079071045,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Собиньон Блан\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"Собиньон Блан\",\n    \"сухое белое\",\n    \"0,75 л\",\n    \"12% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Собиньон Блан",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "DENISOV",
+      "Собиньон Блан",
+      "сухое белое",
+      "0,75 л",
+      "12% об."
+    ]
+  }
+}

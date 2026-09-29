@@ -1,0 +1,24 @@
+{
+  "slug": "tamara-2022",
+  "seconds": 1.4669013023376465,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TAMARA\",\n  \"producer\": \"WINEMAFIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"WINEMAFIA\",\n    \"VANNAO, MARIYNYA\",\n    \"TAMARA\",\n    \"FERMENTATION IN BARQUES\",\n    \"2022\",\n    \"SPECIAL RELEASE\",\n    \"BY FARKHAD MAGDALIEV\",\n    \"BOTTLE NO. 001/300\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TAMARA",
+    "producer": "WINEMAFIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "WINEMAFIA",
+      "VANNAO, MARIYNYA",
+      "TAMARA",
+      "FERMENTATION IN BARQUES",
+      "2022",
+      "SPECIAL RELEASE",
+      "BY FARKHAD MAGDALIEV",
+      "BOTTLE NO. 001/300"
+    ]
+  }
+}

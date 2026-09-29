@@ -1,0 +1,25 @@
+{
+  "slug": "green-cape-risling",
+  "seconds": 1.7583575248718262,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GREEN CAPE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2024\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"DRY WHITE\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1869\",\n    \"GREEN CAPE\",\n    \"COLLECTION\",\n    \"RIESLING\",\n    \"SUR LIE\",\n    \"DRY WHITE\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GREEN CAPE",
+    "producer": "МЫСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2024",
+    "grape": "RIESLING",
+    "category": "DRY WHITE",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕЛЬНЯ",
+      "1869",
+      "GREEN CAPE",
+      "COLLECTION",
+      "RIESLING",
+      "SUR LIE",
+      "DRY WHITE",
+      "2024"
+    ]
+  }
+}

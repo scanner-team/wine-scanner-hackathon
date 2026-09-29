@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-graviti-kaberne-sovinon-krasnoe-suhoe-15",
+  "seconds": 6.944053411483765,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAVI Y\",\n  \"producer\": \"BY ALMA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Каберне Совиньон / Каберне Фран / Саперави\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GRAVI Y\",\n    \"BY ALMA\",\n    \"КАБЕРНЕ СОВИНЬОН /\",\n    \"КАБЕРНЕ ФРАН / САПЕРАВИ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAVI Y",
+    "producer": "BY ALMA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Каберне Совиньон / Каберне Фран / Саперави",
+    "category": null,
+    "raw_visible_text": [
+      "GRAVI Y",
+      "BY ALMA",
+      "КАБЕРНЕ СОВИНЬОН /",
+      "КАБЕРНЕ ФРАН / САПЕРАВИ",
+      "2022"
+    ]
+  }
+}

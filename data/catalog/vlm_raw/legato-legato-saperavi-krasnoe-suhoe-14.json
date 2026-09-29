@@ -1,0 +1,19 @@
+{
+  "slug": "legato-legato-saperavi-krasnoe-suhoe-14",
+  "seconds": 4.3651838302612305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEGATO\",\n  \"producer\": null,\n  \"cuvee\": \"Saperavi\",\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LEGATO\",\n    \"Saperavi\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEGATO",
+    "producer": null,
+    "cuvee": "Saperavi",
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "LEGATO",
+      "Saperavi",
+      "2021"
+    ]
+  }
+}

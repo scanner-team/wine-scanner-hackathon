@@ -1,0 +1,20 @@
+{
+  "slug": "massandra-kagor-yuzhnoberezhnyy-saperavi-krasnoe-sladkoe-16",
+  "seconds": 4.743304967880249,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"МАССАНДРА\",\n  \"cuvee\": null,\n  \"vintage\": \"1894\",\n  \"grape\": \"Кагор\",\n  \"category\": \"ЮЖНОБЕРЕЖНЫЙ\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"1894\",\n    \"Кагор\",\n    \"ЮЖНОБЕРЕЖНЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "МАССАНДРА",
+    "cuvee": null,
+    "vintage": "1894",
+    "grape": "Кагор",
+    "category": "ЮЖНОБЕРЕЖНЫЙ",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "1894",
+      "Кагор",
+      "ЮЖНОБЕРЕЖНЫЙ"
+    ]
+  }
+}

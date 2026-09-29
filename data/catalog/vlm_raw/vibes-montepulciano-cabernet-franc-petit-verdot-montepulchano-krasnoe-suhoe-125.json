@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-montepulciano-cabernet-franc-petit-verdot-montepulchano-krasnoe-suhoe-125",
+  "seconds": 4.740010976791382,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Cabernet Franc\",\n  \"category\": \"Petit Verdot\",\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Montepulciano - Cabernet Franc - Petit Verdot 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Cabernet Franc",
+    "category": "Petit Verdot",
+    "raw_visible_text": [
+      "VIBES",
+      "Montepulciano - Cabernet Franc - Petit Verdot 2022"
+    ]
+  }
+}

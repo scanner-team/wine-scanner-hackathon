@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-vermentino-viognier-barrel-fermented-vermentino-beloe-suhoe-115",
+  "seconds": 4.8953821659088135,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": \"VIBES\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Vermentino\",\n  \"category\": \"Barrel Fermented\",\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Vermentino - Viognier 2022 Barrel Fermented\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": "VIBES",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Vermentino",
+    "category": "Barrel Fermented",
+    "raw_visible_text": [
+      "VIBES",
+      "Vermentino - Viognier 2022 Barrel Fermented"
+    ]
+  }
+}

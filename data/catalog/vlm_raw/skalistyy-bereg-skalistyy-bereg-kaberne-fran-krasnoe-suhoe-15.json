@@ -1,0 +1,22 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-kaberne-fran-krasnoe-suhoe-15",
+  "seconds": 14.321957111358643,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"Скалистый Берег\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Каберне Фран\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2022\",\n    \"Каберне Фран\",\n    \"№ 8732\",\n    \"Vulpes Vulpes\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "Скалистый Берег",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Каберне Фран",
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2022",
+      "Каберне Фран",
+      "№ 8732",
+      "Vulpes Vulpes"
+    ]
+  }
+}

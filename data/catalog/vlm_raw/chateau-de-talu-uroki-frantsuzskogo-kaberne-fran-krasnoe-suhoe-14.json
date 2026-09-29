@@ -1,0 +1,23 @@
+{
+  "slug": "chateau-de-talu-uroki-frantsuzskogo-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 5.971642017364502,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"УРОКИ ФРАНЦУЗСКОГО\",\n  \"producer\": \"CHÂTEAU TÂLU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ФРАН\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"TÂLU\",\n    \"УРОКИ\",\n    \"ФРАНЦУЗСКОГО\",\n    \"КАБЕРНЕ\",\n    \"ФРАН\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "УРОКИ ФРАНЦУЗСКОГО",
+    "producer": "CHÂTEAU TÂLU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ФРАН",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "TÂLU",
+      "УРОКИ",
+      "ФРАНЦУЗСКОГО",
+      "КАБЕРНЕ",
+      "ФРАН",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

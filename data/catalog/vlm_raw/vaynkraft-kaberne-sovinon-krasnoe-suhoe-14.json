@@ -1,0 +1,18 @@
+{
+  "slug": "vaynkraft-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 5.069834232330322,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"НАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"WINECRAFT 2024\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"НАБЕРНЕ СОВИНЬОН\",\n    \"WINECRAFT 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "НАБЕРНЕ СОВИНЬОН",
+    "producer": "WINECRAFT 2024",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": null,
+    "raw_visible_text": [
+      "НАБЕРНЕ СОВИНЬОН",
+      "WINECRAFT 2024"
+    ]
+  }
+}

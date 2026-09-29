@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-shishka-merlo-vione-rozovoe-suhoe-125",
+  "seconds": 13.088044166564941,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"D3E\",\n  \"producer\": \"МЕЗЫБЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"ВИНОЕ\",\n  \"raw_visible_text\": [\n    \"МЕЗЫБЬ\",\n    \"D3E\",\n    \"МЕРЛО\",\n    \"ВИНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "D3E",
+    "producer": "МЕЗЫБЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "ВИНОЕ",
+    "raw_visible_text": [
+      "МЕЗЫБЬ",
+      "D3E",
+      "МЕРЛО",
+      "ВИНОЕ"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-tempranilo-krasnoe-suhoe-13",
+  "seconds": 6.702983856201172,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TEMPRANILLO\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"TEMPRANILLO\",\n  \"category\": \"КРАСНОЕ СУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"2022\",\n    \"TEMPRANILLO\",\n    \"КРАСНОЕ СУХОЕ ВИНО\",\n    \"КРЫМ | РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TEMPRANILLO",
+    "producer": "ALMA VALLEY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "TEMPRANILLO",
+    "category": "КРАСНОЕ СУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "2022",
+      "TEMPRANILLO",
+      "КРАСНОЕ СУХОЕ ВИНО",
+      "КРЫМ | РОССИЯ"
+    ]
+  }
+}

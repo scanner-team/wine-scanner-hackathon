@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-brut-dor-blanc-de-blancs-shardone-beloe-bryut-125",
+  "seconds": 5.779216766357422,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Brut d'Or\",\n  \"producer\": \"Корая-Дропко\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"Blanc de Blancs\",\n  \"raw_visible_text\": [\n    \"1870\",\n    \"Корая-Дропко\",\n    \"Brut d'Or\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Blanc de Blancs\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Brut d'Or",
+    "producer": "Корая-Дропко",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "Blanc de Blancs",
+    "raw_visible_text": [
+      "1870",
+      "Корая-Дропко",
+      "Brut d'Or",
+      "MÉTHODE CLASSIQUE",
+      "Blanc de Blancs",
+      "2021"
+    ]
+  }
+}

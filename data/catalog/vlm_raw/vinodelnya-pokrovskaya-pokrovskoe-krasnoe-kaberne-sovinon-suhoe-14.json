@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-pokrovskaya-pokrovskoe-krasnoe-kaberne-sovinon-suhoe-14",
+  "seconds": 6.279737234115601,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТЕОРЕКО ОКРАСОЕ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ВИНО С СВИДЕТЕЛЬСТВОМ ГЕОГРАФИЧЕСКОМ УКРАИНЕМ\",\n    \"ТЕОРЕКО\",\n    \"ОКРАСОЕ\",\n    \"20\",\n    \"14%\",\n    \"ОВА\",\n    \"ВИНО СУХОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТЕОРЕКО ОКРАСОЕ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ВИНО С СВИДЕТЕЛЬСТВОМ ГЕОГРАФИЧЕСКОМ УКРАИНЕМ",
+      "ТЕОРЕКО",
+      "ОКРАСОЕ",
+      "20",
+      "14%",
+      "ОВА",
+      "ВИНО СУХОЕ КРАСНОЕ"
+    ]
+  }
+}

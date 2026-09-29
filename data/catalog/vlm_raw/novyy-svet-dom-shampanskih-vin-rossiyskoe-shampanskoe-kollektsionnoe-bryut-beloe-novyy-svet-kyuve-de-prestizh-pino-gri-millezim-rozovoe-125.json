@@ -1,0 +1,21 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-beloe-novyy-svet-kyuve-de-prestizh-pino-gri-millezim-rozovoe-125",
+  "seconds": 7.628264904022217,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Pinot Gris\",\n  \"producer\": \"ИСБИЯ\",\n  \"cuvee\": \"CUVEE DE PRESTIGE\",\n  \"vintage\": \"2015\",\n  \"grape\": \"Pinot Gris\",\n  \"category\": \"РОССИЙСКОЕ ШАМПАНИСКОЕ\",\n  \"raw_visible_text\": [\n    \"ИСБИЯ\",\n    \"1878\",\n    \"РОССИЙСКОЕ ШАМПАНИСКОЕ\",\n    \"Pinot Gris\",\n    \"CUVEE DE PRESTIGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Pinot Gris",
+    "producer": "ИСБИЯ",
+    "cuvee": "CUVEE DE PRESTIGE",
+    "vintage": "2015",
+    "grape": "Pinot Gris",
+    "category": "РОССИЙСКОЕ ШАМПАНИСКОЕ",
+    "raw_visible_text": [
+      "ИСБИЯ",
+      "1878",
+      "РОССИЙСКОЕ ШАМПАНИСКОЕ",
+      "Pinot Gris",
+      "CUVEE DE PRESTIGE"
+    ]
+  }
+}

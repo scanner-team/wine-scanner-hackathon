@@ -1,0 +1,20 @@
+{
+  "slug": "khrustaleva-76-muscat-polusladkoe-beloe",
+  "seconds": 1.5435218811035156,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Khrustaleva16\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"MUSCAT\",\n  \"category\": \"SEMI-SWEET\",\n  \"raw_visible_text\": [\n    \"Khrustaleva16\",\n    \"AVA\",\n    \"SEMI-SWEET MUSCAT\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Khrustaleva16",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "MUSCAT",
+    "category": "SEMI-SWEET",
+    "raw_visible_text": [
+      "Khrustaleva16",
+      "AVA",
+      "SEMI-SWEET MUSCAT",
+      "2024"
+    ]
+  }
+}

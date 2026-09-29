@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-saperavi-krasnoe-suhoe-135",
+  "seconds": 5.113193988800049,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Саперави\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": \"PERFEKT Klassik\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"виноделенья\",\n    \"1895\",\n    \"Саперави\",\n    \"PERFEKT Klassik\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Саперави",
+    "producer": "Виталий Батрак",
+    "cuvee": "PERFEKT Klassik",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "виноделенья",
+      "1895",
+      "Саперави",
+      "PERFEKT Klassik"
+    ]
+  }
+}

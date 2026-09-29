@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-batrak-merlo-rozovoe-suhoe-13",
+  "seconds": 5.370859146118164,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕРЛО\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"СУХОЕ РОЗОВОЕ\",\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"МЕРЛО\",\n    \"ВИНО\",\n    \"СУХОЕ РОЗОВОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕРЛО",
+    "producer": "Виталий Батрак",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО",
+    "category": "СУХОЕ РОЗОВОЕ",
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "МЕРЛО",
+      "ВИНО",
+      "СУХОЕ РОЗОВОЕ"
+    ]
+  }
+}

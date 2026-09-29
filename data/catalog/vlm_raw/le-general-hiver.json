@@ -1,0 +1,22 @@
+{
+  "slug": "le-general-hiver",
+  "seconds": 10.705291032791138,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LE GÉNÉRAL HIVER\",\n  \"producer\": \"ГАЛИЦКИЙ × ГАЛИЦКИЙ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"ICE WINE\",\n  \"raw_visible_text\": [\n    \"ГАЛИЦКИЙ × ГАЛИЦКИЙ\",\n    \"LE\",\n    \"GÉNÉRAL\",\n    \"HIVER\",\n    \"ICE WINE\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LE GÉNÉRAL HIVER",
+    "producer": "ГАЛИЦКИЙ × ГАЛИЦКИЙ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "ICE WINE",
+    "raw_visible_text": [
+      "ГАЛИЦКИЙ × ГАЛИЦКИЙ",
+      "LE",
+      "GÉNÉRAL",
+      "HIVER",
+      "ICE WINE",
+      "2023"
+    ]
+  }
+}

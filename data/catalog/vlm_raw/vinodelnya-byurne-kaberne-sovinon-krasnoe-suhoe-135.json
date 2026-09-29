@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-byurne-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 6.294503927230835,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОРНЫЕ BURNIER\",\n  \"producer\": \"БОРНЫЕ BURNIER\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БОРНЫЕ\",\n    \"BURNIER\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"CABERNET SAUVIGNON\",\n    \"2017\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОРНЫЕ BURNIER",
+    "producer": "БОРНЫЕ BURNIER",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": null,
+    "raw_visible_text": [
+      "БОРНЫЕ",
+      "BURNIER",
+      "КАБЕРНЕ СОВИНЬОН",
+      "CABERNET SAUVIGNON",
+      "2017",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

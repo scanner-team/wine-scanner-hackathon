@@ -1,0 +1,20 @@
+{
+  "slug": "andryus-yutsis-muscat-blanc-muskat-beloe-suhoe-112",
+  "seconds": 5.122978925704956,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryus Yvtsis\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"MUSCAT BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Andryus Yvtsis\",\n    \"2022\",\n    \"Kvaski Cimino\",\n    \"MUSCAT BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryus Yvtsis",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "MUSCAT BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "Andryus Yvtsis",
+      "2022",
+      "Kvaski Cimino",
+      "MUSCAT BLANC"
+    ]
+  }
+}

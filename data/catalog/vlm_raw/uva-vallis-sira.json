@@ -1,0 +1,21 @@
+{
+  "slug": "uva-vallis-sira",
+  "seconds": 4.7150468826293945,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"levit as\",\n  \"producer\": \"LUN VALLES\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SYRAH\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"LUN VALLES\",\n    \"levit as\",\n    \"SYRAH\",\n    \"2022\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "levit as",
+    "producer": "LUN VALLES",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SYRAH",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "LUN VALLES",
+      "levit as",
+      "SYRAH",
+      "2022",
+      "CRIMEA"
+    ]
+  }
+}

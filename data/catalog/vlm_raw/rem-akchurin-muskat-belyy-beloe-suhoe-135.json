@@ -1,0 +1,22 @@
+{
+  "slug": "rem-akchurin-muskat-belyy-beloe-suhoe-135",
+  "seconds": 13.15520977973938,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHURIN\",\n  \"producer\": \"AKCHURIN\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Muscat\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"AKCHURIN\",\n    \"RIEM\",\n    \"Muscat\",\n    \"Chernaya River Valley\",\n    \"2023\",\n    \"Sevastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHURIN",
+    "producer": "AKCHURIN",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Muscat",
+    "category": "null",
+    "raw_visible_text": [
+      "AKCHURIN",
+      "RIEM",
+      "Muscat",
+      "Chernaya River Valley",
+      "2023",
+      "Sevastopol"
+    ]
+  }
+}

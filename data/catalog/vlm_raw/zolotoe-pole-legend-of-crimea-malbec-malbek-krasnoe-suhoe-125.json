@@ -1,0 +1,20 @@
+{
+  "slug": "zolotoe-pole-legend-of-crimea-malbec-malbek-krasnoe-suhoe-125",
+  "seconds": 12.828357934951782,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"THE LEGEND of CRIMEA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"MALBEC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MALBEC\",\n    \"2024\",\n    \"THE LEGEND\",\n    \"of CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "THE LEGEND of CRIMEA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "MALBEC",
+    "category": null,
+    "raw_visible_text": [
+      "MALBEC",
+      "2024",
+      "THE LEGEND",
+      "of CRIMEA"
+    ]
+  }
+}

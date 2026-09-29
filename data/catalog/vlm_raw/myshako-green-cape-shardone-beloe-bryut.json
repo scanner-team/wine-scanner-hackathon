@@ -1,0 +1,25 @@
+{
+  "slug": "myshako-green-cape-shardone-beloe-bryut",
+  "seconds": 1.3063015937805176,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GREEN CAPE\",\n  \"producer\": \"NECKAKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"BRUT BLANC\",\n  \"raw_visible_text\": [\n    \"CAPE GREEN CAPE\",\n    \"SPARKLING\",\n    \"NECKAKO\",\n    \"GREEN CAPE\",\n    \"SPARKLING\",\n    \"CHARDONNAY\",\n    \"SUR LIE\",\n    \"BRUT BLANC\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GREEN CAPE",
+    "producer": "NECKAKO",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CHARDONNAY",
+    "category": "BRUT BLANC",
+    "raw_visible_text": [
+      "CAPE GREEN CAPE",
+      "SPARKLING",
+      "NECKAKO",
+      "GREEN CAPE",
+      "SPARKLING",
+      "CHARDONNAY",
+      "SUR LIE",
+      "BRUT BLANC",
+      "2024"
+    ]
+  }
+}

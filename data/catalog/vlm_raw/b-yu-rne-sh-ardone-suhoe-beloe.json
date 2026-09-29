@@ -1,0 +1,23 @@
+{
+  "slug": "b-yu-rne-sh-ardone-suhoe-beloe",
+  "seconds": 1.8405497074127197,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЮРНЫЕ BURNIER\",\n  \"producer\": \"БЮРНЫЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"белое сухое\",\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"BURNIER\",\n    \"ШАРДОНЕ / белое сухое\",\n    \"2023\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"ЗТУ • КУЛЬТУРНЫЙ\",\n    \"СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЮРНЫЕ BURNIER",
+    "producer": "БЮРНЫЕ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ШАРДОНЕ",
+    "category": "белое сухое",
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "BURNIER",
+      "ШАРДОНЕ / белое сухое",
+      "2023",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "ЗТУ • КУЛЬТУРНЫЙ",
+      "СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-shardone-risling-beloe-suhoe-12",
+  "seconds": 5.178729057312012,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ РИСЛИНГ\",\n  \"category\": \"СУХОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"ШАРДОНЕ\",\n    \"РИСЛИНГ\",\n    \"СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ РИСЛИНГ",
+    "category": "СУХОЕ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "ШАРДОНЕ",
+      "РИСЛИНГ",
+      "СУХОЕ"
+    ]
+  }
+}

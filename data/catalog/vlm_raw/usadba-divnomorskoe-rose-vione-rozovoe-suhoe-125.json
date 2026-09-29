@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-divnomorskoe-rose-vione-rozovoe-suhoe-125",
+  "seconds": 4.776861906051636,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"АРБОРАМПОКСЕ\",\n    \"Rosé\",\n    \"ROSE\",\n    \"№ 02268\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "АРБОРАМПОКСЕ",
+      "Rosé",
+      "ROSE",
+      "№ 02268"
+    ]
+  }
+}

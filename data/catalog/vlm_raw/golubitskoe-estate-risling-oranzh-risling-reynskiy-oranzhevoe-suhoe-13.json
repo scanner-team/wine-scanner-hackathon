@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-risling-oranzh-risling-reynskiy-oranzhevoe-suhoe-13",
+  "seconds": 4.772315263748169,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ORANGE\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE ESTATE\",\n    \"ORANGE\",\n    \"GOLUBITSKAYA STRELA\",\n    \"TAMARINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ORANGE",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GOLUBITSKOE ESTATE",
+      "ORANGE",
+      "GOLUBITSKAYA STRELA",
+      "TAMARINE"
+    ]
+  }
+}

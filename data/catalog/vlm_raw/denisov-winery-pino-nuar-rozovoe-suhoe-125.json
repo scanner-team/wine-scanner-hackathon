@@ -1,0 +1,21 @@
+{
+  "slug": "denisov-winery-pino-nuar-rozovoe-suhoe-125",
+  "seconds": 5.010455131530762,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Тилю Къяр\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"Тилю Къяр\",\n    \"сухое розовое\",\n    \"0,75 л\",\n    \"13% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Тилю Къяр",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "DENISOV",
+      "Тилю Къяр",
+      "сухое розовое",
+      "0,75 л",
+      "13% об."
+    ]
+  }
+}

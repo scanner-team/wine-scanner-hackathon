@@ -1,0 +1,26 @@
+{
+  "slug": "shato-pino-grand-reserve-cabernet-franc-kaberne-fran-krasnoe-suhoe-135",
+  "seconds": 6.550778150558472,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHÂTEAU PINOT\",\n  \"producer\": \"Château Pinot\",\n  \"cuvee\": \"Grand Reserve\",\n  \"vintage\": \"2022\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"RED DRY WINE\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU PINOT\",\n    \"2022\",\n    \"GRAND RESERVE WINE\",\n    \"Founded the Château Pinot winery\",\n    \"S.G. Pinot\",\n    \"CHÂTEAU\",\n    \"PINOT\",\n    \"GRAND RESERVE\",\n    \"CABERNET FRANC\",\n    \"RED DRY WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHÂTEAU PINOT",
+    "producer": "Château Pinot",
+    "cuvee": "Grand Reserve",
+    "vintage": "2022",
+    "grape": "CABERNET FRANC",
+    "category": "RED DRY WINE",
+    "raw_visible_text": [
+      "CHÂTEAU PINOT",
+      "2022",
+      "GRAND RESERVE WINE",
+      "Founded the Château Pinot winery",
+      "S.G. Pinot",
+      "CHÂTEAU",
+      "PINOT",
+      "GRAND RESERVE",
+      "CABERNET FRANC",
+      "RED DRY WINE"
+    ]
+  }
+}

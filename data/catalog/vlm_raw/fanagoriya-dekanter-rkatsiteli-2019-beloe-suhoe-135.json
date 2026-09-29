@@ -1,0 +1,23 @@
+{
+  "slug": "fanagoriya-dekanter-rkatsiteli-2019-beloe-suhoe-135",
+  "seconds": 15.028897047042847,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДЕКАНТЕР\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"КОЛЛЕКЦИОННОЕ\",\n  \"vintage\": \"2019\",\n  \"grape\": \"РКАЦИТЕЛИ\",\n  \"category\": \"выдержано в бутылках\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"ДЕКАНТЕР\",\n    \"КОЛЛЕКЦИОННОЕ\",\n    \"ВЫДЕРЖАНО В БУТЫЛКАХ\",\n    \"РКАЦИТЕЛИ\",\n    \"2019\",\n    \"ТИРАЖ 1194 БУТЫЛКИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДЕКАНТЕР",
+    "producer": "FANAGORIA",
+    "cuvee": "КОЛЛЕКЦИОННОЕ",
+    "vintage": "2019",
+    "grape": "РКАЦИТЕЛИ",
+    "category": "выдержано в бутылках",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "ДЕКАНТЕР",
+      "КОЛЛЕКЦИОННОЕ",
+      "ВЫДЕРЖАНО В БУТЫЛКАХ",
+      "РКАЦИТЕЛИ",
+      "2019",
+      "ТИРАЖ 1194 БУТЫЛКИ"
+    ]
+  }
+}

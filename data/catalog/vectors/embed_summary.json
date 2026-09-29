@@ -1,0 +1,10 @@
+{
+  "model_id": "Qwen/Qwen3-VL-Embedding-2B",
+  "pixel_budget": {
+    "mode": "area",
+    "min_pixels": 50000,
+    "max_pixels": 2000000
+  },
+  "n_total": 2092,
+  "note": "2026-09-28: incremental append of 44 new vectors (44 принятых из review44.html, no_producer_read) on top of previous n_total=2048. Previous full npz backed up as references_before_2026-09-28-c.npz."
+}

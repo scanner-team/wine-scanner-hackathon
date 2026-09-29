@@ -1,0 +1,22 @@
+{
+  "slug": "derbent-vino-endemy-merlo-krasnoe-suhoe-13",
+  "seconds": 1.3323237895965576,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Мерло\",\n  \"category\": \"красное\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"МЕРЛО\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"С ГРАНУЛЬНОЙ СТРУКТУРОЙ\",\n    \"ПРОИЗВОДСТВО\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Мерло",
+    "category": "красное",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "МЕРЛО",
+      "КРАСНОЕ СУХОЕ",
+      "С ГРАНУЛЬНОЙ СТРУКТУРОЙ",
+      "ПРОИЗВОДСТВО",
+      "2024"
+    ]
+  }
+}

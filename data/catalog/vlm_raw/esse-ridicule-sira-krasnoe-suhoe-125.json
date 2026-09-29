@@ -1,0 +1,19 @@
+{
+  "slug": "esse-ridicule-sira-krasnoe-suhoe-125",
+  "seconds": 4.789882183074951,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RIDICULE\",\n  \"producer\": null,\n  \"cuvee\": \"ESSE UNPLUGGED\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RIDICULE\",\n    \"ESSE UNPLUGGED\",\n    \"CRIMEA 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RIDICULE",
+    "producer": null,
+    "cuvee": "ESSE UNPLUGGED",
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "RIDICULE",
+      "ESSE UNPLUGGED",
+      "CRIMEA 2023"
+    ]
+  }
+}

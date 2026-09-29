@@ -1,0 +1,22 @@
+{
+  "slug": "mantra-blanc-de-blancs",
+  "seconds": 5.635840892791748,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANTRA ESTATE\",\n  \"producer\": \"MANTRA ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BLANC DE BLANCS\",\n  \"raw_visible_text\": [\n    \"MANTRA ESTATE\",\n    \"BLANC DE BLANCS\",\n    \"PRODUCE OF ARGENTINIAN & BOLIVIAN WINEMAKERS\",\n    \"VINEYARD IN ARGENTINA & BOLIVIA\",\n    \"ESTABLISHED 2017\",\n    \"ESTABLISHED 2017\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANTRA ESTATE",
+    "producer": "MANTRA ESTATE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BLANC DE BLANCS",
+    "raw_visible_text": [
+      "MANTRA ESTATE",
+      "BLANC DE BLANCS",
+      "PRODUCE OF ARGENTINIAN & BOLIVIAN WINEMAKERS",
+      "VINEYARD IN ARGENTINA & BOLIVIA",
+      "ESTABLISHED 2017",
+      "ESTABLISHED 2017"
+    ]
+  }
+}

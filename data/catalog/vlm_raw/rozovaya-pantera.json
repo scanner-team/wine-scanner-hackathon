@@ -1,0 +1,19 @@
+{
+  "slug": "rozovaya-pantera",
+  "seconds": 1.1253392696380615,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РОЗОВАЯ ПАНТЕРА\",\n  \"producer\": \"Российское вино\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое розовое\",\n  \"raw_visible_text\": [\n    \"РОЗОВАЯ ПАНТЕРА\",\n    \"Российское вино\",\n    \"полусладкое розовое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РОЗОВАЯ ПАНТЕРА",
+    "producer": "Российское вино",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое розовое",
+    "raw_visible_text": [
+      "РОЗОВАЯ ПАНТЕРА",
+      "Российское вино",
+      "полусладкое розовое"
+    ]
+  }
+}

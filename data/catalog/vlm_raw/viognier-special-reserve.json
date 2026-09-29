@@ -1,0 +1,22 @@
+{
+  "slug": "viognier-special-reserve",
+  "seconds": 1.525362253189087,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIognier\",\n  \"producer\": \"KALOS LIMEN\",\n  \"cuvee\": \"SPECIAL RESERVE\",\n  \"vintage\": \"2025\",\n  \"grape\": \"VIognier\",\n  \"category\": \"Вина замадлого Кранина\",\n  \"raw_visible_text\": [\n    \"KALOS LIMEN\",\n    \"SPECIAL RESERVE\",\n    \"VIognier\",\n    \"SPECIAL RESERVE\",\n    \"2025\",\n    \"Вина замадлого Кранина\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIognier",
+    "producer": "KALOS LIMEN",
+    "cuvee": "SPECIAL RESERVE",
+    "vintage": "2025",
+    "grape": "VIognier",
+    "category": "Вина замадлого Кранина",
+    "raw_visible_text": [
+      "KALOS LIMEN",
+      "SPECIAL RESERVE",
+      "VIognier",
+      "SPECIAL RESERVE",
+      "2025",
+      "Вина замадлого Кранина"
+    ]
+  }
+}

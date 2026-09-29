@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-aroma-pti-mansen-beloe-sladkoe-137",
+  "seconds": 4.569070100784302,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРИНИЦА\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": \"AROMA\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"СОДЕРЖАНИЕ\",\n    \"AROMA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРИНИЦА",
+    "producer": "КРИНИЦА",
+    "cuvee": "AROMA",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "СОДЕРЖАНИЕ",
+      "AROMA"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-pino-nuar-pino-gri-rozovoe-suhoe-115",
+  "seconds": 5.702004909515381,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО КУАР\",\n  \"producer\": \"CHÂTEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПИНО ГРИ\",\n  \"category\": \"РОСОВИЕ ПОГРУЗАНИЕ\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU PINOT\",\n    \"ПИНО КУАР\",\n    \"ПИНО ГРИ\",\n    \"РОСОВИЕ ПОГРУЗАНИЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО КУАР",
+    "producer": "CHÂTEAU PINOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПИНО ГРИ",
+    "category": "РОСОВИЕ ПОГРУЗАНИЕ",
+    "raw_visible_text": [
+      "CHÂTEAU PINOT",
+      "ПИНО КУАР",
+      "ПИНО ГРИ",
+      "РОСОВИЕ ПОГРУЗАНИЕ"
+    ]
+  }
+}

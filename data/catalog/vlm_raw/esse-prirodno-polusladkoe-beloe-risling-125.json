@@ -1,0 +1,21 @@
+{
+  "slug": "esse-prirodno-polusladkoe-beloe-risling-125",
+  "seconds": 4.311323165893555,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"esse\",\n    \"Природно\",\n    \"Полусладкое\",\n    \"Белое\",\n    \"Крым\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "esse",
+      "Природно",
+      "Полусладкое",
+      "Белое",
+      "Крым"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "levokumskoe-rkatsiteli-beloe-suhoe-10",
+  "seconds": 5.350888252258301,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РКАЦИТЕЛИ\",\n  \"producer\": \"ПЕВОКУМСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РКАЦИТЕЛИ\",\n  \"category\": \"БЕЛЕО СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ПЕВОКУМСКОЕ\",\n    \"РКАЦИТЕЛИ\",\n    \"БЕЛЕО СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РКАЦИТЕЛИ",
+    "producer": "ПЕВОКУМСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РКАЦИТЕЛИ",
+    "category": "БЕЛЕО СУХОЕ",
+    "raw_visible_text": [
+      "ПЕВОКУМСКОЕ",
+      "РКАЦИТЕЛИ",
+      "БЕЛЕО СУХОЕ"
+    ]
+  }
+}

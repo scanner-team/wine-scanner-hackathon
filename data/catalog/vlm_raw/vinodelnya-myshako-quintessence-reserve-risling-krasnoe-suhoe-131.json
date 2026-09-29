@@ -1,0 +1,27 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-reserve-risling-krasnoe-suhoe-131",
+  "seconds": 7.430582046508789,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"MВИСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2018\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"RESERVE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"BAHODEABER\",\n    \"MВИСХАКО\",\n    \"RIESLING\",\n    \"RESERVE\",\n    \"2018\",\n    \"КВАРТЫ, НОВОРОССИЙСКИЙ\",\n    \"СУХОЕ СЕРВЕ\",\n    \"ТИПАК 8 400 БУДОВ\",\n    \"Люкс 13,5% об. Объем 7%.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "MВИСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2018",
+    "grape": "RIESLING",
+    "category": "RESERVE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "BAHODEABER",
+      "MВИСХАКО",
+      "RIESLING",
+      "RESERVE",
+      "2018",
+      "КВАРТЫ, НОВОРОССИЙСКИЙ",
+      "СУХОЕ СЕРВЕ",
+      "ТИПАК 8 400 БУДОВ",
+      "Люкс 13,5% об. Объем 7%."
+    ]
+  }
+}

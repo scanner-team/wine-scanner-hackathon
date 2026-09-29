@@ -1,0 +1,21 @@
+{
+  "slug": "zb-vajn-moskato-polusladkoe-rozovoe",
+  "seconds": 1.0497498512268066,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOSCATO\",\n  \"producer\": \"ZB WINE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"WHITE SEMISWEET\",\n  \"raw_visible_text\": [\n    \"MOSCATO\",\n    \"ZB WINE\",\n    \"NATURAL SPARKLING WINE\",\n    \"WHITE SEMISWEET\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOSCATO",
+    "producer": "ZB WINE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "WHITE SEMISWEET",
+    "raw_visible_text": [
+      "MOSCATO",
+      "ZB WINE",
+      "NATURAL SPARKLING WINE",
+      "WHITE SEMISWEET",
+      "750 ml"
+    ]
+  }
+}

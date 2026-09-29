@@ -1,0 +1,20 @@
+{
+  "slug": "esse-rose-sira-rozovoe-suhoe-12",
+  "seconds": 4.85083794593811,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE\",\n  \"producer\": \"KACHA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"KACHA VALLEY\",\n    \"2022\",\n    \"ROSE\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE",
+    "producer": "KACHA VALLEY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "KACHA VALLEY",
+      "2022",
+      "ROSE",
+      "CRIMEA"
+    ]
+  }
+}

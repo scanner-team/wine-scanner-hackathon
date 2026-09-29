@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-andre-pino-nuar-roze-rozovoe-suhoe-13",
+  "seconds": 4.906402111053467,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR ROSE\",\n  \"producer\": \"Chateau André\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"Chate\",\n    \"2022\",\n    \"Chateau André\",\n    \"PINOT NOIR ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR ROSE",
+    "producer": "Chateau André",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT NOIR",
+    "category": "ROSE",
+    "raw_visible_text": [
+      "Chate",
+      "2022",
+      "Chateau André",
+      "PINOT NOIR ROSE"
+    ]
+  }
+}

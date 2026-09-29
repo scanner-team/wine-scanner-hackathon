@@ -1,0 +1,19 @@
+{
+  "slug": "ivan-ksenia-kruz-argonne-chardonay-shardone-beloe-suhoe-127",
+  "seconds": 4.8794660568237305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARGONNE\",\n  \"producer\": \"IVAN & KSENIA KRUZ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"IVAN & KSENIA KRUSZ\",\n    \"ARGONNE\",\n    \"CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARGONNE",
+    "producer": "IVAN & KSENIA KRUZ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "IVAN & KSENIA KRUSZ",
+      "ARGONNE",
+      "CHARDONNAY"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-vione-beloe-suhoe-133",
+  "seconds": 4.871057033538818,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРИНИЦА\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"VIognier\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"вьинодельня\",\n    \"VIognier\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРИНИЦА",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "VIognier",
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "вьинодельня",
+      "VIognier"
+    ]
+  }
+}

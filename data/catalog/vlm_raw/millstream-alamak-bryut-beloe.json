@@ -1,0 +1,25 @@
+{
+  "slug": "millstream-alamak-bryut-beloe",
+  "seconds": 1.6949541568756104,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALAMAK\",\n  \"producer\": \"АЛАМАК\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ИГРИСТОЕ ВИНО БРЮТ БЕЛОЕ\",\n    \"ALAMAK\",\n    \"sparkling white wine\",\n    \"EXTRA SECCO\",\n    \"ЗГУ\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"ИГРИСТОВО ВИНО\",\n    \"БРЮТ\",\n    \"БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALAMAK",
+    "producer": "АЛАМАК",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ИГРИСТОЕ ВИНО БРЮТ БЕЛОЕ",
+      "ALAMAK",
+      "sparkling white wine",
+      "EXTRA SECCO",
+      "ЗГУ",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "ИГРИСТОВО ВИНО",
+      "БРЮТ",
+      "БЕЛОЕ"
+    ]
+  }
+}

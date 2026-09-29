@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-vedernikov-pravoberezhnoe-beloe-aligote-suhoe-13",
+  "seconds": 15.043106079101562,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АЛИГОТЕ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": \"2012\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ПРАВОБЕРЕЖНОЕ\",\n    \"2012\",\n    \"АЛИГОТЕ\",\n    \"ХУТОР ВЕДЕРНИКОВ\",\n    \"РЕГИОН РОСТОВ\",\n    \"РОССИЯ\",\n    \"12,5% vol\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АЛИГОТЕ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": "2012",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "ПРАВОБЕРЕЖНОЕ",
+      "2012",
+      "АЛИГОТЕ",
+      "ХУТОР ВЕДЕРНИКОВ",
+      "РЕГИОН РОСТОВ",
+      "РОССИЯ",
+      "12,5% vol",
+      "750 ml"
+    ]
+  }
+}

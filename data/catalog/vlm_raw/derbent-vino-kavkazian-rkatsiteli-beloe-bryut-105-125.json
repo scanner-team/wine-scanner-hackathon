@@ -1,0 +1,20 @@
+{
+  "slug": "derbent-vino-kavkazian-rkatsiteli-beloe-bryut-105-125",
+  "seconds": 0.9277195930480957,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAUCASIAN\",\n  \"producer\": \"CAUCASIAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"CAUCASIAN\",\n    \"2010\",\n    \"БРИОТ\",\n    \"ВЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAUCASIAN",
+    "producer": "CAUCASIAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "CAUCASIAN",
+      "2010",
+      "БРИОТ",
+      "ВЕЛОЕ"
+    ]
+  }
+}

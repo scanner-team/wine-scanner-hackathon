@@ -1,0 +1,23 @@
+{
+  "slug": "agrolayn-mountain-eagle-aleatico-rose-aleatiko-rozovoe-suhoe-125",
+  "seconds": 5.592536211013794,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALEATICO ROSE\",\n  \"producer\": \"MOUNTAIN EAGLE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN EAGLE\",\n    \"PROTECTED GEOGRAPHIC\",\n    \"APPELLATION\",\n    \"RUSSIA, VINE OF RUSSIA\",\n    \"2022\",\n    \"ALEATICO\",\n    \"ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALEATICO ROSE",
+    "producer": "MOUNTAIN EAGLE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN EAGLE",
+      "PROTECTED GEOGRAPHIC",
+      "APPELLATION",
+      "RUSSIA, VINE OF RUSSIA",
+      "2022",
+      "ALEATICO",
+      "ROSE"
+    ]
+  }
+}

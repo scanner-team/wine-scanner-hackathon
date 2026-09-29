@@ -1,0 +1,20 @@
+{
+  "slug": "zolotaya-balka-black-prince-crimea-prestige-cuvee-extra-brut-limited-edition-shardone-beloe-ekstra-bryut-125",
+  "seconds": 6.52630090713501,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLACK PRINCE\",\n  \"producer\": null,\n  \"cuvee\": \"Limited edition\",\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"Extra Brut\",\n  \"raw_visible_text\": [\n    \"BLACK PRINCE\",\n    \"PRESTIGE CUVEE EXTRA BRUT\",\n    \"Limited edition\",\n    \"MILLESIME 2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLACK PRINCE",
+    "producer": null,
+    "cuvee": "Limited edition",
+    "vintage": "2019",
+    "grape": null,
+    "category": "Extra Brut",
+    "raw_visible_text": [
+      "BLACK PRINCE",
+      "PRESTIGE CUVEE EXTRA BRUT",
+      "Limited edition",
+      "MILLESIME 2019"
+    ]
+  }
+}

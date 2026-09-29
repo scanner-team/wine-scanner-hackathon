@@ -1,0 +1,20 @@
+{
+  "slug": "aratti-kaberne-sovinon-2021-krasnoe-suhoe",
+  "seconds": 1.2883861064910889,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": null,
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "2021"
+    ]
+  }
+}

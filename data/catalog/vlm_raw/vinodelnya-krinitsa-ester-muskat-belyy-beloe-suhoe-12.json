@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-krinitsa-ester-muskat-belyy-beloe-suhoe-12",
+  "seconds": 12.70605206489563,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESTER\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"виноидельня\",\n    \"ESTER\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESTER",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "виноидельня",
+      "ESTER",
+      "2024"
+    ]
+  }
+}

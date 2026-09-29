@@ -1,0 +1,20 @@
+{
+  "slug": "derbent-vino-desono-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 1.2856285572052002,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DESONO\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"свежее и дарственное\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИНО\",\n    \"DESONO\",\n    \"CABERNET SAUVIGNON\",\n    \"СВЕЖОЕ И ДАРСТВЕННОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DESONO",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": "свежее и дарственное",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИНО",
+      "DESONO",
+      "CABERNET SAUVIGNON",
+      "СВЕЖОЕ И ДАРСТВЕННОЕ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "nesterov-winery-saperavi-krasnoe-suhoe-135",
+  "seconds": 5.0568742752075195,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ\",\n  \"producer\": \"NESTEROV WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"NESTEROV\",\n    \"WINERY\",\n    \"САПЕРАВИ\",\n    \"СУХОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ",
+    "producer": "NESTEROV WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "САПЕРАВИ",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "NESTEROV",
+      "WINERY",
+      "САПЕРАВИ",
+      "СУХОЕ КРАСНОЕ"
+    ]
+  }
+}

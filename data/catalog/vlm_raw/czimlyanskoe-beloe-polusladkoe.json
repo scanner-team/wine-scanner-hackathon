@@ -1,0 +1,19 @@
+{
+  "slug": "czimlyanskoe-beloe-polusladkoe",
+  "seconds": 5.194532871246338,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": \"Мирское Вино\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Пироговое вино\",\n  \"raw_visible_text\": [\n    \"МИРСКОЕ ВИНО\",\n    \"ЦИМЛЯНСКОЕ\",\n    \"Пироговое вино\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": "Мирское Вино",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Пироговое вино",
+    "raw_visible_text": [
+      "МИРСКОЕ ВИНО",
+      "ЦИМЛЯНСКОЕ",
+      "Пироговое вино"
+    ]
+  }
+}

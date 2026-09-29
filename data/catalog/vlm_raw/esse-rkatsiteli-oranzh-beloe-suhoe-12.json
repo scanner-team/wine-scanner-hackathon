@@ -1,0 +1,20 @@
+{
+  "slug": "esse-rkatsiteli-oranzh-beloe-suhoe-12",
+  "seconds": 5.272655010223389,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RKATSITELI ORANGE\",\n  \"producer\": \"ESSE UNPLUGGED\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"RKATSITELI\",\n    \"ORANGE\",\n    \"ESSE UNPLUGGED\",\n    \"CRIMEA 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RKATSITELI ORANGE",
+    "producer": "ESSE UNPLUGGED",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "RKATSITELI",
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "RKATSITELI",
+      "ORANGE",
+      "ESSE UNPLUGGED",
+      "CRIMEA 2022"
+    ]
+  }
+}

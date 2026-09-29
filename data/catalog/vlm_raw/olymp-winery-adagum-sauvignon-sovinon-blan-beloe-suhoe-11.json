@@ -1,0 +1,22 @@
+{
+  "slug": "olymp-winery-adagum-sauvignon-sovinon-blan-beloe-suhoe-11",
+  "seconds": 7.304132699966431,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Адагум\",\n  \"producer\": \"Кубань\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Совиньон\",\n  \"category\": \"Сухое Белое\",\n  \"raw_visible_text\": [\n    \"Адагум\",\n    \"Совиньон\",\n    \"Сухое Белое\",\n    \"ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"КУБАНЬ\",\n    \"11,5% об\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Адагум",
+    "producer": "Кубань",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Совиньон",
+    "category": "Сухое Белое",
+    "raw_visible_text": [
+      "Адагум",
+      "Совиньон",
+      "Сухое Белое",
+      "ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "КУБАНЬ",
+      "11,5% об"
+    ]
+  }
+}

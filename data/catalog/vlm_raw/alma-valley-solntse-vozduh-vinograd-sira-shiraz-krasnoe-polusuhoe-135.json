@@ -1,0 +1,21 @@
+{
+  "slug": "alma-valley-solntse-vozduh-vinograd-sira-shiraz-krasnoe-polusuhoe-135",
+  "seconds": 7.701452732086182,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"КРАСНОЕ ПОЛУСЛУЖОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"СОЛНЦЕ,\",\n    \"ВОЗДУХ,\",\n    \"ВИНОГРАД\",\n    \"КРАСНОЕ ПОЛУСЛУЖОЕ ВИНО\",\n    \"РОССИЯ, КРЫМ | 0,7 Л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "КРАСНОЕ ПОЛУСЛУЖОЕ ВИНО",
+    "raw_visible_text": [
+      "СОЛНЦЕ,",
+      "ВОЗДУХ,",
+      "ВИНОГРАД",
+      "КРАСНОЕ ПОЛУСЛУЖОЕ ВИНО",
+      "РОССИЯ, КРЫМ | 0,7 Л"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "dacha-serdyuka-sibirkovyy-oranzh-beloe-suhoe-135",
+  "seconds": 5.359642267227173,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дача Сердька\",\n  \"producer\": \"Долина Дона\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ОРАНЖ\",\n  \"raw_visible_text\": [\n    \"СЕРДЬКА\",\n    \"Дача Сердька\",\n    \"ДОЛИНА ДОНА\",\n    \"ОРАНЖ\",\n    \"вино без дикокиса серы\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дача Сердька",
+    "producer": "Долина Дона",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ОРАНЖ",
+    "raw_visible_text": [
+      "СЕРДЬКА",
+      "Дача Сердька",
+      "ДОЛИНА ДОНА",
+      "ОРАНЖ",
+      "вино без дикокиса серы"
+    ]
+  }
+}

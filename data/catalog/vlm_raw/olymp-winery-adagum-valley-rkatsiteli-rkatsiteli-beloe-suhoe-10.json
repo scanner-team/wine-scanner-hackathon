@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-valley-rkatsiteli-rkatsiteli-beloe-suhoe-10",
+  "seconds": 8.069446086883545,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM VALLEY\",\n  \"producer\": \"ADAGUM VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"СУХОВ БЕЛОВ\",\n  \"raw_visible_text\": [\n    \"ADAGUM\",\n    \"VALLEY\",\n    \"RKATSITELI\",\n    \"since 1901\",\n    \"ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«АДАГУМ»\",\n    \"2020\",\n    \"СУХОВ БЕЛОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM VALLEY",
+    "producer": "ADAGUM VALLEY",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "RKATSITELI",
+    "category": "СУХОВ БЕЛОВ",
+    "raw_visible_text": [
+      "ADAGUM",
+      "VALLEY",
+      "RKATSITELI",
+      "since 1901",
+      "ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«АДАГУМ»",
+      "2020",
+      "СУХОВ БЕЛОВ"
+    ]
+  }
+}

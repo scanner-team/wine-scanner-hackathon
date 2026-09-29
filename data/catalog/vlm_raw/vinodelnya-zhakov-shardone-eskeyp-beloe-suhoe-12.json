@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-zhakov-shardone-eskeyp-beloe-suhoe-12",
+  "seconds": 5.002352237701416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Nacoli\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"мадроне\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"Nacoli\",\n    \"мадроне\",\n    \"Гарад\",\n    \"Сухое\",\n    \"Белое\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Nacoli",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "мадроне",
+    "category": "null",
+    "raw_visible_text": [
+      "Nacoli",
+      "мадроне",
+      "Гарад",
+      "Сухое",
+      "Белое",
+      "2023"
+    ]
+  }
+}

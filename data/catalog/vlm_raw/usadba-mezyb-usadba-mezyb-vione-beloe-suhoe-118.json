@@ -1,0 +1,23 @@
+{
+  "slug": "usadba-mezyb-usadba-mezyb-vione-beloe-suhoe-118",
+  "seconds": 14.199684143066406,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИОНЬЕ\",\n  \"producer\": \"МЕЗЫБЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"вино сухое белое\",\n  \"raw_visible_text\": [\n    \"ВИОНЬЕ\",\n    \"РОССИЙСКОЕ\",\n    \"ВИНО СУХОЕ\",\n    \"БЕЛОЕ\",\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИОНЬЕ",
+    "producer": "МЕЗЫБЬ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "вино сухое белое",
+    "raw_visible_text": [
+      "ВИОНЬЕ",
+      "РОССИЙСКОЕ",
+      "ВИНО СУХОЕ",
+      "БЕЛОЕ",
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "stn-winery-syrah-sira-krasnoe-suhoe-13",
+  "seconds": 6.263354063034058,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SYRAH\",\n  \"producer\": \"SN\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SN\",\n    \"SYRAH\",\n    \"arive\",\n    \"harvest\",\n    \"fermentation\",\n    \"bottled\",\n    \"date\",\n    \"tirage\",\n    \"2022\",\n    \"sevastopol\",\n    \"5 october\",\n    \"22-22°C\",\n    \"5 months\",\n    \"3000 bottles\",\n    \"15%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SYRAH",
+    "producer": "SN",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "SN",
+      "SYRAH",
+      "arive",
+      "harvest",
+      "fermentation",
+      "bottled",
+      "date",
+      "tirage",
+      "2022",
+      "sevastopol",
+      "5 october",
+      "22-22°C",
+      "5 months",
+      "3000 bottles",
+      "15%"
+    ]
+  }
+}

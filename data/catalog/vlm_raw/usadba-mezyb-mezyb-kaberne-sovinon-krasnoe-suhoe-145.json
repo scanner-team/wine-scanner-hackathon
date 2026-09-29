@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-mezyb-kaberne-sovinon-krasnoe-suhoe-145",
+  "seconds": 13.753817081451416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УСАДЬБА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"КАБЕРНЕ\",\n    \"СОВИНЬОН 2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УСАДЬБА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "КАБЕРНЕ",
+      "СОВИНЬОН 2021"
+    ]
+  }
+}

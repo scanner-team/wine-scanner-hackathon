@@ -1,0 +1,20 @@
+{
+  "slug": "kaffa-joy-malvasia",
+  "seconds": 1.2325224876403809,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАГФА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"МАЛЬВАЗИЯ\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"JOY\",\n    \"КАГФА\",\n    \"МАЛЬВАЗИЯ / 2025\",\n    \"СУХОЕ БЕЛОЕ / КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАГФА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "МАЛЬВАЗИЯ",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "JOY",
+      "КАГФА",
+      "МАЛЬВАЗИЯ / 2025",
+      "СУХОЕ БЕЛОЕ / КРЫМ"
+    ]
+  }
+}

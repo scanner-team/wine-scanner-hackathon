@@ -1,0 +1,22 @@
+{
+  "slug": "zmv-koktebel-muskat-desertnyy-rozovoe-sladkoe-16",
+  "seconds": 9.303571224212646,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОКТЕБЕЛЬ\",\n  \"producer\": \"ЗАВОД МАРОЧНЫХ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2016\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"ДЕСЕРТНЫЙ\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНЫХ ВИН\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"2016\",\n    \"МУСКАТ\",\n    \"ДЕСЕРТНЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОКТЕБЕЛЬ",
+    "producer": "ЗАВОД МАРОЧНЫХ ВИН",
+    "cuvee": null,
+    "vintage": "2016",
+    "grape": "МУСКАТ",
+    "category": "ДЕСЕРТНЫЙ",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНЫХ ВИН",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "2016",
+      "МУСКАТ",
+      "ДЕСЕРТНЫЙ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-gravitatsiya-kaberne-sovinon-merlo-krasnoe-suhoe-135",
+  "seconds": 4.809715986251831,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"Мерло\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"Каберне Совиньон\",\n    \"Мерло\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне Совиньон",
+    "category": "Мерло",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "Каберне Совиньон",
+      "Мерло"
+    ]
+  }
+}

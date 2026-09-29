@@ -1,0 +1,25 @@
+{
+  "slug": "magnatum-blanc-de-blancs",
+  "seconds": 1.3667702674865723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MAGNATUM\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Chardonnay\",\n  \"category\": \"blanc de blancs\",\n  \"raw_visible_text\": [\n    \"2020\",\n    \"MAGNATUM\",\n    \"BLANC DE BLANC\",\n    \"Blanc de Blancs\",\n    \"CHARDONNAY\",\n    \"LIEBFRAU\",\n    \"SCHWARZENBACH\",\n    \"GERMANY\",\n    \"12% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MAGNATUM",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Chardonnay",
+    "category": "blanc de blancs",
+    "raw_visible_text": [
+      "2020",
+      "MAGNATUM",
+      "BLANC DE BLANC",
+      "Blanc de Blancs",
+      "CHARDONNAY",
+      "LIEBFRAU",
+      "SCHWARZENBACH",
+      "GERMANY",
+      "12% vol"
+    ]
+  }
+}

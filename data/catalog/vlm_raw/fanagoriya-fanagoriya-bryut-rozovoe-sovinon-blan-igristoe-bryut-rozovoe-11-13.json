@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-fanagoriya-bryut-rozovoe-sovinon-blan-igristoe-bryut-rozovoe-11-13",
+  "seconds": 13.346291780471802,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BRUT ROSÉ\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"BRUT ROSÉ\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"BRUT ROSÉ\",\n    \"MÉTHODE CHARMAT\",\n    \"2021\",\n    \"ЗГУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BRUT ROSÉ",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "BRUT ROSÉ",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "BRUT ROSÉ",
+      "MÉTHODE CHARMAT",
+      "2021",
+      "ЗГУ"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-lipko-kaberne-sovinon-merlo-pomeste-trenzina-krasnoe-suhoe-15",
+  "seconds": 6.421478986740112,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРЕНЗИНА\",\n  \"producer\": \"ПОМЕСТЪЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"МЕРЛО\",\n  \"raw_visible_text\": [\n    \"ПОМЕСТЪЕ\",\n    \"ТРЕНЗИНА\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"МЕРЛО\",\n    \"2019\",\n    \"СЕВАСТОПОЛЬ\",\n    \"ПЛАТО КАРА-ТАУ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРЕНЗИНА",
+    "producer": "ПОМЕСТЪЕ",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "МЕРЛО",
+    "raw_visible_text": [
+      "ПОМЕСТЪЕ",
+      "ТРЕНЗИНА",
+      "КАБЕРНЕ СОВИНЬОН",
+      "МЕРЛО",
+      "2019",
+      "СЕВАСТОПОЛЬ",
+      "ПЛАТО КАРА-ТАУ"
+    ]
+  }
+}

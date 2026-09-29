@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-batrak-prikumskoe-sonnenschein-shardone-beloe-suhoe-12",
+  "seconds": 5.42158317565918,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПРИКУМСКОЕ\",\n  \"producer\": \"Батрак\",\n  \"cuvee\": \"SONNENSCHEN\",\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Батрак\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"1899\",\n    \"ПРИКУМСКОЕ\",\n    \"· SONNENSCHEN ·\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПРИКУМСКОЕ",
+    "producer": "Батрак",
+    "cuvee": "SONNENSCHEN",
+    "vintage": "2019",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Батрак",
+      "ВИНОДЕЛЬНЯ",
+      "1899",
+      "ПРИКУМСКОЕ",
+      "· SONNENSCHEN ·",
+      "2019"
+    ]
+  }
+}

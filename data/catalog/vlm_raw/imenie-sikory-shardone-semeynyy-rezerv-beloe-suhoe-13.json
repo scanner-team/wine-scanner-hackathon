@@ -1,0 +1,20 @@
+{
+  "slug": "imenie-sikory-shardone-semeynyy-rezerv-beloe-suhoe-13",
+  "seconds": 13.27777624130249,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДОНЕ\",\n  \"producer\": \"СЕМИГОРЬЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"Семиборг\",\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"ШАРДОНЕ\",\n    \"Семиборг\",\n    \"СЕМИГОРЬЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДОНЕ",
+    "producer": "СЕМИГОРЬЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "Семиборг",
+    "raw_visible_text": [
+      "SIKORY",
+      "ШАРДОНЕ",
+      "Семиборг",
+      "СЕМИГОРЬЕ"
+    ]
+  }
+}

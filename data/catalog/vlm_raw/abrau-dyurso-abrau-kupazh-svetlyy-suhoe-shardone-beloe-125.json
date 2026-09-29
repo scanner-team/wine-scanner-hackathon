@@ -1,0 +1,23 @@
+{
+  "slug": "abrau-dyurso-abrau-kupazh-svetlyy-suhoe-shardone-beloe-125",
+  "seconds": 14.255295991897583,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"белое сухое\",\n  \"raw_visible_text\": [\n    \"ВИНИЙ ДОМ\",\n    \"АБРАУ\",\n    \"БЕЛОЕ\",\n    \"СУХОЕ\",\n    \"АБРАУ-ДЮРСО\",\n    \"КУПАЛЬНИЕ ВИНА\",\n    \"АБРАУ-ДЮРСО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "белое сухое",
+    "raw_visible_text": [
+      "ВИНИЙ ДОМ",
+      "АБРАУ",
+      "БЕЛОЕ",
+      "СУХОЕ",
+      "АБРАУ-ДЮРСО",
+      "КУПАЛЬНИЕ ВИНА",
+      "АБРАУ-ДЮРСО"
+    ]
+  }
+}

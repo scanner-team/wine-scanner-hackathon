@@ -1,0 +1,22 @@
+{
+  "slug": "vina-arpachina-arpachino-tsimlyanskiy-chernyy-rozovoe-ekstra-bryut-13",
+  "seconds": 5.931623220443726,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРПАЧИНО\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": null,\n  \"category\": \"ЭКСТРА БРЮТ\",\n  \"raw_visible_text\": [\n    \"АРПАЧИНО\",\n    \"ВИНО ИГРИСТОЕ РОЗОВОЕ\",\n    \"ЭКСТРА БРЮТ\",\n    \"2017\",\n    \"ЭКСТРА БРЮТ\",\n    \"2017\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРПАЧИНО",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": null,
+    "category": "ЭКСТРА БРЮТ",
+    "raw_visible_text": [
+      "АРПАЧИНО",
+      "ВИНО ИГРИСТОЕ РОЗОВОЕ",
+      "ЭКСТРА БРЮТ",
+      "2017",
+      "ЭКСТРА БРЮТ",
+      "2017"
+    ]
+  }
+}

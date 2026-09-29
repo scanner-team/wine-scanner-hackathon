@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-zhakov-saperavi-vyderzhannoe-krasnoe-suhoe-115",
+  "seconds": 4.884266138076782,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"санерави\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"красное сухое вино\",\n  \"raw_visible_text\": [\n    \"санерави\",\n    \"красное\",\n    \"сухое\",\n    \"вино\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "санерави",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "красное сухое вино",
+    "raw_visible_text": [
+      "санерави",
+      "красное",
+      "сухое",
+      "вино",
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "ferrum-winery-apollinary-merlo-krasnoe-suhoe-13",
+  "seconds": 5.261811971664429,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"APOLLINARY\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": \"26\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FERRUM\",\n    \"WINERY\",\n    \"26\",\n    \"Fe\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"APOLLINARY\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "APOLLINARY",
+    "producer": "FERRUM WINERY",
+    "cuvee": "26",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FERRUM",
+      "WINERY",
+      "26",
+      "Fe",
+      "FERRUM",
+      "PYATIGORSK",
+      "APOLLINARY",
+      "2022"
+    ]
+  }
+}

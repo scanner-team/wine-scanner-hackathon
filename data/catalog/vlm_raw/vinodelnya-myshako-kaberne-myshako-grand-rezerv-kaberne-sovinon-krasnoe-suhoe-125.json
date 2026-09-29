@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-myshako-kaberne-myshako-grand-rezerv-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 6.054778814315796,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET\",\n  \"producer\": \"Myskhako\",\n  \"cuvee\": \"Grand Reserve\",\n  \"vintage\": \"2008\",\n  \"grape\": \"CABERNET\",\n  \"category\": \"DRY RED WINE\",\n  \"raw_visible_text\": [\n    \"Myskhako\",\n    \"SINCE1944\",\n    \"2008\",\n    \"Grand Reserve\",\n    \"CABERNET\",\n    \"DRY RED WINE\",\n    \"APPELLATION OF ORIGIN\",\n    \"12,5% VOL.\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET",
+    "producer": "Myskhako",
+    "cuvee": "Grand Reserve",
+    "vintage": "2008",
+    "grape": "CABERNET",
+    "category": "DRY RED WINE",
+    "raw_visible_text": [
+      "Myskhako",
+      "SINCE1944",
+      "2008",
+      "Grand Reserve",
+      "CABERNET",
+      "DRY RED WINE",
+      "APPELLATION OF ORIGIN",
+      "12,5% VOL.",
+      "750 ML"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "pino-nuar-premium",
+  "seconds": 4.488574981689453,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"VINTAGE WINE\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"VINTAGE WINE\",\n    \"2021\",\n    \"PINOT NOIR\",\n    \"ZIMMERMANN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "VINTAGE WINE",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "PINOT NOIR",
+    "category": "null",
+    "raw_visible_text": [
+      "VINTAGE WINE",
+      "2021",
+      "PINOT NOIR",
+      "ZIMMERMANN"
+    ]
+  }
+}

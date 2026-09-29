@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-rozovoe-tempranilo-suhoe-12",
+  "seconds": 5.588091135025024,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RENAISSANCE\",\n  \"producer\": \"RAEVSKOE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"DAY WINE\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"RAEVSKOE\",\n    \"2022\",\n    \"ROSE BLEND\",\n    \"KUBAN NOVOROSSIYSK\",\n    \"DAY WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RENAISSANCE",
+    "producer": "RAEVSKOE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "DAY WINE",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "RAEVSKOE",
+      "2022",
+      "ROSE BLEND",
+      "KUBAN NOVOROSSIYSK",
+      "DAY WINE"
+    ]
+  }
+}

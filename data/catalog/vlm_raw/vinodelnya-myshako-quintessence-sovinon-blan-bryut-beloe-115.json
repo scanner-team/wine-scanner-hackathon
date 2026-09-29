@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-sovinon-blan-bryut-beloe-115",
+  "seconds": 5.860137939453125,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIODEAERO NBICKALO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"BRUT WHITE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIODEAERO\",\n    \"1869\",\n    \"NBICKALO\",\n    \"SAUVIGNON BLANC\",\n    \"BRUT WHITE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIODEAERO NBICKALO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": "BRUT WHITE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIODEAERO",
+      "1869",
+      "NBICKALO",
+      "SAUVIGNON BLANC",
+      "BRUT WHITE"
+    ]
+  }
+}

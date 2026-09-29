@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-shiraz-krasnoe-suhoe-14",
+  "seconds": 4.764679193496704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SHIRAZ\",\n  \"producer\": \"CHÂTEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"SHIRAZ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SHIRAZ\",\n    \"2017\",\n    \"CHÂTEAU\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SHIRAZ",
+    "producer": "CHÂTEAU PINOT",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "SHIRAZ",
+    "category": null,
+    "raw_visible_text": [
+      "SHIRAZ",
+      "2017",
+      "CHÂTEAU",
+      "PINOT"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shato-pino-pino-gridzhio-beloe-suhoe-12",
+  "seconds": 4.822628021240234,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT GRIGIO\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PINOT\",\n    \"GRIGIO\",\n    \"2022\",\n    \"CHATEAU\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT GRIGIO",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT GRIGIO",
+    "category": null,
+    "raw_visible_text": [
+      "PINOT",
+      "GRIGIO",
+      "2022",
+      "CHATEAU",
+      "PINOT"
+    ]
+  }
+}

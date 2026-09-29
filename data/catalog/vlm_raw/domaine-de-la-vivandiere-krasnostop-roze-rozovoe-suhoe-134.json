@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-de-la-vivandiere-krasnostop-roze-rozovoe-suhoe-134",
+  "seconds": 5.999905109405518,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIVAN DIÈRE\",\n  \"producer\": \"КРАСНОСТОД ЗОЛОТОВСКИЙ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"CÔTES DU DON\",\n  \"raw_visible_text\": [\n    \"КРАСНОСТОД\",\n    \"ЗОЛОТОВСКИЙ\",\n    \"VIVAN\",\n    \"DIÈRE\",\n    \"13,4% alc\",\n    \"CÔTES DU DON\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIVAN DIÈRE",
+    "producer": "КРАСНОСТОД ЗОЛОТОВСКИЙ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "CÔTES DU DON",
+    "raw_visible_text": [
+      "КРАСНОСТОД",
+      "ЗОЛОТОВСКИЙ",
+      "VIVAN",
+      "DIÈRE",
+      "13,4% alc",
+      "CÔTES DU DON",
+      "750 ml"
+    ]
+  }
+}

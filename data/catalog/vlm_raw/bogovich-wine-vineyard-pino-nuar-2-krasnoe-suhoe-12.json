@@ -1,0 +1,18 @@
+{
+  "slug": "bogovich-wine-vineyard-pino-nuar-2-krasnoe-suhoe-12",
+  "seconds": 4.355116844177246,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MINOT HOIR\",\n  \"producer\": \"BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MINOT HOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MINOT HOIR\",\n    \"BOGOVICH\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MINOT HOIR",
+    "producer": "BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MINOT HOIR",
+    "category": null,
+    "raw_visible_text": [
+      "MINOT HOIR",
+      "BOGOVICH"
+    ]
+  }
+}

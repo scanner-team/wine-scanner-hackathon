@@ -1,0 +1,17 @@
+{
+  "slug": "cabernet-franc-2024-one-barrel-by-dmitry-maslov-kaberne-fran-2024-uan-barrel-dmitrij-maslov",
+  "seconds": 1.1789791584014893,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"OBDMCF\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"OBDMCF 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "OBDMCF",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "OBDMCF 2024"
+    ]
+  }
+}

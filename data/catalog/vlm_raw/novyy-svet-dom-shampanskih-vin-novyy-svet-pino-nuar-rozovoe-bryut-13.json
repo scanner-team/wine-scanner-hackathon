@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-novyy-svet-pino-nuar-rozovoe-bryut-13",
+  "seconds": 14.48867392539978,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"Дом Шампанских Вин\",\n  \"cuvee\": null,\n  \"vintage\": \"1878\",\n  \"grape\": null,\n  \"category\": \"Бриот\",\n  \"raw_visible_text\": [\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"Новый Святъ\",\n    \"Тито Нудар\",\n    \"1878\",\n    \"Бриот\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "Дом Шампанских Вин",
+    "cuvee": null,
+    "vintage": "1878",
+    "grape": null,
+    "category": "Бриот",
+    "raw_visible_text": [
+      "18",
+      "78",
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "Новый Святъ",
+      "Тито Нудар",
+      "1878",
+      "Бриот",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ"
+    ]
+  }
+}

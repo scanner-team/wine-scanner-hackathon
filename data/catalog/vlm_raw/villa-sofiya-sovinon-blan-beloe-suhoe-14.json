@@ -1,0 +1,20 @@
+{
+  "slug": "villa-sofiya-sovinon-blan-beloe-suhoe-14",
+  "seconds": 5.005007743835449,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Вилла София\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Совиньон\",\n  \"category\": \"белое\",\n  \"raw_visible_text\": [\n    \"Вилла София\",\n    \"Совиньон блан\",\n    \"сухое белое\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Вилла София",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Совиньон",
+    "category": "белое",
+    "raw_visible_text": [
+      "Вилла София",
+      "Совиньон блан",
+      "сухое белое",
+      "2023"
+    ]
+  }
+}

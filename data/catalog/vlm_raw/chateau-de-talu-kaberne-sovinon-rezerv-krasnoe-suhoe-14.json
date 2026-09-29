@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-de-talu-kaberne-sovinon-rezerv-krasnoe-suhoe-14",
+  "seconds": 6.24946403503418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU de TALU\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"РЕЗЕРВ\",\n    \"2020\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU de TALU",
+      "КАБЕРНЕ СОВИНЬОН",
+      "РЕЗЕРВ",
+      "2020",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

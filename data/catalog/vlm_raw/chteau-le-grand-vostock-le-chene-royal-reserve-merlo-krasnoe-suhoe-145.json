@@ -1,0 +1,22 @@
+{
+  "slug": "chteau-le-grand-vostock-le-chene-royal-reserve-merlo-krasnoe-suhoe-145",
+  "seconds": 11.483203887939453,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le Chêne Royal\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château\",\n    \"LE GRAND VOSTOCK\",\n    \"Le Chêne Royal\",\n    \"RESERVE\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОППАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le Chêne Royal",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Château",
+      "LE GRAND VOSTOCK",
+      "Le Chêne Royal",
+      "RESERVE",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОППАНА"
+    ]
+  }
+}

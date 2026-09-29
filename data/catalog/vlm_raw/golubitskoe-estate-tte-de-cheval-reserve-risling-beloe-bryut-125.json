@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-tte-de-cheval-reserve-risling-beloe-bryut-125",
+  "seconds": 5.118729114532471,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TÊTE DE CHEVAL\",\n  \"producer\": null,\n  \"cuvee\": \"Reserva\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"MÉTHODE CLASSIQUE\",\n  \"raw_visible_text\": [\n    \"TÊTE\",\n    \"DE CHEVAL\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Reserva\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TÊTE DE CHEVAL",
+    "producer": null,
+    "cuvee": "Reserva",
+    "vintage": null,
+    "grape": null,
+    "category": "MÉTHODE CLASSIQUE",
+    "raw_visible_text": [
+      "TÊTE",
+      "DE CHEVAL",
+      "MÉTHODE CLASSIQUE",
+      "Reserva"
+    ]
+  }
+}

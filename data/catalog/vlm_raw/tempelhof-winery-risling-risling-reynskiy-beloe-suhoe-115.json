@@ -1,0 +1,22 @@
+{
+  "slug": "tempelhof-winery-risling-risling-reynskiy-beloe-suhoe-115",
+  "seconds": 13.265419006347656,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Tempelhof\",\n  \"producer\": \"Tempelhof winery\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Riesling\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"Tempelhof winery\",\n    \"Kuma River Valley\",\n    \"Tempelhof\",\n    \"Riesling\",\n    \"2024\",\n    \"Product of Russia\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Tempelhof",
+    "producer": "Tempelhof winery",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Riesling",
+    "category": "null",
+    "raw_visible_text": [
+      "Tempelhof winery",
+      "Kuma River Valley",
+      "Tempelhof",
+      "Riesling",
+      "2024",
+      "Product of Russia"
+    ]
+  }
+}

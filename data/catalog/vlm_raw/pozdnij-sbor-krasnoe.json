@@ -1,0 +1,22 @@
+{
+  "slug": "pozdnij-sbor-krasnoe",
+  "seconds": 1.3087868690490723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОЗДНИЙ\",\n  \"producer\": \"Летучий Мед\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Летучий Мед\",\n    \"Винодельня и Винарная\",\n    \"ПОЗДНИЙ\",\n    \"2023\",\n    \"СБОР\",\n    \"КИНО СЛАДКИЕ ФРАНЦ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОЗДНИЙ",
+    "producer": "Летучий Мед",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Летучий Мед",
+      "Винодельня и Винарная",
+      "ПОЗДНИЙ",
+      "2023",
+      "СБОР",
+      "КИНО СЛАДКИЕ ФРАНЦ"
+    ]
+  }
+}

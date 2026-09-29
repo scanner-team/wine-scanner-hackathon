@@ -1,0 +1,21 @@
+{
+  "slug": "domaine-lipko-penpalo-chardonnay-domaine-lipko-shardone-beloe-suhoe-122",
+  "seconds": 5.056253910064697,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PENPALO\",\n  \"producer\": \"Cenestorial\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Chardonnay\",\n  \"category\": \"Сухое белое\",\n  \"raw_visible_text\": [\n    \"Сухое белое\",\n    \"PENPALO\",\n    \"Chardonnay\",\n    \"Cenestorial\",\n    \"12% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PENPALO",
+    "producer": "Cenestorial",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Chardonnay",
+    "category": "Сухое белое",
+    "raw_visible_text": [
+      "Сухое белое",
+      "PENPALO",
+      "Chardonnay",
+      "Cenestorial",
+      "12% vol"
+    ]
+  }
+}

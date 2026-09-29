@@ -1,0 +1,20 @@
+{
+  "slug": "agrolayn-mountain-eagle-pedro-ximenez-pedro-himenes-beloe-suhoe-11",
+  "seconds": 4.98953104019165,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"PEDRO XIMÉNEZ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN\",\n    \"EAGLE\",\n    \"2022\",\n    \"PEDRO XIMÉNEZ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "PEDRO XIMÉNEZ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN",
+      "EAGLE",
+      "2022",
+      "PEDRO XIMÉNEZ"
+    ]
+  }
+}

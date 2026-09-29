@@ -1,0 +1,21 @@
+{
+  "slug": "agrolayn-mountain-eagle-traminer-traminer-beloe-suhoe-12",
+  "seconds": 1.0635204315185547,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": \"Bulgaria Wine of Russia\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SEMILLON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN\",\n    \"EAGLE\",\n    \"Bulgaria Wine of Russia\",\n    \"2023\",\n    \"SEMILLON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": "Bulgaria Wine of Russia",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SEMILLON",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN",
+      "EAGLE",
+      "Bulgaria Wine of Russia",
+      "2023",
+      "SEMILLON"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "skalistyy-bereg-veter-v-travah-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 2.1241872310638428,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕТЕР В ТРА-ВАХ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"ВЕТЕР\",\n    \"В\",\n    \"ТРА-\",\n    \"ВАХ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕТЕР В ТРА-ВАХ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "ВЕТЕР",
+      "В",
+      "ТРА-",
+      "ВАХ",
+      "СУХОЕ КРАСНОЕ",
+      "2021"
+    ]
+  }
+}

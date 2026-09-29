@@ -1,0 +1,22 @@
+{
+  "slug": "cantiani-chardonnay",
+  "seconds": 1.1193451881408691,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"CANTIANI\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"CANTIANI\",\n    \"Brut\",\n    \"CANTIANI\",\n    \"SPARKLING WINE\",\n    \"CHARDONNAY\",\n    \"Brut\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "CANTIANI",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": "Brut",
+    "raw_visible_text": [
+      "CANTIANI",
+      "Brut",
+      "CANTIANI",
+      "SPARKLING WINE",
+      "CHARDONNAY",
+      "Brut"
+    ]
+  }
+}

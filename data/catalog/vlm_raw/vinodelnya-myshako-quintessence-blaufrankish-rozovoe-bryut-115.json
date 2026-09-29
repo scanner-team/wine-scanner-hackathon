@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-blaufrankish-rozovoe-bryut-115",
+  "seconds": 5.893925189971924,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIODEAARS MÉCICARO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT ROSE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIODEAARS\",\n    \"1869\",\n    \"MÉCICARO\",\n    \"BLAUFRAKISCH\",\n    \"BRUT ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIODEAARS MÉCICARO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT ROSE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIODEAARS",
+      "1869",
+      "MÉCICARO",
+      "BLAUFRAKISCH",
+      "BRUT ROSE"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "golubitskoe-estate-winery-series-risling-reynskiy-beloe-suhoe-125",
+  "seconds": 5.500250816345215,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Thuecy Series\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": \"Thuecy Series\",\n  \"vintage\": \"2022\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE ESTATE\",\n    \"Thuecy Series\",\n    \"RIESLING\",\n    \"2022\",\n    \"Nº\",\n    \"GOLUBITSKAVA STRIELKA / TANAGNE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Thuecy Series",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": "Thuecy Series",
+    "vintage": "2022",
+    "grape": "RIESLING",
+    "category": "null",
+    "raw_visible_text": [
+      "GOLUBITSKOE ESTATE",
+      "Thuecy Series",
+      "RIESLING",
+      "2022",
+      "Nº",
+      "GOLUBITSKAVA STRIELKA / TANAGNE"
+    ]
+  }
+}

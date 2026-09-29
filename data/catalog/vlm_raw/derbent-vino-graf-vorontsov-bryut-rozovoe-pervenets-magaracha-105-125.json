@@ -1,0 +1,26 @@
+{
+  "slug": "derbent-vino-graf-vorontsov-bryut-rozovoe-pervenets-magaracha-105-125",
+  "seconds": 15.042561054229736,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РОЗОВОЕ БРЮТ\",\n  \"producer\": \"ГРАФ·ВОРОНЦОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"1890\",\n  \"grape\": null,\n  \"category\": \"РОЗОВОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"ГРАФ·ВОРОНЦОВ\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"18\",\n    \"90\",\n    \"18\",\n    \"90\",\n    \"СЕМПЕР\",\n    \"ИММОТА\",\n    \"FIDES\",\n    \"РОЗОВОЕ БРЮТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РОЗОВОЕ БРЮТ",
+    "producer": "ГРАФ·ВОРОНЦОВ",
+    "cuvee": null,
+    "vintage": "1890",
+    "grape": null,
+    "category": "РОЗОВОЕ БРЮТ",
+    "raw_visible_text": [
+      "ГРАФ·ВОРОНЦОВ",
+      "ИГРИСТОЕ ВИНО",
+      "18",
+      "90",
+      "18",
+      "90",
+      "СЕМПЕР",
+      "ИММОТА",
+      "FIDES",
+      "РОЗОВОЕ БРЮТ"
+    ]
+  }
+}

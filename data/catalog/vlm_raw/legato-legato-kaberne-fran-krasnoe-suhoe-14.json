@@ -1,0 +1,19 @@
+{
+  "slug": "legato-legato-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 4.347801923751831,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEGATO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Cabernet Franc\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LEGATO\",\n    \"Cabernet Franc\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEGATO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Cabernet Franc",
+    "category": null,
+    "raw_visible_text": [
+      "LEGATO",
+      "Cabernet Franc",
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "belmas-winery-sauvignon-blanc-katya-sovinon-blan-beloe-suhoe-115",
+  "seconds": 13.616856098175049,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"Belmas\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Sauvignon Blanc\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SAUVIGNON\",\n    \"BLANC\",\n    \"SEVASTOPOL\",\n    \"Katya\",\n    \"2022\",\n    \"Belmas\",\n    \"11.5% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "Belmas",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Sauvignon Blanc",
+    "category": null,
+    "raw_visible_text": [
+      "SAUVIGNON",
+      "BLANC",
+      "SEVASTOPOL",
+      "Katya",
+      "2022",
+      "Belmas",
+      "11.5% VOL",
+      "750 ML"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "usadba-divnomorskoe-rebo-rebo-krasnoe-suhoe-165",
+  "seconds": 6.962719917297363,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"REBO\",\n  \"producer\": \"УСАЛЬБА ДИВНОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"手\",\n    \"УСАЛЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"From the Russian\",\n    \"wine-growing region\",\n    \"on the coast of\",\n    \"The Black Sea\",\n    \"REBO\",\n    \"№1119\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "REBO",
+    "producer": "УСАЛЬБА ДИВНОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "手",
+      "УСАЛЬБА",
+      "ДИВНОМОРСКОЕ",
+      "From the Russian",
+      "wine-growing region",
+      "on the coast of",
+      "The Black Sea",
+      "REBO",
+      "№1119"
+    ]
+  }
+}

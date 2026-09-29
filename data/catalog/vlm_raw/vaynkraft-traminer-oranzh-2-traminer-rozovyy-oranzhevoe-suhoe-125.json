@@ -1,0 +1,19 @@
+{
+  "slug": "vaynkraft-traminer-oranzh-2-traminer-rozovyy-oranzhevoe-suhoe-125",
+  "seconds": 4.842544078826904,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРАММНЕР ОРАНЖ 2\",\n  \"producer\": \"WINECRAFT SOA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТРАММНЕР\",\n    \"ОРАНЖ 2\",\n    \"WINECRAFT SOA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРАММНЕР ОРАНЖ 2",
+    "producer": "WINECRAFT SOA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ТРАММНЕР",
+      "ОРАНЖ 2",
+      "WINECRAFT SOA"
+    ]
+  }
+}

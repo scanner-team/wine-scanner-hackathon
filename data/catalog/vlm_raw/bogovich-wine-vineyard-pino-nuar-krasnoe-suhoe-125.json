@@ -1,0 +1,19 @@
+{
+  "slug": "bogovich-wine-vineyard-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 4.802182912826538,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"IRINA BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"RED WINE\",\n  \"raw_visible_text\": [\n    \"IRINA BOGOVICH\",\n    \"PINOT NOIR\",\n    \"RED WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "IRINA BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": "RED WINE",
+    "raw_visible_text": [
+      "IRINA BOGOVICH",
+      "PINOT NOIR",
+      "RED WINE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+<svg width="260" height="520" viewBox="0 0 260 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke="currentColor" stroke-width="1.4" opacity="0.55" fill="none">
+  <!-- лоза -->
+  <path d="M130 0 C 110 40, 150 70, 130 110 C 110 150, 150 180, 130 220 C 115 250, 140 270, 128 300"/>
+  <!-- лист сверху -->
+  <path d="M130 60 C 90 40, 60 60, 55 100 C 90 100, 110 85, 130 60 Z"/>
+  <path d="M130 60 C 170 40, 200 60, 205 100 C 170 100, 150 85, 130 60 Z"/>
+  <path d="M130 60 L 130 100 M 95 75 L 130 90 M 165 75 L 130 90"/>
+  <!-- гроздь ягод -->
+  <g fill="currentColor" opacity="0.5" stroke="none">
+    <circle cx="115" cy="150" r="13"/>
+    <circle cx="145" cy="150" r="13"/>
+    <circle cx="100" cy="178" r="13"/>
+    <circle cx="130" cy="178" r="13"/>
+    <circle cx="160" cy="178" r="13"/>
+    <circle cx="115" cy="206" r="13"/>
+    <circle cx="145" cy="206" r="13"/>
+    <circle cx="100" cy="234" r="13"/>
+    <circle cx="130" cy="234" r="13"/>
+    <circle cx="160" cy="234" r="13"/>
+    <circle cx="115" cy="262" r="13"/>
+    <circle cx="145" cy="262" r="13"/>
+    <circle cx="130" cy="288" r="13"/>
+  </g>
+  <!-- лист снизу -->
+  <path d="M128 300 C 88 285, 55 305, 50 345 C 88 345, 108 328, 128 300 Z"/>
+  <path d="M128 300 C 168 285, 205 310, 208 350 C 168 350, 148 330, 128 300 Z"/>
+  <!-- лоза продолжение -->
+  <path d="M128 300 C 115 330, 140 350, 128 390 C 118 420, 140 440, 130 470 C 122 490, 135 500, 128 520"/>
+  <g fill="currentColor" opacity="0.5" stroke="none">
+    <circle cx="110" cy="400" r="11"/>
+    <circle cx="136" cy="400" r="11"/>
+    <circle cx="98" cy="424" r="11"/>
+    <circle cx="123" cy="424" r="11"/>
+    <circle cx="148" cy="424" r="11"/>
+    <circle cx="110" cy="448" r="11"/>
+    <circle cx="136" cy="448" r="11"/>
+    <circle cx="123" cy="470" r="11"/>
+  </g>
+</g>
+</svg>

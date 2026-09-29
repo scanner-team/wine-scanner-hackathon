@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-aristov-risling-beloe-suhoe-115",
+  "seconds": 4.200150966644287,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RIESLING\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"white dry wine\",\n  \"raw_visible_text\": [\n    \"RIES\",\n    \"THE MEOWS\",\n    \"LING\",\n    \"white dry wine 2020\",\n    \"ARISTOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RIESLING",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "white dry wine",
+    "raw_visible_text": [
+      "RIES",
+      "THE MEOWS",
+      "LING",
+      "white dry wine 2020",
+      "ARISTOV"
+    ]
+  }
+}

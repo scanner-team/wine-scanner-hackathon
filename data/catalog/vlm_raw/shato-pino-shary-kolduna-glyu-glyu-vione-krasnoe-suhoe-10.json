@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-shary-kolduna-glyu-glyu-vione-krasnoe-suhoe-10",
+  "seconds": 5.093337059020996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДИ КОЛУТУНА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"ПИНОТ\",\n  \"category\": \"ПИНОТ\",\n  \"raw_visible_text\": [\n    \"ШАРДИ КОЛУТУНА\",\n    \"ПИНОТ\",\n    \"30Х\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДИ КОЛУТУНА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "ПИНОТ",
+    "category": "ПИНОТ",
+    "raw_visible_text": [
+      "ШАРДИ КОЛУТУНА",
+      "ПИНОТ",
+      "30Х",
+      "2021"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "zolotoe-pole-legend-of-crimea-chardonnay-shardone-beloe-suhoe-13",
+  "seconds": 13.037744998931885,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"THE LEGEND of CRIMEA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHARDONNAY\",\n    \"2024\",\n    \"THE\",\n    \"LEGEND\",\n    \"of CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "THE LEGEND of CRIMEA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "CHARDONNAY",
+      "2024",
+      "THE",
+      "LEGEND",
+      "of CRIMEA"
+    ]
+  }
+}

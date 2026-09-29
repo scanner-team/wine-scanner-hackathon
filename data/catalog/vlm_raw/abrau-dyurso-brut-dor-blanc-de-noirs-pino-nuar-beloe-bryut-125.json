@@ -1,0 +1,25 @@
+{
+  "slug": "abrau-dyurso-brut-dor-blanc-de-noirs-pino-nuar-beloe-bryut-125",
+  "seconds": 6.945099115371704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Brut d'Or\",\n  \"producer\": \"Kosnay-Drogo\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"Blanc de Noirs\",\n  \"raw_visible_text\": [\n    \"1870\",\n    \"ПУССЕР ВИНОВИЙ ДОМ\",\n    \"Kosnay-Drogo\",\n    \"Brut d'Or\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Blanc de Noirs\",\n    \"2021\",\n    \"ПРЕДСТАВЛЕН В СОЮЗЕ\",\n    \"ТОЧНО 2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Brut d'Or",
+    "producer": "Kosnay-Drogo",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "Blanc de Noirs",
+    "raw_visible_text": [
+      "1870",
+      "ПУССЕР ВИНОВИЙ ДОМ",
+      "Kosnay-Drogo",
+      "Brut d'Or",
+      "MÉTHODE CLASSIQUE",
+      "Blanc de Noirs",
+      "2021",
+      "ПРЕДСТАВЛЕН В СОЮЗЕ",
+      "ТОЧНО 2021"
+    ]
+  }
+}

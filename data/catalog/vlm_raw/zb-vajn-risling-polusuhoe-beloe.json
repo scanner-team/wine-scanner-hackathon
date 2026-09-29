@@ -1,0 +1,19 @@
+{
+  "slug": "zb-vajn-risling-polusuhoe-beloe",
+  "seconds": 1.0646183490753174,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Riesling\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Riesling\",\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"НЕВАЖНО, С КЕМ ТЫ СЛИШЬ, ВАЖНО, С КЕМ ТЫ ПЬЕШЬ\",\n    \"Riesling\",\n    \"25\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Riesling",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Riesling",
+    "category": "сухое",
+    "raw_visible_text": [
+      "НЕВАЖНО, С КЕМ ТЫ СЛИШЬ, ВАЖНО, С КЕМ ТЫ ПЬЕШЬ",
+      "Riesling",
+      "25"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "loco-cimbali-risling-risling-reynskiy-beloe-suhoe-13",
+  "seconds": 13.186728954315186,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RIESLING\",\n  \"producer\": \"LOCO CIMBALI WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"SEVASTOPOL\",\n  \"raw_visible_text\": [\n    \"LOCO CIMBALI\",\n    \"WINERY\",\n    \"RIESLING\",\n    \"2024\",\n    \"SEVASTOPOL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RIESLING",
+    "producer": "LOCO CIMBALI WINERY",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "RIESLING",
+    "category": "SEVASTOPOL",
+    "raw_visible_text": [
+      "LOCO CIMBALI",
+      "WINERY",
+      "RIESLING",
+      "2024",
+      "SEVASTOPOL"
+    ]
+  }
+}

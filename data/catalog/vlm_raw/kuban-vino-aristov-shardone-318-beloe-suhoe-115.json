@@ -1,0 +1,23 @@
+{
+  "slug": "kuban-vino-aristov-shardone-318-beloe-suhoe-115",
+  "seconds": 6.646384000778198,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARISTOV\",\n  \"producer\": \"АРИСТОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Шардоне\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"АРИСТОВ\",\n    \"Шардоне\",\n    \"сухое красное\",\n    \"Восемь сортов\",\n    \"сортов\",\n    \"осн. 2010\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARISTOV",
+    "producer": "АРИСТОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Шардоне",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "АРИСТОВ",
+      "Шардоне",
+      "сухое красное",
+      "Восемь сортов",
+      "сортов",
+      "осн. 2010",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "esse-merlo-krasnoe-suhoe-135",
+  "seconds": 4.4273271560668945,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Mepico\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Mepico\",\n    \"Toscana\",\n    \"Piedi di Lupo\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Mepico",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Mepico",
+      "Toscana",
+      "Piedi di Lupo",
+      "esse"
+    ]
+  }
+}

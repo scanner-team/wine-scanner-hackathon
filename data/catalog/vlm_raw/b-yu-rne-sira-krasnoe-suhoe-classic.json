@@ -1,0 +1,23 @@
+{
+  "slug": "b-yu-rne-sira-krasnoe-suhoe-classic",
+  "seconds": 1.612199068069458,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БЮРНЫЕ\",\n  \"producer\": \"БЮРНЫЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"БЮРНЫЕ\",\n    \"BURNIER\",\n    \"СИРА / красное сухое\",\n    \"20\",\n    \"24\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БЮРНЫЕ",
+    "producer": "БЮРНЫЕ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "БЮРНЫЕ",
+      "BURNIER",
+      "СИРА / красное сухое",
+      "20",
+      "24",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "СЕРТИФИЦИРОВАННЫЙ ОРГАНИЧЕСКИЙ ВИНОГРАДНИК"
+    ]
+  }
+}

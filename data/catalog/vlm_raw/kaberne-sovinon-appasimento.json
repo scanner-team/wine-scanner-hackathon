@@ -1,0 +1,23 @@
+{
+  "slug": "kaberne-sovinon-appasimento",
+  "seconds": 2.1144683361053467,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"Галицкий • Галицкий\",\n  \"cuvee\": \"Offpassimento\",\n  \"vintage\": \"2020\",\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Галицкий • Галицкий\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"Offpassimento\",\n    \"ТРЕТИЙ УРОЖАЙ\",\n    \"КРАСНАЯ ГОРКА\",\n    \"ЗАПАДНЫЙ СКЛОН ЛЫСОЙ ГОРЫ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН",
+    "producer": "Галицкий • Галицкий",
+    "cuvee": "Offpassimento",
+    "vintage": "2020",
+    "grape": "Каберне Совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Галицкий • Галицкий",
+      "КАБЕРНЕ СОВИНЬОН",
+      "Offpassimento",
+      "ТРЕТИЙ УРОЖАЙ",
+      "КРАСНАЯ ГОРКА",
+      "ЗАПАДНЫЙ СКЛОН ЛЫСОЙ ГОРЫ",
+      "2020"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "alma-valley-tempranilo-rezerv-krasnoe-suhoe-14",
+  "seconds": 7.15931510925293,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALMAVALLEY\",\n  \"producer\": \"ALMAVALLEY\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"TEMPRANILLO\",\n  \"category\": \"красное сухое вино\",\n  \"raw_visible_text\": [\n    \"ALMAVALLEY\",\n    \"RESERVE\",\n    \"2021\",\n    \"TEMPRANILLO\",\n    \"КРЫМ\",\n    \"красное сухое вино\",\n    \"спирт: 12,5% об. | объем: 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALMAVALLEY",
+    "producer": "ALMAVALLEY",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "TEMPRANILLO",
+    "category": "красное сухое вино",
+    "raw_visible_text": [
+      "ALMAVALLEY",
+      "RESERVE",
+      "2021",
+      "TEMPRANILLO",
+      "КРЫМ",
+      "красное сухое вино",
+      "спирт: 12,5% об. | объем: 0,75 л"
+    ]
+  }
+}

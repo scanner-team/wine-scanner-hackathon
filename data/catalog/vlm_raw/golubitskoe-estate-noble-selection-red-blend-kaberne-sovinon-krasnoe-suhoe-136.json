@@ -1,0 +1,19 @@
+{
+  "slug": "golubitskoe-estate-noble-selection-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+  "seconds": 4.978853225708008,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"NOBLE SELECTION\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"RED BLEND\",\n  \"raw_visible_text\": [\n    \"NOBLE SELECTION\",\n    \"GOLUBITSKOE ESTATE\",\n    \"RED BLEND / 2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "NOBLE SELECTION",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": null,
+    "category": "RED BLEND",
+    "raw_visible_text": [
+      "NOBLE SELECTION",
+      "GOLUBITSKOE ESTATE",
+      "RED BLEND / 2019"
+    ]
+  }
+}

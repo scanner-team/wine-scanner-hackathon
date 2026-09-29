@@ -1,0 +1,21 @@
+{
+  "slug": "aya-organic-wine-vineyards-blush-2-merlo-rozovoe-ekstra-bryut-135",
+  "seconds": 5.088522911071777,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Blush #2\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"MERLOT\",\n  \"category\": \"PetNat\",\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"Blush #2\",\n    \"MERLOT\",\n    \"PetNat\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Blush #2",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "MERLOT",
+    "category": "PetNat",
+    "raw_visible_text": [
+      "AVA",
+      "Blush #2",
+      "MERLOT",
+      "PetNat",
+      "2023"
+    ]
+  }
+}

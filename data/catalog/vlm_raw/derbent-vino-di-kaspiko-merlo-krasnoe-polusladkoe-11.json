@@ -1,0 +1,22 @@
+{
+  "slug": "derbent-vino-di-kaspiko-merlo-krasnoe-polusladkoe-11",
+  "seconds": 14.256616115570068,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"красное полусладкое\",\n  \"raw_visible_text\": [\n    \"DI CASPICO\",\n    \"ВИНО ИЗ ВИНОГРАДА,\",\n    \"ВЫРАЩЕННОГО В ДАГЕСТАНЕ\",\n    \"КРАСНОЕ ПОЛУСЛАДКОЕ\",\n    \"АЛК. 13% ОБ.\",\n    \"750 МЛ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "красное полусладкое",
+    "raw_visible_text": [
+      "DI CASPICO",
+      "ВИНО ИЗ ВИНОГРАДА,",
+      "ВЫРАЩЕННОГО В ДАГЕСТАНЕ",
+      "КРАСНОЕ ПОЛУСЛАДКОЕ",
+      "АЛК. 13% ОБ.",
+      "750 МЛ"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "vinodelnya-myshako-kaberne-sovinon-black-out-krasnoe-polusuhoe-16",
+  "seconds": 7.462212085723877,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLACK OUT\",\n  \"producer\": \"ВИНОДЕЛНЯ МЫСКАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"ПОЛУСЛУДКОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛНЯ\",\n    \"МЫСКАКО\",\n    \"1869\",\n    \"BLACK\",\n    \"OUT\",\n    \"RIPASSO\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ПОЛУСЛУДКОЕ\",\n    \"2022\",\n    \"16%\",\n    \"16%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLACK OUT",
+    "producer": "ВИНОДЕЛНЯ МЫСКАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "ПОЛУСЛУДКОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛНЯ",
+      "МЫСКАКО",
+      "1869",
+      "BLACK",
+      "OUT",
+      "RIPASSO",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ПОЛУСЛУДКОЕ",
+      "2022",
+      "16%",
+      "16%"
+    ]
+  }
+}

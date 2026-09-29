@@ -1,0 +1,21 @@
+{
+  "slug": "dacha-serdyuka-saperavi-saperavi-severnyy-krasnoe-suhoe-14",
+  "seconds": 5.6023640632629395,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дача Серлюка\",\n  \"producer\": \"САПЕРАВИ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Дача Серлюка\",\n    \"САПЕРАВИ\",\n    \"ДОЛИНА ДОНА\",\n    \"Рак ТОПОЛЯННИК\",\n    \"ПИСО СЕВ ДИКОСКИЙ СЕВИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дача Серлюка",
+    "producer": "САПЕРАВИ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Дача Серлюка",
+      "САПЕРАВИ",
+      "ДОЛИНА ДОНА",
+      "Рак ТОПОЛЯННИК",
+      "ПИСО СЕВ ДИКОСКИЙ СЕВИ"
+    ]
+  }
+}

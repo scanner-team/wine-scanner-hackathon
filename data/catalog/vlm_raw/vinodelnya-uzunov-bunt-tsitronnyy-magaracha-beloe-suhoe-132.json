@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-uzunov-bunt-tsitronnyy-magaracha-beloe-suhoe-132",
+  "seconds": 13.60843801498413,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БУНТ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"белоe сухое\",\n  \"raw_visible_text\": [\n    \"БУНТ\",\n    \"белоe сухое\",\n    \"2024\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БУНТ",
+    "producer": "ВИНОДЕЛЬНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "белоe сухое",
+    "raw_visible_text": [
+      "БУНТ",
+      "белоe сухое",
+      "2024",
+      "ВИНОДЕЛЬНЯ",
+      "УЗУНОВ"
+    ]
+  }
+}

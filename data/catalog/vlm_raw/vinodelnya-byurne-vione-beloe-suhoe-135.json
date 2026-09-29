@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-byurne-vione-beloe-suhoe-135",
+  "seconds": 5.37998104095459,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БОРНЫЕ BURNIER\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ВИОНЕЬ VIognier\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БОРНЫЕ\",\n    \"BURNIER\",\n    \"ВИОНЕЬ\",\n    \"VIognier\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"PRODUIT EN RUSSIE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БОРНЫЕ BURNIER",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ВИОНЕЬ VIognier",
+    "category": null,
+    "raw_visible_text": [
+      "БОРНЫЕ",
+      "BURNIER",
+      "ВИОНЕЬ",
+      "VIognier",
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "PRODUIT EN RUSSIE"
+    ]
+  }
+}

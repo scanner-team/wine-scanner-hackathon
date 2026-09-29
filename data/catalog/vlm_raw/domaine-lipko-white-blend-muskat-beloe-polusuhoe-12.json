@@ -1,0 +1,23 @@
+{
+  "slug": "domaine-lipko-white-blend-muskat-beloe-polusuhoe-12",
+  "seconds": 5.710573196411133,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WHITE BLEND\",\n  \"producer\": \"DOMAINE LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SEVASTONOL\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"WHITE BLEND\",\n    \"20—DOMAINE LIPKO—17\",\n    \"FAMILY VINEYARDS & WINERY\",\n    \"SEVASTONOL\",\n    \"12,0% vol.\",\n    \"2022\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WHITE BLEND",
+    "producer": "DOMAINE LIPKO",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SEVASTONOL",
+    "category": null,
+    "raw_visible_text": [
+      "WHITE BLEND",
+      "20—DOMAINE LIPKO—17",
+      "FAMILY VINEYARDS & WINERY",
+      "SEVASTONOL",
+      "12,0% vol.",
+      "2022",
+      "750ml"
+    ]
+  }
+}

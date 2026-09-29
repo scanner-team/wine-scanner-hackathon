@@ -1,0 +1,14 @@
+{
+  "slug": "twopeters_kokur",
+  "seconds": 4.900054693222046,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"TWO PETERS\",\n  \"producer\": \"SP\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n    \"SP\",\n   ",
+  "parsed": {
+    "visible_name": "TWO PETERS",
+    "producer": "SP",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "сухое красное"
+  }
+}

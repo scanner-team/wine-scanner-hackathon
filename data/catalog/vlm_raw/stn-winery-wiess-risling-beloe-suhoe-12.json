@@ -1,0 +1,21 @@
+{
+  "slug": "stn-winery-wiess-risling-beloe-suhoe-12",
+  "seconds": 4.772439002990723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WEISS\",\n  \"producer\": \"SEVASTOPOL\",\n  \"cuvee\": null,\n  \"vintage\": \"22-23\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"22-23\",\n    \"WEISS\",\n    \"SIN\",\n    \"SEVASTOPOL\",\n    \"DOLINGER THE CREATOR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WEISS",
+    "producer": "SEVASTOPOL",
+    "cuvee": null,
+    "vintage": "22-23",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "22-23",
+      "WEISS",
+      "SIN",
+      "SEVASTOPOL",
+      "DOLINGER THE CREATOR"
+    ]
+  }
+}

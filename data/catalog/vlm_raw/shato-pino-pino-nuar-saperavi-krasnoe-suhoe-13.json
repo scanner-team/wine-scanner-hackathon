@@ -1,0 +1,22 @@
+{
+  "slug": "shato-pino-pino-nuar-saperavi-krasnoe-suhoe-13",
+  "seconds": 6.155041933059692,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ГРАВИТАЦИЯ\",\n  \"producer\": \"СЕРТУА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"МІНЧОНО СУХОЕ\",\n  \"raw_visible_text\": [\n    \"СЕРТУА\",\n    \"PINOT\",\n    \"ГРАВИТАЦИЯ\",\n    \"ПИНО НУАР\",\n    \"САПЕРАВИ\",\n    \"МІНЧОНО СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ГРАВИТАЦИЯ",
+    "producer": "СЕРТУА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПИНО НУАР",
+    "category": "МІНЧОНО СУХОЕ",
+    "raw_visible_text": [
+      "СЕРТУА",
+      "PINOT",
+      "ГРАВИТАЦИЯ",
+      "ПИНО НУАР",
+      "САПЕРАВИ",
+      "МІНЧОНО СУХОЕ"
+    ]
+  }
+}

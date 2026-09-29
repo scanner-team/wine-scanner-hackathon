@@ -1,0 +1,27 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-vyderzhannoe-ekstra-bryut-beloe-novyy-svet-kokur-11",
+  "seconds": 9.04276180267334,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"ДОМ ШАМПАНСКИХ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"КОКУР\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"2019\",\n    \"КЛАССИЧЕСКИЙ МЕТОД\",\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"Новый Святъ\",\n    \"ЗАДАРЖАНИЕ\",\n    \"КОКУР\",\n    \"ЭКСТРА БРЮТ\",\n    \"2019\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "ДОМ ШАМПАНСКИХ ВИН",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "КОКУР",
+    "category": "брют",
+    "raw_visible_text": [
+      "2019",
+      "КЛАССИЧЕСКИЙ МЕТОД",
+      "18",
+      "78",
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "Новый Святъ",
+      "ЗАДАРЖАНИЕ",
+      "КОКУР",
+      "ЭКСТРА БРЮТ",
+      "2019",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ"
+    ]
+  }
+}

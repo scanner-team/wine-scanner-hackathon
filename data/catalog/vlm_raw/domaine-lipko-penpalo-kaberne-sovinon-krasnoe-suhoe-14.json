@@ -1,0 +1,21 @@
+{
+  "slug": "domaine-lipko-penpalo-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 5.308454751968384,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PENPALO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": \"Секвастовьё\",\n  \"raw_visible_text\": [\n    \"Старые лозы\",\n    \"PENPALO\",\n    \"Cabernet Sauvignon\",\n    \"Секвастовьё\",\n    \"14% ОБ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PENPALO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Cabernet Sauvignon",
+    "category": "Секвастовьё",
+    "raw_visible_text": [
+      "Старые лозы",
+      "PENPALO",
+      "Cabernet Sauvignon",
+      "Секвастовьё",
+      "14% ОБ"
+    ]
+  }
+}

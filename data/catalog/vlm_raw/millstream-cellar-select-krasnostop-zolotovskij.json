@@ -1,0 +1,27 @@
+{
+  "slug": "millstream-cellar-select-krasnostop-zolotovskij",
+  "seconds": 1.623403787612915,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Millstream Wines\",\n  \"producer\": \"Millstream Wines\",\n  \"cuvee\": \"Select\",\n  \"vintage\": \"2020\",\n  \"grape\": \"Золотоски\",\n  \"category\": \"Красное\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"Select\",\n    \"MILLSTREAM\",\n    \"Wines\",\n    \"Original\",\n    \"1936\",\n    \"2020\",\n    \"КРАСНОСТОН\",\n    \"ЗОЛОТОСКИЙ\",\n    \"ВВЕДЕНО В ДИЗАЙН БОКСА\",\n    \"СУХОЕ КРАСНОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Millstream Wines",
+    "producer": "Millstream Wines",
+    "cuvee": "Select",
+    "vintage": "2020",
+    "grape": "Золотоски",
+    "category": "Красное",
+    "raw_visible_text": [
+      "CELLAR",
+      "Select",
+      "MILLSTREAM",
+      "Wines",
+      "Original",
+      "1936",
+      "2020",
+      "КРАСНОСТОН",
+      "ЗОЛОТОСКИЙ",
+      "ВВЕДЕНО В ДИЗАЙН БОКСА",
+      "СУХОЕ КРАСНОЕ"
+    ]
+  }
+}

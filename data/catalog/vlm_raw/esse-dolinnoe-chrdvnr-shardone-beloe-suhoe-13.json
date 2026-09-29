@@ -1,0 +1,20 @@
+{
+  "slug": "esse-dolinnoe-chrdvnr-shardone-beloe-suhoe-13",
+  "seconds": 4.872862100601196,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DOLINNOE CHRD\",\n  \"producer\": \"KACHA VALLEY\",\n  \"cuvee\": null,\n  \"vintage\": \"2015\",\n  \"grape\": \"CHRD\",\n  \"category\": \"ESSE\",\n  \"raw_visible_text\": [\n    \"KACHA VALLEY\",\n    \"2015\",\n    \"DOLINNOE CHRD\",\n    \"ESSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DOLINNOE CHRD",
+    "producer": "KACHA VALLEY",
+    "cuvee": null,
+    "vintage": "2015",
+    "grape": "CHRD",
+    "category": "ESSE",
+    "raw_visible_text": [
+      "KACHA VALLEY",
+      "2015",
+      "DOLINNOE CHRD",
+      "ESSE"
+    ]
+  }
+}

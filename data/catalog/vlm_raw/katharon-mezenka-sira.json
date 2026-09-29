@@ -1,0 +1,21 @@
+{
+  "slug": "katharon-mezenka-sira",
+  "seconds": 1.7568495273590088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЕНКА\",\n  \"producer\": \"KATHARON\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"СИРА\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"МЕЗЕНКА\",\n    \"СИРА\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"2025\",\n    \"KATHARON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЕНКА",
+    "producer": "KATHARON",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "СИРА",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "МЕЗЕНКА",
+      "СИРА",
+      "СУХОЕ КРАСНОЕ",
+      "2025",
+      "KATHARON"
+    ]
+  }
+}

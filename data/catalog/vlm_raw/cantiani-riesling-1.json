@@ -1,0 +1,21 @@
+{
+  "slug": "cantiani-riesling-1",
+  "seconds": 1.3304274082183838,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"CANTIANI\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"CANTIANI\",\n    \"Brut\",\n    \"SPARKLING WINE\",\n    \"RIESLING\",\n    \"Brut\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "CANTIANI",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": "Brut",
+    "raw_visible_text": [
+      "CANTIANI",
+      "Brut",
+      "SPARKLING WINE",
+      "RIESLING",
+      "Brut"
+    ]
+  }
+}

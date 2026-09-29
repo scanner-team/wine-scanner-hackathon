@@ -1,0 +1,20 @@
+{
+  "slug": "villa-sofiya-kaberne-sovinon-krasnoe-suhoe-133",
+  "seconds": 5.211449861526489,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Винна София\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"каберне совиньон\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Винна София\",\n    \"каберне совиньон\",\n    \"сухое красное\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Винна София",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "каберне совиньон",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Винна София",
+      "каберне совиньон",
+      "сухое красное",
+      "2022"
+    ]
+  }
+}

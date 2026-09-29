@@ -1,0 +1,19 @@
+{
+  "slug": "igristoe-krasnoe-sladkoe-czimlyanskoe",
+  "seconds": 5.716020822525024,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": \"ЦИМЛЯНСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"игристое вино\",\n  \"raw_visible_text\": [\n    \"ИГРИСТКОЕ ВИНО\",\n    \"ЦИМЛЯНСКОЕ\",\n    \"Сладкое Урожай\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": "ЦИМЛЯНСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "игристое вино",
+    "raw_visible_text": [
+      "ИГРИСТКОЕ ВИНО",
+      "ЦИМЛЯНСКОЕ",
+      "Сладкое Урожай"
+    ]
+  }
+}

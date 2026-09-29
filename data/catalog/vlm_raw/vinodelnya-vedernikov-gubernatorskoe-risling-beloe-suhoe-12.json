@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-vedernikov-gubernatorskoe-risling-beloe-suhoe-12",
+  "seconds": 6.574108123779297,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЬ\",\n  \"producer\": \"ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПУБЕРНАТОРСКОЕ\",\n  \"category\": \"РИСАЛИНТ\",\n  \"raw_visible_text\": [\n    \"ВИНА\",\n    \"ВЕДЕРНИКОВЬ\",\n    \"ПУБЕРНАТОРСКОЕ\",\n    \"РИСАЛИНТ\",\n    \"ПОТОМ МАЛЕНИКОВ\",\n    \"ДОБРОВА ДОНА\",\n    \"750 мл\",\n    \"700 мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЬ",
+    "producer": "ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПУБЕРНАТОРСКОЕ",
+    "category": "РИСАЛИНТ",
+    "raw_visible_text": [
+      "ВИНА",
+      "ВЕДЕРНИКОВЬ",
+      "ПУБЕРНАТОРСКОЕ",
+      "РИСАЛИНТ",
+      "ПОТОМ МАЛЕНИКОВ",
+      "ДОБРОВА ДОНА",
+      "750 мл",
+      "700 мл"
+    ]
+  }
+}

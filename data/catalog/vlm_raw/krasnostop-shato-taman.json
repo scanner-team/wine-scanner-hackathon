@@ -1,0 +1,23 @@
+{
+  "slug": "krasnostop-shato-taman",
+  "seconds": 2.1106762886047363,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": \"2026\",\n  \"grape\": null,\n  \"category\": \"полусухое розовое\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"КРАСНОСТОП\",\n    \"2026\",\n    \"РОССИЙСКОЕ ИГРИСТОЕ МОЛОДОЕ ВИНО\",\n    \"С ЗАЩИЩЕННЫМ НАИМЕНОВАНИЕМ МЕСТА ПРОИСХОЖДЕНИЯ\",\n    \"«ЮЖНЫЙ БЕРЕГ ТАМАНИ»\",\n    \"ПОЛУСУХОЕ РОЗОВОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": "2026",
+    "grape": null,
+    "category": "полусухое розовое",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "КРАСНОСТОП",
+      "2026",
+      "РОССИЙСКОЕ ИГРИСТОЕ МОЛОДОЕ ВИНО",
+      "С ЗАЩИЩЕННЫМ НАИМЕНОВАНИЕМ МЕСТА ПРОИСХОЖДЕНИЯ",
+      "«ЮЖНЫЙ БЕРЕГ ТАМАНИ»",
+      "ПОЛУСУХОЕ РОЗОВОЕ"
+    ]
+  }
+}

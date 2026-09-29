@@ -1,0 +1,19 @@
+{
+  "slug": "alma-valley-solntse-vozduh-vinograd-kokur-beloe-polusladkoe-13",
+  "seconds": 7.424177885055542,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"белое полусладкое\",\n  \"raw_visible_text\": [\n    \"СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД\",\n    \"БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО\",\n    \"РОССИЯ, КРЫМ | 0,7л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "белое полусладкое",
+    "raw_visible_text": [
+      "СОЛНЦЕ, ВОЗДУХ, ВИНОГРАД",
+      "БЕЛОЕ ПОЛУСЛАДКОЕ ВИНО",
+      "РОССИЯ, КРЫМ | 0,7л"
+    ]
+  }
+}

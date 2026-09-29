@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-konstantina-dzitoeva-kion-kaberne-sovinon-krasnoe-suhoe-145",
+  "seconds": 13.4475417137146,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Кион\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Кион\",\n    \"РЕЗЕРВ\",\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"2022г.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Кион",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Кион",
+      "РЕЗЕРВ",
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "2022г."
+    ]
+  }
+}

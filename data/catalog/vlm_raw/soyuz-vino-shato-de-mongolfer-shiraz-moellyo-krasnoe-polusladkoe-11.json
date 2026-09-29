@@ -1,0 +1,20 @@
+{
+  "slug": "soyuz-vino-shato-de-mongolfer-shiraz-moellyo-krasnoe-polusladkoe-11",
+  "seconds": 5.1085121631622314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Shiraz\",\n  \"producer\": \"Château de MONTGOLFIERE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Shiraz\",\n  \"category\": \"rouge moelleux\",\n  \"raw_visible_text\": [\n    \"Château de MONTGOLFIERE\",\n    \"Shiraz\",\n    \"rouge moelleux\",\n    \"75cl / 11% vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Shiraz",
+    "producer": "Château de MONTGOLFIERE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Shiraz",
+    "category": "rouge moelleux",
+    "raw_visible_text": [
+      "Château de MONTGOLFIERE",
+      "Shiraz",
+      "rouge moelleux",
+      "75cl / 11% vol"
+    ]
+  }
+}

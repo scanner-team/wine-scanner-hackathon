@@ -1,0 +1,18 @@
+{
+  "slug": "esse-saperavi-krasnoe-suhoe-13",
+  "seconds": 4.090674877166748,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Canejardin\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Canejardin\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Canejardin",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Canejardin",
+      "esse"
+    ]
+  }
+}

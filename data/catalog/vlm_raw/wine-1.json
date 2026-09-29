@@ -1,0 +1,22 @@
+{
+  "slug": "wine-1",
+  "seconds": 1.3162882328033447,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MARGARITA\",\n  \"producer\": \"WINEMAFFIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"SAUVIGNON BLANC\",\n  \"raw_visible_text\": [\n    \"WINEMAFFIA\",\n    \"Vineyard Farming\",\n    \"MARGARITA\",\n    \"2022\",\n    \"SAUVIGNON BLANC\",\n    \"025/999\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MARGARITA",
+    "producer": "WINEMAFFIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": "SAUVIGNON BLANC",
+    "raw_visible_text": [
+      "WINEMAFFIA",
+      "Vineyard Farming",
+      "MARGARITA",
+      "2022",
+      "SAUVIGNON BLANC",
+      "025/999"
+    ]
+  }
+}

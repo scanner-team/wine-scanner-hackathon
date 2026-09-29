@@ -1,0 +1,22 @@
+{
+  "slug": "chteau-le-grand-vostock-vostock-blanc-sovinon-blan-beloe-suhoe-135",
+  "seconds": 10.111387252807617,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Vostock\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": \"sélection blanc\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Vostock\",\n    \"du\",\n    \"CHÂTEAU\",\n    \"LE GRAND VOSTOCK\",\n    \"sélection blanc\",\n    \"СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОГАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Vostock",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": "sélection blanc",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Vostock",
+      "du",
+      "CHÂTEAU",
+      "LE GRAND VOSTOCK",
+      "sélection blanc",
+      "СОЗДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОГАНА"
+    ]
+  }
+}

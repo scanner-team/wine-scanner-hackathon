@@ -1,0 +1,23 @@
+{
+  "slug": "ferrum-winery-pinot-noir-pino-nuar-rozovoe-suhoe-13",
+  "seconds": 5.281944036483765,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Fe 26\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FERRUM WINERY\",\n    \"26\",\n    \"Fe\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"PINOT NOIR\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Fe 26",
+    "producer": "FERRUM WINERY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "FERRUM WINERY",
+      "26",
+      "Fe",
+      "FERRUM",
+      "PYATIGORSK",
+      "PINOT NOIR",
+      "2023"
+    ]
+  }
+}

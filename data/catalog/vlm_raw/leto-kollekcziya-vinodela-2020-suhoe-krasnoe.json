@@ -1,0 +1,20 @@
+{
+  "slug": "leto-kollekcziya-vinodela-2020-suhoe-krasnoe",
+  "seconds": 1.1918411254882812,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИНОДЕЛЬНЯ ЛЕТО\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ ЛЕТО\",\n    \"ЛЕТО\",\n    \"Кириллова\",\n    \"Святослава\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИНОДЕЛЬНЯ ЛЕТО",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ ЛЕТО",
+      "ЛЕТО",
+      "Кириллова",
+      "Святослава"
+    ]
+  }
+}

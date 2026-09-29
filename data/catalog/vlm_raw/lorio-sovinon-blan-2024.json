@@ -1,0 +1,20 @@
+{
+  "slug": "lorio-sovinon-blan-2024",
+  "seconds": 1.1437106132507324,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LORIOT\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"СОВИНЬОН БЛАН\",\n  \"category\": \"Вино белое сухое\",\n  \"raw_visible_text\": [\n    \"LORIOT\",\n    \"СОВИНЬОН БЛАН\",\n    \"Вино белое сухое\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LORIOT",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "СОВИНЬОН БЛАН",
+    "category": "Вино белое сухое",
+    "raw_visible_text": [
+      "LORIOT",
+      "СОВИНЬОН БЛАН",
+      "Вино белое сухое",
+      "2024"
+    ]
+  }
+}

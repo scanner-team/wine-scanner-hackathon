@@ -1,0 +1,23 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-shardone-suhoe-beg-in-boks-beloe-11",
+  "seconds": 1.2444002628326416,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SOYUZ VINO\",\n  \"producer\": \"INTERNATIONAL WINE PRODUCTION GROUP\",\n  \"cuvee\": null,\n  \"vintage\": \"1976\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"1976\",\n    \"SOYUZ VINO\",\n    \"INTERNATIONAL\",\n    \"WINE PRODUCTION\",\n    \"GROUP\",\n    \"1 x 10 л.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SOYUZ VINO",
+    "producer": "INTERNATIONAL WINE PRODUCTION GROUP",
+    "cuvee": null,
+    "vintage": "1976",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "1976",
+      "SOYUZ VINO",
+      "INTERNATIONAL",
+      "WINE PRODUCTION",
+      "GROUP",
+      "1 x 10 л."
+    ]
+  }
+}

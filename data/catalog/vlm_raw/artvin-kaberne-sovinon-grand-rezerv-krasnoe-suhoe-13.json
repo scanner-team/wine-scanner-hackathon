@@ -1,0 +1,23 @@
+{
+  "slug": "artvin-kaberne-sovinon-grand-rezerv-krasnoe-suhoe-13",
+  "seconds": 6.789624929428101,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"Артём Винь\",\n  \"cuvee\": \"GRAND RESERVE\",\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"вино сухое красное\",\n  \"raw_visible_text\": [\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"вино сухое красное\",\n    \"2020\",\n    \"Артём Винь\",\n    \"СЕВАСТОПОЛЬ\",\n    \"GRAND RESERVE\",\n    \"Вино из Севастополя\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН",
+    "producer": "Артём Винь",
+    "cuvee": "GRAND RESERVE",
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "вино сухое красное",
+    "raw_visible_text": [
+      "КАБЕРНЕ СОВИНЬОН",
+      "вино сухое красное",
+      "2020",
+      "Артём Винь",
+      "СЕВАСТОПОЛЬ",
+      "GRAND RESERVE",
+      "Вино из Севастополя"
+    ]
+  }
+}

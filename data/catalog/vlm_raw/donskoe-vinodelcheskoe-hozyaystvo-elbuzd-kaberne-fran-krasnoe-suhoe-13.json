@@ -1,0 +1,22 @@
+{
+  "slug": "donskoe-vinodelcheskoe-hozyaystvo-elbuzd-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 9.727666854858398,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ELBUZO\",\n  \"producer\": \"Донское винодельческое хозяйство «Эльбузд»\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНИЕ ФРАН\",\n  \"category\": \"вино красное сухое\",\n  \"raw_visible_text\": [\n    \"ELBUZO\",\n    \"КАБЕРНИЕ ФРАН\",\n    \"Донское винодельческое хозяйство\",\n    \"«Эльбузд»\",\n    \"вино красное сухое\",\n    \"ПРОИЗВЕДЕНО 1922 ВУТЫЛЯК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ELBUZO",
+    "producer": "Донское винодельческое хозяйство «Эльбузд»",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНИЕ ФРАН",
+    "category": "вино красное сухое",
+    "raw_visible_text": [
+      "ELBUZO",
+      "КАБЕРНИЕ ФРАН",
+      "Донское винодельческое хозяйство",
+      "«Эльбузд»",
+      "вино красное сухое",
+      "ПРОИЗВЕДЕНО 1922 ВУТЫЛЯК"
+    ]
+  }
+}

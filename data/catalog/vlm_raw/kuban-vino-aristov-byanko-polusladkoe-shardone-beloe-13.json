@@ -1,0 +1,19 @@
+{
+  "slug": "kuban-vino-aristov-byanko-polusladkoe-shardone-beloe-13",
+  "seconds": 5.523377895355225,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BIANCO\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"semi-dolce\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"BIANCO\",\n    \"semi-dolce\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BIANCO",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "semi-dolce",
+    "raw_visible_text": [
+      "ARISTOV",
+      "BIANCO",
+      "semi-dolce"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-viognier-katya-belmas-vione-beloe-suhoe-135",
+  "seconds": 5.353088855743408,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"VÖGNIER\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Sebastopol\",\n  \"category\": \"Belmont\",\n  \"raw_visible_text\": [\n    \"VÖGNIER\",\n    \"SEBASTOPOL\",\n    \"Katya\",\n    \"2022\",\n    \"Belmont\",\n    \"13.5% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "VÖGNIER",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Sebastopol",
+    "category": "Belmont",
+    "raw_visible_text": [
+      "VÖGNIER",
+      "SEBASTOPOL",
+      "Katya",
+      "2022",
+      "Belmont",
+      "13.5% VOL",
+      "750 ML"
+    ]
+  }
+}

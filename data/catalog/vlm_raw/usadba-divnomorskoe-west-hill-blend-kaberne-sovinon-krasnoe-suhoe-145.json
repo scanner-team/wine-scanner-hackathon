@@ -1,0 +1,26 @@
+{
+  "slug": "usadba-divnomorskoe-west-hill-blend-kaberne-sovinon-krasnoe-suhoe-145",
+  "seconds": 7.343456268310547,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"WEST HILL BLEND\",\n  \"producer\": \"УСАЛЬБА ДИВНОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАЛЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"From the Russian\",\n    \"wine-growing region\",\n    \"on the coast of\",\n    \"The Black Sea\",\n    \"WEST HILL\",\n    \"BLEND\",\n    \"2018\",\n    \"Nº 05002\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "WEST HILL BLEND",
+    "producer": "УСАЛЬБА ДИВНОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "УСАЛЬБА",
+      "ДИВНОМОРСКОЕ",
+      "From the Russian",
+      "wine-growing region",
+      "on the coast of",
+      "The Black Sea",
+      "WEST HILL",
+      "BLEND",
+      "2018",
+      "Nº 05002"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "esse-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 4.971324920654297,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Raffaele Biondini\",\n  \"cuvee\": null,\n  \"vintage\": \"2014\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Raffaele Biondini\",\n    \"Vino d'Arte\",\n    \"Piemonte\",\n    \"2014\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Raffaele Biondini",
+    "cuvee": null,
+    "vintage": "2014",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Raffaele Biondini",
+      "Vino d'Arte",
+      "Piemonte",
+      "2014",
+      "esse"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "vino-suhoe-krasnoe-endemy-saperavi",
+  "seconds": 1.1777129173278809,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"САПЕРАВИ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"САПЕРАВИ\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"ВИНО\",\n    \"ДЕРВЕНТВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "САПЕРАВИ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "САПЕРАВИ",
+      "КРАСНОЕ СУХОЕ",
+      "ВИНО",
+      "ДЕРВЕНТВИНО"
+    ]
+  }
+}

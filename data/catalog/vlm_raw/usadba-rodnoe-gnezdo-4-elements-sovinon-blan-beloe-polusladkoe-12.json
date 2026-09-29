@@ -1,0 +1,19 @@
+{
+  "slug": "usadba-rodnoe-gnezdo-4-elements-sovinon-blan-beloe-polusladkoe-12",
+  "seconds": 4.664844989776611,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"4 ELEMENTS\",\n  \"producer\": \"РОДНОЕ ГВЕДО\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"4 ELEMENTS\",\n    \"SAUVIGNON BLANC\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "4 ELEMENTS",
+    "producer": "РОДНОЕ ГВЕДО",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SAUVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "4 ELEMENTS",
+      "SAUVIGNON BLANC",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "czimlyanskoe-beloe-bryut",
+  "seconds": 5.579276084899902,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ИГРИСТСОЕ ВИНО\",\n    \"ЦИМЛЯНСКОЕ\",\n    \"Дуем Более\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ИГРИСТСОЕ ВИНО",
+      "ЦИМЛЯНСКОЕ",
+      "Дуем Более"
+    ]
+  }
+}

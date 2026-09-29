@@ -1,0 +1,21 @@
+{
+  "slug": "katharon-katharon-merlo",
+  "seconds": 1.8275110721588135,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KATHARON\",\n  \"producer\": null,\n  \"cuvee\": \"SILENT LEISURE\",\n  \"vintage\": \"2025\",\n  \"grape\": \"МЕРАО\",\n  \"category\": \"СУХОЕ КРАЧОЕ\",\n  \"raw_visible_text\": [\n    \"KATHARON\",\n    \"SILENT LEISURE\",\n    \"МЕРАО\",\n    \"СУХОЕ КРАЧОЕ\",\n    \"2025\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KATHARON",
+    "producer": null,
+    "cuvee": "SILENT LEISURE",
+    "vintage": "2025",
+    "grape": "МЕРАО",
+    "category": "СУХОЕ КРАЧОЕ",
+    "raw_visible_text": [
+      "KATHARON",
+      "SILENT LEISURE",
+      "МЕРАО",
+      "СУХОЕ КРАЧОЕ",
+      "2025"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "chteau-le-grand-vostock-sauvignon-blanc-sovinon-blan-beloe-suhoe-14",
+  "seconds": 11.604771852493286,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château Le Grand Vostock\",\n  \"producer\": \"Château Le Grand Vostock\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CHÂTEAU LE GRAND VOSTOCK\",\n    \"CHÂTEAU LE GRAND VOSTOCK\",\n    \"SAUVIGNON BLANC\",\n    \"ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"ОСЕДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОДАНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château Le Grand Vostock",
+    "producer": "Château Le Grand Vostock",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "CHÂTEAU LE GRAND VOSTOCK",
+      "CHÂTEAU LE GRAND VOSTOCK",
+      "SAUVIGNON BLANC",
+      "ВИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "ОСЕДАНО ПОД ОСОБЫМ КОНТРОЛЕМ КОМАНДЫ МИШЕЛЯ РОДАНА"
+    ]
+  }
+}

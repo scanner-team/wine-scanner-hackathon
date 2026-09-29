@@ -1,0 +1,20 @@
+{
+  "slug": "cloudy-winery-plohaya-devochka-pryanyy-blend-byanka-beloe-suhoe-125",
+  "seconds": 9.056802749633789,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПАОХАЯ ДЕВОЧКА\",\n  \"producer\": \"CLOUDY WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПРЯНЫЙ БЛЕНАД\",\n  \"raw_visible_text\": [\n    \"ПАОХАЯ ДЕВОЧКА\",\n    \"ПРЯНЫЙ БЛЕНАД\",\n    \"CLOUDY WINERY\",\n    \"COMMUNITY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПАОХАЯ ДЕВОЧКА",
+    "producer": "CLOUDY WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПРЯНЫЙ БЛЕНАД",
+    "raw_visible_text": [
+      "ПАОХАЯ ДЕВОЧКА",
+      "ПРЯНЫЙ БЛЕНАД",
+      "CLOUDY WINERY",
+      "COMMUNITY"
+    ]
+  }
+}

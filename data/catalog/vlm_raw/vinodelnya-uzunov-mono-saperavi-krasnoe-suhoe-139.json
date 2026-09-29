@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-mono-saperavi-krasnoe-suhoe-139",
+  "seconds": 14.302907228469849,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ\",\n  \"producer\": \"ВИНОДЕЛНЯ УЗНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"саперави\",\n  \"category\": \"красное вино\",\n  \"raw_visible_text\": [\n    \"САПЕРАВИ\",\n    \"красно вино\",\n    \"МНО\",\n    \"2025\",\n    \"13.0 oz\",\n    \"ВИНОДЕЛНЯ\",\n    \"УЗНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ",
+    "producer": "ВИНОДЕЛНЯ УЗНОВ",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "саперави",
+    "category": "красное вино",
+    "raw_visible_text": [
+      "САПЕРАВИ",
+      "красно вино",
+      "МНО",
+      "2025",
+      "13.0 oz",
+      "ВИНОДЕЛНЯ",
+      "УЗНОВ"
+    ]
+  }
+}

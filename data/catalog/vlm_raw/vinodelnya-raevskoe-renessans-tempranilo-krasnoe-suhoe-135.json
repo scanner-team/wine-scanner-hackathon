@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-tempranilo-krasnoe-suhoe-135",
+  "seconds": 5.397876977920532,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"RENAISSANCE\",\n  \"producer\": \"RABYSKOE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"TEMPRANILLO\",\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"RABYSKOE\",\n    \"2023\",\n    \"TEMPRANILLO\",\n    \"DRY RED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "RENAISSANCE",
+    "producer": "RABYSKOE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "TEMPRANILLO",
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "RABYSKOE",
+      "2023",
+      "TEMPRANILLO",
+      "DRY RED"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-abrau-estates-dostoynyy-krasnoe-suhoe-135",
+  "seconds": 5.358651876449585,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU ESTATES\",\n  \"producer\": \"Абрау-Дюрсо\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЕННАЯ\",\n    \"ОБВИЛЕЙНАЯ\",\n    \"ABRAU\",\n    \"ESTATES\",\n    \"2020\",\n    \"ДОСТОЙНЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ABRAU ESTATES",
+    "producer": "Абрау-Дюрсо",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЕННАЯ",
+      "ОБВИЛЕЙНАЯ",
+      "ABRAU",
+      "ESTATES",
+      "2020",
+      "ДОСТОЙНЫЙ"
+    ]
+  }
+}

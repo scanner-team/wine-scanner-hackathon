@@ -1,0 +1,14 @@
+{
+  "slug": "chateau-de-talu-uroki-frantsuzskogo-sira-krasnoe-suhoe-13",
+  "seconds": 4.260011911392212,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"УРОКИ ФРАНЦУЗСКОГО\",\n  \"producer\": \"CHÂTEAU TALU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СИРА\",\n  \"category\": \"ГЕЛЕНДЖИК\"\n}",
+  "parsed": {
+    "visible_name": "УРОКИ ФРАНЦУЗСКОГО",
+    "producer": "CHÂTEAU TALU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СИРА",
+    "category": "ГЕЛЕНДЖИК"
+  }
+}

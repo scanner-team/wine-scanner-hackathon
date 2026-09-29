@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-pet-nat-golubok-krasnyy-bryut-krasnoe-suhoe-13",
+  "seconds": 10.495371103286743,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TemHam\",\n  \"producer\": \"ВИНОСБАВАЕ ВЕДЕРНИКОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ИГРИСТОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ВИНОСБАВАЕ\",\n    \"ВЕДЕРНИКОВ\",\n    \"TemHam\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"КРАСНОСТОВ ЗОЛОТОВСКИЙ\",\n    \"КРАСНОЕ ПОЛУСУКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TemHam",
+    "producer": "ВИНОСБАВАЕ ВЕДЕРНИКОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ИГРИСТОЕ ВИНО",
+    "raw_visible_text": [
+      "ВИНОСБАВАЕ",
+      "ВЕДЕРНИКОВ",
+      "TemHam",
+      "ИГРИСТОЕ ВИНО",
+      "КРАСНОСТОВ ЗОЛОТОВСКИЙ",
+      "КРАСНОЕ ПОЛУСУКОЕ"
+    ]
+  }
+}

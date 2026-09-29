@@ -1,0 +1,20 @@
+{
+  "slug": "perovskih_muskat_orange",
+  "seconds": 1.1358208656311035,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мускат Оранж\",\n  \"producer\": \"Усадьба Перовских\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Усадьба Перовских\",\n    \"1890\",\n    \"Мускат Оранж\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мускат Оранж",
+    "producer": "Усадьба Перовских",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Усадьба Перовских",
+      "1890",
+      "Мускат Оранж",
+      "2024"
+    ]
+  }
+}

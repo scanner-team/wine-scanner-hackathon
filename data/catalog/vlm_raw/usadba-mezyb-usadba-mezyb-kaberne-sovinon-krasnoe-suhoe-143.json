@@ -1,0 +1,23 @@
+{
+  "slug": "usadba-mezyb-usadba-mezyb-kaberne-sovinon-krasnoe-suhoe-143",
+  "seconds": 14.682739019393921,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне Совиньон\",\n  \"producer\": \"МЕЗЫБЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": \"красное\",\n  \"raw_visible_text\": [\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"РОССИЙСКОЕ\",\n    \"ВИНО СУХОЕ\",\n    \"КРАСНОЕ\",\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне Совиньон",
+    "producer": "МЕЗЫБЬ",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "Каберне Совиньон",
+    "category": "красное",
+    "raw_visible_text": [
+      "КАБЕРНЕ СОВИНЬОН",
+      "РОССИЙСКОЕ",
+      "ВИНО СУХОЕ",
+      "КРАСНОЕ",
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "2019"
+    ]
+  }
+}

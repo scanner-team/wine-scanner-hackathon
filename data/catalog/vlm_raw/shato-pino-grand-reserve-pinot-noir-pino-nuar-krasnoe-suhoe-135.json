@@ -1,0 +1,25 @@
+{
+  "slug": "shato-pino-grand-reserve-pinot-noir-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 6.320915937423706,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHÂTEAU PINOT\",\n  \"producer\": \"Château Pinot\",\n  \"cuvee\": \"Grand Reserve\",\n  \"vintage\": \"2021\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"Red Dry Wine\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU PINOT\",\n    \"2021\",\n    \"GRAND RESERVE WINE\",\n    \"Founds of the Château Pinot vineyard\",\n    \"S.G. Bouchard\",\n    \"CHÂTEAU PINOT\",\n    \"GRAND RESERVE\",\n    \"Pinot Noir\",\n    \"RED DRY WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHÂTEAU PINOT",
+    "producer": "Château Pinot",
+    "cuvee": "Grand Reserve",
+    "vintage": "2021",
+    "grape": "Pinot Noir",
+    "category": "Red Dry Wine",
+    "raw_visible_text": [
+      "CHÂTEAU PINOT",
+      "2021",
+      "GRAND RESERVE WINE",
+      "Founds of the Château Pinot vineyard",
+      "S.G. Bouchard",
+      "CHÂTEAU PINOT",
+      "GRAND RESERVE",
+      "Pinot Noir",
+      "RED DRY WINE"
+    ]
+  }
+}

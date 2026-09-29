@@ -1,0 +1,20 @@
+{
+  "slug": "aratti-kaberne-po-belomu",
+  "seconds": 1.329634189605713,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"КАБЕРНЕ ПО-БЕЛОМУ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"КАБЕРНЕ ПО-БЕЛОМУ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "КАБЕРНЕ ПО-БЕЛОМУ",
+    "category": null,
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "КАБЕРНЕ ПО-БЕЛОМУ",
+      "2023"
+    ]
+  }
+}

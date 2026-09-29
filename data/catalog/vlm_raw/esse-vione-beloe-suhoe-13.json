@@ -1,0 +1,20 @@
+{
+  "slug": "esse-vione-beloe-suhoe-13",
+  "seconds": 4.438223838806152,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"usse\",\n  \"producer\": \"Brancale\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Brancale\",\n    \"Toscana\",\n    \"Maiolica\",\n    \"usse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "usse",
+    "producer": "Brancale",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Brancale",
+      "Toscana",
+      "Maiolica",
+      "usse"
+    ]
+  }
+}

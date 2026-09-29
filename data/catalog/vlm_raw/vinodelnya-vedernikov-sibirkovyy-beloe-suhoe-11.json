@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-vedernikov-sibirkovyy-beloe-suhoe-11",
+  "seconds": 4.934464931488037,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ДОБНА ДОНА\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"ВИНОДЕЛЬНИК С 1778\",\n    \"ОРИГИНАЛЬНЫЙ\",\n    \"ДОБНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ДОБНА ДОНА",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "ВИНОДЕЛЬНИК С 1778",
+      "ОРИГИНАЛЬНЫЙ",
+      "ДОБНА ДОНА"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-cachalot-vione-beloe-suhoe-112",
+  "seconds": 5.266677141189575,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВИОНЬЕ\",\n  \"producer\": \"CHATEAU CACHALOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ГРУПОВОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"CACHALOT\",\n    \"ВИОНЬЕ\",\n    \"ГРУПОВОЕ\",\n    \"КЕССИМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВИОНЬЕ",
+    "producer": "CHATEAU CACHALOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ГРУПОВОЕ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "CACHALOT",
+      "ВИОНЬЕ",
+      "ГРУПОВОЕ",
+      "КЕССИМ"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "donskoe-vinodelcheskoe-hozyaystvo-elbuzd-shardone-beloe-suhoe-13",
+  "seconds": 14.17517900466919,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Шардоне\",\n  \"producer\": \"винодельня Эльбрузд\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Шардоне\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"винодельня\",\n    \"Эльбрузд\",\n    \"Шардоне\",\n    \"сухое белое\",\n    \"Российское вино с защищенными географическим указанием\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Шардоне",
+    "producer": "винодельня Эльбрузд",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Шардоне",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "винодельня",
+      "Эльбрузд",
+      "Шардоне",
+      "сухое белое",
+      "Российское вино с защищенными географическим указанием",
+      "2022"
+    ]
+  }
+}

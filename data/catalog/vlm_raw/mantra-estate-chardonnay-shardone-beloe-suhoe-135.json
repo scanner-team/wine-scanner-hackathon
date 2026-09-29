@@ -1,0 +1,30 @@
+{
+  "slug": "mantra-estate-chardonnay-shardone-beloe-suhoe-135",
+  "seconds": 8.110390186309814,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANTRA ESTATE\",\n  \"producer\": \"ESTATE MANTI\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ESTATE MANTI\",\n    \"SINCE 2017\",\n    \"MANTRA ESTATE\",\n    \"CHARDONNAY\",\n    \"ВИНАДЕНО В ДОГИНЕ ЛЕСКАДИЯ\",\n    \"РОССИЯ, ПРЕДПОРИЕ СЕРЕДНЯГО КАВАЛА\",\n    \"2023\",\n    \"0.75L\",\n    \"BOTTLE NUMBER 0001 AMONG 2350\",\n    \"13,5% alc\",\n    \"14\",\n    \"12\",\n    \"0.75L\",\n    \"682\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANTRA ESTATE",
+    "producer": "ESTATE MANTI",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "ESTATE MANTI",
+      "SINCE 2017",
+      "MANTRA ESTATE",
+      "CHARDONNAY",
+      "ВИНАДЕНО В ДОГИНЕ ЛЕСКАДИЯ",
+      "РОССИЯ, ПРЕДПОРИЕ СЕРЕДНЯГО КАВАЛА",
+      "2023",
+      "0.75L",
+      "BOTTLE NUMBER 0001 AMONG 2350",
+      "13,5% alc",
+      "14",
+      "12",
+      "0.75L",
+      "682"
+    ]
+  }
+}

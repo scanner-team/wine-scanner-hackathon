@@ -1,0 +1,23 @@
+{
+  "slug": "gunko-winery-malbek-krasnoe-suhoe-14",
+  "seconds": 14.137410163879395,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Малобек\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Малобек\",\n    \"Gunko Winery\",\n    \"выдержано в бочках из французского дуба\",\n    \"не менее 6 месяцев\",\n    \"Урожай 2023 года\",\n    \"14,0% об.\",\n    \"Объем 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Малобек",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Малобек",
+      "Gunko Winery",
+      "выдержано в бочках из французского дуба",
+      "не менее 6 месяцев",
+      "Урожай 2023 года",
+      "14,0% об.",
+      "Объем 0,75 л"
+    ]
+  }
+}

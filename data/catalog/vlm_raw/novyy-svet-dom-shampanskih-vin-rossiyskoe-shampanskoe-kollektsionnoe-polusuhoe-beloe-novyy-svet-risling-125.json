@@ -1,0 +1,23 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-polusuhoe-beloe-novyy-svet-risling-125",
+  "seconds": 8.608650922775269,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Сеть\",\n  \"producer\": \"Любовь Галицкая\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПОЛУСУХОЕ СЕТЬОЕ\",\n  \"raw_visible_text\": [\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ КОЛЛЕКЦИОННОЕ\",\n    \"1878\",\n    \"1878\",\n    \"Новый Сеть\",\n    \"ПОЛУСУХОЕ СЕТЬОЕ\",\n    \"Предназначено Шампанское вино сенсацио 1878 1878\",\n    \"князь Львов Галицкий\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Сеть",
+    "producer": "Любовь Галицкая",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПОЛУСУХОЕ СЕТЬОЕ",
+    "raw_visible_text": [
+      "РОССИЙСКОЕ ШАМПАНСКОЕ КОЛЛЕКЦИОННОЕ",
+      "1878",
+      "1878",
+      "Новый Сеть",
+      "ПОЛУСУХОЕ СЕТЬОЕ",
+      "Предназначено Шампанское вино сенсацио 1878 1878",
+      "князь Львов Галицкий"
+    ]
+  }
+}

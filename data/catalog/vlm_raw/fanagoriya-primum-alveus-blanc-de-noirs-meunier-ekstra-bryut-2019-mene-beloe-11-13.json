@@ -1,0 +1,24 @@
+{
+  "slug": "fanagoriya-primum-alveus-blanc-de-noirs-meunier-ekstra-bryut-2019-mene-beloe-11-13",
+  "seconds": 9.969413042068481,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PRIMUM ALVEUS\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": \"III\",\n  \"vintage\": \"2019\",\n  \"grape\": \"MEUNIER\",\n  \"category\": \"EXTRA BRUT\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"III\",\n    \"PRIMUM\",\n    \"ALVEUS\",\n    \"MEUNIER\",\n    \"BLANC DE NOIRS\",\n    \"EXTRA BRUT\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PRIMUM ALVEUS",
+    "producer": "FANAGORIA",
+    "cuvee": "III",
+    "vintage": "2019",
+    "grape": "MEUNIER",
+    "category": "EXTRA BRUT",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "III",
+      "PRIMUM",
+      "ALVEUS",
+      "MEUNIER",
+      "BLANC DE NOIRS",
+      "EXTRA BRUT",
+      "2019"
+    ]
+  }
+}

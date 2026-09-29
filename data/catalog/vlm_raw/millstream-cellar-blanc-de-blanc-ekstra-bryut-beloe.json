@@ -1,0 +1,23 @@
+{
+  "slug": "millstream-cellar-blanc-de-blanc-ekstra-bryut-beloe",
+  "seconds": 1.3734667301177979,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CELLAR\",\n  \"producer\": \"MILLSTREAM ORIGINAL\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": \"Блан де Бланс\",\n  \"category\": \"экстра брют белое\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"MILLSTREAM ORIGINAL\",\n    \"CELLAR\",\n    \"ВЫДЕРЖАННОЕ\",\n    \"БЛАН ДЕ БЛАНС\",\n    \"ЭКСТРА БРЮТ БЕЛАЕ\",\n    \"2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CELLAR",
+    "producer": "MILLSTREAM ORIGINAL",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": "Блан де Бланс",
+    "category": "экстра брют белое",
+    "raw_visible_text": [
+      "CELLAR",
+      "MILLSTREAM ORIGINAL",
+      "CELLAR",
+      "ВЫДЕРЖАННОЕ",
+      "БЛАН ДЕ БЛАНС",
+      "ЭКСТРА БРЮТ БЕЛАЕ",
+      "2018"
+    ]
+  }
+}

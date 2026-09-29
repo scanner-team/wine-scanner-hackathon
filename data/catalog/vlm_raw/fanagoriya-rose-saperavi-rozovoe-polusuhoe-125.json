@@ -1,0 +1,21 @@
+{
+  "slug": "fanagoriya-rose-saperavi-rozovoe-polusuhoe-125",
+  "seconds": 13.386286973953247,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SUD MO\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAPERAVI\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"NOBLESSSE OBLIGE\",\n    \"FANAGORIA\",\n    \"SUD MO\",\n    \"SAPERAVI\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SUD MO",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAPERAVI",
+    "category": null,
+    "raw_visible_text": [
+      "FANAGORIA",
+      "NOBLESSSE OBLIGE",
+      "FANAGORIA",
+      "SUD MO",
+      "SAPERAVI"
+    ]
+  }
+}

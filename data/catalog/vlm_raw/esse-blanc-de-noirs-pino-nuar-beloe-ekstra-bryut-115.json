@@ -1,0 +1,21 @@
+{
+  "slug": "esse-blanc-de-noirs-pino-nuar-beloe-ekstra-bryut-115",
+  "seconds": 5.050661087036133,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"CRITÉA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"BLANC DE NOIRS\",\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"CRITÉA\",\n    \"PÉTITORE CLASSIQUE\",\n    \"ESSE\",\n    \"BRUT\",\n    \"BLANC DE NOIRS\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "CRITÉA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "BLANC DE NOIRS",
+    "category": "BRUT",
+    "raw_visible_text": [
+      "CRITÉA",
+      "PÉTITORE CLASSIQUE",
+      "ESSE",
+      "BRUT",
+      "BLANC DE NOIRS"
+    ]
+  }
+}

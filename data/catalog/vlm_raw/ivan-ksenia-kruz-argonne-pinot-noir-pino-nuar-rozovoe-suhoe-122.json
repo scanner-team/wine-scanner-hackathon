@@ -1,0 +1,19 @@
+{
+  "slug": "ivan-ksenia-kruz-argonne-pinot-noir-pino-nuar-rozovoe-suhoe-122",
+  "seconds": 4.824810981750488,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARGONNE\",\n  \"producer\": \"IVAN & KSENIA KRUZ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"IVAN & KSENIA KRUZ\",\n    \"ARGONNE\",\n    \"PINOT NOIR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARGONNE",
+    "producer": "IVAN & KSENIA KRUZ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "IVAN & KSENIA KRUZ",
+      "ARGONNE",
+      "PINOT NOIR"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "myshako-igristoe-beloe-bryut",
+  "seconds": 1.3870270252227783,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мысхако\",\n  \"producer\": \"Мысхако\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"ВИНОДЕЛИЯ\",\n    \"Иристое\",\n    \"БРИОТ БЕЛЁЕ\",\n    \"РОССИЙСКОЕ ИГРАСДЕ ВИНО\",\n    \"36%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мысхако",
+    "producer": "Мысхако",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "ВИНОДЕЛИЯ",
+      "Иристое",
+      "БРИОТ БЕЛЁЕ",
+      "РОССИЙСКОЕ ИГРАСДЕ ВИНО",
+      "36%"
+    ]
+  }
+}

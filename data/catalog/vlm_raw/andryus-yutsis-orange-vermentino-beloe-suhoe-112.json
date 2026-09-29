@@ -1,0 +1,20 @@
+{
+  "slug": "andryus-yutsis-orange-vermentino-beloe-suhoe-112",
+  "seconds": 4.789840936660767,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryus Yntsis\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"Andryus Yntsis\",\n    \"2022\",\n    \"Russia Crimea\",\n    \"ORANGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryus Yntsis",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "Andryus Yntsis",
+      "2022",
+      "Russia Crimea",
+      "ORANGE"
+    ]
+  }
+}

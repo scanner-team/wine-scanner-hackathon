@@ -1,0 +1,21 @@
+{
+  "slug": "zmv-koktebel-atmosfera-kaberne-sovinon-kaberne-fran-merlo-bastardo-magarachskiy-krasnoe-suhoe-13",
+  "seconds": 14.602988958358765,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЛАНЕРСКОЕ\",\n  \"producer\": \"ЗАВОД МАРОЧНИХ ВИН КОКТЕБЕЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"КРАСНОЕ, СУХОЕ\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНИХ ВИН\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"ПЛАНЕРСКОЕ\",\n    \"КРАСНОЕ, СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЛАНЕРСКОЕ",
+    "producer": "ЗАВОД МАРОЧНИХ ВИН КОКТЕБЕЛЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "КРАСНОЕ, СУХОЕ",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНИХ ВИН",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "ПЛАНЕРСКОЕ",
+      "КРАСНОЕ, СУХОЕ"
+    ]
+  }
+}

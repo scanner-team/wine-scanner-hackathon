@@ -1,0 +1,25 @@
+{
+  "slug": "semeynaya-vinodelnya-mihaila-kolesnikova-kaberne-fran-merlo-krasnostop-krasnoe-suhoe-148",
+  "seconds": 14.679030179977417,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Krasnostop\",\n  \"producer\": \"Михаил Колесников\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2011\",\n  \"grape\": \"CABERNET FRANC MERLOT\",\n  \"category\": \"French OAK\",\n  \"raw_visible_text\": [\n    \"2011\",\n    \"МИХАИЛ\",\n    \"КОЛЕСНИКОВ\",\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬЯ\",\n    \"CABERNET FRANC MERLOT\",\n    \"KRAZNOSTOP\",\n    \"French OAK\",\n    \"RESERVE\",\n    \"РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Krasnostop",
+    "producer": "Михаил Колесников",
+    "cuvee": "RESERVE",
+    "vintage": "2011",
+    "grape": "CABERNET FRANC MERLOT",
+    "category": "French OAK",
+    "raw_visible_text": [
+      "2011",
+      "МИХАИЛ",
+      "КОЛЕСНИКОВ",
+      "СЕМЕЙНАЯ ВИНОДЕЛЬЯ",
+      "CABERNET FRANC MERLOT",
+      "KRAZNOSTOP",
+      "French OAK",
+      "RESERVE",
+      "РОССИИ"
+    ]
+  }
+}

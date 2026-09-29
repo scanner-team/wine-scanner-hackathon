@@ -1,0 +1,18 @@
+{
+  "slug": "vibes-chardonnay-barrel-fermented-shardone-beloe-suhoe-125",
+  "seconds": 4.592926025390625,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Chardonnay\",\n  \"category\": \"Barrel Fermented\",\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"Chardonnay 2021 Barrel Fermented\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Chardonnay",
+    "category": "Barrel Fermented",
+    "raw_visible_text": [
+      "VIBES",
+      "Chardonnay 2021 Barrel Fermented"
+    ]
+  }
+}

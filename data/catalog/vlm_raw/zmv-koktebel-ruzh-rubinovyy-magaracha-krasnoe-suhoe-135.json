@@ -1,0 +1,22 @@
+{
+  "slug": "zmv-koktebel-ruzh-rubinovyy-magaracha-krasnoe-suhoe-135",
+  "seconds": 14.040508031845093,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Руж\",\n  \"producer\": \"ЗАВОД МАРОТЕЛЬ КОКТЕБЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Крымский атласный\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОТЕЛЬ\",\n    \"КОКТЕБЕ\",\n    \"EST 1979\",\n    \"Руж\",\n    \"Рубиновый Мон\",\n    \"Крымский атласный\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Руж",
+    "producer": "ЗАВОД МАРОТЕЛЬ КОКТЕБЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Крымский атласный",
+    "raw_visible_text": [
+      "ЗАВОД МАРОТЕЛЬ",
+      "КОКТЕБЕ",
+      "EST 1979",
+      "Руж",
+      "Рубиновый Мон",
+      "Крымский атласный"
+    ]
+  }
+}

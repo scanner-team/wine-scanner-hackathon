@@ -1,0 +1,21 @@
+{
+  "slug": "katharon-mezenka-kaberne-fran",
+  "seconds": 1.9143524169921875,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЕНКА\",\n  \"producer\": \"KATHARON\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"МЕЗЕНКА\",\n    \"КАБЕРНЕ ФРАН\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"2025\",\n    \"KATHARON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЕНКА",
+    "producer": "KATHARON",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "МЕЗЕНКА",
+      "КАБЕРНЕ ФРАН",
+      "СУХОЕ КРАСНОЕ",
+      "2025",
+      "KATHARON"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-marchenko-vermilon-kaberne-azos-krasnoe-suhoe-14",
+  "seconds": 4.597219228744507,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Марченко\",\n  \"producer\": \"Марченко\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Вермильон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАРЧЕНКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"Вермильон\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Марченко",
+    "producer": "Марченко",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Вермильон",
+    "category": null,
+    "raw_visible_text": [
+      "МАРЧЕНКО",
+      "ВИНОДЕЛЬНЯ",
+      "Вермильон"
+    ]
+  }
+}

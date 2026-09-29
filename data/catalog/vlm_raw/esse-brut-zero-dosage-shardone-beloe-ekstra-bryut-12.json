@@ -1,0 +1,22 @@
+{
+  "slug": "esse-brut-zero-dosage-shardone-beloe-ekstra-bryut-12",
+  "seconds": 5.089248895645142,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": \"2013\",\n  \"grape\": null,\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"CRIMEA\",\n    \"MÉTHODE CLASSIQUE\",\n    \"ESSE\",\n    \"2013\",\n    \"BRUT\",\n    \"ZERO DOSAGE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "CRIMEA",
+    "cuvee": null,
+    "vintage": "2013",
+    "grape": null,
+    "category": "BRUT",
+    "raw_visible_text": [
+      "CRIMEA",
+      "MÉTHODE CLASSIQUE",
+      "ESSE",
+      "2013",
+      "BRUT",
+      "ZERO DOSAGE"
+    ]
+  }
+}

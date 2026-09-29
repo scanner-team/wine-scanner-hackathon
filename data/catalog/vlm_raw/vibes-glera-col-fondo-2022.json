@@ -1,0 +1,22 @@
+{
+  "slug": "vibes-glera-col-fondo-2022",
+  "seconds": 13.341892957687378,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"VIBES\",\n  \"producer\": \"Col Fondo\",\n  \"cuvee\": \"Glera\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"VIBES\",\n    \"COL-FONDO\",\n    \"GLERA\",\n    \"VIBES\",\n    \"Col Fondo\",\n    \"Glera 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "VIBES",
+    "producer": "Col Fondo",
+    "cuvee": "Glera",
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "VIBES",
+      "COL-FONDO",
+      "GLERA",
+      "VIBES",
+      "Col Fondo",
+      "Glera 2022"
+    ]
+  }
+}

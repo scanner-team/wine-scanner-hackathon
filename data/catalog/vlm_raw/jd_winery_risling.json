@@ -1,0 +1,20 @@
+{
+  "slug": "jd_winery_risling",
+  "seconds": 1.1177725791931152,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"половухое белое\",\n  \"raw_visible_text\": [\n    \"WINERY\",\n    \"РИСЛИНГ\",\n    \"ПОЛУСУХОЕ БЕЛОЕ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "WINERY",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "РИСЛИНГ",
+    "category": "половухое белое",
+    "raw_visible_text": [
+      "WINERY",
+      "РИСЛИНГ",
+      "ПОЛУСУХОЕ БЕЛОЕ",
+      "2021"
+    ]
+  }
+}

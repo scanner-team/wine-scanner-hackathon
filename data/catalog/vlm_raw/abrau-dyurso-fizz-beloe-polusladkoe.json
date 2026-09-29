@@ -1,0 +1,20 @@
+{
+  "slug": "abrau-dyurso-fizz-beloe-polusladkoe",
+  "seconds": 1.0241835117340088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU Fizz\",\n  \"producer\": \"Абрау-Дюрсо\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"semi-sweet white\",\n  \"raw_visible_text\": [\n    \"ABRAU\",\n    \"Fizz\",\n    \"SEMI-SWEET WHITE\",\n    \"SPARKLING WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ABRAU Fizz",
+    "producer": "Абрау-Дюрсо",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "semi-sweet white",
+    "raw_visible_text": [
+      "ABRAU",
+      "Fizz",
+      "SEMI-SWEET WHITE",
+      "SPARKLING WINE"
+    ]
+  }
+}

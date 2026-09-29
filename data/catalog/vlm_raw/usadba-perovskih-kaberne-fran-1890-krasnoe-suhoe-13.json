@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-perovskih-kaberne-fran-1890-krasnoe-suhoe-13",
+  "seconds": 5.73246431350708,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"1890\",\n  \"producer\": \"УСАДЬБА ПЕРОВСКИХ\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА ПЕРОВСКИХ\",\n    \"1890\",\n    \"КАБЕРНЕ ФРАН\",\n    \"2019\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "1890",
+    "producer": "УСАДЬБА ПЕРОВСКИХ",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА ПЕРОВСКИХ",
+      "1890",
+      "КАБЕРНЕ ФРАН",
+      "2019"
+    ]
+  }
+}

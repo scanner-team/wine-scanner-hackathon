@@ -1,0 +1,20 @@
+{
+  "slug": "perovskih_kokur_orange",
+  "seconds": 1.0991485118865967,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Кокур Оранж\",\n  \"producer\": \"Усадьба Перовских\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"1890\",\n    \"Усадьба Перовских\",\n    \"Кокур Оранж\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Кокур Оранж",
+    "producer": "Усадьба Перовских",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "1890",
+      "Усадьба Перовских",
+      "Кокур Оранж",
+      "2022"
+    ]
+  }
+}

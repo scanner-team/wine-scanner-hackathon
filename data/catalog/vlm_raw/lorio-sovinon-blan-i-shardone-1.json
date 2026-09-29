@@ -1,0 +1,19 @@
+{
+  "slug": "lorio-sovinon-blan-i-shardone-1",
+  "seconds": 13.182579040527344,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛОРIO\",\n  \"producer\": \"LORIOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ВИНО СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ЛОРIO\",\n    \"LORIOT\",\n    \"ВИНО СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛОРIO",
+    "producer": "LORIOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ВИНО СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ЛОРIO",
+      "LORIOT",
+      "ВИНО СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

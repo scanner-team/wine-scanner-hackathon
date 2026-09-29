@@ -1,0 +1,21 @@
+{
+  "slug": "karbon-glyu-2024",
+  "seconds": 1.504279375076294,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SYRAH CARBON GLU\",\n  \"producer\": \"Коммуналька\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SYRAH CARBON GLU\",\n    \"by Olga G.\",\n    \"Коммуналька\",\n    \"Крым\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SYRAH CARBON GLU",
+    "producer": "Коммуналька",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "SYRAH CARBON GLU",
+      "by Olga G.",
+      "Коммуналька",
+      "Крым",
+      "2024"
+    ]
+  }
+}

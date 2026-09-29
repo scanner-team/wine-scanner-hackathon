@@ -1,0 +1,20 @@
+{
+  "slug": "villa-sofiya-trio-roze-pino-nuar-rozovoe-suhoe-14",
+  "seconds": 4.963972091674805,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Винная София\",\n  \"producer\": null,\n  \"cuvee\": \"трио\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"Винная София\",\n    \"трио\",\n    \"сухое розовое\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Винная София",
+    "producer": null,
+    "cuvee": "трио",
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "Винная София",
+      "трио",
+      "сухое розовое",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "bakla-vines-kangun-beloe-suhoe-12",
+  "seconds": 5.726168870925903,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАНГУН\",\n  \"producer\": \"BAKLA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"КАНГУН\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"2022\",\n    \"КРЫМ-БАХЧИСАРАЙСКИЙ РАЙОН\",\n    \"BAKLA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАНГУН",
+    "producer": "BAKLA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "КАНГУН",
+      "СУХОЕ БЕЛОЕ",
+      "2022",
+      "КРЫМ-БАХЧИСАРАЙСКИЙ РАЙОН",
+      "BAKLA"
+    ]
+  }
+}

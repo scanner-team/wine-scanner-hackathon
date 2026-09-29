@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-imperial-kyuve-pino-nuar-rozovoe-bryut-125",
+  "seconds": 13.830990076065063,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ ДЮРСО\",\n  \"producer\": \"АБРАУ ДЮРСО\",\n  \"cuvee\": \"Империал\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"BRUT ROSÉ\",\n  \"raw_visible_text\": [\n    \"ESTO\",\n    \"1870\",\n    \"АБРАУ ДЮРСО\",\n    \"BRUT ROSÉ\",\n    \"Империал\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ ДЮРСО",
+    "producer": "АБРАУ ДЮРСО",
+    "cuvee": "Империал",
+    "vintage": "2022",
+    "grape": null,
+    "category": "BRUT ROSÉ",
+    "raw_visible_text": [
+      "ESTO",
+      "1870",
+      "АБРАУ ДЮРСО",
+      "BRUT ROSÉ",
+      "Империал",
+      "2022"
+    ]
+  }
+}

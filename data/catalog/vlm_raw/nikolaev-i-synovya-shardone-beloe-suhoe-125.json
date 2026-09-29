@@ -1,0 +1,21 @@
+{
+  "slug": "nikolaev-i-synovya-shardone-beloe-suhoe-125",
+  "seconds": 13.298166990280151,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"NIKOLAEV & SONS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"NIKOLAEV & SONS\",\n    \"CHARDONNAY\",\n    \"Grown and bottled in\",\n    \"LEFKADIA VALLEY\",\n    \"RUSSIA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "NIKOLAEV & SONS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "NIKOLAEV & SONS",
+      "CHARDONNAY",
+      "Grown and bottled in",
+      "LEFKADIA VALLEY",
+      "RUSSIA"
+    ]
+  }
+}

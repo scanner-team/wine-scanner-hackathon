@@ -1,0 +1,21 @@
+{
+  "slug": "chateau-cachalot-shenen-blan-beloe-suhoe-113",
+  "seconds": 5.30675196647644,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШЕНЕН БЛАН\",\n  \"producer\": \"CHATEAU CACHALOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ГЕРОЙСКОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"CACHALOT\",\n    \"ШЕНЕН БЛАН\",\n    \"ГЕРОЙСКОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШЕНЕН БЛАН",
+    "producer": "CHATEAU CACHALOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ГЕРОЙСКОЕ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "CACHALOT",
+      "ШЕНЕН БЛАН",
+      "ГЕРОЙСКОЕ",
+      "КРЫМ"
+    ]
+  }
+}

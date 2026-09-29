@@ -1,0 +1,23 @@
+{
+  "slug": "zhemchuzhnaya-9-czitron-shardone-1",
+  "seconds": 1.547079086303711,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИТРОН\",\n  \"producer\": \"АРАТТИ\",\n  \"cuvee\": \"ЖЕМЧУЖНАЯ\",\n  \"vintage\": \"2024\",\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"БЕЛОЕ ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"ЖЕМЧУЖНАЯ\",\n    \"9\",\n    \"АРАТТИ\",\n    \"ЦИТРОН\",\n    \"ШАРДОНЕ\",\n    \"БЕЛОЕ ПОЛУСЛАДКОЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИТРОН",
+    "producer": "АРАТТИ",
+    "cuvee": "ЖЕМЧУЖНАЯ",
+    "vintage": "2024",
+    "grape": "ШАРДОНЕ",
+    "category": "БЕЛОЕ ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "ЖЕМЧУЖНАЯ",
+      "9",
+      "АРАТТИ",
+      "ЦИТРОН",
+      "ШАРДОНЕ",
+      "БЕЛОЕ ПОЛУСЛАДКОЕ",
+      "2024"
+    ]
+  }
+}

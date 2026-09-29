@@ -1,0 +1,25 @@
+{
+  "slug": "millstream-cellar-select-saperavi",
+  "seconds": 1.5648043155670166,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CELLAR\",\n  \"producer\": \"CELLAR\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"CELLAR\",\n    \"САПЕРАВИ\",\n    \"красное сухое\",\n    \"2021\",\n    \"ЗГУ\",\n    \"УКРАЇНА\",\n    \"САМАНСЬКИЙ ПОЧТОВИЙ\",\n    \"САМАНСЬКИЙ ПОЧТОВИЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CELLAR",
+    "producer": "CELLAR",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "САПЕРАВИ",
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "CELLAR",
+      "CELLAR",
+      "САПЕРАВИ",
+      "красное сухое",
+      "2021",
+      "ЗГУ",
+      "УКРАЇНА",
+      "САМАНСЬКИЙ ПОЧТОВИЙ",
+      "САМАНСЬКИЙ ПОЧТОВИЙ"
+    ]
+  }
+}

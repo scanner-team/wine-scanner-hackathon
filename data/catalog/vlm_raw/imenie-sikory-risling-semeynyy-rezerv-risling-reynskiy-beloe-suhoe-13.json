@@ -1,0 +1,21 @@
+{
+  "slug": "imenie-sikory-risling-semeynyy-rezerv-risling-reynskiy-beloe-suhoe-13",
+  "seconds": 13.199601173400879,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"РИСЛИНГ\",\n    \"Серебряный резерв\",\n    \"СЕМИГОРЬЕ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "SIKORY",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "SIKORY",
+      "РИСЛИНГ",
+      "Серебряный резерв",
+      "СЕМИГОРЬЕ",
+      "2021"
+    ]
+  }
+}

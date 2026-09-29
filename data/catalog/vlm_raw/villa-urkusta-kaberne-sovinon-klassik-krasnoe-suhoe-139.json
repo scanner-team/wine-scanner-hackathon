@@ -1,0 +1,22 @@
+{
+  "slug": "villa-urkusta-kaberne-sovinon-klassik-krasnoe-suhoe-139",
+  "seconds": 1.116386890411377,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cabernet Sauvignon\",\n  \"producer\": \"Villa Urbana\",\n  \"cuvee\": \"Classic\",\n  \"vintage\": \"2023\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cabernet Sauvignon\",\n    \"Classic\",\n    \"Villa Urbana\",\n    \"Sebastiano\",\n    \"Sopronian Valley\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cabernet Sauvignon",
+    "producer": "Villa Urbana",
+    "cuvee": "Classic",
+    "vintage": "2023",
+    "grape": "Cabernet Sauvignon",
+    "category": null,
+    "raw_visible_text": [
+      "Cabernet Sauvignon",
+      "Classic",
+      "Villa Urbana",
+      "Sebastiano",
+      "Sopronian Valley",
+      "2023"
+    ]
+  }
+}

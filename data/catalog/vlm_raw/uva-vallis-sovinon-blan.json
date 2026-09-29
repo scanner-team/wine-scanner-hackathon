@@ -1,0 +1,20 @@
+{
+  "slug": "uva-vallis-sovinon-blan",
+  "seconds": 5.08092999458313,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON BLANC\",\n  \"producer\": \"UVA VALLIS\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"UVA VALLIS\",\n    \"SAUVIGNON BLANC\",\n    \"CRIMEA\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON BLANC",
+    "producer": "UVA VALLIS",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "UVA VALLIS",
+      "SAUVIGNON BLANC",
+      "CRIMEA",
+      "2022"
+    ]
+  }
+}

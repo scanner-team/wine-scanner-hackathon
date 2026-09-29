@@ -1,0 +1,24 @@
+{
+  "slug": "sacrum-bryut-beloe",
+  "seconds": 1.2860157489776611,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SACRUM\",\n  \"producer\": \"KOFFMANN BROTHERS\",\n  \"cuvee\": \"Limited Release\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Extra Brut\",\n  \"raw_visible_text\": [\n    \"BRUT ROSÉ\",\n    \"LIMITED RELEASE\",\n    \"MÉTHODE CLASSIQUE\",\n    \"CCCLXIX\",\n    \"KOFFMANN BROTHERS\",\n    \"SACRUM\",\n    \"EXTRA BRUT\",\n    \"LIMITED RELEASE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SACRUM",
+    "producer": "KOFFMANN BROTHERS",
+    "cuvee": "Limited Release",
+    "vintage": null,
+    "grape": null,
+    "category": "Extra Brut",
+    "raw_visible_text": [
+      "BRUT ROSÉ",
+      "LIMITED RELEASE",
+      "MÉTHODE CLASSIQUE",
+      "CCCLXIX",
+      "KOFFMANN BROTHERS",
+      "SACRUM",
+      "EXTRA BRUT",
+      "LIMITED RELEASE"
+    ]
+  }
+}

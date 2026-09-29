@@ -1,0 +1,24 @@
+{
+  "slug": "valeriy-zaharin-sary-pandas-valeriy-zaharin-beloe-suhoe-125",
+  "seconds": 6.892957925796509,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Сары Пандас\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"2023\",\n    \"Сары Пандас\",\n    \"ВАЛЕРИЙ ЗАХАРЫН\",\n    \"СРОЖЕНИЕ И ВЫДЕРЖКА В ДУБОВОЙ БОКС\",\n    \"0,75л\",\n    \"КРЫМ\",\n    \"12,5%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Сары Пандас",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "2023",
+      "Сары Пандас",
+      "ВАЛЕРИЙ ЗАХАРЫН",
+      "СРОЖЕНИЕ И ВЫДЕРЖКА В ДУБОВОЙ БОКС",
+      "0,75л",
+      "КРЫМ",
+      "12,5%"
+    ]
+  }
+}

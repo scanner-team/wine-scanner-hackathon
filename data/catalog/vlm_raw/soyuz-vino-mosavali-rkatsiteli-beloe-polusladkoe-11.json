@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-mosavali-rkatsiteli-beloe-polusladkoe-11",
+  "seconds": 14.937502145767212,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"Mosavali\",\n  \"producer\": \"Mosavali\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ркацители\",\n  \"category\": \"semi-sweet white\",\n  \"raw_visible_text\": [\n    \"მოსავალი\",\n    \"Mosavali\",\n    \"მოსავალი\",\n    \"რკატსიტელი\",\n    \"Rkatsitely\",\n    \"semi-sweet white\",\n    \"750\",\n    \"ml\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n    \"12% vol\",\n",
+  "parsed": {
+    "visible_name": "Mosavali",
+    "producer": "Mosavali",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ркацители",
+    "category": "semi-sweet white"
+  }
+}

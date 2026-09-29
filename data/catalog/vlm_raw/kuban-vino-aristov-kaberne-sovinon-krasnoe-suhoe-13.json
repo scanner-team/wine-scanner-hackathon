@@ -1,0 +1,20 @@
+{
+  "slug": "kuban-vino-aristov-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 4.528218030929565,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"red DRY wine\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"cabernet\",\n    \"SAUVIGNON\",\n    \"red DRY wine 2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "SAUVIGNON",
+    "category": "red DRY wine",
+    "raw_visible_text": [
+      "ARISTOV",
+      "cabernet",
+      "SAUVIGNON",
+      "red DRY wine 2020"
+    ]
+  }
+}

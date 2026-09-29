@@ -1,0 +1,21 @@
+{
+  "slug": "glu-glu-mr-mouse-2022",
+  "seconds": 1.082535982131958,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"glu glu\",\n  \"producer\": \"winemafia\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"saperavi\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"winemafia\",\n    \"vinnyaya derevnya\",\n    \"glu glu\",\n    \"saperavi\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "glu glu",
+    "producer": "winemafia",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "saperavi",
+    "category": null,
+    "raw_visible_text": [
+      "winemafia",
+      "vinnyaya derevnya",
+      "glu glu",
+      "saperavi",
+      "2022"
+    ]
+  }
+}

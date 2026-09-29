@@ -1,0 +1,21 @@
+{
+  "slug": "rozovoe-polusladkoe-2",
+  "seconds": 1.964406967163086,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ-ДЮРСО\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"розовое полусладкое\",\n  \"raw_visible_text\": [\n    \"РУССКОЕ ИГРИСТОЕ\",\n    \"с 1870 г.\",\n    \"РУССКИЙ ВИННЫЙ ДОМ\",\n    \"АБРАУ-ДЮРСО\",\n    \"РОЗОВОЕ ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ-ДЮРСО",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "розовое полусладкое",
+    "raw_visible_text": [
+      "РУССКОЕ ИГРИСТОЕ",
+      "с 1870 г.",
+      "РУССКИЙ ВИННЫЙ ДОМ",
+      "АБРАУ-ДЮРСО",
+      "РОЗОВОЕ ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

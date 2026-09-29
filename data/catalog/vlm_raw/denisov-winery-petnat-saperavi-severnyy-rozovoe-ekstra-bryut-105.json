@@ -1,0 +1,20 @@
+{
+  "slug": "denisov-winery-petnat-saperavi-severnyy-rozovoe-ekstra-bryut-105",
+  "seconds": 5.051964998245239,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТ-НАТ\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Саперави\",\n  \"category\": \"северный\",\n  \"raw_visible_text\": [\n    \"ПЕТ-НАТ\",\n    \"Саперави\",\n    \"северный\",\n    \"DENISOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТ-НАТ",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Саперави",
+    "category": "северный",
+    "raw_visible_text": [
+      "ПЕТ-НАТ",
+      "Саперави",
+      "северный",
+      "DENISOV"
+    ]
+  }
+}

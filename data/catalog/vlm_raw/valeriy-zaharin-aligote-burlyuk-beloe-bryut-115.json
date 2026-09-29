@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-aligote-burlyuk-beloe-bryut-115",
+  "seconds": 5.722524881362915,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БУРЛЮК\",\n  \"producer\": \"БУРЛЮК\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"АЛИГИГОТЕ\",\n  \"category\": \"БЕЛОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"БУРЛЮК\",\n    \"БУРЛЮК\",\n    \"АЛИГИГОТЕ\",\n    \"2023\",\n    \"БЕЛОЕ БРЮТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БУРЛЮК",
+    "producer": "БУРЛЮК",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "АЛИГИГОТЕ",
+    "category": "БЕЛОЕ БРЮТ",
+    "raw_visible_text": [
+      "БУРЛЮК",
+      "БУРЛЮК",
+      "АЛИГИГОТЕ",
+      "2023",
+      "БЕЛОЕ БРЮТ"
+    ]
+  }
+}

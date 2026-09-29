@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-pti-verdo-krasnoe-suhoe-145",
+  "seconds": 13.31470537185669,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PETIT VERDOT\",\n  \"producer\": \"RENAISSANCE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PETIT VERDOT\",\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"RAEVSKOE\",\n    \"2023\",\n    \"PETIT VERDOT\",\n    \"KUBAN\",\n    \"DRY RED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PETIT VERDOT",
+    "producer": "RENAISSANCE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PETIT VERDOT",
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "RAEVSKOE",
+      "2023",
+      "PETIT VERDOT",
+      "KUBAN",
+      "DRY RED"
+    ]
+  }
+}

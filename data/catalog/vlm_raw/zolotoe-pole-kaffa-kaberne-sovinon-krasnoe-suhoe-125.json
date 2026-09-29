@@ -1,0 +1,21 @@
+{
+  "slug": "zolotoe-pole-kaffa-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 13.899574041366577,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАЗГА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"КАЗГА\",\n    \"2024\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАЗГА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "КАЗГА",
+      "2024",
+      "КАБЕРНЕ СОВИНЬОН",
+      "КРАСНОЕ СУХОЕ",
+      "КРЫМ"
+    ]
+  }
+}

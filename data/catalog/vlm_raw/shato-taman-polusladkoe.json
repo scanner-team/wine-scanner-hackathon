@@ -1,0 +1,14 @@
+{
+  "slug": "shato-taman-polusladkoe",
+  "seconds": 4.781359434127808,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"CHATEAU TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусладкое\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"SEMI-SWEET\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"12%\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"12% alc./vol.\",\n    \"1",
+  "parsed": {
+    "visible_name": "CHATEAU TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусладкое"
+  }
+}

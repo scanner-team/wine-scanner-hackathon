@@ -1,0 +1,25 @@
+{
+  "slug": "merlo-litavshhuk",
+  "seconds": 15.629534006118774,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Merlot\",\n  \"producer\": \"LITAVSHCHUK VINEYARDS & WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Merlot\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"LITAVSHCHUK\",\n    \"VINEYARDS & WINERY\",\n    \"АНАГА, ВИННАЯ ДЕРЕВНЯ\",\n    \"2022\",\n    \"Merlot\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"«ВИННАЯ ДЕРЕВНЯ» — ВИНОДЕЛЬЧЕСКАЯ КОМПАНИЯ, ОБЩЕ ОГНИЧЕННЫЙ\",\n    \"ПРОЕКТ ПО ФЕРМЕРСКОМУ ВИНОДЕЛИЮ ОРГАНИЗОВАН В СООТВЕТСТВИЕ ЭКОНОГРАНИКА\",\n    \"НА ЕДИННОМ ЛЕЖКОМ СКЛОНЕ ВЕЛИКИ АНАГА!\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Merlot",
+    "producer": "LITAVSHCHUK VINEYARDS & WINERY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Merlot",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "LITAVSHCHUK",
+      "VINEYARDS & WINERY",
+      "АНАГА, ВИННАЯ ДЕРЕВНЯ",
+      "2022",
+      "Merlot",
+      "КРАСНОЕ СУХОЕ",
+      "«ВИННАЯ ДЕРЕВНЯ» — ВИНОДЕЛЬЧЕСКАЯ КОМПАНИЯ, ОБЩЕ ОГНИЧЕННЫЙ",
+      "ПРОЕКТ ПО ФЕРМЕРСКОМУ ВИНОДЕЛИЮ ОРГАНИЗОВАН В СООТВЕТСТВИЕ ЭКОНОГРАНИКА",
+      "НА ЕДИННОМ ЛЕЖКОМ СКЛОНЕ ВЕЛИКИ АНАГА!"
+    ]
+  }
+}

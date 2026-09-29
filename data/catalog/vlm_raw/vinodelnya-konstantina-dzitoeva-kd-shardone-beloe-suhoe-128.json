@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-konstantina-dzitoeva-kd-shardone-beloe-suhoe-128",
+  "seconds": 13.883021831512451,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДОНЕ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2023\",\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ШАРДОНЕ\",\n    \"РЕЗЕРВ\",\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"2023г.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДОНЕ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2023",
+    "grape": "ШАРДОНЕ",
+    "category": null,
+    "raw_visible_text": [
+      "ШАРДОНЕ",
+      "РЕЗЕРВ",
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "2023г."
+    ]
+  }
+}

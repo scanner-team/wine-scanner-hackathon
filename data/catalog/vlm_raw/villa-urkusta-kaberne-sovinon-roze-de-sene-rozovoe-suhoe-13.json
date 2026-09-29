@@ -1,0 +1,22 @@
+{
+  "slug": "villa-urkusta-kaberne-sovinon-roze-de-sene-rozovoe-suhoe-13",
+  "seconds": 9.645735025405884,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cabernet Sauvignon\",\n  \"producer\": \"Villa Urca\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": \"Rose de Saignée\",\n  \"raw_visible_text\": [\n    \"Cabernet Sauvignon\",\n    \"Rose de Saignée\",\n    \"Villa Urca\",\n    \"Sarastina\",\n    \"Sarastina\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cabernet Sauvignon",
+    "producer": "Villa Urca",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Cabernet Sauvignon",
+    "category": "Rose de Saignée",
+    "raw_visible_text": [
+      "Cabernet Sauvignon",
+      "Rose de Saignée",
+      "Villa Urca",
+      "Sarastina",
+      "Sarastina",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-petnat-pino-gri-rozovoe-ekstra-bryut-11",
+  "seconds": 4.883060932159424,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТНАТ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ПИНОТ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПЕТНАТ\",\n    \"ПИНОТ\",\n    \"64\",\n    \"ПИНОТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТНАТ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ПИНОТ",
+    "category": null,
+    "raw_visible_text": [
+      "ПЕТНАТ",
+      "ПИНОТ",
+      "64",
+      "ПИНОТ"
+    ]
+  }
+}

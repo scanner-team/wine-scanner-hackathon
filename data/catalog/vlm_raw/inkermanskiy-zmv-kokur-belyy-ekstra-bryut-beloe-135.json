@@ -1,0 +1,22 @@
+{
+  "slug": "inkermanskiy-zmv-kokur-belyy-ekstra-bryut-beloe-135",
+  "seconds": 13.294136762619019,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Zero Dosage\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"Zero Dosage\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"КОКУР\",\n    \"БЕЛЫЙ\",\n    \"Zero Dosage\",\n    \"2024 ГОД\",\n    \"УРОЖАЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Zero Dosage",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "Zero Dosage",
+    "raw_visible_text": [
+      "INKERMAN",
+      "КОКУР",
+      "БЕЛЫЙ",
+      "Zero Dosage",
+      "2024 ГОД",
+      "УРОЖАЯ"
+    ]
+  }
+}

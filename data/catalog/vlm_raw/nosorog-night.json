@@ -1,0 +1,20 @@
+{
+  "slug": "nosorog-night",
+  "seconds": 1.1510684490203857,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Krasnostop\",\n  \"producer\": \"KOFFMANN BROTHERS FAMILY VINEYARDS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"KRASNOSTOP\",\n    \"CABERNET SAUVIGNON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Krasnostop",
+    "producer": "KOFFMANN BROTHERS FAMILY VINEYARDS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "KRASNOSTOP",
+      "CABERNET SAUVIGNON"
+    ]
+  }
+}

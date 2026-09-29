@@ -1,0 +1,22 @@
+{
+  "slug": "potenczial-2026",
+  "seconds": 1.6020827293395996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОТЕНЦИАЛ\",\n  \"producer\": \"KOFFMANN BROTHERS\",\n  \"cuvee\": null,\n  \"vintage\": \"2026\",\n  \"grape\": \"КАВЕРНЕ СОВИНЬОН\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"ЗИММЕТИРОВАННАЯ КОЛЛЕКЦИЯ\",\n    \"ПОТЕНЦИАЛ\",\n    \"2026\",\n    \"КАВЕРНЕ СОВИНЬОН '14\",\n    \"0212/1001\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОТЕНЦИАЛ",
+    "producer": "KOFFMANN BROTHERS",
+    "cuvee": null,
+    "vintage": "2026",
+    "grape": "КАВЕРНЕ СОВИНЬОН",
+    "category": null,
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "ЗИММЕТИРОВАННАЯ КОЛЛЕКЦИЯ",
+      "ПОТЕНЦИАЛ",
+      "2026",
+      "КАВЕРНЕ СОВИНЬОН '14",
+      "0212/1001"
+    ]
+  }
+}

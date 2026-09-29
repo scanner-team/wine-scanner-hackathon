@@ -1,0 +1,19 @@
+{
+  "slug": "rubin-golodrigi",
+  "seconds": 0.8920783996582031,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАБИЯ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Голубица\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"ТАБИЯ\",\n    \"Голубица\",\n    \"сухое красное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАБИЯ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Голубица",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "ТАБИЯ",
+      "Голубица",
+      "сухое красное"
+    ]
+  }
+}

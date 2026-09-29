@@ -1,0 +1,23 @@
+{
+  "slug": "aristov-kyuve-aleksandr-roze-de-pino",
+  "seconds": 1.2123675346374512,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALEXANDER\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": \"CUVÉE\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"brut\",\n  \"raw_visible_text\": [\n    \"METODO CLASSICO\",\n    \"2022\",\n    \"CUVÉE\",\n    \"ALEXANDER\",\n    \"EXTRA BRUT • ZERO DOSAGE\",\n    \"Rosé de Pinot\",\n    \"ARISTOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALEXANDER",
+    "producer": "ARISTOV",
+    "cuvee": "CUVÉE",
+    "vintage": "2022",
+    "grape": null,
+    "category": "brut",
+    "raw_visible_text": [
+      "METODO CLASSICO",
+      "2022",
+      "CUVÉE",
+      "ALEXANDER",
+      "EXTRA BRUT • ZERO DOSAGE",
+      "Rosé de Pinot",
+      "ARISTOV"
+    ]
+  }
+}

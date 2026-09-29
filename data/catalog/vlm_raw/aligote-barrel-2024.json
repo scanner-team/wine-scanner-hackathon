@@ -1,0 +1,21 @@
+{
+  "slug": "aligote-barrel-2024",
+  "seconds": 1.5103423595428467,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALIGOTE BARREL\",\n  \"producer\": \"Коммуналька\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Алиготе\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"ALIGOTE BARREL\",\n    \"by Nataly S.\",\n    \"Коммуналька\",\n    \"Крым\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALIGOTE BARREL",
+    "producer": "Коммуналька",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Алиготе",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "ALIGOTE BARREL",
+      "by Nataly S.",
+      "Коммуналька",
+      "Крым",
+      "2024"
+    ]
+  }
+}

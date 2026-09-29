@@ -1,0 +1,30 @@
+{
+  "slug": "mantra-estate-sauvignon-blanc-sovinon-blan-beloe-suhoe-133",
+  "seconds": 8.285494089126587,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MANTRA ESTATE\",\n  \"producer\": \"ESTATE MANTI\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ESTATE MANTI\",\n    \"SINCE 2017\",\n    \"MANTRA ESTATE\",\n    \"SAUVIGNON BLANC\",\n    \"ВИРАДЛЕНО В ДОМИНЕ ГЕККАДИЯ\",\n    \"РОССИЯ, ПРЕДГОРОДИЕ СЕВЕРНОГО КАВКАЗА\",\n    \"2023\",\n    \"0,75L\",\n    \"BOTTLE NUMBER 0001 AMONG 7000\",\n    \"13,3% ALC\",\n    \"14\",\n    \"12,5\",\n    \"0,75L\",\n    \"6kg\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MANTRA ESTATE",
+    "producer": "ESTATE MANTI",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SAUVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "ESTATE MANTI",
+      "SINCE 2017",
+      "MANTRA ESTATE",
+      "SAUVIGNON BLANC",
+      "ВИРАДЛЕНО В ДОМИНЕ ГЕККАДИЯ",
+      "РОССИЯ, ПРЕДГОРОДИЕ СЕВЕРНОГО КАВКАЗА",
+      "2023",
+      "0,75L",
+      "BOTTLE NUMBER 0001 AMONG 7000",
+      "13,3% ALC",
+      "14",
+      "12,5",
+      "0,75L",
+      "6kg"
+    ]
+  }
+}

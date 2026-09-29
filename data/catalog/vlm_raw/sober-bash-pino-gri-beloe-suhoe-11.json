@@ -1,0 +1,22 @@
+{
+  "slug": "sober-bash-pino-gri-beloe-suhoe-11",
+  "seconds": 8.928539037704468,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ПИНО ГРИ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР\",\n    \"БАШ\",\n    \"ПИНО ГРИ\",\n    \"Вино с защищенным географическим указанием\",\n    \"«КУБАНЬ»\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ПИНО ГРИ",
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР",
+      "БАШ",
+      "ПИНО ГРИ",
+      "Вино с защищенным географическим указанием",
+      "«КУБАНЬ»",
+      "2024"
+    ]
+  }
+}

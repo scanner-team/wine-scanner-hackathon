@@ -1,0 +1,21 @@
+{
+  "slug": "nesterov-winery-krasnostop-rubin-klere-krasnostop-zolotovskiy-rozovoe-suhoe-11",
+  "seconds": 5.16606593132019,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП - РУБИН\",\n  \"producer\": \"NESTEROV WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"NESTEROV\",\n    \"WINERY\",\n    \"КРАСНОСТОП - РУБИН\",\n    \"[х.гор.]\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП - РУБИН",
+    "producer": "NESTEROV WINERY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "NESTEROV",
+      "WINERY",
+      "КРАСНОСТОП - РУБИН",
+      "[х.гор.]",
+      "2023"
+    ]
+  }
+}

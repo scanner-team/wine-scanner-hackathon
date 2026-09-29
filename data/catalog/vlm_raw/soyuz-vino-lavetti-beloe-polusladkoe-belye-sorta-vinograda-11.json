@@ -1,0 +1,27 @@
+{
+  "slug": "soyuz-vino-lavetti-beloe-polusladkoe-belye-sorta-vinograda-11",
+  "seconds": 6.943448066711426,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LAVETTI\",\n  \"producer\": \"Lavetti\",\n  \"cuvee\": \"Superiore\",\n  \"vintage\": null,\n  \"grape\": \"Semidolce\",\n  \"category\": \"Vino da Tavola\",\n  \"raw_visible_text\": [\n    \"LAVETTI\",\n    \"Superiore\",\n    \"GRANDE\",\n    \"LAVETTI\",\n    \"Superiore\",\n    \"EST. 1854\",\n    \"VINO BIANCO\",\n    \"SEMIDOLCE\",\n    \"VINO DA TAVOLA\",\n    \"13%Vol\",\n    \"75cl\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LAVETTI",
+    "producer": "Lavetti",
+    "cuvee": "Superiore",
+    "vintage": null,
+    "grape": "Semidolce",
+    "category": "Vino da Tavola",
+    "raw_visible_text": [
+      "LAVETTI",
+      "Superiore",
+      "GRANDE",
+      "LAVETTI",
+      "Superiore",
+      "EST. 1854",
+      "VINO BIANCO",
+      "SEMIDOLCE",
+      "VINO DA TAVOLA",
+      "13%Vol",
+      "75cl"
+    ]
+  }
+}

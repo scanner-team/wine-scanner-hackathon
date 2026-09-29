@@ -1,0 +1,20 @@
+{
+  "slug": "lesnaya-proseka",
+  "seconds": 0.8886120319366455,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ariston\",\n  \"producer\": \"Ariston\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Ариви\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ARISTON\",\n    \"Ариви\",\n    \"брют\",\n    \"2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ariston",
+    "producer": "Ariston",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Ариви",
+    "category": "брют",
+    "raw_visible_text": [
+      "ARISTON",
+      "Ариви",
+      "брют",
+      "2018"
+    ]
+  }
+}

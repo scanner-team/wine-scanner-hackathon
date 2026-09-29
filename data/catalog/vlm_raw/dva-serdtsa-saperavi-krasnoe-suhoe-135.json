@@ -1,0 +1,20 @@
+{
+  "slug": "dva-serdtsa-saperavi-krasnoe-suhoe-135",
+  "seconds": 5.540373086929321,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА СЕРДЦА\",\n  \"producer\": \"САПЕРАВИ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СУХОЕ КРАСНОЕ\",\n  \"category\": \"ХРЫМ\",\n  \"raw_visible_text\": [\n    \"ДВА СЕРДЦА\",\n    \"САПЕРАВИ\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"ХРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА СЕРДЦА",
+    "producer": "САПЕРАВИ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СУХОЕ КРАСНОЕ",
+    "category": "ХРЫМ",
+    "raw_visible_text": [
+      "ДВА СЕРДЦА",
+      "САПЕРАВИ",
+      "СУХОЕ КРАСНОЕ",
+      "ХРЫМ"
+    ]
+  }
+}

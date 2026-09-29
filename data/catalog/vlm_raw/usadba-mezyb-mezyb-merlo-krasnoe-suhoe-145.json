@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-mezyb-merlo-krasnoe-suhoe-145",
+  "seconds": 13.325043201446533,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫББ\",\n  \"producer\": \"УСАДЬБА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"МЕРЛО\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫББ\",\n    \"МЕРЛО\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫББ",
+    "producer": "УСАДЬБА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "МЕРЛО",
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫББ",
+      "МЕРЛО",
+      "2021"
+    ]
+  }
+}

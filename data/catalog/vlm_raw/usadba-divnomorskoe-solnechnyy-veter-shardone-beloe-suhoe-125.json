@@ -1,0 +1,23 @@
+{
+  "slug": "usadba-divnomorskoe-solnechnyy-veter-shardone-beloe-suhoe-125",
+  "seconds": 14.802058935165405,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Солнечный Ветер\",\n  \"producer\": \"ТЕРРУАР\",\n  \"cuvee\": \"ВТОРАЯ ЛИНИЯ\",\n  \"vintage\": null,\n  \"grape\": \"УСАДЬБА ДИВНОМОРСКОЕ\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"УСАДЬБА\",\n    \"ДИВНОМОРСКОЕ\",\n    \"ТЕРРУАР\",\n    \"ВТОРАЯ ЛИНИЯ\",\n    \"Солнечный Ветер\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Солнечный Ветер",
+    "producer": "ТЕРРУАР",
+    "cuvee": "ВТОРАЯ ЛИНИЯ",
+    "vintage": null,
+    "grape": "УСАДЬБА ДИВНОМОРСКОЕ",
+    "category": null,
+    "raw_visible_text": [
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "УСАДЬБА",
+      "ДИВНОМОРСКОЕ",
+      "ТЕРРУАР",
+      "ВТОРАЯ ЛИНИЯ",
+      "Солнечный Ветер"
+    ]
+  }
+}

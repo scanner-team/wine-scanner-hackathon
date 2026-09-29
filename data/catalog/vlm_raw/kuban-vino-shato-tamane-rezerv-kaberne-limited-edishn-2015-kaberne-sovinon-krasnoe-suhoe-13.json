@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-kaberne-limited-edishn-2015-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 5.799493312835693,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2015\",\n  \"grape\": \"Каберне\",\n  \"category\": \"Ограниченный урожай 2015\",\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"Edition Limitée\",\n    \"Каберне 2015\",\n    \"Ограниченный урожай 2015\",\n    \"Вино кальвадоское сухое красное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2015",
+    "grape": "Каберне",
+    "category": "Ограниченный урожай 2015",
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "RESERVE",
+      "Edition Limitée",
+      "Каберне 2015",
+      "Ограниченный урожай 2015",
+      "Вино кальвадоское сухое красное"
+    ]
+  }
+}

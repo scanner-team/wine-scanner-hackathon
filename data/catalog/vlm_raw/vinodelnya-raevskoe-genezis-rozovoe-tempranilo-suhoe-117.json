@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-raevskoe-genezis-rozovoe-tempranilo-suhoe-117",
+  "seconds": 4.341179847717285,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GENESIS\",\n  \"producer\": \"RAEVSKOE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"RAEVSKOE\",\n    \"GENESIS\",\n    \"ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GENESIS",
+    "producer": "RAEVSKOE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ROSE",
+    "raw_visible_text": [
+      "RAEVSKOE",
+      "GENESIS",
+      "ROSE"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "denisov_pereplyas_kurmyshi",
+  "seconds": 1.3188281059265137,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DENISOV\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КУРМЫШИ\",\n  \"category\": \"ДОЛГ\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"CAMAPA\",\n    \"KOURMYSHI\",\n    \"DOCG\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DENISOV",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КУРМЫШИ",
+    "category": "ДОЛГ",
+    "raw_visible_text": [
+      "DENISOV",
+      "CAMAPA",
+      "KOURMYSHI",
+      "DOCG"
+    ]
+  }
+}

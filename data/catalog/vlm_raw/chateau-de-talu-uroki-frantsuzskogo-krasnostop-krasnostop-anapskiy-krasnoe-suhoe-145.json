@@ -1,0 +1,23 @@
+{
+  "slug": "chateau-de-talu-uroki-frantsuzskogo-krasnostop-krasnostop-anapskiy-krasnoe-suhoe-145",
+  "seconds": 6.088971138000488,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"УРОКИ ФРАНЦУЗСКОГО\",\n  \"producer\": \"CHÂTEAU de TALU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ГЕЛЕНДЖИК\",\n  \"category\": \"КРАСНОСТОП\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"de\",\n    \"TALU\",\n    \"УРОКИ\",\n    \"ФРАНЦУЗСКОГО\",\n    \"КРАСНОСТОП\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "УРОКИ ФРАНЦУЗСКОГО",
+    "producer": "CHÂTEAU de TALU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ГЕЛЕНДЖИК",
+    "category": "КРАСНОСТОП",
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "de",
+      "TALU",
+      "УРОКИ",
+      "ФРАНЦУЗСКОГО",
+      "КРАСНОСТОП",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "cloudy-winery-krash-cabernet-sauvignon-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 9.379381895065308,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KRAW\",\n  \"producer\": \"CLOUDY WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KRAW\",\n    \"CABERNET SAUVIGNON\",\n    \"2020\",\n    \"CLOUDY WINERY\",\n    \"COMMUNITY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KRAW",
+    "producer": "CLOUDY WINERY",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "KRAW",
+      "CABERNET SAUVIGNON",
+      "2020",
+      "CLOUDY WINERY",
+      "COMMUNITY"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "domaine-lipko-risling-beloe-polusuhoe-124",
+  "seconds": 5.534754991531372,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DOMAINE LIPKO\",\n  \"producer\": \"DOMAINE LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RIESLING\",\n    \"20-\",\n    \"DOMAINE LIPKO-7\",\n    \"FAMILY VINEYARDS & WINERY\",\n    \"SEVASTOPOL\",\n    \"8,4% vol.\",\n    \"2022\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DOMAINE LIPKO",
+    "producer": "DOMAINE LIPKO",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "RIESLING",
+      "20-",
+      "DOMAINE LIPKO-7",
+      "FAMILY VINEYARDS & WINERY",
+      "SEVASTOPOL",
+      "8,4% vol.",
+      "2022",
+      "750ml"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-kaberne-sovinon-krasnoe-suhoe-15",
+  "seconds": 14.690948724746704,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Каберне Совиньон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2022\",\n    \"Каберне Совиньон\",\n    \"№ 3478\",\n    \"Cervus Elaphus\",\n    \"Maral\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "СКАЛИСТЫЙ БЕРЕГ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Каберне Совиньон",
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2022",
+      "Каберне Совиньон",
+      "№ 3478",
+      "Cervus Elaphus",
+      "Maral"
+    ]
+  }
+}

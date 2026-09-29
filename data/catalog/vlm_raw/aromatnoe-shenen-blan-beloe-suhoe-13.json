@@ -1,0 +1,21 @@
+{
+  "slug": "aromatnoe-shenen-blan-beloe-suhoe-13",
+  "seconds": 13.441884994506836,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШЕНЕН БЛАН\",\n  \"producer\": \"Агронаткее\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"мерруар\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"мерруар\",\n    \"Агронаткее\",\n    \"ШЕНЕН БЛАН\",\n    \"2023\",\n    \"№ 0356 / 2000\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШЕНЕН БЛАН",
+    "producer": "Агронаткее",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "мерруар",
+    "category": null,
+    "raw_visible_text": [
+      "мерруар",
+      "Агронаткее",
+      "ШЕНЕН БЛАН",
+      "2023",
+      "№ 0356 / 2000"
+    ]
+  }
+}

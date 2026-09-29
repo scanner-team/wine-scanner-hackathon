@@ -1,0 +1,20 @@
+{
+  "slug": "bogovich-wine-vineyard-kaberne-fran-krasnoe-suhoe-135",
+  "seconds": 5.055168867111206,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET FRANC\",\n  \"producer\": \"IRINA BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"OLD WINE\",\n  \"raw_visible_text\": [\n    \"IRINA BOGOVICH\",\n    \"CABERNET\",\n    \"FRANC\",\n    \"OLD WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET FRANC",
+    "producer": "IRINA BOGOVICH",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET FRANC",
+    "category": "OLD WINE",
+    "raw_visible_text": [
+      "IRINA BOGOVICH",
+      "CABERNET",
+      "FRANC",
+      "OLD WINE"
+    ]
+  }
+}

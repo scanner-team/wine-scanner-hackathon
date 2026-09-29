@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-estate-rose-kaberne-sovinon-rozovoe-suhoe-11",
+  "seconds": 8.69726300239563,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM\",\n  \"producer\": \"ВЯЧЕСЛАВ ЗОТИН\",\n  \"cuvee\": \"ESTATE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"РОЗЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛ\",\n    \"ВЯЧЕСЛАВ ЗОТИН\",\n    \"ADAGUM\",\n    \"ESTATE\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«КУБАНЬ»\",\n    \"РОЗЕ\",\n    \"ВИНО СУХОЕ РОЗОВОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM",
+    "producer": "ВЯЧЕСЛАВ ЗОТИН",
+    "cuvee": "ESTATE",
+    "vintage": null,
+    "grape": null,
+    "category": "РОЗЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛ",
+      "ВЯЧЕСЛАВ ЗОТИН",
+      "ADAGUM",
+      "ESTATE",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«КУБАНЬ»",
+      "РОЗЕ",
+      "ВИНО СУХОЕ РОЗОВОЕ"
+    ]
+  }
+}

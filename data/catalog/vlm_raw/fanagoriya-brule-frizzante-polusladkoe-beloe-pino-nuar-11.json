@@ -1,0 +1,22 @@
+{
+  "slug": "fanagoriya-brule-frizzante-polusladkoe-beloe-pino-nuar-11",
+  "seconds": 13.044822931289673,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BRÛLÉ\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"FRIZZANTE\",\n  \"raw_visible_text\": [\n    \"BRÛLÉ\",\n    \"FRIZZANTE\",\n    \"Blanc\",\n    \"SEMI-SWEET\",\n    \"FANAGORIA\",\n    \"PREMIUM\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BRÛLÉ",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "FRIZZANTE",
+    "raw_visible_text": [
+      "BRÛLÉ",
+      "FRIZZANTE",
+      "Blanc",
+      "SEMI-SWEET",
+      "FANAGORIA",
+      "PREMIUM"
+    ]
+  }
+}

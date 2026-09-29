@@ -1,0 +1,21 @@
+{
+  "slug": "oleg-repin-listva-syrah-sira-krasnoe-suhoe-14",
+  "seconds": 5.358818054199219,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Listra\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SYRAH\",\n  \"category\": \"SEVASTOPOL\",\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"SYRAH 2022\",\n    \"Listra\",\n    \"SEVASTOPOL\",\n    \"000159\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Listra",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SYRAH",
+    "category": "SEVASTOPOL",
+    "raw_visible_text": [
+      "Oleg Repin",
+      "SYRAH 2022",
+      "Listra",
+      "SEVASTOPOL",
+      "000159"
+    ]
+  }
+}

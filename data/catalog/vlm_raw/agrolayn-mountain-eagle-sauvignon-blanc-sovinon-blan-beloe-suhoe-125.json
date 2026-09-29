@@ -1,0 +1,22 @@
+{
+  "slug": "agrolayn-mountain-eagle-sauvignon-blanc-sovinon-blan-beloe-suhoe-125",
+  "seconds": 5.585563898086548,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MOUNTAIN EAGLE\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MOUNTAIN EAGLE\",\n    \"100% PUREST\",\n    \"ORGANIC VINEYARD\",\n    \"ITALY & RUSSIA\",\n    \"2022\",\n    \"SAUVIGNON BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MOUNTAIN EAGLE",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "SAUVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "MOUNTAIN EAGLE",
+      "100% PUREST",
+      "ORGANIC VINEYARD",
+      "ITALY & RUSSIA",
+      "2022",
+      "SAUVIGNON BLANC"
+    ]
+  }
+}

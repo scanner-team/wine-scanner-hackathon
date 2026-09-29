@@ -1,0 +1,20 @@
+{
+  "slug": "locantita-more",
+  "seconds": 4.812899827957153,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Locantia\",\n  \"producer\": \"МОРЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"МЕРЛО-КАБЕРНЕ\",\n  \"category\": \"красное\",\n  \"raw_visible_text\": [\n    \"КРАСНОЕ ВИНО\",\n    \"Locantia\",\n    \"МОРЕ\",\n    \"МЕРЛО-КАБЕРНЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Locantia",
+    "producer": "МОРЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "МЕРЛО-КАБЕРНЕ",
+    "category": "красное",
+    "raw_visible_text": [
+      "КРАСНОЕ ВИНО",
+      "Locantia",
+      "МОРЕ",
+      "МЕРЛО-КАБЕРНЕ"
+    ]
+  }
+}

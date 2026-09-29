@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-mezyb-staraya-doroga-na-dzhanhot-kaberne-sovinon-krasnoe-suhoe-144",
+  "seconds": 13.55015778541565,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДЖАНХОТ\",\n  \"producer\": \"Старая дорога\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"N 010690\",\n    \"СТАРАЯ ДОРОГА\",\n    \"НА\",\n    \"ДЖАНХОТ\",\n    \"КРАСНОЕ 2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДЖАНХОТ",
+    "producer": "Старая дорога",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "КРАСНОЕ",
+    "raw_visible_text": [
+      "N 010690",
+      "СТАРАЯ ДОРОГА",
+      "НА",
+      "ДЖАНХОТ",
+      "КРАСНОЕ 2022"
+    ]
+  }
+}

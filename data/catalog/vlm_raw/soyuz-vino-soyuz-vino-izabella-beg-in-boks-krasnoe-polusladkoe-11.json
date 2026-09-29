@@ -1,0 +1,23 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-izabella-beg-in-boks-krasnoe-polusladkoe-11",
+  "seconds": 4.963605880737305,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Изабелла\",\n  \"producer\": \"SOYUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Изабелла\",\n    \"SOYUZ VINO\",\n    \"3 л\",\n    \"Вино сухое, поддерживается виноградом\",\n    \"Сухое красное\",\n    \"Изабелла\",\n    \"3 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Изабелла",
+    "producer": "SOYUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Изабелла",
+      "SOYUZ VINO",
+      "3 л",
+      "Вино сухое, поддерживается виноградом",
+      "Сухое красное",
+      "Изабелла",
+      "3 л"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-kaberne-kortis-krasnoe-suhoe-12",
+  "seconds": 5.437067031860352,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Каберне Кортис\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": \"PERFEKT KLASSEK\",\n  \"vintage\": null,\n  \"grape\": \"Каберне Кортис\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"винодельня\",\n    \"1995\",\n    \"Каберне Кортис\",\n    \"PERFEKT KLASSEK\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Каберне Кортис",
+    "producer": "Виталий Батрак",
+    "cuvee": "PERFEKT KLASSEK",
+    "vintage": null,
+    "grape": "Каберне Кортис",
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "винодельня",
+      "1995",
+      "Каберне Кортис",
+      "PERFEKT KLASSEK"
+    ]
+  }
+}

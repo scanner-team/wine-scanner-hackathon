@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-myshako-myshako-kyuve-rozovoe-pino-nuar-bryut-123",
+  "seconds": 5.625552177429199,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КИОВЕ\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": null,\n  \"category\": \"брют розовое\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОГРАДНИК\",\n    \"КИОВЕ\",\n    \"2017\",\n    \"БРЮТ РОЗОВОЕ\",\n    \"ВЫДЕРЖАННОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КИОВЕ",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": null,
+    "category": "брют розовое",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОГРАДНИК",
+      "КИОВЕ",
+      "2017",
+      "БРЮТ РОЗОВОЕ",
+      "ВЫДЕРЖАННОЕ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-marchenko-merlo-krasnoe-suhoe-14",
+  "seconds": 4.741921901702881,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Мерло\",\n  \"producer\": \"МАРЧЕНКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Мерло\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАРЧЕНКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"Мерло\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Мерло",
+    "producer": "МАРЧЕНКО",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Мерло",
+    "category": null,
+    "raw_visible_text": [
+      "МАРЧЕНКО",
+      "ВИНОДЕЛЬНЯ",
+      "Мерло",
+      "2021"
+    ]
+  }
+}

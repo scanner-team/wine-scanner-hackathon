@@ -1,0 +1,18 @@
+{
+  "slug": "belbek-kokur-kokur-belyy-beloe-suhoe-13",
+  "seconds": 4.386608123779297,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": \"КОКУР\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"КОКУР\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": "КОКУР",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "КОКУР"
+    ]
+  }
+}

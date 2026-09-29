@@ -1,0 +1,31 @@
+{
+  "slug": "stn-winery-saignee-sira-rozovoe-suhoe-125",
+  "seconds": 6.194225788116455,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Saiz Nee\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Saiz Nee\",\n    \"2023\",\n    \"750 ML\",\n    \"area\",\n    \"harvest\",\n    \"skin\",\n    \"oak\",\n    \"tirage\",\n    \"alc\",\n    \"neverestool\",\n    \"22 months\",\n    \"300 minutes\",\n    \"7 months\",\n    \"1850 bottles\",\n    \"22.00\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Saiz Nee",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Saiz Nee",
+      "2023",
+      "750 ML",
+      "area",
+      "harvest",
+      "skin",
+      "oak",
+      "tirage",
+      "alc",
+      "neverestool",
+      "22 months",
+      "300 minutes",
+      "7 months",
+      "1850 bottles",
+      "22.00"
+    ]
+  }
+}

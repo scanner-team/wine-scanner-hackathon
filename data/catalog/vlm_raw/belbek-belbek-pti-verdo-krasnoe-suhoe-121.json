@@ -1,0 +1,19 @@
+{
+  "slug": "belbek-belbek-pti-verdo-krasnoe-suhoe-121",
+  "seconds": 6.475337028503418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Белик\",\n  \"producer\": \"Белик\",\n  \"cuvee\": \"КРАСНАЯ СТОП\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"КРАСНАЯ СТОП\",\n  \"raw_visible_text\": [\n    \"Белик\",\n    \"ОТ Н ВЕРДО\",\n    \"КРАСНАЯ СТОП\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Белик",
+    "producer": "Белик",
+    "cuvee": "КРАСНАЯ СТОП",
+    "vintage": null,
+    "grape": null,
+    "category": "КРАСНАЯ СТОП",
+    "raw_visible_text": [
+      "Белик",
+      "ОТ Н ВЕРДО",
+      "КРАСНАЯ СТОП"
+    ]
+  }
+}

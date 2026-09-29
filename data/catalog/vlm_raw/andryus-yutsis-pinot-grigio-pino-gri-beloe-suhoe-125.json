@@ -1,0 +1,21 @@
+{
+  "slug": "andryus-yutsis-pinot-grigio-pino-gri-beloe-suhoe-125",
+  "seconds": 4.967562913894653,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Andryeus Yontsi's\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Andryeus\",\n    \"Yontsi's\",\n    \"2022\",\n    \"Ruzza Ormea\",\n    \"PINOT GRIGIO\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Andryeus Yontsi's",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT GRIGIO",
+    "category": null,
+    "raw_visible_text": [
+      "Andryeus",
+      "Yontsi's",
+      "2022",
+      "Ruzza Ormea",
+      "PINOT GRIGIO"
+    ]
+  }
+}

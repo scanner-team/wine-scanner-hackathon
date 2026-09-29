@@ -1,0 +1,26 @@
+{
+  "slug": "derbent-vino-graf-vorontsov-bryut-beloe-sovinon-blan-105-125",
+  "seconds": 14.737308979034424,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ГРАФ·ВОРОНЦОВ\",\n  \"producer\": \"ГРАФ·ВОРОНЦОВ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"БЕЛОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"ГРАФ·ВОРОНЦОВ\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"18\",\n    \"90\",\n    \"18\",\n    \"90\",\n    \"SEMPER\",\n    \"IMMOTA\",\n    \"FIDES\",\n    \"БЕЛОЕ БРЮТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ГРАФ·ВОРОНЦОВ",
+    "producer": "ГРАФ·ВОРОНЦОВ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "БЕЛОЕ БРЮТ",
+    "raw_visible_text": [
+      "ГРАФ·ВОРОНЦОВ",
+      "ИГРИСТОЕ ВИНО",
+      "18",
+      "90",
+      "18",
+      "90",
+      "SEMPER",
+      "IMMOTA",
+      "FIDES",
+      "БЕЛОЕ БРЮТ"
+    ]
+  }
+}

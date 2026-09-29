@@ -1,0 +1,20 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-shardone-beloe-polusladkoe-beg-in-boks-12",
+  "seconds": 4.803478956222534,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Шардоне\",\n  \"producer\": \"SOYUZ VINO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Шардоне\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Шардоне\",\n    \"SOYUZ VINO\",\n    \"Виноградный сорт, виноградный сорт\",\n    \"Виноградный сорт, виноградный сорт\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Шардоне",
+    "producer": "SOYUZ VINO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Шардоне",
+    "category": null,
+    "raw_visible_text": [
+      "Шардоне",
+      "SOYUZ VINO",
+      "Виноградный сорт, виноградный сорт",
+      "Виноградный сорт, виноградный сорт"
+    ]
+  }
+}

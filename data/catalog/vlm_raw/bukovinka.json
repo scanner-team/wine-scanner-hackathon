@@ -1,0 +1,20 @@
+{
+  "slug": "bukovinka",
+  "seconds": 1.0626897811889648,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАБИЯ\",\n  \"producer\": \"ТАБИЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"БУКОВНИКА\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ТАБИЯ\",\n    \"СЕРИЯ СЕЛЕКЦИЯ\",\n    \"2024\",\n    \"БУКОВНИКА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАБИЯ",
+    "producer": "ТАБИЯ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "БУКОВНИКА",
+    "category": null,
+    "raw_visible_text": [
+      "ТАБИЯ",
+      "СЕРИЯ СЕЛЕКЦИЯ",
+      "2024",
+      "БУКОВНИКА"
+    ]
+  }
+}

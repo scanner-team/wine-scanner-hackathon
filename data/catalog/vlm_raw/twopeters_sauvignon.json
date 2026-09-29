@@ -1,0 +1,22 @@
+{
+  "slug": "twopeters_sauvignon",
+  "seconds": 1.3809103965759277,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ДВА ПЕТРА\",\n  \"producer\": \"Скалистый Берег\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"Белое сухое\",\n  \"raw_visible_text\": [\n    \"WINE OF CRIMEA\",\n    \"ДВА ПЕТРА\",\n    \"SAUVIGNON\",\n    \"Белое сухое\",\n    \"2024\",\n    \"№3996\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ДВА ПЕТРА",
+    "producer": "Скалистый Берег",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "SAUVIGNON",
+    "category": "Белое сухое",
+    "raw_visible_text": [
+      "WINE OF CRIMEA",
+      "ДВА ПЕТРА",
+      "SAUVIGNON",
+      "Белое сухое",
+      "2024",
+      "№3996"
+    ]
+  }
+}

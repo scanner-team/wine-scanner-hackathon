@@ -1,0 +1,22 @@
+{
+  "slug": "le-k2-v-glubine-shardone-beloe-suhoe-13",
+  "seconds": 13.484740257263184,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": null,\n  \"cuvee\": \"В ГЛУБИНЕ\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Ридное, Севастополь\",\n    \"Le K2\",\n    \"E\",\n    \"В ГЛУБИНЕ\",\n    \"2023\",\n    \"Алк. 13% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": null,
+    "cuvee": "В ГЛУБИНЕ",
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Ридное, Севастополь",
+      "Le K2",
+      "E",
+      "В ГЛУБИНЕ",
+      "2023",
+      "Алк. 13% об."
+    ]
+  }
+}

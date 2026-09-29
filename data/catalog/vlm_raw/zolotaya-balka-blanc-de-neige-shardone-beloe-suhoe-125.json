@@ -1,0 +1,24 @@
+{
+  "slug": "zolotaya-balka-blanc-de-neige-shardone-beloe-suhoe-125",
+  "seconds": 7.547425031661987,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE NEIGE\",\n  \"producer\": \"Oleg Repin à Snajanna G\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"VIN BLANC SEC\",\n  \"raw_visible_text\": [\n    \"GRAND VIN\",\n    \"BLANC\",\n    \"DE\",\n    \"NEIGE\",\n    \"Oleg Repin\",\n    \"à Snajanna G\",\n    \"VIN BLANC SEC\",\n    \"SEVASTOPOL 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE NEIGE",
+    "producer": "Oleg Repin à Snajanna G",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "VIN BLANC SEC",
+    "raw_visible_text": [
+      "GRAND VIN",
+      "BLANC",
+      "DE",
+      "NEIGE",
+      "Oleg Repin",
+      "à Snajanna G",
+      "VIN BLANC SEC",
+      "SEVASTOPOL 2023"
+    ]
+  }
+}

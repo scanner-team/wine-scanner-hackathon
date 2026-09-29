@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-mosavali-saperavi-polusladkoe-krasnoe-11",
+  "seconds": 1.233234167098999,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Mosavali\",\n  \"producer\": \"Mosavali\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Saporavi\",\n  \"category\": \"semi-sweet red\",\n  \"raw_visible_text\": [\n    \"მოსავალი\",\n    \"Mosavali\",\n    \"საფორავი\",\n    \"semi-sweet red\",\n    \"12%\",\n    \"750 ml\",\n    \"WINE GROWERS\",\n    \"of Georgia\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Mosavali",
+    "producer": "Mosavali",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Saporavi",
+    "category": "semi-sweet red",
+    "raw_visible_text": [
+      "მოსავალი",
+      "Mosavali",
+      "საფორავი",
+      "semi-sweet red",
+      "12%",
+      "750 ml",
+      "WINE GROWERS",
+      "of Georgia"
+    ]
+  }
+}

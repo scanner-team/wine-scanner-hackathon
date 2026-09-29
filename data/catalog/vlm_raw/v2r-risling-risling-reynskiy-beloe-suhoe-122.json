@@ -1,0 +1,18 @@
+{
+  "slug": "v2r-risling-risling-reynskiy-beloe-suhoe-122",
+  "seconds": 4.258601903915405,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"B2P\",\n  \"producer\": \"B2P\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рислинг\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"B2P\",\n    \"Рислинг\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "B2P",
+    "producer": "B2P",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рислинг",
+    "category": null,
+    "raw_visible_text": [
+      "B2P",
+      "Рислинг"
+    ]
+  }
+}

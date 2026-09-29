@@ -1,0 +1,20 @@
+{
+  "slug": "agora-rosa-viva-riesling",
+  "seconds": 0.9467728137969971,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSA VIVA\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": \"WHITE DRY\",\n  \"raw_visible_text\": [\n    \"ROSA VIVA\",\n    \"AGORA WINERY\",\n    \"RIESLING\",\n    \"WHITE DRY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSA VIVA",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": "WHITE DRY",
+    "raw_visible_text": [
+      "ROSA VIVA",
+      "AGORA WINERY",
+      "RIESLING",
+      "WHITE DRY"
+    ]
+  }
+}

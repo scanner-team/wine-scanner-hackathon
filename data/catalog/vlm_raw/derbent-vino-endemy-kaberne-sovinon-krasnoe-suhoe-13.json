@@ -1,0 +1,20 @@
+{
+  "slug": "derbent-vino-endemy-kaberne-sovinon-krasnoe-suhoe-13",
+  "seconds": 7.999733924865723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЭНДЕМЫ\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"БРЮТ\",\n  \"raw_visible_text\": [\n    \"ЭНДЕМЫ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"БРЮТ\",\n    \"Вино игристое розовое\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЭНДЕМЫ",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "БРЮТ",
+    "raw_visible_text": [
+      "ЭНДЕМЫ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "БРЮТ",
+      "Вино игристое розовое"
+    ]
+  }
+}

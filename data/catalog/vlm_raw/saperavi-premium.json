@@ -1,0 +1,25 @@
+{
+  "slug": "saperavi-premium",
+  "seconds": 3.290750503540039,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Saperavi\",\n  \"producer\": \"LITAVSHCHUK VINEYARDS & WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Saperavi\",\n  \"category\": \"красное полусладкое\",\n  \"raw_visible_text\": [\n    \"LITAVSHCHUK\",\n    \"VINEYARDS & WINERY\",\n    \"АНАГА, БИННАЯ ДЕРЕВНЯ\",\n    \"2023\",\n    \"Saperavi\",\n    \"КРАСНОЕ ПОЛУСЛУДКОЕ\",\n    \"«ЧИНАДА ДЕРЕВНЯ» — БИНО-ДЕЛ-ПЕЧЕСКИЙ КОЛЛЕКЦИОННЫЙ, ПОВЫШЕННЫЙ\",\n    \"ПОЛЕТ ПО МЕТРОПОЛИСКИЙ ВИНОДЕТСКИЙ КОЛЛЕКЦИОННЫЙ СО ВСЕМИ ВИНОГРАДАМИ\",\n    \"НА ЕДИНИЦЕМ КОЖКОМ СКУТНОЕ ВИНО АНАГА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Saperavi",
+    "producer": "LITAVSHCHUK VINEYARDS & WINERY",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Saperavi",
+    "category": "красное полусладкое",
+    "raw_visible_text": [
+      "LITAVSHCHUK",
+      "VINEYARDS & WINERY",
+      "АНАГА, БИННАЯ ДЕРЕВНЯ",
+      "2023",
+      "Saperavi",
+      "КРАСНОЕ ПОЛУСЛУДКОЕ",
+      "«ЧИНАДА ДЕРЕВНЯ» — БИНО-ДЕЛ-ПЕЧЕСКИЙ КОЛЛЕКЦИОННЫЙ, ПОВЫШЕННЫЙ",
+      "ПОЛЕТ ПО МЕТРОПОЛИСКИЙ ВИНОДЕТСКИЙ КОЛЛЕКЦИОННЫЙ СО ВСЕМИ ВИНОГРАДАМИ",
+      "НА ЕДИНИЦЕМ КОЖКОМ СКУТНОЕ ВИНО АНАГА"
+    ]
+  }
+}

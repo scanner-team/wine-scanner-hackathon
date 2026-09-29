@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-riesling-risling-beloe-suhoe-11",
+  "seconds": 8.525340795516968,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM\",\n  \"producer\": \"Адагум\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"Адагум\",\n    \"ADAGUM\",\n    \"RIESLING\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"АДАГУМ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»\",\n    \"АЛК. 10,2% об.\",\n    \"0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM",
+    "producer": "Адагум",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "Адагум",
+      "ADAGUM",
+      "RIESLING",
+      "СУХОЕ БЕЛОЕ",
+      "АДАГУМ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КУБАНЬ»",
+      "АЛК. 10,2% об.",
+      "0,75 л"
+    ]
+  }
+}

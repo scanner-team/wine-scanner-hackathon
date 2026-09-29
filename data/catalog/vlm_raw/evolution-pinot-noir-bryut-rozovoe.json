@@ -1,0 +1,21 @@
+{
+  "slug": "evolution-pinot-noir-bryut-rozovoe",
+  "seconds": 1.3242566585540771,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"EVOLUTION\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"BRUT ROSE\",\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"EVOLUTION\",\n    \"BRUT ROSE\",\n    \"2024\",\n    \"AVA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "EVOLUTION",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "BRUT ROSE",
+    "raw_visible_text": [
+      "AVA",
+      "EVOLUTION",
+      "BRUT ROSE",
+      "2024",
+      "AVA"
+    ]
+  }
+}

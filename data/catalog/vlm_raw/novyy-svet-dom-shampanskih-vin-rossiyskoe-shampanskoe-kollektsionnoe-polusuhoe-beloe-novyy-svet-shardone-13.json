@@ -1,0 +1,23 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-polusuhoe-beloe-novyy-svet-shardone-13",
+  "seconds": 8.312542915344238,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Сеть\",\n  \"producer\": \"Шампанское коллекционное\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Полусухое селтое\",\n  \"raw_visible_text\": [\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ КОЛЛЕКЦИОННОЕ\",\n    \"1878\",\n    \"1878\",\n    \"Новый Сеть\",\n    \"ПОЛУСУХОЕ СЕЛТОЕ\",\n    \"Предъявлено Шампанское вино селтое в 1878 г.\",\n    \"князь Леван Голицкий\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Сеть",
+    "producer": "Шампанское коллекционное",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Полусухое селтое",
+    "raw_visible_text": [
+      "РОССИЙСКОЕ ШАМПАНСКОЕ КОЛЛЕКЦИОННОЕ",
+      "1878",
+      "1878",
+      "Новый Сеть",
+      "ПОЛУСУХОЕ СЕЛТОЕ",
+      "Предъявлено Шампанское вино селтое в 1878 г.",
+      "князь Леван Голицкий"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-merlo-limited-edishn-2018-krasnoe-suhoe-125",
+  "seconds": 4.613348960876465,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2018\",\n  \"grape\": \"Мерло\",\n  \"category\": \"Reserve\",\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"Merlot\",\n    \"Merlo 2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2018",
+    "grape": "Мерло",
+    "category": "Reserve",
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "RESERVE",
+      "Merlot",
+      "Merlo 2018"
+    ]
+  }
+}

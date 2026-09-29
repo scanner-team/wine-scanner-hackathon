@@ -1,0 +1,20 @@
+{
+  "slug": "dry-red-wine-56-rubinovyj-magaracha-oleg-repin",
+  "seconds": 5.066265821456909,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Oleg Repsin\",\n  \"producer\": \"BEYAS TOPOL\",\n  \"cuvee\": null,\n  \"vintage\": \"MMXXII\",\n  \"grape\": null,\n  \"category\": \"DRY RED WINE\",\n  \"raw_visible_text\": [\n    \"Oleg Repsin\",\n    \"MMXXII\",\n    \"DRY RED WINE №56\",\n    \"BEYAS TOPOL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Oleg Repsin",
+    "producer": "BEYAS TOPOL",
+    "cuvee": null,
+    "vintage": "MMXXII",
+    "grape": null,
+    "category": "DRY RED WINE",
+    "raw_visible_text": [
+      "Oleg Repsin",
+      "MMXXII",
+      "DRY RED WINE №56",
+      "BEYAS TOPOL"
+    ]
+  }
+}

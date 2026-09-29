@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-petnat-oranzh-vione-beloe-ekstra-bryut-11",
+  "seconds": 5.0911500453948975,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛЕТНАЯ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"ПИНОТ\",\n  \"category\": \"ОРАНЖ\",\n  \"raw_visible_text\": [\n    \"ЛЕТНАЯ\",\n    \"ОРАНЖ\",\n    \"2022\",\n    \"ПИНОТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛЕТНАЯ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "ПИНОТ",
+    "category": "ОРАНЖ",
+    "raw_visible_text": [
+      "ЛЕТНАЯ",
+      "ОРАНЖ",
+      "2022",
+      "ПИНОТ"
+    ]
+  }
+}

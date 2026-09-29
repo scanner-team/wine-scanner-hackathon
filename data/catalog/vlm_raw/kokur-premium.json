@@ -1,0 +1,21 @@
+{
+  "slug": "kokur-premium",
+  "seconds": 1.209066390991211,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОРП ПРЕМИУМ\",\n  \"producer\": \"ПАРТНЕРСКИЙ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"10\",\n    \"ПАРТНЕРСКИЙ\",\n    \"КОРП ПРЕМИУМ\",\n    \"2023\",\n    \"сухое красное\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОРП ПРЕМИУМ",
+    "producer": "ПАРТНЕРСКИЙ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "10",
+      "ПАРТНЕРСКИЙ",
+      "КОРП ПРЕМИУМ",
+      "2023",
+      "сухое красное"
+    ]
+  }
+}

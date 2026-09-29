@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-uzunov-nrav-rezerv-krasnostop-zolotovskiy-krasnoe-suhoe-139",
+  "seconds": 14.387057065963745,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"НРАВ РЕЗЕРВ\",\n  \"producer\": \"ВИНОДЕЛНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛНЯ\",\n    \"УЗУНОВ\",\n    \"НРАВ РЕЗЕРВ\",\n    \"красное сухое\",\n    \"2023\",\n    \"13.9 %\",\n    \"0.75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "НРАВ РЕЗЕРВ",
+    "producer": "ВИНОДЕЛНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "ВИНОДЕЛНЯ",
+      "УЗУНОВ",
+      "НРАВ РЕЗЕРВ",
+      "красное сухое",
+      "2023",
+      "13.9 %",
+      "0.75 л"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-sovinon-blan-semilon-beloe-suhoe-115",
+  "seconds": 4.994556903839111,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"СЕМИЛЬОН\",\n  \"category\": \"СОВИНЬОН БЛАН\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"СОВИНЬОН БЛАН\",\n    \"СЕМИЛЬОН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "СЕМИЛЬОН",
+    "category": "СОВИНЬОН БЛАН",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "СОВИНЬОН БЛАН",
+      "СЕМИЛЬОН"
+    ]
+  }
+}

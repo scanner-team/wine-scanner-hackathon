@@ -1,0 +1,20 @@
+{
+  "slug": "imenie-sikory-krasnostop-zolotovskiy-pozdniy-sbor-rozovoe-sladkoe-13",
+  "seconds": 13.283938884735107,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Черный сок\",\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"КРАСНОСТОП\",\n    \"Черный сок\",\n    \"СЕМНГОРЬЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП",
+    "producer": "SIKORY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Черный сок",
+    "raw_visible_text": [
+      "SIKORY",
+      "КРАСНОСТОП",
+      "Черный сок",
+      "СЕМНГОРЬЕ"
+    ]
+  }
+}

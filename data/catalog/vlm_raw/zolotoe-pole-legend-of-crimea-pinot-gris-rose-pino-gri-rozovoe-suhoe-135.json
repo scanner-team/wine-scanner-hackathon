@@ -1,0 +1,19 @@
+{
+  "slug": "zolotoe-pole-legend-of-crimea-pinot-gris-rose-pino-gri-rozovoe-suhoe-135",
+  "seconds": 12.789094924926758,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"THE LEGEND of CRIMEA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT GRIS\",\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"PINOT GRIS ROSE\",\n    \"THE LEGEND\",\n    \"of CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "THE LEGEND of CRIMEA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT GRIS",
+    "category": "ROSE",
+    "raw_visible_text": [
+      "PINOT GRIS ROSE",
+      "THE LEGEND",
+      "of CRIMEA"
+    ]
+  }
+}

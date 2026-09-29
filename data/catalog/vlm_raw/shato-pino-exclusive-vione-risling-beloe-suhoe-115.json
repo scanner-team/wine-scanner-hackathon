@@ -1,0 +1,22 @@
+{
+  "slug": "shato-pino-exclusive-vione-risling-beloe-suhoe-115",
+  "seconds": 5.352218151092529,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"Château\",\n  \"cuvee\": \"EXCLUSIVE\",\n  \"vintage\": null,\n  \"grape\": \"ПИНОТ\",\n  \"category\": \"БЕЛОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"Château\",\n    \"PINOT\",\n    \"EXCLUSIVE\",\n    \"ВИОНЫЕ\",\n    \"РИСЛИНИЙ\",\n    \"БЕЛОЕ СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "Château",
+    "cuvee": "EXCLUSIVE",
+    "vintage": null,
+    "grape": "ПИНОТ",
+    "category": "БЕЛОЕ СУХОЕ",
+    "raw_visible_text": [
+      "Château",
+      "PINOT",
+      "EXCLUSIVE",
+      "ВИОНЫЕ",
+      "РИСЛИНИЙ",
+      "БЕЛОЕ СУХОЕ"
+    ]
+  }
+}

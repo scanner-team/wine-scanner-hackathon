@@ -1,0 +1,20 @@
+{
+  "slug": "abrau-dyurso-az-abrau-bayanshira-beloe-suhoe-12",
+  "seconds": 1.4198579788208008,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AZ ABRAU\",\n  \"producer\": \"BAYANŞIR\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BAYANSHIRA\",\n    \"BAYANŞIR\",\n    \"AZ ABRAU\",\n    \"PRODUCED AND BOTTLED IN AZERBAIJAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AZ ABRAU",
+    "producer": "BAYANŞIR",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "BAYANSHIRA",
+      "BAYANŞIR",
+      "AZ ABRAU",
+      "PRODUCED AND BOTTLED IN AZERBAIJAN"
+    ]
+  }
+}

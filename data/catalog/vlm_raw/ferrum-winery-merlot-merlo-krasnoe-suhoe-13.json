@@ -1,0 +1,22 @@
+{
+  "slug": "ferrum-winery-merlot-merlo-krasnoe-suhoe-13",
+  "seconds": 4.921432018280029,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MERLOT\",\n  \"producer\": \"FERRUM WINERY\",\n  \"cuvee\": \"26\",\n  \"vintage\": null,\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FERRUM WINERY\",\n    \"26\",\n    \"Fe\",\n    \"FERRUM\",\n    \"PYATIGORSK\",\n    \"MERLOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MERLOT",
+    "producer": "FERRUM WINERY",
+    "cuvee": "26",
+    "vintage": null,
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "FERRUM WINERY",
+      "26",
+      "Fe",
+      "FERRUM",
+      "PYATIGORSK",
+      "MERLOT"
+    ]
+  }
+}

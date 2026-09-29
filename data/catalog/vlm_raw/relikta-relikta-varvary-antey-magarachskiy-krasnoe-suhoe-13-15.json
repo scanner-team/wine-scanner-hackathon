@@ -1,0 +1,19 @@
+{
+  "slug": "relikta-relikta-varvary-antey-magarachskiy-krasnoe-suhoe-13-15",
+  "seconds": 12.723150253295898,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Варвары\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Варвары\",\n    \"сухое красное\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Варвары",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "Варвары",
+      "сухое красное",
+      "2022"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "donskoe-vinodelcheskoe-hozyaystvo-elbuzd-pino-nuar-krasnoe-suhoe-13",
+  "seconds": 13.911196231842041,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пино Нуар\",\n  \"producer\": \"винодельня Эльбұзд\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Пино Нуар\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"винодельня\",\n    \"Эльбұзд\",\n    \"сухое красное\",\n    \"Пино Нуар\",\n    \"Российское вино с защищенным географическим указанием\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пино Нуар",
+    "producer": "винодельня Эльбұзд",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Пино Нуар",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "винодельня",
+      "Эльбұзд",
+      "сухое красное",
+      "Пино Нуар",
+      "Российское вино с защищенным географическим указанием"
+    ]
+  }
+}

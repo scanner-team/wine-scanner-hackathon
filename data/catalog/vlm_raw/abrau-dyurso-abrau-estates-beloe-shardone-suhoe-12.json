@@ -1,0 +1,24 @@
+{
+  "slug": "abrau-dyurso-abrau-estates-beloe-shardone-suhoe-12",
+  "seconds": 13.479140281677246,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU ESTATES\",\n  \"producer\": \"ABRAU\",\n  \"cuvee\": \"TERROIR\",\n  \"vintage\": \"2019\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": \"SAUVIGNON BLANC\",\n  \"raw_visible_text\": [\n    \"ABRAU\",\n    \"KUBAN\",\n    \"ESTATES\",\n    \"TERROIR\",\n    \"2019\",\n    \"CHARDONNAY\",\n    \"SAUVIGNON\",\n    \"BLANC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ABRAU ESTATES",
+    "producer": "ABRAU",
+    "cuvee": "TERROIR",
+    "vintage": "2019",
+    "grape": "CHARDONNAY",
+    "category": "SAUVIGNON BLANC",
+    "raw_visible_text": [
+      "ABRAU",
+      "KUBAN",
+      "ESTATES",
+      "TERROIR",
+      "2019",
+      "CHARDONNAY",
+      "SAUVIGNON",
+      "BLANC"
+    ]
+  }
+}

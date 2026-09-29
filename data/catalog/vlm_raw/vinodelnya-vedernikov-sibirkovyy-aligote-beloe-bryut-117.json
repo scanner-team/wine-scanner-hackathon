@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-vedernikov-sibirkovyy-aligote-beloe-bryut-117",
+  "seconds": 6.2544238567352295,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СИЕБРЬКОВЫЙ АЛИГОТЕ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"РЕЗЕРВ\",\n    \"СИЕБРЬКОВЫЙ АЛИГОТЕ\",\n    \"БРЮТ НАТЮР\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СИЕБРЬКОВЫЙ АЛИГОТЕ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": null,
+    "category": "брют",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "РЕЗЕРВ",
+      "СИЕБРЬКОВЫЙ АЛИГОТЕ",
+      "БРЮТ НАТЮР",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

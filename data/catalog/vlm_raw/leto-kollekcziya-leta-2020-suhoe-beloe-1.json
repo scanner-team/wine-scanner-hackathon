@@ -1,0 +1,22 @@
+{
+  "slug": "leto-kollekcziya-leta-2020-suhoe-beloe-1",
+  "seconds": 1.9218251705169678,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LE\",\n  \"producer\": \"ВИНОДЕЛЬНЯ\",\n  \"cuvee\": \"КОЛЛЕКЦИЯ ЛЕТА\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"LE\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВИНО СУХОЕ РОЗОВОЕ\",\n    \"КОЛЛЕКЦИЯ ЛЕТА\",\n    \"2023\",\n    \"УРОЖАЙ 2023 ГОДА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LE",
+    "producer": "ВИНОДЕЛЬНЯ",
+    "cuvee": "КОЛЛЕКЦИЯ ЛЕТА",
+    "vintage": "2023",
+    "grape": null,
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "LE",
+      "ВИНОДЕЛЬНЯ",
+      "ВИНО СУХОЕ РОЗОВОЕ",
+      "КОЛЛЕКЦИЯ ЛЕТА",
+      "2023",
+      "УРОЖАЙ 2023 ГОДА"
+    ]
+  }
+}

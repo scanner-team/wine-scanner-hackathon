@@ -1,0 +1,18 @@
+{
+  "slug": "barhat",
+  "seconds": 4.345951080322266,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"БАРХАТ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"БАРХАТ\",\n    \"041/600\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "БАРХАТ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "БАРХАТ",
+      "041/600"
+    ]
+  }
+}

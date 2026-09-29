@@ -1,0 +1,20 @@
+{
+  "slug": "skalistyj-bereg-shepot-czvetov",
+  "seconds": 1.2844789028167725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШЁПОТ ЦВЕТОВ\",\n  \"producer\": \"Скалистый Берег\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"юн. 2019\",\n    \"ШЁПОТ ЦВЕТОВ\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШЁПОТ ЦВЕТОВ",
+    "producer": "Скалистый Берег",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "юн. 2019",
+      "ШЁПОТ ЦВЕТОВ",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

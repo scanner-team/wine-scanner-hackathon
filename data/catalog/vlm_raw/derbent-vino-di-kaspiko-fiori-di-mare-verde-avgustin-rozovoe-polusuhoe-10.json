@@ -1,0 +1,19 @@
+{
+  "slug": "derbent-vino-di-kaspiko-fiori-di-mare-verde-avgustin-rozovoe-polusuhoe-10",
+  "seconds": 9.970381736755371,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FIORI DI MARE\",\n  \"producer\": \"DI CASPICO\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"VERDE\",\n  \"raw_visible_text\": [\n    \"FIORI DI MARE\",\n    \"DI CASPICO\",\n    \"VERDE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FIORI DI MARE",
+    "producer": "DI CASPICO",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "VERDE",
+    "raw_visible_text": [
+      "FIORI DI MARE",
+      "DI CASPICO",
+      "VERDE"
+    ]
+  }
+}

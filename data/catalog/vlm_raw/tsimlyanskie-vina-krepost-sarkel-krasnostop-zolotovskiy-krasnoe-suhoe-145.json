@@ -1,0 +1,20 @@
+{
+  "slug": "tsimlyanskie-vina-krepost-sarkel-krasnostop-zolotovskiy-krasnoe-suhoe-145",
+  "seconds": 14.252068996429443,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРЕПОСТЬ САРКЕЛ\",\n  \"producer\": \"КРЕПОСТЬ САРКЕЛ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"КРАСНОСТОП ЗОЛОТОВСКИЙ\",\n  \"category\": \"выдержанное\",\n  \"raw_visible_text\": [\n    \"КРЕПОСТЬ САРКЕЛ\",\n    \"КРАСНОСТОП ЗОЛОТОВСКИЙ\",\n    \"выдержанное\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРЕПОСТЬ САРКЕЛ",
+    "producer": "КРЕПОСТЬ САРКЕЛ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "КРАСНОСТОП ЗОЛОТОВСКИЙ",
+    "category": "выдержанное",
+    "raw_visible_text": [
+      "КРЕПОСТЬ САРКЕЛ",
+      "КРАСНОСТОП ЗОЛОТОВСКИЙ",
+      "выдержанное",
+      "2023"
+    ]
+  }
+}

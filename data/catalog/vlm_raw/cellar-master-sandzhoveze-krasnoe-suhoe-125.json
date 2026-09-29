@@ -1,0 +1,21 @@
+{
+  "slug": "cellar-master-sandzhoveze-krasnoe-suhoe-125",
+  "seconds": 5.209417104721069,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САНДЖОВЕЗЕ\",\n  \"producer\": \"CELLAR MASTER\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"CELLAR MASTER\",\n    \"САНДЖОВЕЗЕ\",\n    \"ПЛАТО КАРА-ТАУ\",\n    \"2023\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САНДЖОВЕЗЕ",
+    "producer": "CELLAR MASTER",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "CELLAR MASTER",
+      "САНДЖОВЕЗЕ",
+      "ПЛАТО КАРА-ТАУ",
+      "2023",
+      "КРЫМ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 4.712500810623169,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"PINOT\",\n    \"NOIR\",\n    \"CHATEAU\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "PINOT",
+      "NOIR",
+      "CHATEAU",
+      "PINOT"
+    ]
+  }
+}

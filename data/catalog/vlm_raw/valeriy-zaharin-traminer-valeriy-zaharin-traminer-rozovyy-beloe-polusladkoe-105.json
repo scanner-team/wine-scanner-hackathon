@@ -1,0 +1,20 @@
+{
+  "slug": "valeriy-zaharin-traminer-valeriy-zaharin-traminer-rozovyy-beloe-polusladkoe-105",
+  "seconds": 5.672625780105591,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРАМИНЕР\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРБИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРБИН\",\n    \"ТРАМИНЕР\",\n    \"ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРАМИНЕР",
+    "producer": "ВАЛЕРИЙ ЗАХАРБИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ",
+      "ЗАХАРБИН",
+      "ТРАМИНЕР",
+      "ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ"
+    ]
+  }
+}

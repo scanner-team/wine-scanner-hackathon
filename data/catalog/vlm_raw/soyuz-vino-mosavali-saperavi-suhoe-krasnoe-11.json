@@ -1,0 +1,26 @@
+{
+  "slug": "soyuz-vino-mosavali-saperavi-suhoe-krasnoe-11",
+  "seconds": 5.525136232376099,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Mosavali\",\n  \"producer\": \"Mosavali\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Saperavi\",\n  \"category\": \"dry red\",\n  \"raw_visible_text\": [\n    \"მოსავალი\",\n    \"მოსავალი\",\n    \"Mosavali\",\n    \"საფერავი\",\n    \"dry red\",\n    \"10%\",\n    \"12%\",\n    \"750 ml\",\n    \"12% vol\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Mosavali",
+    "producer": "Mosavali",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Saperavi",
+    "category": "dry red",
+    "raw_visible_text": [
+      "მოსავალი",
+      "მოსავალი",
+      "Mosavali",
+      "საფერავი",
+      "dry red",
+      "10%",
+      "12%",
+      "750 ml",
+      "12% vol",
+      "750 ml"
+    ]
+  }
+}

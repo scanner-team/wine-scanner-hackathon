@@ -1,0 +1,25 @@
+{
+  "slug": "abrau-dyurso-brut-dor-riesling-risling-beloe-bryut-12",
+  "seconds": 6.728744983673096,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Brut d'Or\",\n  \"producer\": \"Айнай-Дорпко\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"1870\",\n    \"РУССКАЯ ВИНОВНАЯ ДОМ\",\n    \"Айнай-Дорпко\",\n    \"Brut d'Or\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Riesling\",\n    \"2021\",\n    \"ВИНОВНАЯ ДОМ\",\n    \"ТУРНИКЕТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Brut d'Or",
+    "producer": "Айнай-Дорпко",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "Brut",
+    "raw_visible_text": [
+      "1870",
+      "РУССКАЯ ВИНОВНАЯ ДОМ",
+      "Айнай-Дорпко",
+      "Brut d'Or",
+      "MÉTHODE CLASSIQUE",
+      "Riesling",
+      "2021",
+      "ВИНОВНАЯ ДОМ",
+      "ТУРНИКЕТ"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-sovinon-valeriy-zaharin-beloe-polusladkoe-125",
+  "seconds": 5.985460042953491,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОВИНЬОН БЛАН\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРБИН\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"природно полусладкое белое\",\n  \"raw_visible_text\": [\n    \"ВАЛЕРИЙ\",\n    \"ЗАХАРБИН\",\n    \"СОВИНЬОН БЛАН\",\n    \"ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОВИНЬОН БЛАН",
+    "producer": "ВАЛЕРИЙ ЗАХАРБИН",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "природно полусладкое белое",
+    "raw_visible_text": [
+      "ВАЛЕРИЙ",
+      "ЗАХАРБИН",
+      "СОВИНЬОН БЛАН",
+      "ПРИРОДНО ПОЛУСЛАДКОЕ БЕЛОЕ",
+      "2023"
+    ]
+  }
+}

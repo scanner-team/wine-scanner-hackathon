@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-raevskoe-parfyum-de-terruar-muskat-muskat-zheltyy-beloe-suhoe-123",
+  "seconds": 5.225131034851074,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Parfum de Terroir\",\n  \"producer\": \"RAEVSKOE WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"MUSCAT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RAEVSKOE\",\n    \"WINERY\",\n    \"Parfum de Terroir\",\n    \"MUSCAT\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Parfum de Terroir",
+    "producer": "RAEVSKOE WINERY",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "MUSCAT",
+    "category": null,
+    "raw_visible_text": [
+      "RAEVSKOE",
+      "WINERY",
+      "Parfum de Terroir",
+      "MUSCAT",
+      "2022"
+    ]
+  }
+}

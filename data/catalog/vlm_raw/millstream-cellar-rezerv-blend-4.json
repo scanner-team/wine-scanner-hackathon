@@ -1,0 +1,24 @@
+{
+  "slug": "millstream-cellar-rezerv-blend-4",
+  "seconds": 1.4992997646331787,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CELLAR\",\n  \"producer\": \"CELLAR\",\n  \"cuvee\": \"Резерв Блена № 4\",\n  \"vintage\": \"2019\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"ORIGINAL\",\n    \"РЕЗЕРВ БЛЕНА № 4\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"2019\",\n    \"ЗГУ\",\n    \"УКРАИНА\",\n    \"ЗАМЯСКИЙ ПОДРОСТКИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CELLAR",
+    "producer": "CELLAR",
+    "cuvee": "Резерв Блена № 4",
+    "vintage": "2019",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "CELLAR",
+      "ORIGINAL",
+      "РЕЗЕРВ БЛЕНА № 4",
+      "КРАСНОЕ СУХОЕ",
+      "2019",
+      "ЗГУ",
+      "УКРАИНА",
+      "ЗАМЯСКИЙ ПОДРОСТКИ"
+    ]
+  }
+}

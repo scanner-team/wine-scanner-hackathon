@@ -1,0 +1,20 @@
+{
+  "slug": "abrau-dyurso-imperial-brut-rose-pino-nuar-rozovoe-bryut-12",
+  "seconds": 5.451857089996338,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ ДЮРСО\",\n  \"producer\": \"АБРАУ ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"BRUT ROSÉ\",\n  \"raw_visible_text\": [\n    \"ESTD 1870\",\n    \"АБРАУ ДЮРСО\",\n    \"BRUT ROSÉ\",\n    \"Империя\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ ДЮРСО",
+    "producer": "АБРАУ ДЮРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "BRUT ROSÉ",
+    "raw_visible_text": [
+      "ESTD 1870",
+      "АБРАУ ДЮРСО",
+      "BRUT ROSÉ",
+      "Империя"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-zelyonaya-dolina-sovinon-blan-polusladkoe-beloe-12",
+  "seconds": 7.226338148117065,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZELËNAYA DOLINA\",\n  \"producer\": \"ZELËNAYA DOLINA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"SEMI-SWEET WHITE WINE\",\n  \"raw_visible_text\": [\n    \"ZELËNAYA\",\n    \"DOLINA\",\n    \"SAUVIGNON BLANC\",\n    \"SEMI-SWEET WHITE WINE\",\n    \"Вино полусладкое белое\",\n    \"«Зелёная Долина» - Семисладкое белое\",\n    \"ПРОМОКИ\",\n    \"Спирт 12,0 % об. Объем 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZELËNAYA DOLINA",
+    "producer": "ZELËNAYA DOLINA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": "SEMI-SWEET WHITE WINE",
+    "raw_visible_text": [
+      "ZELËNAYA",
+      "DOLINA",
+      "SAUVIGNON BLANC",
+      "SEMI-SWEET WHITE WINE",
+      "Вино полусладкое белое",
+      "«Зелёная Долина» - Семисладкое белое",
+      "ПРОМОКИ",
+      "Спирт 12,0 % об. Объем 0,75 л"
+    ]
+  }
+}

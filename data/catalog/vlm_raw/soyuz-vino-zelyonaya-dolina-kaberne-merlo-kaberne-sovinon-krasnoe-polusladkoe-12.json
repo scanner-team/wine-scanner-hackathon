@@ -1,0 +1,24 @@
+{
+  "slug": "soyuz-vino-zelyonaya-dolina-kaberne-merlo-kaberne-sovinon-krasnoe-polusladkoe-12",
+  "seconds": 8.531304836273193,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZELËNAYA DOLINA\",\n  \"producer\": \"Zelenaya Dolina\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Cabernet Merlot\",\n  \"category\": \"SEMI-SWEET RED WINE\",\n  \"raw_visible_text\": [\n    \"ZELËNAYA\",\n    \"DOLINA\",\n    \"CABERNET MERLOT\",\n    \"SEMI-SWEET RED WINE\",\n    \"Вино полусладкое красное\",\n    \"– Зеленая Долина – Каберне-Мерло –\",\n    \"ПО РОССИИ\",\n    \"Спирт 12,0 % об. Объем 0,75 л Сахар 40,0 г/дм³\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZELËNAYA DOLINA",
+    "producer": "Zelenaya Dolina",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Cabernet Merlot",
+    "category": "SEMI-SWEET RED WINE",
+    "raw_visible_text": [
+      "ZELËNAYA",
+      "DOLINA",
+      "CABERNET MERLOT",
+      "SEMI-SWEET RED WINE",
+      "Вино полусладкое красное",
+      "– Зеленая Долина – Каберне-Мерло –",
+      "ПО РОССИИ",
+      "Спирт 12,0 % об. Объем 0,75 л Сахар 40,0 г/дм³"
+    ]
+  }
+}

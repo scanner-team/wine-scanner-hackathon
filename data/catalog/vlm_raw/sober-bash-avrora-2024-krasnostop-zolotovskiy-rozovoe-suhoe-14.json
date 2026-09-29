@@ -1,0 +1,22 @@
+{
+  "slug": "sober-bash-avrora-2024-krasnostop-zolotovskiy-rozovoe-suhoe-14",
+  "seconds": 6.627098083496094,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АВРОРА\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР\",\n    \"БАШ\",\n    \"АВРОРА\",\n    \"Вино с забіжним географіческим указанием\",\n    \"«Кубань, Долина реки Адініс»\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АВРОРА",
+    "producer": "СОБЕР БАШ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР",
+      "БАШ",
+      "АВРОРА",
+      "Вино с забіжним географіческим указанием",
+      "«Кубань, Долина реки Адініс»",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ivan-ksenia-kruz-argonne-syrah-sira-krasnoe-suhoe-124",
+  "seconds": 4.770303010940552,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARGONNE\",\n  \"producer\": \"IVAN & KSENIA KRUZ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"IVAN & KSENIA KRUSZ\",\n    \"ARGONNE\",\n    \"SYRAH\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARGONNE",
+    "producer": "IVAN & KSENIA KRUZ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "IVAN & KSENIA KRUSZ",
+      "ARGONNE",
+      "SYRAH"
+    ]
+  }
+}

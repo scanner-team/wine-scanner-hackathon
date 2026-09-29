@@ -1,0 +1,28 @@
+{
+  "slug": "stn-winery-traminer-traminer-beloe-suhoe-13",
+  "seconds": 5.680805206298828,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"tREAMi NER\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"tREAMi\",\n    \"NER\",\n    \"2023\",\n    \"Harvest\",\n    \"6 september\",\n    \"Days\",\n    \"7 days\",\n    \"Bottles\",\n    \"10%\",\n    \"1400 bottles\",\n    \"13%\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "tREAMi NER",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "tREAMi",
+      "NER",
+      "2023",
+      "Harvest",
+      "6 september",
+      "Days",
+      "7 days",
+      "Bottles",
+      "10%",
+      "1400 bottles",
+      "13%",
+      "750 ML"
+    ]
+  }
+}

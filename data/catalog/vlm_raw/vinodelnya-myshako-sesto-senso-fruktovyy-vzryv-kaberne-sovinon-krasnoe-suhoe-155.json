@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-myshako-sesto-senso-fruktovyy-vzryv-kaberne-sovinon-krasnoe-suhoe-155",
+  "seconds": 5.198598861694336,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SESTO SENSO\",\n  \"producer\": \"MВИСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"SESTO\",\n    \"FRUIT EXPLOSION\",\n    \"MВИСХАКО\",\n    \"DRY RED\",\n    \"SENSO\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SESTO SENSO",
+    "producer": "MВИСХАКО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "SESTO",
+      "FRUIT EXPLOSION",
+      "MВИСХАКО",
+      "DRY RED",
+      "SENSO"
+    ]
+  }
+}

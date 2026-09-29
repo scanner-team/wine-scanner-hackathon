@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-semi-dry-rose-pino-nuar-rozovoe-polusuhoe-11",
+  "seconds": 5.865915298461914,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"BHIODEAER MBIKXANO\",\n  \"cuvee\": \"Collection Light\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"SEMI-DRY ROSE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"Collection Light\",\n    \"BHIODEAER\",\n    \"MBIKXANO\",\n    \"1869\",\n    \"SEMI-DRY ROSE\",\n    \"NEW GENERATION\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "BHIODEAER MBIKXANO",
+    "cuvee": "Collection Light",
+    "vintage": null,
+    "grape": null,
+    "category": "SEMI-DRY ROSE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "Collection Light",
+      "BHIODEAER",
+      "MBIKXANO",
+      "1869",
+      "SEMI-DRY ROSE",
+      "NEW GENERATION"
+    ]
+  }
+}

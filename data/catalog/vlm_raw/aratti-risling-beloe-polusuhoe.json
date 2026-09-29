@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-risling-beloe-polusuhoe",
+  "seconds": 1.3210475444793701,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМИЕНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"РИСПИНГ\",\n  \"category\": \"ПОПУСУЮЕ\",\n  \"raw_visible_text\": [\n    \"СЕМИЕНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"РИСПИНГ\",\n    \"2024\",\n    \"ПОПУСУЮЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМИЕНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "РИСПИНГ",
+    "category": "ПОПУСУЮЕ",
+    "raw_visible_text": [
+      "СЕМИЕНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "РИСПИНГ",
+      "2024",
+      "ПОПУСУЮЕ"
+    ]
+  }
+}

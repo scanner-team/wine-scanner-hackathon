@@ -1,0 +1,32 @@
+{
+  "slug": "fanagoriya-101-ottenok-krasnogo-saperavi-krasnoe-suhoe-14",
+  "seconds": 16.78939700126648,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"101 ОТТЕНОК КРАСНОГО\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"ЗКМП\",\n  \"raw_visible_text\": [\n    \"ТОП\",\n    \"100\",\n    \"WINES\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"2023 ГОДА\",\n    \"101\",\n    \"ОТТЕНОК\",\n    \"КРАСНОГО\",\n    \"ЗКМП\",\n    \"САПЕРАВИ\",\n    \"ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ\",\n    \"2022\",\n    \"FANAGORIA\",\n    \"ТИРАЖ 4000 БУТ.\",\n    \"БУТЫЛКА НОМЕР:\",\n    \"1508\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "101 ОТТЕНОК КРАСНОГО",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "САПЕРАВИ",
+    "category": "ЗКМП",
+    "raw_visible_text": [
+      "ТОП",
+      "100",
+      "WINES",
+      "ВИНОДЕЛЬНЯ",
+      "2023 ГОДА",
+      "101",
+      "ОТТЕНОК",
+      "КРАСНОГО",
+      "ЗКМП",
+      "САПЕРАВИ",
+      "ВЫДЕРЖАНО В ДУБОВЫХ БОЧКАХ",
+      "2022",
+      "FANAGORIA",
+      "ТИРАЖ 4000 БУТ.",
+      "БУТЫЛКА НОМЕР:",
+      "1508"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "abrau-dyurso-imperatorskoe-polusuhoe-shardone-beloe-12",
+  "seconds": 13.975617170333862,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ-ДЮРСО\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПОЛУСУХОЕ\",\n  \"raw_visible_text\": [\n    \"АБРАУ-ДЮРСО\",\n    \"ИМПЕРАТОРСКОЕ\",\n    \"АБРАУ-ДЮРСО\",\n    \"ПОЛУСУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ-ДЮРСО",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПОЛУСУХОЕ",
+    "raw_visible_text": [
+      "АБРАУ-ДЮРСО",
+      "ИМПЕРАТОРСКОЕ",
+      "АБРАУ-ДЮРСО",
+      "ПОЛУСУХОЕ"
+    ]
+  }
+}

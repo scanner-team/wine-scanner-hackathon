@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 13.463174819946289,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Belmãs\",\n  \"producer\": \"SEVAS\",\n  \"cuvee\": \"Pn\",\n  \"vintage\": \"2020\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"PINOT NOIR\",\n    \"SEVAS\",\n    \"2020\",\n    \"Pn\",\n    \"Belmãs\",\n    \"12.5% VOL\",\n    \"250 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Belmãs",
+    "producer": "SEVAS",
+    "cuvee": "Pn",
+    "vintage": "2020",
+    "grape": "PINOT NOIR",
+    "category": "null",
+    "raw_visible_text": [
+      "PINOT NOIR",
+      "SEVAS",
+      "2020",
+      "Pn",
+      "Belmãs",
+      "12.5% VOL",
+      "250 ML"
+    ]
+  }
+}

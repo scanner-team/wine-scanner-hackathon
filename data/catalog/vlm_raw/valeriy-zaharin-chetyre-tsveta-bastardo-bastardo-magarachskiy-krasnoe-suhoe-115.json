@@ -1,0 +1,25 @@
+{
+  "slug": "valeriy-zaharin-chetyre-tsveta-bastardo-bastardo-magarachskiy-krasnoe-suhoe-115",
+  "seconds": 6.7157721519470215,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FOUR COLOURS\",\n  \"producer\": \"ZAHARIN\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"DRY CRIMEAN WINE\",\n  \"raw_visible_text\": [\n    \"FOUR COLOURS\",\n    \"Vintage 2022\",\n    \"BASTARDO RED\",\n    \"DRY CRIMEAN WINE\",\n    \"ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ НАЗВАНИЕМ\",\n    \"ЧЕРНЫЙ\",\n    \"ZAHARIN\",\n    \"EST 1884\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FOUR COLOURS",
+    "producer": "ZAHARIN",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "DRY CRIMEAN WINE",
+    "raw_visible_text": [
+      "FOUR COLOURS",
+      "Vintage 2022",
+      "BASTARDO RED",
+      "DRY CRIMEAN WINE",
+      "ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ НАЗВАНИЕМ",
+      "ЧЕРНЫЙ",
+      "ZAHARIN",
+      "EST 1884"
+    ]
+  }
+}

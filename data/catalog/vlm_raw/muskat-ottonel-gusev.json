@@ -1,0 +1,22 @@
+{
+  "slug": "muskat-ottonel-gusev",
+  "seconds": 1.251880168914795,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТ НАТ\",\n  \"producer\": \"Гусевъ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мускат Оттоноль\",\n  \"category\": \"брют\",\n  \"raw_visible_text\": [\n    \"ПЕТ НАТ\",\n    \"МУСКАТ\",\n    \"ОТТОНОЛЬ\",\n    \"ГОМОЙНЯ\",\n    \"Гусевъ\",\n    \"В НИКОЛАЕВИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТ НАТ",
+    "producer": "Гусевъ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мускат Оттоноль",
+    "category": "брют",
+    "raw_visible_text": [
+      "ПЕТ НАТ",
+      "МУСКАТ",
+      "ОТТОНОЛЬ",
+      "ГОМОЙНЯ",
+      "Гусевъ",
+      "В НИКОЛАЕВИ"
+    ]
+  }
+}

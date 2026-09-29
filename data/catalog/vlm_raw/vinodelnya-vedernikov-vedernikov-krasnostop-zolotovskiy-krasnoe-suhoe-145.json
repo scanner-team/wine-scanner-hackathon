@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-krasnostop-zolotovskiy-krasnoe-suhoe-145",
+  "seconds": 8.31533169746399,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСНОСТОП ЗОЛОТОВСКИЙ\",\n  \"producer\": \"ВЕДЕРНИКОВЬ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": \"КОРНЕСОБСТВЕННЫЙ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЬ\",\n    \"РЕЗЕРВ\",\n    \"КРАСНОСТОП ЗОЛОТОВСКИЙ\",\n    \"КОРНЕСОБСТВЕННЫЙ\",\n    \"ВЫДЕРЖАНО В ДУШЕ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСНОСТОП ЗОЛОТОВСКИЙ",
+    "producer": "ВЕДЕРНИКОВЬ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": null,
+    "category": "КОРНЕСОБСТВЕННЫЙ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЬ",
+      "РЕЗЕРВ",
+      "КРАСНОСТОП ЗОЛОТОВСКИЙ",
+      "КОРНЕСОБСТВЕННЫЙ",
+      "ВЫДЕРЖАНО В ДУШЕ",
+      "2020"
+    ]
+  }
+}

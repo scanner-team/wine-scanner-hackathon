@@ -1,0 +1,25 @@
+{
+  "slug": "twopeters_risling",
+  "seconds": 1.302699327468872,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Riesling\",\n  \"producer\": \"ДВА ПЕТРА\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Riesling\",\n  \"category\": \"white dry wine\",\n  \"raw_visible_text\": [\n    \"Ri\",\n    \"S\",\n    \"L\",\n    \"ING\",\n    \"ДВА ПЕТРА\",\n    \"2022\",\n    \"RIESLING\",\n    \"WHITE\",\n    \"DRY WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Riesling",
+    "producer": "ДВА ПЕТРА",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Riesling",
+    "category": "white dry wine",
+    "raw_visible_text": [
+      "Ri",
+      "S",
+      "L",
+      "ING",
+      "ДВА ПЕТРА",
+      "2022",
+      "RIESLING",
+      "WHITE",
+      "DRY WINE"
+    ]
+  }
+}

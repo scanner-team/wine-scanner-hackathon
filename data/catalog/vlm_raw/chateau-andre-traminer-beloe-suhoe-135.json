@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-andre-traminer-beloe-suhoe-135",
+  "seconds": 4.50244402885437,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TRAMINER\",\n  \"producer\": \"Château Mûdre\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"TRAMINER\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château\",\n    \"Château Mûdre\",\n    \"TRAMINER\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TRAMINER",
+    "producer": "Château Mûdre",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "TRAMINER",
+    "category": null,
+    "raw_visible_text": [
+      "Château",
+      "Château Mûdre",
+      "TRAMINER"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "golubitskoe-estate-shardone-noble-selection-barrel-touch-beloe-suhoe-135",
+  "seconds": 5.157109022140503,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BARREL TOUCH\",\n  \"producer\": \"GOLUBITSKOE ESTATE\",\n  \"cuvee\": \"NOBLE SELECTION\",\n  \"vintage\": null,\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GOLUBITSKOE ESTATE\",\n    \"BARREL TOUCH\",\n    \"NOBLE SELECTION\",\n    \"CHARDONNAY\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BARREL TOUCH",
+    "producer": "GOLUBITSKOE ESTATE",
+    "cuvee": "NOBLE SELECTION",
+    "vintage": null,
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "GOLUBITSKOE ESTATE",
+      "BARREL TOUCH",
+      "NOBLE SELECTION",
+      "CHARDONNAY"
+    ]
+  }
+}

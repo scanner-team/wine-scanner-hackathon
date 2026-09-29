@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-shantazh-sovinon-blan-shardone-beloe-suhoe-115",
+  "seconds": 5.313385009765625,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАНТОЖ\",\n  \"producer\": \"CASTEL PINOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"СОВИНЬОН БЛАН\",\n  \"raw_visible_text\": [\n    \"Шанто́ж\",\n    \"СОВИНЬОН БЛАН\",\n    \"ШАРДОНЕ\",\n    \"CASTEL PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАНТОЖ",
+    "producer": "CASTEL PINOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "СОВИНЬОН БЛАН",
+    "raw_visible_text": [
+      "Шанто́ж",
+      "СОВИНЬОН БЛАН",
+      "ШАРДОНЕ",
+      "CASTEL PINOT"
+    ]
+  }
+}

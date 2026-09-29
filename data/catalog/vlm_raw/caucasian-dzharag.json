@@ -1,0 +1,21 @@
+{
+  "slug": "caucasian-dzharag",
+  "seconds": 6.890891075134277,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAUCASIAN\",\n  \"producer\": \"ДЕРБЕНТ ВИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ДЖАРАГЪ\",\n  \"category\": \"ПРИРОДНОЕ ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИН\",\n    \"CAUCASIAN\",\n    \"ДЖАРАГЪ\",\n    \"ПРИРОДНОЕ ПОЛУСЛАДКОЕ\",\n    \"БЕЛОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAUCASIAN",
+    "producer": "ДЕРБЕНТ ВИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ДЖАРАГЪ",
+    "category": "ПРИРОДНОЕ ПОЛУСЛАДКОЕ БЕЛОЕ ВИНО",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИН",
+      "CAUCASIAN",
+      "ДЖАРАГЪ",
+      "ПРИРОДНОЕ ПОЛУСЛАДКОЕ",
+      "БЕЛОЕ ВИНО"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kuban-vino-aristov-kyuve-aleksandr-rose-de-pinot-pino-nuar-rozovoe-ekstra-bryut-12",
+  "seconds": 14.360049962997437,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSE DE PINOT\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": \"CUVÉE ALEXANDER\",\n  \"vintage\": \"2020\",\n  \"grape\": \"PINOT\",\n  \"category\": \"EXTRA BRUT\",\n  \"raw_visible_text\": [\n    \"EDIZIONE LIMITATA\",\n    \"361 BOTTIGLIE\",\n    \"XLV 45 MESI\",\n    \"ROSE DE PINOT\",\n    \"EXTRA BRUT • 2020\",\n    \"CUVÉE ALEXANDER\",\n    \"ARISTOV\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSE DE PINOT",
+    "producer": "ARISTOV",
+    "cuvee": "CUVÉE ALEXANDER",
+    "vintage": "2020",
+    "grape": "PINOT",
+    "category": "EXTRA BRUT",
+    "raw_visible_text": [
+      "EDIZIONE LIMITATA",
+      "361 BOTTIGLIE",
+      "XLV 45 MESI",
+      "ROSE DE PINOT",
+      "EXTRA BRUT • 2020",
+      "CUVÉE ALEXANDER",
+      "ARISTOV"
+    ]
+  }
+}

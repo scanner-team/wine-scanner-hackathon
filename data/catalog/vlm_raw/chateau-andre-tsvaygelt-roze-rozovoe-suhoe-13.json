@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-andre-tsvaygelt-roze-rozovoe-suhoe-13",
+  "seconds": 4.985638856887817,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ZWEIGELT-ROSE\",\n  \"producer\": \"Chateau André\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Zweigelt\",\n  \"category\": \"Rose\",\n  \"raw_visible_text\": [\n    \"Chate\",\n    \"2022\",\n    \"Chateau André\",\n    \"ZWEIGELT-ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ZWEIGELT-ROSE",
+    "producer": "Chateau André",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Zweigelt",
+    "category": "Rose",
+    "raw_visible_text": [
+      "Chate",
+      "2022",
+      "Chateau André",
+      "ZWEIGELT-ROSE"
+    ]
+  }
+}

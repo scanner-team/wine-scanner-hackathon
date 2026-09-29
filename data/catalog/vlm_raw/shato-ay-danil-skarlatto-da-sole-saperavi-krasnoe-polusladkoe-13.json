@@ -1,0 +1,24 @@
+{
+  "slug": "shato-ay-danil-skarlatto-da-sole-saperavi-krasnoe-polusladkoe-13",
+  "seconds": 15.446900844573975,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАРЛАТТО ДА СОЛЕ\",\n  \"producer\": \"ШАТО АЙ-ДАНИАБ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"популярное красное\",\n  \"raw_visible_text\": [\n    \"ШАТО АЙ-ДАНИАБ\",\n    \"СКАРЛАТТО\",\n    \"ДА СОЛЕ\",\n    \"2023\",\n    \"Российское вино с защищенным\",\n    \"географическим указанием «РЫМ»\",\n    \"популярное красное «Scarlatto Da Sole»\",\n    \"Бутылка № 3143\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАРЛАТТО ДА СОЛЕ",
+    "producer": "ШАТО АЙ-ДАНИАБ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "популярное красное",
+    "raw_visible_text": [
+      "ШАТО АЙ-ДАНИАБ",
+      "СКАРЛАТТО",
+      "ДА СОЛЕ",
+      "2023",
+      "Российское вино с защищенным",
+      "географическим указанием «РЫМ»",
+      "популярное красное «Scarlatto Da Sole»",
+      "Бутылка № 3143"
+    ]
+  }
+}

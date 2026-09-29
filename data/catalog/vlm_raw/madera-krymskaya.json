@@ -1,0 +1,22 @@
+{
+  "slug": "madera-krymskaya",
+  "seconds": 1.095350742340088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"МАССАНДРА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"1890\",\n    \"МАДЕРА\",\n    \"КРЫМСКАЯ\",\n    \"Сухое\",\n    \"0.75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "МАССАНДРА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "1890",
+      "МАДЕРА",
+      "КРЫМСКАЯ",
+      "Сухое",
+      "0.75 л"
+    ]
+  }
+}

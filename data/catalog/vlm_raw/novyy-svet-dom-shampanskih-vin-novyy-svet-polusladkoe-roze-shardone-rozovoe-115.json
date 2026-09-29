@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-novyy-svet-polusladkoe-roze-shardone-rozovoe-115",
+  "seconds": 14.37624192237854,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Святъ\",\n  \"producer\": \"Дом Шампанских Вин\",\n  \"cuvee\": \"1878\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"полусладкое розовое\",\n  \"raw_visible_text\": [\n    \"18\",\n    \"78\",\n    \"Дом Шампанских Вин\",\n    \"Новый Святъ\",\n    \"выдержанное\",\n    \"2022\",\n    \"полусладкое розовое\",\n    \"Российское Шампанское\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Святъ",
+    "producer": "Дом Шампанских Вин",
+    "cuvee": "1878",
+    "vintage": "2022",
+    "grape": null,
+    "category": "полусладкое розовое",
+    "raw_visible_text": [
+      "18",
+      "78",
+      "Дом Шампанских Вин",
+      "Новый Святъ",
+      "выдержанное",
+      "2022",
+      "полусладкое розовое",
+      "Российское Шампанское"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "fanagoriya-ice-wine-merlo-rozovoe-sladkoe-10",
+  "seconds": 13.325570106506348,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ice Wine\",\n  \"producer\": \"CANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Merlot\",\n  \"category\": \"ЛЕДЯНОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"CANAGORIA\",\n    \"Ice\",\n    \"WINE\",\n    \"Merlot\",\n    \"2021\",\n    \"ЛЕДЯНОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ice Wine",
+    "producer": "CANAGORIA",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Merlot",
+    "category": "ЛЕДЯНОЕ ВИНО",
+    "raw_visible_text": [
+      "CANAGORIA",
+      "Ice",
+      "WINE",
+      "Merlot",
+      "2021",
+      "ЛЕДЯНОЕ ВИНО"
+    ]
+  }
+}

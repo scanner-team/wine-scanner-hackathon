@@ -1,0 +1,23 @@
+{
+  "slug": "polusuhoe-rozovoe-zb-vajn-frizzante",
+  "seconds": 1.1096107959747314,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FRIZZANTE\",\n  \"producer\": \"ZB\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ROSE\",\n  \"category\": \"semily\",\n  \"raw_visible_text\": [\n    \"FRIZZANTE\",\n    \"SPARKLING WINE\",\n    \"ROSE SEMI-DRY\",\n    \"750ml\",\n    \"ZB\",\n    \"FRIZZANTE\",\n    \"ZB\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FRIZZANTE",
+    "producer": "ZB",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ROSE",
+    "category": "semily",
+    "raw_visible_text": [
+      "FRIZZANTE",
+      "SPARKLING WINE",
+      "ROSE SEMI-DRY",
+      "750ml",
+      "ZB",
+      "FRIZZANTE",
+      "ZB"
+    ]
+  }
+}

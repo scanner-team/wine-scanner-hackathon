@@ -1,0 +1,35 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-aligote-beloe-suhoe-128",
+  "seconds": 7.99691915512085,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МБИСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2020\",\n  \"grape\": \"ALIGOTE\",\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"СИНОВА\",\n    \"МБИСХАКО\",\n    \"ALIGOTE\",\n    \"ORANGE\",\n    \"2020\",\n    \"СУХАЯ\",\n    \"НОВОРОССИЙСКИЙ\",\n    \"СУХОЕ\",\n    \"ВЕДО\",\n    \"ТИПИЧНО\",\n    \"28\",\n    \"СУХИЙ\",\n    \"СИТИЛИС\",\n    \"АЛКОГОЛЬ\",\n    \"12,5%\",\n    \"об\",\n    \"0,75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МБИСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2020",
+    "grape": "ALIGOTE",
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "СИНОВА",
+      "МБИСХАКО",
+      "ALIGOTE",
+      "ORANGE",
+      "2020",
+      "СУХАЯ",
+      "НОВОРОССИЙСКИЙ",
+      "СУХОЕ",
+      "ВЕДО",
+      "ТИПИЧНО",
+      "28",
+      "СУХИЙ",
+      "СИТИЛИС",
+      "АЛКОГОЛЬ",
+      "12,5%",
+      "об",
+      "0,75"
+    ]
+  }
+}

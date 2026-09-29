@@ -1,0 +1,23 @@
+{
+  "slug": "bogovich-wine-vineyard-klassika-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 13.68710994720459,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"IRINA BOGOVICH\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"RED WINE\",\n  \"raw_visible_text\": [\n    \"ESTR\",\n    \"2019\",\n    \"IRINA BOGOVICH\",\n    \"2022\",\n    \"SEVASTOPOL\",\n    \"PINOT NOIR\",\n    \"RED WINE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "IRINA BOGOVICH",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "PINOT NOIR",
+    "category": "RED WINE",
+    "raw_visible_text": [
+      "ESTR",
+      "2019",
+      "IRINA BOGOVICH",
+      "2022",
+      "SEVASTOPOL",
+      "PINOT NOIR",
+      "RED WINE"
+    ]
+  }
+}

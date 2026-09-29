@@ -1,0 +1,20 @@
+{
+  "slug": "derbent-vino-kavkazian-rkatsiteli-beloe-suhoe-12",
+  "seconds": 13.57270097732544,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAUCASIAN\",\n  \"producer\": \"ДЕРБЕНТ В\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РКАЦИТЕЛИ\",\n  \"category\": \"БЕЛОЕ СУХОЕ ВИНО\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ В\",\n    \"CAUCASIAN\",\n    \"РКАЦИТЕЛИ\",\n    \"БЕЛОЕ СУХОЕ ВИНО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAUCASIAN",
+    "producer": "ДЕРБЕНТ В",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РКАЦИТЕЛИ",
+    "category": "БЕЛОЕ СУХОЕ ВИНО",
+    "raw_visible_text": [
+      "ДЕРБЕНТ В",
+      "CAUCASIAN",
+      "РКАЦИТЕЛИ",
+      "БЕЛОЕ СУХОЕ ВИНО"
+    ]
+  }
+}

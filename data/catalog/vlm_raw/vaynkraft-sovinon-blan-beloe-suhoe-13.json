@@ -1,0 +1,18 @@
+{
+  "slug": "vaynkraft-sovinon-blan-beloe-suhoe-13",
+  "seconds": 4.458273887634277,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CORMON\",\n  \"producer\": \"WINECRAFT\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CORMON\",\n    \"WINECRAFT 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CORMON",
+    "producer": "WINECRAFT",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "CORMON",
+      "WINECRAFT 2023"
+    ]
+  }
+}

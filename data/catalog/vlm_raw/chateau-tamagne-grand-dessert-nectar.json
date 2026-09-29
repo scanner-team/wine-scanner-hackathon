@@ -1,0 +1,23 @@
+{
+  "slug": "chateau-tamagne-grand-dessert-nectar",
+  "seconds": 1.2948522567749023,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND DESSERT\",\n  \"producer\": \"CHATEAU TAMAMGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"NECTAR\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAMGNE\",\n    \"RESERVE\",\n    \"GRAND DESSERT\",\n    \"NECTAR\",\n    \"2021\",\n    \"НЕКТАР ДЕСЕРТНЫЙ\",\n    \"ВИНЕВАРЕННЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND DESSERT",
+    "producer": "CHATEAU TAMAMGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": null,
+    "category": "NECTAR",
+    "raw_visible_text": [
+      "CHATEAU TAMAMGNE",
+      "RESERVE",
+      "GRAND DESSERT",
+      "NECTAR",
+      "2021",
+      "НЕКТАР ДЕСЕРТНЫЙ",
+      "ВИНЕВАРЕННЫЙ"
+    ]
+  }
+}

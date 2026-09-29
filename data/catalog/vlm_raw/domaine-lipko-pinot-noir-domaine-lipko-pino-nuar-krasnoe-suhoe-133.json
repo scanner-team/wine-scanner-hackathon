@@ -1,0 +1,22 @@
+{
+  "slug": "domaine-lipko-pinot-noir-domaine-lipko-pino-nuar-krasnoe-suhoe-133",
+  "seconds": 5.466566324234009,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Domaine Lipko\",\n  \"producer\": \"Domaine Lipko\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"PINOT NOIR\",\n    \"20—DOMAINe LIPKO—17\",\n    \"FAMILY VINEYARDS & WINERY\",\n    \"SEMASTOPOl\",\n    \"12.2% vol.\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Domaine Lipko",
+    "producer": "Domaine Lipko",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "Pinot Noir",
+    "category": "null",
+    "raw_visible_text": [
+      "PINOT NOIR",
+      "20—DOMAINe LIPKO—17",
+      "FAMILY VINEYARDS & WINERY",
+      "SEMASTOPOl",
+      "12.2% vol.",
+      "750ml"
+    ]
+  }
+}

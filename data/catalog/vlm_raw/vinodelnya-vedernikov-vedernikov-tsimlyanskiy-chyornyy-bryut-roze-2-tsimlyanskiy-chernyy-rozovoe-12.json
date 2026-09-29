@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-tsimlyanskiy-chyornyy-bryut-roze-2-tsimlyanskiy-chernyy-rozovoe-12",
+  "seconds": 9.489208936691284,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЬ\",\n  \"producer\": \"ВИНОДЕАЛЬНЯ ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ЦИММЛЯНСКИЙ ЧЕРНЫЙ\",\n  \"category\": \"РОЗЕРЬОТ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕАЛЬНЯ\",\n    \"ВЕДЕРНИКОВЬ\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"ЦИММЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"РОЗЕРЬОТ\",\n    \"ХОТОР ВЗДАТНИКОВ\",\n    \"ДОДИНА ДОНА\",\n    \"РОССИЯ\",\n    \"750мл 750мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЬ",
+    "producer": "ВИНОДЕАЛЬНЯ ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ЦИММЛЯНСКИЙ ЧЕРНЫЙ",
+    "category": "РОЗЕРЬОТ",
+    "raw_visible_text": [
+      "ВИНОДЕАЛЬНЯ",
+      "ВЕДЕРНИКОВЬ",
+      "ИГРИСТОЕ ВИНО",
+      "ЦИММЛЯНСКИЙ ЧЕРНЫЙ",
+      "РОЗЕРЬОТ",
+      "ХОТОР ВЗДАТНИКОВ",
+      "ДОДИНА ДОНА",
+      "РОССИЯ",
+      "750мл 750мл"
+    ]
+  }
+}

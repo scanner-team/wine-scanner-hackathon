@@ -1,0 +1,14 @@
+{
+  "slug": "domaine-de-la-vivandiere-risling-beloe-suhoe-122",
+  "seconds": 15.237890720367432,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"RISILLING\",\n  \"producer\": \"VIVANCIÈRE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"RISILLING\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"VIVANCIÈRE\",\n    \"",
+  "parsed": {
+    "visible_name": "RISILLING",
+    "producer": "VIVANCIÈRE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null
+  }
+}

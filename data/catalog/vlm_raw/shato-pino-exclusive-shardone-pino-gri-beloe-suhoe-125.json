@@ -1,0 +1,22 @@
+{
+  "slug": "shato-pino-exclusive-shardone-pino-gri-beloe-suhoe-125",
+  "seconds": 5.30970025062561,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT\",\n  \"producer\": \"CHATEAU\",\n  \"cuvee\": \"EXCLUSIVE\",\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"ПИНО ГРИ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"PINOT\",\n    \"EXCLUSIVE\",\n    \"ШАРДОНЕ\",\n    \"ПИНО ГРИ\",\n    \"ВЕЖО СУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT",
+    "producer": "CHATEAU",
+    "cuvee": "EXCLUSIVE",
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "ПИНО ГРИ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "PINOT",
+      "EXCLUSIVE",
+      "ШАРДОНЕ",
+      "ПИНО ГРИ",
+      "ВЕЖО СУХОЕ"
+    ]
+  }
+}

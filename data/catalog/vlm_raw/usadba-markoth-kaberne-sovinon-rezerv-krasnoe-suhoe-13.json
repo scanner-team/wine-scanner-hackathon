@@ -1,0 +1,28 @@
+{
+  "slug": "usadba-markoth-kaberne-sovinon-rezerv-krasnoe-suhoe-13",
+  "seconds": 15.687555074691772,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CAB SAU VIG NO\",\n  \"producer\": \"УСАДЬБА МАРКОТХ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2023\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"0.75\",\n    \"14%\",\n    \"2023\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"CAB\",\n    \"SAU\",\n    \"VIG\",\n    \"NO\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"РЕЗЕРВ\",\n    \"УСАДЬБА\",\n    \"МАРКОТХ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CAB SAU VIG NO",
+    "producer": "УСАДЬБА МАРКОТХ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2023",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "0.75",
+      "14%",
+      "2023",
+      "КРАСНОЕ СУХОЕ",
+      "CAB",
+      "SAU",
+      "VIG",
+      "NO",
+      "КАБЕРНЕ СОВИНЬОН",
+      "РЕЗЕРВ",
+      "УСАДЬБА",
+      "МАРКОТХ"
+    ]
+  }
+}

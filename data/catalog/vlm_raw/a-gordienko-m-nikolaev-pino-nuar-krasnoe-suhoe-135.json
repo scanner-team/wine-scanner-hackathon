@@ -1,0 +1,19 @@
+{
+  "slug": "a-gordienko-m-nikolaev-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 5.369916915893555,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО НУАР\",\n  \"producer\": \"А. ГОРАДИЕНКО & М. НИКОЛАЕВ\",\n  \"cuvee\": null,\n  \"vintage\": \"MMXIII\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"А. ГОРАДИЕНКО & М. НИКОЛАЕВ\",\n    \"ПИНО НУАР\",\n    \"MMXIII\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО НУАР",
+    "producer": "А. ГОРАДИЕНКО & М. НИКОЛАЕВ",
+    "cuvee": null,
+    "vintage": "MMXIII",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "А. ГОРАДИЕНКО & М. НИКОЛАЕВ",
+      "ПИНО НУАР",
+      "MMXIII"
+    ]
+  }
+}

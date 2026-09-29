@@ -1,0 +1,21 @@
+{
+  "slug": "sober-bash-dve-doliny-saperavi-kachich-krasnoe-polusuhoe-15",
+  "seconds": 6.850160121917725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"САПЕРАВИ-КАЧИЧ\",\n  \"producer\": \"СОБЕР БАШ\",\n  \"cuvee\": \"ДВЕ ДОЛИНЫ\",\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ДВЕ ДОЛИНЫ\",\n    \"САПЕРАВИ-КАЧИЧ\",\n    \"2024\",\n    \"Российское вино с зошщнанным географическим усюсом чубане. Донина реки Айгис\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "САПЕРАВИ-КАЧИЧ",
+    "producer": "СОБЕР БАШ",
+    "cuvee": "ДВЕ ДОЛИНЫ",
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ДВЕ ДОЛИНЫ",
+      "САПЕРАВИ-КАЧИЧ",
+      "2024",
+      "Российское вино с зошщнанным географическим усюсом чубане. Донина реки Айгис"
+    ]
+  }
+}

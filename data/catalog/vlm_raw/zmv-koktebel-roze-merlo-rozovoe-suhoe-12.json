@@ -1,0 +1,21 @@
+{
+  "slug": "zmv-koktebel-roze-merlo-rozovoe-suhoe-12",
+  "seconds": 13.87990689277649,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Коктебеа\",\n  \"producer\": \"ЗАВОД МАРОЧНИХ ВИНЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мерло\",\n  \"category\": \"Розе\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНИХ ВИНЕ\",\n    \"КОКТЕБЕА\",\n    \"EST 1879\",\n    \"Розе\",\n    \"Мерло\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Коктебеа",
+    "producer": "ЗАВОД МАРОЧНИХ ВИНЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мерло",
+    "category": "Розе",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНИХ ВИНЕ",
+      "КОКТЕБЕА",
+      "EST 1879",
+      "Розе",
+      "Мерло"
+    ]
+  }
+}

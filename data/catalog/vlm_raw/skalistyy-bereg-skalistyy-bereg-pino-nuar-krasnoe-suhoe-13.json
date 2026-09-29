@@ -1,0 +1,22 @@
+{
+  "slug": "skalistyy-bereg-skalistyy-bereg-pino-nuar-krasnoe-suhoe-13",
+  "seconds": 14.139709949493408,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СКАЛИСТЫЙ БЕРЕГ\",\n  \"producer\": \"Procyon Lotor\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"Пино Нуар\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СКАЛИСТЫЙ БЕРЕГ\",\n    \"осн. 2010\",\n    \"2023\",\n    \"Пино Нуар\",\n    \"№ 1072\",\n    \"Procyon Lotor\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СКАЛИСТЫЙ БЕРЕГ",
+    "producer": "Procyon Lotor",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "Пино Нуар",
+    "category": null,
+    "raw_visible_text": [
+      "СКАЛИСТЫЙ БЕРЕГ",
+      "осн. 2010",
+      "2023",
+      "Пино Нуар",
+      "№ 1072",
+      "Procyon Lotor"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "olymp-winery-adagum-merlot-merlo-rozovoe-suhoe-10",
+  "seconds": 6.822263956069946,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Адагум\",\n  \"producer\": \"КУБАНЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мерло\",\n  \"category\": \"Сухое Розовое\",\n  \"raw_visible_text\": [\n    \"Адагум\",\n    \"Мерло\",\n    \"Сухое Розовое\",\n    \"БИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"КУБАНЬ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Адагум",
+    "producer": "КУБАНЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мерло",
+    "category": "Сухое Розовое",
+    "raw_visible_text": [
+      "Адагум",
+      "Мерло",
+      "Сухое Розовое",
+      "БИНО С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "КУБАНЬ"
+    ]
+  }
+}

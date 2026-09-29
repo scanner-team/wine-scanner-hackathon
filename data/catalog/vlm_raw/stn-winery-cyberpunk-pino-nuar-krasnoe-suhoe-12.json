@@ -1,0 +1,18 @@
+{
+  "slug": "stn-winery-cyberpunk-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 4.238120794296265,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CYBERPUNK\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CYBERPUNK\",\n    \"PINOT NOIR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CYBERPUNK",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "CYBERPUNK",
+      "PINOT NOIR"
+    ]
+  }
+}

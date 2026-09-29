@@ -1,0 +1,22 @@
+{
+  "slug": "leto-vecrfn-2024-suhoe-vino",
+  "seconds": 1.806166648864746,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LE\",\n  \"producer\": \"Винодельня\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"вино сухое белое\",\n  \"raw_visible_text\": [\n    \"LE\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВИНО СУХОЕ БЕЛОЕ\",\n    \"МУСКАТ\",\n    \"2023\",\n    \"УРОЖАЙ 2023 ГОДА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LE",
+    "producer": "Винодельня",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "МУСКАТ",
+    "category": "вино сухое белое",
+    "raw_visible_text": [
+      "LE",
+      "ВИНОДЕЛЬНЯ",
+      "ВИНО СУХОЕ БЕЛОЕ",
+      "МУСКАТ",
+      "2023",
+      "УРОЖАЙ 2023 ГОДА"
+    ]
+  }
+}

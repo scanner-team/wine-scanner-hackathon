@@ -1,0 +1,23 @@
+{
+  "slug": "inkerman-shato-ruzh",
+  "seconds": 5.530040979385376,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАТО РУЖ\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"полусухое красное\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"ШАТО РУЖ\",\n    \"ВИНО\",\n    \"ПОЛУСУХОЕ КРАСНОЕ\",\n    \"МЕСТО ПРОИЗВОДСТВА: РОССИЯ\",\n    \"750 мл\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАТО РУЖ",
+    "producer": "INKERMAN",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "полусухое красное",
+    "raw_visible_text": [
+      "INKERMAN",
+      "ШАТО РУЖ",
+      "ВИНО",
+      "ПОЛУСУХОЕ КРАСНОЕ",
+      "МЕСТО ПРОИЗВОДСТВА: РОССИЯ",
+      "750 мл",
+      "2023"
+    ]
+  }
+}

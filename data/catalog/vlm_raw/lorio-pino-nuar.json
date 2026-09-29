@@ -1,0 +1,21 @@
+{
+  "slug": "lorio-pino-nuar",
+  "seconds": 8.994699001312256,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЛОРIO\",\n  \"producer\": \"LORIOT\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"вино красное сухое\",\n  \"raw_visible_text\": [\n    \"ЛОРIO\",\n    \"ПИНО НУАР\",\n    \"вино красное сухое\",\n    \"2024\",\n    \"LORIOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЛОРIO",
+    "producer": "LORIOT",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ПИНО НУАР",
+    "category": "вино красное сухое",
+    "raw_visible_text": [
+      "ЛОРIO",
+      "ПИНО НУАР",
+      "вино красное сухое",
+      "2024",
+      "LORIOT"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-imperial-brut-lart-nouveau-shardone-beloe-bryut-105",
+  "seconds": 6.031612157821655,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ ДЮРСО\",\n  \"producer\": \"Абрау-Дюрсо\",\n  \"cuvee\": null,\n  \"vintage\": \"2010\",\n  \"grape\": null,\n  \"category\": \"BRUT L'ART NOUVEAU\",\n  \"raw_visible_text\": [\n    \"ESTR\",\n    \"1870\",\n    \"АБРАУ ДЮРСО\",\n    \"BRUT L'ART NOUVEAU\",\n    \"Универсальный\",\n    \"2010\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ ДЮРСО",
+    "producer": "Абрау-Дюрсо",
+    "cuvee": null,
+    "vintage": "2010",
+    "grape": null,
+    "category": "BRUT L'ART NOUVEAU",
+    "raw_visible_text": [
+      "ESTR",
+      "1870",
+      "АБРАУ ДЮРСО",
+      "BRUT L'ART NOUVEAU",
+      "Универсальный",
+      "2010"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "marquetry-syrah-merlot-cabernet-franc",
+  "seconds": 13.42558217048645,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MARQUETRY\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"SYRAH MERLOT CABERNET FRANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"MARQUETRY\",\n    \"SYRAH\",\n    \"MERLOT\",\n    \"CABERNET FRANC\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MARQUETRY",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "SYRAH MERLOT CABERNET FRANC",
+    "category": null,
+    "raw_visible_text": [
+      "AVA",
+      "MARQUETRY",
+      "SYRAH",
+      "MERLOT",
+      "CABERNET FRANC",
+      "2023"
+    ]
+  }
+}

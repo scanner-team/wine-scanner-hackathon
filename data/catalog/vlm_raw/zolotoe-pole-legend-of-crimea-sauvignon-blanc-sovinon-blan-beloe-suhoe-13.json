@@ -1,0 +1,19 @@
+{
+  "slug": "zolotoe-pole-legend-of-crimea-sauvignon-blanc-sovinon-blan-beloe-suhoe-13",
+  "seconds": 10.19702410697937,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON BLANC\",\n  \"producer\": \"THE LEGEND of CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SAUVIGNON BLANC\",\n    \"THE LEGEND\",\n    \"of CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON BLANC",
+    "producer": "THE LEGEND of CRIMEA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON BLANC",
+    "category": null,
+    "raw_visible_text": [
+      "SAUVIGNON BLANC",
+      "THE LEGEND",
+      "of CRIMEA"
+    ]
+  }
+}

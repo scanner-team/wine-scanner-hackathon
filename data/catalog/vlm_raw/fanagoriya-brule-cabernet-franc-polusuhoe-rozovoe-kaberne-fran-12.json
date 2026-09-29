@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-brule-cabernet-franc-polusuhoe-rozovoe-kaberne-fran-12",
+  "seconds": 13.419257164001465,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BRÛLÉ\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"ПОЛУСУХОЕ\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"BRÛLÉ\",\n    \"CABERNET FRANC\",\n    \"ПОЛУСУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BRÛLÉ",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "CABERNET FRANC",
+    "category": "ПОЛУСУХОЕ",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "BRÛLÉ",
+      "CABERNET FRANC",
+      "ПОЛУСУХОЕ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "esse-dolinnoe-cabernet-franc-kaberne-fran-krasnoe-suhoe-13",
+  "seconds": 5.028703927993774,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"KACHA VALLEY\",\n  \"producer\": \"CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"KACHA VALLEY\",\n    \"2019\",\n    \"CABERNET FRANC\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "KACHA VALLEY",
+    "producer": "CRIMEA",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "CABERNET FRANC",
+    "category": null,
+    "raw_visible_text": [
+      "KACHA VALLEY",
+      "2019",
+      "CABERNET FRANC",
+      "CRIMEA"
+    ]
+  }
+}

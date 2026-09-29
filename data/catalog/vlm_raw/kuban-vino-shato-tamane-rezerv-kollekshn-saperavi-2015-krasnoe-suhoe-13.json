@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-kollekshn-saperavi-2015-krasnoe-suhoe-13",
+  "seconds": 4.787630081176758,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE RESERVE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2015\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"Lotion Lentic\",\n    \"Соммер 2015\",\n    \"Ультрасвежий сорт 2015\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE RESERVE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2015",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "RESERVE",
+      "Lotion Lentic",
+      "Соммер 2015",
+      "Ультрасвежий сорт 2015"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "igristoe-vino-bryut-rozovoe-di-kaspiko-blan-de-nuar-di-caspico-blanc-de-noirs",
+  "seconds": 0.9240291118621826,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"BLANC DE NOIRS\",\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"SPARKLING WINE\",\n    \"DI CASPICO\",\n    \"BLANC DE NOIRS\",\n    \"BRUT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "BLANC DE NOIRS",
+    "category": "BRUT",
+    "raw_visible_text": [
+      "SPARKLING WINE",
+      "DI CASPICO",
+      "BLANC DE NOIRS",
+      "BRUT"
+    ]
+  }
+}

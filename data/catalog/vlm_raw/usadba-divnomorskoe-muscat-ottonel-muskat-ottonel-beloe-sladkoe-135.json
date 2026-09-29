@@ -1,0 +1,23 @@
+{
+  "slug": "usadba-divnomorskoe-muscat-ottonel-muskat-ottonel-beloe-sladkoe-135",
+  "seconds": 5.786685943603516,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MUSKAT OTTONEL\",\n  \"producer\": \"УСАЛЬВА ДИВНОМОРСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАЛЬВА ДИВНОМОРСКОЕ\",\n    \"From the Ukrainian\",\n    \"wine-growing region\",\n    \"on the coast of\",\n    \"The Black Sea\",\n    \"MUSKAT OTTONEL\",\n    \"N° 02202\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MUSKAT OTTONEL",
+    "producer": "УСАЛЬВА ДИВНОМОРСКОЕ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "УСАЛЬВА ДИВНОМОРСКОЕ",
+      "From the Ukrainian",
+      "wine-growing region",
+      "on the coast of",
+      "The Black Sea",
+      "MUSKAT OTTONEL",
+      "N° 02202"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-de-talu-ruzh-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 4.968498229980469,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHÂTEAU de TALU\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РУЖ\",\n  \"category\": \"ГЕЛЕНДЖИК\",\n  \"raw_visible_text\": [\n    \"CHÂTEAU\",\n    \"de TALU\",\n    \"РУЖ\",\n    \"ГЕЛЕНДЖИК\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHÂTEAU de TALU",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РУЖ",
+    "category": "ГЕЛЕНДЖИК",
+    "raw_visible_text": [
+      "CHÂTEAU",
+      "de TALU",
+      "РУЖ",
+      "ГЕЛЕНДЖИК"
+    ]
+  }
+}

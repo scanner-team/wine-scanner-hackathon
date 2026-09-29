@@ -1,0 +1,25 @@
+{
+  "slug": "olymp-winery-adagum-estate-chardonnay-shardone-beloe-suhoe-11",
+  "seconds": 9.100473880767822,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ADAGUM ESTATE\",\n  \"producer\": \"ВЯЧЕСЛАВ ЗОТИН\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"ВИНО СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛ\",\n    \"ВЯЧЕСЛАВ ЗОТИН\",\n    \"ADAGUM\",\n    \"ESTATE\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ\",\n    \"«КУБАНЬ»\",\n    \"ШАРДОНЕ\",\n    \"ВИНО СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ADAGUM ESTATE",
+    "producer": "ВЯЧЕСЛАВ ЗОТИН",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "ВИНО СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВИНОДЕЛ",
+      "ВЯЧЕСЛАВ ЗОТИН",
+      "ADAGUM",
+      "ESTATE",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ",
+      "«КУБАНЬ»",
+      "ШАРДОНЕ",
+      "ВИНО СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

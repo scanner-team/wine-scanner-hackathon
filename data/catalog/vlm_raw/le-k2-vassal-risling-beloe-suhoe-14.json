@@ -1,0 +1,20 @@
+{
+  "slug": "le-k2-vassal-risling-beloe-suhoe-14",
+  "seconds": 5.791400909423828,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": \"Le K2\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"BACCAJI\",\n  \"category\": \"150/30\",\n  \"raw_visible_text\": [\n    \"Le K2\",\n    \"BACCAJI\",\n    \"2023\",\n    \"150/30\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": "Le K2",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "BACCAJI",
+    "category": "150/30",
+    "raw_visible_text": [
+      "Le K2",
+      "BACCAJI",
+      "2023",
+      "150/30"
+    ]
+  }
+}

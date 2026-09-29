@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-flyor-dyu-syud-ruzh-de-tamane-rubin-golodrigi-krasnoe-suhoe-12",
+  "seconds": 4.9244043827056885,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FLEURS DU SUD\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"ROUGE DE TAMAGNE\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"ROUGE DE TAMAGNE\",\n    \"2022\",\n    \"MARCHÉ CHINE\",\n    \"FLEURS DU SUD\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FLEURS DU SUD",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "ROUGE DE TAMAGNE",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "ROUGE DE TAMAGNE",
+      "2022",
+      "MARCHÉ CHINE",
+      "FLEURS DU SUD"
+    ]
+  }
+}

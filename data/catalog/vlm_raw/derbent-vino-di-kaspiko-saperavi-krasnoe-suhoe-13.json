@@ -1,0 +1,23 @@
+{
+  "slug": "derbent-vino-di-kaspiko-saperavi-krasnoe-suhoe-13",
+  "seconds": 14.72723913192749,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DI CASPICO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"КРАСНОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"DI CASPICO\",\n    \"САПЕРАВИ\",\n    \"ВИНО ИЗ ВИНОГРАДА,\",\n    \"ВЫРАЩЕННОГО В ДАГЕСТАНЕ\",\n    \"КРАСНОЕ СУХОЕ\",\n    \"АЛК. 13% ОБ.\",\n    \"750 МЛ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DI CASPICO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "САПЕРАВИ",
+    "category": "КРАСНОЕ СУХОЕ",
+    "raw_visible_text": [
+      "DI CASPICO",
+      "САПЕРАВИ",
+      "ВИНО ИЗ ВИНОГРАДА,",
+      "ВЫРАЩЕННОГО В ДАГЕСТАНЕ",
+      "КРАСНОЕ СУХОЕ",
+      "АЛК. 13% ОБ.",
+      "750 МЛ"
+    ]
+  }
+}

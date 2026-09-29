@@ -1,0 +1,14 @@
+{
+  "slug": "abrau-dyurso-abrau-estates-krasnoe-kaberne-sovinon-suhoe-13",
+  "seconds": 4.19558310508728,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ABRAU ESTATES\",\n  \"producer\": \"KUBAN TERROR\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"CABERNET SAUVIGNON • MERLOT\",\n  \"category\": \"OAK AGED\"\n}",
+  "parsed": {
+    "visible_name": "ABRAU ESTATES",
+    "producer": "KUBAN TERROR",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "CABERNET SAUVIGNON • MERLOT",
+    "category": "OAK AGED"
+  }
+}

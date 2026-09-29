@@ -1,0 +1,24 @@
+{
+  "slug": "naomi-2022",
+  "seconds": 1.343245267868042,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"NAOMI\",\n  \"producer\": \"WINEMAFIA\",\n  \"cuvee\": \"Limited Release\",\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"Rosé\",\n  \"raw_visible_text\": [\n    \"WINEMAFIA\",\n    \"Voronezh\",\n    \"NAOMI\",\n    \"Rosé\",\n    \"2022\",\n    \"LIMITED RELEASE\",\n    \"by NIKITA DUBININ\",\n    \"08251178\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "NAOMI",
+    "producer": "WINEMAFIA",
+    "cuvee": "Limited Release",
+    "vintage": "2022",
+    "grape": null,
+    "category": "Rosé",
+    "raw_visible_text": [
+      "WINEMAFIA",
+      "Voronezh",
+      "NAOMI",
+      "Rosé",
+      "2022",
+      "LIMITED RELEASE",
+      "by NIKITA DUBININ",
+      "08251178"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "toile-de-vin-chardonnay",
+  "seconds": 12.94684624671936,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TOILE DE VIN\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Chardonnay\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"TOILE DE VIN\",\n    \"Chardonnay\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TOILE DE VIN",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Chardonnay",
+    "category": null,
+    "raw_visible_text": [
+      "AVA",
+      "TOILE DE VIN",
+      "Chardonnay",
+      "2024"
+    ]
+  }
+}

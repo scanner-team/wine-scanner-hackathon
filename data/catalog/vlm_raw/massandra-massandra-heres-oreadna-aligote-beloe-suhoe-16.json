@@ -1,0 +1,20 @@
+{
+  "slug": "massandra-massandra-heres-oreadna-aligote-beloe-suhoe-16",
+  "seconds": 4.87405800819397,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МАССАНДРА\",\n  \"producer\": \"Массандра\",\n  \"cuvee\": null,\n  \"vintage\": \"1894\",\n  \"grape\": \"ХЕРЕС ОРЕАНДА\",\n  \"category\": \"Год урожая\",\n  \"raw_visible_text\": [\n    \"МАССАНДРА\",\n    \"1894\",\n    \"ХЕРЕС ОРЕАНДА\",\n    \"ГОД УРОЖАЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МАССАНДРА",
+    "producer": "Массандра",
+    "cuvee": null,
+    "vintage": "1894",
+    "grape": "ХЕРЕС ОРЕАНДА",
+    "category": "Год урожая",
+    "raw_visible_text": [
+      "МАССАНДРА",
+      "1894",
+      "ХЕРЕС ОРЕАНДА",
+      "ГОД УРОЖАЯ"
+    ]
+  }
+}

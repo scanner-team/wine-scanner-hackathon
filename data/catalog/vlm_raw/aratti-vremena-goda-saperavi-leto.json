@@ -1,0 +1,20 @@
+{
+  "slug": "aratti-vremena-goda-saperavi-leto",
+  "seconds": 1.1708602905273438,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"САПЕРАВИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"АРАТТИ\",\n    \"САПЕРАВИ\",\n    \"2024\",\n    \"44.895466, 37.472316\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "САПЕРАВИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "АРАТТИ",
+      "САПЕРАВИ",
+      "2024",
+      "44.895466, 37.472316"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zolotaya-balka-zb-wine-sauvignon-blanc-sovinon-blan-beloe-suhoe-125",
+  "seconds": 7.982357978820801,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MY SAUVIGNON\",\n  \"producer\": \"ZB\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"белое\",\n  \"raw_visible_text\": [\n    \"МЫСЛИ\",\n    \"ПОЗИТИВНО!\",\n    \"ЕСЛИ НЕ ПОЛУЧАЕТСЯ-\",\n    \"ОТКРОЙ\",\n    \"MY SAUVIGNON\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MY SAUVIGNON",
+    "producer": "ZB",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": "белое",
+    "raw_visible_text": [
+      "МЫСЛИ",
+      "ПОЗИТИВНО!",
+      "ЕСЛИ НЕ ПОЛУЧАЕТСЯ-",
+      "ОТКРОЙ",
+      "MY SAUVIGNON",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ «КРЫМ»"
+    ]
+  }
+}

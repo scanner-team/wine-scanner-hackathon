@@ -1,0 +1,23 @@
+{
+  "slug": "alma-valley-sovinon-blan-rezerv-beloe-suhoe-14",
+  "seconds": 7.861421823501587,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON BLANC\",\n  \"producer\": \"ALMA VALLEY\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"SAUVIGNON BLANC\",\n  \"category\": \"белое сухое вино\",\n  \"raw_visible_text\": [\n    \"ALMA VALLEY\",\n    \"RESERVE\",\n    \"2021\",\n    \"SAUVIGNON BLANC\",\n    \"КРЫМ\",\n    \"+ белое сухое вино +\",\n    \"СПИРТ: 14,0% ОБ. | ОБЪЕМ: 0,75 Л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON BLANC",
+    "producer": "ALMA VALLEY",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "SAUVIGNON BLANC",
+    "category": "белое сухое вино",
+    "raw_visible_text": [
+      "ALMA VALLEY",
+      "RESERVE",
+      "2021",
+      "SAUVIGNON BLANC",
+      "КРЫМ",
+      "+ белое сухое вино +",
+      "СПИРТ: 14,0% ОБ. | ОБЪЕМ: 0,75 Л"
+    ]
+  }
+}

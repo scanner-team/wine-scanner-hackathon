@@ -1,0 +1,24 @@
+{
+  "slug": "loco-cimbali-kaberne-sovinon-krasnoe-suhoe-146",
+  "seconds": 6.865159273147583,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"REPIN\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SEVASTOPOL\",\n    \"2020\",\n    \"BARRIQUE\",\n    \"2020\",\n    \"LOCO CIMBALI\",\n    \"CABERNET SAUVIGNON\",\n    \"REPIN\",\n    \"С ЗАПРЕДИНИМ ГЕОГРАФИЧЕСКИХ УЗАВИСИМЫХ РЕГИОНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "REPIN",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "CABERNET SAUVIGNON",
+    "category": null,
+    "raw_visible_text": [
+      "SEVASTOPOL",
+      "2020",
+      "BARRIQUE",
+      "2020",
+      "LOCO CIMBALI",
+      "CABERNET SAUVIGNON",
+      "REPIN",
+      "С ЗАПРЕДИНИМ ГЕОГРАФИЧЕСКИХ УЗАВИСИМЫХ РЕГИОНОВ"
+    ]
+  }
+}

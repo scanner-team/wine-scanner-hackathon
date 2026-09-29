@@ -1,0 +1,20 @@
+{
+  "slug": "oleg-repin-pinot-noir-pino-nuar-krasnoe-suhoe-135",
+  "seconds": 5.158470869064331,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Oleg Repin\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": \"SEVASTOPOL\",\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"PINOT NOIR\",\n    \"SEVASTOPOL\",\n    \"002335\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Oleg Repin",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "PINOT NOIR",
+    "category": "SEVASTOPOL",
+    "raw_visible_text": [
+      "Oleg Repin",
+      "PINOT NOIR",
+      "SEVASTOPOL",
+      "002335"
+    ]
+  }
+}

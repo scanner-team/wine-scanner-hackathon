@@ -1,0 +1,23 @@
+{
+  "slug": "vinogradniki-gay-kodzora-terroir-blanc-de-ga-kodzor-semilon-beloe-suhoe-13",
+  "seconds": 5.930241107940674,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TERROIR BLANC\",\n  \"producer\": \"GAÏ-KODZOR\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"TERROIR BLANC\",\n    \"de\",\n    \"GAÏ-KODZOR\",\n    \"750 ml\",\n    \"БИБЛОГРАФИЧЕСКИЙ ТАБ-КОДЗОР\",\n    \"PRODUCT OF RUSSIA\",\n    \"Alc 13 % vol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TERROIR BLANC",
+    "producer": "GAÏ-KODZOR",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "TERROIR BLANC",
+      "de",
+      "GAÏ-KODZOR",
+      "750 ml",
+      "БИБЛОГРАФИЧЕСКИЙ ТАБ-КОДЗОР",
+      "PRODUCT OF RUSSIA",
+      "Alc 13 % vol"
+    ]
+  }
+}

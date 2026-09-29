@@ -1,0 +1,21 @@
+{
+  "slug": "oleg",
+  "seconds": 1.0001556873321533,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАБИЯ\",\n  \"producer\": \"ТАБИЯ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое\",\n  \"raw_visible_text\": [\n    \"ТАБИЯ\",\n    \"ТАБИЯ\",\n    \"СУХОЕ\",\n    \"750 мл\",\n    \"12,5% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАБИЯ",
+    "producer": "ТАБИЯ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое",
+    "raw_visible_text": [
+      "ТАБИЯ",
+      "ТАБИЯ",
+      "СУХОЕ",
+      "750 мл",
+      "12,5% об."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "yaiyla-winery-kokur-kokur-belyy-beloe-suhoe-13",
+  "seconds": 12.937942028045654,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Y\",\n  \"producer\": \"YAYLA KOKUR\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Y\",\n    \"YAYLA\",\n    \"KOKUR\",\n    \"2024 r.\",\n    \"bottle No 0194\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Y",
+    "producer": "YAYLA KOKUR",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Y",
+      "YAYLA",
+      "KOKUR",
+      "2024 r.",
+      "bottle No 0194"
+    ]
+  }
+}

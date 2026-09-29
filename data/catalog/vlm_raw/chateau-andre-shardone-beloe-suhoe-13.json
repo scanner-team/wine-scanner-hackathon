@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-andre-shardone-beloe-suhoe-13",
+  "seconds": 4.930489778518677,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CHARDONNAY\",\n  \"producer\": \"Chateau André\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Chateau\",\n    \"Chateau André\",\n    \"CHARDONNAY\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CHARDONNAY",
+    "producer": "Chateau André",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "Chateau",
+      "Chateau André",
+      "CHARDONNAY",
+      "2023"
+    ]
+  }
+}

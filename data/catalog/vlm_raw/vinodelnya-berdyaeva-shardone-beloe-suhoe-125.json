@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-berdyaeva-shardone-beloe-suhoe-125",
+  "seconds": 5.510494947433472,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ШАРДОНЕ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ БЕРДЯЕВА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ШАРДОНЕ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ШАРДОНЕ\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"ВИНОДЕЛЬНЯ БЕРДЯЕВА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ШАРДОНЕ",
+    "producer": "ВИНОДЕЛЬНЯ БЕРДЯЕВА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ШАРДОНЕ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ШАРДОНЕ",
+      "СУХОЕ БЕЛОЕ",
+      "ВИНОДЕЛЬНЯ БЕРДЯЕВА"
+    ]
+  }
+}

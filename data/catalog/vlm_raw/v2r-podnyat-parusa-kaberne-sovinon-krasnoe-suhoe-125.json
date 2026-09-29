@@ -1,0 +1,18 @@
+{
+  "slug": "v2r-podnyat-parusa-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 4.458211898803711,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пагансьо напуєа!\",\n  \"producer\": \"B2P\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"B2P\",\n    \"Пагансьо напуєа!\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пагансьо напуєа!",
+    "producer": "B2P",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "B2P",
+      "Пагансьо напуєа!"
+    ]
+  }
+}

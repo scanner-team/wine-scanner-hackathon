@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-raevskoe-renessans-blaufrankish-krasnoe-suhoe-128",
+  "seconds": 13.435090065002441,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLAUFRÄNKISCH\",\n  \"producer\": \"RENAISSANCE\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"DRY RED\",\n  \"raw_visible_text\": [\n    \"RENAISSANCE\",\n    \"RAEVSKOE\",\n    \"2023\",\n    \"BLAUFRÄNKISCH\",\n    \"KUBAN\",\n    \"DRY RED\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLAUFRÄNKISCH",
+    "producer": "RENAISSANCE",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "DRY RED",
+    "raw_visible_text": [
+      "RENAISSANCE",
+      "RAEVSKOE",
+      "2023",
+      "BLAUFRÄNKISCH",
+      "KUBAN",
+      "DRY RED"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-batrak-perfekt-klassik-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 5.161422967910767,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Пино Нуар\",\n  \"producer\": \"Виталий Батрак\",\n  \"cuvee\": \"PERFEKT KLASSEK\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Виталий Батрак\",\n    \"БИМОДЕЛЬНЯ\",\n    \"1989\",\n    \"Пино Нуар\",\n    \"PERFEKT KLASSEK\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Пино Нуар",
+    "producer": "Виталий Батрак",
+    "cuvee": "PERFEKT KLASSEK",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Виталий Батрак",
+      "БИМОДЕЛЬНЯ",
+      "1989",
+      "Пино Нуар",
+      "PERFEKT KLASSEK"
+    ]
+  }
+}

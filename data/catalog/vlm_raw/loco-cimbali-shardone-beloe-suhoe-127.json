@@ -1,0 +1,22 @@
+{
+  "slug": "loco-cimbali-shardone-beloe-suhoe-127",
+  "seconds": 6.471984148025513,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"BALAKLAVA\",\n  \"cuvee\": \"Reserve\",\n  \"vintage\": \"2022\",\n  \"grape\": \"CHARDONNAY\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BALAKLAVA\",\n    \"2022\",\n    \"LOCO CIMBALI\",\n    \"CHARDONNAY\",\n    \"Reserve\",\n    \"С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \\\"ЕРМ\\\"\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "BALAKLAVA",
+    "cuvee": "Reserve",
+    "vintage": "2022",
+    "grape": "CHARDONNAY",
+    "category": null,
+    "raw_visible_text": [
+      "BALAKLAVA",
+      "2022",
+      "LOCO CIMBALI",
+      "CHARDONNAY",
+      "Reserve",
+      "С ЗАЩИЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \"ЕРМ\""
+    ]
+  }
+}

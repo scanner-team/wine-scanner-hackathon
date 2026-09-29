@@ -1,0 +1,17 @@
+{
+  "slug": "shato-pino-koldun-rezerv-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 4.452152967453003,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КОЛДУН РЕЗЕРВ\",\n  \"producer\": null,\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КОЛДУН РЕЗЕРВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КОЛДУН РЕЗЕРВ",
+    "producer": null,
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "КОЛДУН РЕЗЕРВ"
+    ]
+  }
+}

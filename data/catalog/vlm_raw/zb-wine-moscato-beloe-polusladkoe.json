@@ -1,0 +1,14 @@
+{
+  "slug": "zb-wine-moscato-beloe-polusladkoe",
+  "seconds": 4.8362860679626465,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"MOSCATO\",\n  \"producer\": \"ZB WINE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MOSCATO\",\n  \"category\": \"WHITE SEMISWEET\",\n  \"raw_visible_text\": [\n    \"MOSCATO\",\n    \"ZB\",\n    \"WINE\",\n    \"MOSCATO\",\n    \"NATURAL SPARKLING WINE\",\n    \"WHITE SEMISWEET\",\n    \"ОСН. 2010\",\n    \"С АНТИЧНЫМ ГОСУДАРСТВЕННЫМ УКАЗАНИЕМ ОРГАН\",\n    \"СТАНДАРТ\",\n    \"ОТДОМ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ\",\n    \"СТАНДАРТ",
+  "parsed": {
+    "visible_name": "MOSCATO",
+    "producer": "ZB WINE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MOSCATO",
+    "category": "WHITE SEMISWEET"
+  }
+}

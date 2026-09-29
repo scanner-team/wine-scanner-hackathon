@@ -1,0 +1,20 @@
+{
+  "slug": "denisov_pet_nat_citron_rkaciteli",
+  "seconds": 1.2540271282196045,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DENISOV\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"PETNAT\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"CAMAPA\",\n    \"PETNAT\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DENISOV",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "PETNAT",
+    "raw_visible_text": [
+      "DENISOV",
+      "CAMAPA",
+      "PETNAT",
+      "2024"
+    ]
+  }
+}

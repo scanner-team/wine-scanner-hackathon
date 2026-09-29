@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-shato-tamane-rezerv-myuller-turgau-limited-edishn-2021-beloe-suhoe-12",
+  "seconds": 5.328855991363525,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Château TAMAGNE\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"Моцарел\",\n  \"category\": \"Тип: 2000\",\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"RESERVE\",\n    \"Edition Limitée\",\n    \"Моцарел Тырпай 2021\",\n    \"Тип: 2000\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Château TAMAGNE",
+    "producer": "Château TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "Моцарел",
+    "category": "Тип: 2000",
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "RESERVE",
+      "Edition Limitée",
+      "Моцарел Тырпай 2021",
+      "Тип: 2000"
+    ]
+  }
+}

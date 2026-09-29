@@ -1,0 +1,20 @@
+{
+  "slug": "kuban-vino-shato-tamane-delikeyt-roze-2024-bianka-rozovoe-suhoe-95",
+  "seconds": 4.157439947128296,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DÉLICATE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"TAMAGNE\",\n    \"DÉLICATE\",\n    \"ROSE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DÉLICATE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ROSE",
+    "raw_visible_text": [
+      "CHATEAU",
+      "TAMAGNE",
+      "DÉLICATE",
+      "ROSE"
+    ]
+  }
+}

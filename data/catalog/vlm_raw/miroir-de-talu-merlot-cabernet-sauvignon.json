@@ -1,0 +1,20 @@
+{
+  "slug": "miroir-de-talu-merlot-cabernet-sauvignon",
+  "seconds": 6.04926323890686,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Miroir de Talu\",\n  \"producer\": \"Château de Talu\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Мерло Каберне Совиньон\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MIROR DE TALU\",\n    \"МЕРЛО\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"CHÂTEAU de TALU\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Miroir de Talu",
+    "producer": "Château de Talu",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Мерло Каберне Совиньон",
+    "category": null,
+    "raw_visible_text": [
+      "MIROR DE TALU",
+      "МЕРЛО",
+      "КАБЕРНЕ СОВИНЬОН",
+      "CHÂTEAU de TALU"
+    ]
+  }
+}

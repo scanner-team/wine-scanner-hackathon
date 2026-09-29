@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-uzunov-krasa-kaberne-sovinon-krasnoe-suhoe-125",
+  "seconds": 13.706685066223145,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРАСА\",\n  \"producer\": \"ВИНОДЕЛЬНЯ УЗУНОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"красное сухое\",\n  \"raw_visible_text\": [\n    \"КРАСА\",\n    \"красное сухое\",\n    \"2024\",\n    \"12.9%\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"УЗУНОВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРАСА",
+    "producer": "ВИНОДЕЛЬНЯ УЗУНОВ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "красное сухое",
+    "raw_visible_text": [
+      "КРАСА",
+      "красное сухое",
+      "2024",
+      "12.9%",
+      "ВИНОДЕЛЬНЯ",
+      "УЗУНОВ"
+    ]
+  }
+}

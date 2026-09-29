@@ -1,0 +1,24 @@
+{
+  "slug": "loco-cimbali-merlo-krasnoe-suhoe-138",
+  "seconds": 6.5065836906433105,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"REPIN\",\n  \"cuvee\": \"BARRIQUE\",\n  \"vintage\": \"2020\",\n  \"grape\": \"MERLOT\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SEVASTOPOL\",\n    \"2020\",\n    \"BARRIQUE\",\n    \"2020\",\n    \"LOCO CIMBALI\",\n    \"MERLOT\",\n    \"REPIN\",\n    \"С ЗАЩИЩЕННИМ ГЕОГРАФИЧЕСКИМИ УКАЗАНИЯМИ \\\"РЕПИН\\\"\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "REPIN",
+    "cuvee": "BARRIQUE",
+    "vintage": "2020",
+    "grape": "MERLOT",
+    "category": null,
+    "raw_visible_text": [
+      "SEVASTOPOL",
+      "2020",
+      "BARRIQUE",
+      "2020",
+      "LOCO CIMBALI",
+      "MERLOT",
+      "REPIN",
+      "С ЗАЩИЩЕННИМ ГЕОГРАФИЧЕСКИМИ УКАЗАНИЯМИ \"РЕПИН\""
+    ]
+  }
+}

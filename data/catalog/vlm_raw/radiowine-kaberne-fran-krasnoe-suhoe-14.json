@@ -1,0 +1,19 @@
+{
+  "slug": "radiowine-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 4.630118131637573,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FRANC RUSSET\",\n  \"producer\": \"RADIO RECORDS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FRANC RUSSET\",\n    \"RADIO RECORDS\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FRANC RUSSET",
+    "producer": "RADIO RECORDS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FRANC RUSSET",
+      "RADIO RECORDS",
+      "2021"
+    ]
+  }
+}

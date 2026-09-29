@@ -1,0 +1,20 @@
+{
+  "slug": "toile-de-vin-cabernet-sauvignon",
+  "seconds": 12.893486261367798,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TOILE DE VIN\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Cabernet Sauvignon\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"TOILE DE VIN\",\n    \"Cabernet Sauvignon\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TOILE DE VIN",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Cabernet Sauvignon",
+    "category": null,
+    "raw_visible_text": [
+      "AVA",
+      "TOILE DE VIN",
+      "Cabernet Sauvignon",
+      "2024"
+    ]
+  }
+}

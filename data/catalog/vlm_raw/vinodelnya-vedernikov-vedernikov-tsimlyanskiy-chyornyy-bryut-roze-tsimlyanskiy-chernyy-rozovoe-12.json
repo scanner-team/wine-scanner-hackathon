@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-tsimlyanskiy-chyornyy-bryut-roze-tsimlyanskiy-chernyy-rozovoe-12",
+  "seconds": 8.157692909240723,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИММЛЯНСКИЙ ЧЕРНЫЙ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"РОЗОВОЕ БРЮТ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"РЕЗЕРВ\",\n    \"ЦИММЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"РОЗОВОЕ БРЮТ\",\n    \"ДОЛИНА ДОНА\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИММЛЯНСКИЙ ЧЕРНЫЙ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": null,
+    "grape": null,
+    "category": "РОЗОВОЕ БРЮТ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "РЕЗЕРВ",
+      "ЦИММЛЯНСКИЙ ЧЕРНЫЙ",
+      "РОЗОВОЕ БРЮТ",
+      "ДОЛИНА ДОНА"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "domaine-lipko-syrah-domaine-lipko-sira-krasnoe-suhoe-14",
+  "seconds": 5.3285417556762695,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SYRAH\",\n  \"producer\": \"DOMAINE LIPKO\",\n  \"cuvee\": null,\n  \"vintage\": \"2017\",\n  \"grape\": \"SYRAH\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"20–\",\n    \"DOMAINE LIPKO\",\n    \"SYRAH\",\n    \"–17\",\n    \"14,0% vol\",\n    \"750ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SYRAH",
+    "producer": "DOMAINE LIPKO",
+    "cuvee": null,
+    "vintage": "2017",
+    "grape": "SYRAH",
+    "category": null,
+    "raw_visible_text": [
+      "20–",
+      "DOMAINE LIPKO",
+      "SYRAH",
+      "–17",
+      "14,0% vol",
+      "750ml"
+    ]
+  }
+}

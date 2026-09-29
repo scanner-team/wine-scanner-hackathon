@@ -1,0 +1,22 @@
+{
+  "slug": "abrau-dyurso-abrau-kupazh-krasnyy-polsusladkoe-kaberne-sovinon-krasnoe-polusladkoe-11",
+  "seconds": 14.068319082260132,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ\",\n  \"producer\": \"АБРАУ-ДОРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"красное полусладкое\",\n  \"raw_visible_text\": [\n    \"ВИНИМЫЙ ДОМ\",\n    \"АБРАУ\",\n    \"КРАСНОЕ\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"КУПАЖНЫЕ ВИНА\",\n    \"АБРАУ-ДОРСО\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ",
+    "producer": "АБРАУ-ДОРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "красное полусладкое",
+    "raw_visible_text": [
+      "ВИНИМЫЙ ДОМ",
+      "АБРАУ",
+      "КРАСНОЕ",
+      "ПОЛУСЛАДКОЕ",
+      "КУПАЖНЫЕ ВИНА",
+      "АБРАУ-ДОРСО"
+    ]
+  }
+}

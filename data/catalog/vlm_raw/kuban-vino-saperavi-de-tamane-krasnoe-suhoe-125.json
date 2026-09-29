@@ -1,0 +1,21 @@
+{
+  "slug": "kuban-vino-saperavi-de-tamane-krasnoe-suhoe-125",
+  "seconds": 5.138422012329102,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAPERAVI\",\n  \"producer\": \"Château TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Château TAMAGNE\",\n    \"ШАТО ТАМАНЬ\",\n    \"SAPERAVI\",\n    \"Вино с насыщенным патрификационным\",\n    \"субъектом, Тамагненский терретор\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAPERAVI",
+    "producer": "Château TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Château TAMAGNE",
+      "ШАТО ТАМАНЬ",
+      "SAPERAVI",
+      "Вино с насыщенным патрификационным",
+      "субъектом, Тамагненский терретор"
+    ]
+  }
+}

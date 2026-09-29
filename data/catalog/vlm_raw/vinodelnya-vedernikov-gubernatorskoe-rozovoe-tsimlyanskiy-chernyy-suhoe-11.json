@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-vedernikov-gubernatorskoe-rozovoe-tsimlyanskiy-chernyy-suhoe-11",
+  "seconds": 6.736191034317017,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНА ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": \"розовое\",\n  \"raw_visible_text\": [\n    \"ВИНА\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ГУБЕРНАТОРСКОЕ\",\n    \"РОЗОВОЕ\",\n    \"2022\",\n    \"ВЕТЕР ВЕДЕННИКОВЪ\",\n    \"АДАМЫ СОМ\",\n    \"АДАМЫ СОМ\",\n    \"12% об\",\n    \"750 мл\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНА ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": "розовое",
+    "raw_visible_text": [
+      "ВИНА",
+      "ВЕДЕРНИКОВЪ",
+      "ГУБЕРНАТОРСКОЕ",
+      "РОЗОВОЕ",
+      "2022",
+      "ВЕТЕР ВЕДЕННИКОВЪ",
+      "АДАМЫ СОМ",
+      "АДАМЫ СОМ",
+      "12% об",
+      "750 мл"
+    ]
+  }
+}

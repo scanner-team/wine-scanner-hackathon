@@ -1,0 +1,25 @@
+{
+  "slug": "vinogradniki-gay-kodzora-gewurztraminer-de-gai-kodzor-gevyurtstraminer-beloe-polusuhoe-135",
+  "seconds": 6.70671534538269,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Gewurztraminer\",\n  \"producer\": \"GAÏ-KODZOR\",\n  \"cuvee\": null,\n  \"vintage\": \"2019\",\n  \"grape\": \"Gewurztraminer\",\n  \"category\": \"PRODUCT OF RUSSIA\",\n  \"raw_visible_text\": [\n    \"Gewurztraminer\",\n    \"de\",\n    \"GAÏ-KODZOR\",\n    \"2019\",\n    \"750 ml\",\n    \"ВИНОГРАДНИЧЕСКИЙ ПАРКОДОЗОР\",\n    \"PRODUCT OF RUSSIA\",\n    \"Алк 12% об\",\n    \"Срп 12% об\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Gewurztraminer",
+    "producer": "GAÏ-KODZOR",
+    "cuvee": null,
+    "vintage": "2019",
+    "grape": "Gewurztraminer",
+    "category": "PRODUCT OF RUSSIA",
+    "raw_visible_text": [
+      "Gewurztraminer",
+      "de",
+      "GAÏ-KODZOR",
+      "2019",
+      "750 ml",
+      "ВИНОГРАДНИЧЕСКИЙ ПАРКОДОЗОР",
+      "PRODUCT OF RUSSIA",
+      "Алк 12% об",
+      "Срп 12% об"
+    ]
+  }
+}

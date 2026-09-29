@@ -1,0 +1,23 @@
+{
+  "slug": "zmv-koktebel-madera-albilo-beloe-sladkoe-19",
+  "seconds": 11.940624952316284,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"1879\",\n  \"producer\": \"КОКТЕБЕЛЬ\",\n  \"cuvee\": null,\n  \"vintage\": \"1879\",\n  \"grape\": \"мадера\",\n  \"category\": \"мадера\",\n  \"raw_visible_text\": [\n    \"ЗАВОД МАРОЧНИХ ВИН\",\n    \"КОКТЕБЕЛЬ\",\n    \"EST 1879\",\n    \"1879\",\n    \"мадера\",\n    \"0,75l\",\n    \"19%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "1879",
+    "producer": "КОКТЕБЕЛЬ",
+    "cuvee": null,
+    "vintage": "1879",
+    "grape": "мадера",
+    "category": "мадера",
+    "raw_visible_text": [
+      "ЗАВОД МАРОЧНИХ ВИН",
+      "КОКТЕБЕЛЬ",
+      "EST 1879",
+      "1879",
+      "мадера",
+      "0,75l",
+      "19%"
+    ]
+  }
+}

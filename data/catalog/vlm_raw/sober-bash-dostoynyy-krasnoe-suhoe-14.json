@@ -1,0 +1,19 @@
+{
+  "slug": "sober-bash-dostoynyy-krasnoe-suhoe-14",
+  "seconds": 4.472798109054565,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": \"ДОСТОЙНЫЙ\",\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ДОСТОЙНЫЙ\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": "ДОСТОЙНЫЙ",
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ДОСТОЙНЫЙ",
+      "2021"
+    ]
+  }
+}

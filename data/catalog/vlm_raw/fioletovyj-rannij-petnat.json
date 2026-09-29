@@ -1,0 +1,22 @@
+{
+  "slug": "fioletovyj-rannij-petnat",
+  "seconds": 1.209169864654541,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПЕТ НАТ\",\n  \"producer\": \"Гусевъ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"фиолетовый ранний\",\n  \"raw_visible_text\": [\n    \"ПЕТ НАТ\",\n    \"фиолетовый\",\n    \"ранний\",\n    \"СОМЕЙНЯ\",\n    \"Гусевъ\",\n    \"ВИНОДЕЛЬНЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПЕТ НАТ",
+    "producer": "Гусевъ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "фиолетовый ранний",
+    "raw_visible_text": [
+      "ПЕТ НАТ",
+      "фиолетовый",
+      "ранний",
+      "СОМЕЙНЯ",
+      "Гусевъ",
+      "ВИНОДЕЛЬНЯ"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "usadba-aleksandrovskaya-bubnovyy-valet-kaberne-sovinon-krasnoe-polusladkoe-13",
+  "seconds": 13.917473793029785,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПОЛУСЛАДКОЕ КРАСНОЕ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"ПОЛУСЛАДКОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"Buttergatik\",\n    \"muto\",\n    \"kapa-ty\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"КРАСНОЕ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПОЛУСЛАДКОЕ КРАСНОЕ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "ПОЛУСЛАДКОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "Buttergatik",
+      "muto",
+      "kapa-ty",
+      "ПОЛУСЛАДКОЕ",
+      "КРАСНОЕ",
+      "2023"
+    ]
+  }
+}

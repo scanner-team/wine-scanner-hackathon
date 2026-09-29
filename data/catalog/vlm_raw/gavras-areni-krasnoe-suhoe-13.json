@@ -1,0 +1,22 @@
+{
+  "slug": "gavras-areni-krasnoe-suhoe-13",
+  "seconds": 5.4773008823394775,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРЕНИ\",\n  \"producer\": \"ГАВРАС\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"20\",\n    \"GAVRAS\",\n    \"СЕМЕЙНАЯ ВИНОДЕАЛЬНЯ\",\n    \"АРЕНИ\",\n    \"1677 бутылок\",\n    \"КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРЕНИ",
+    "producer": "ГАВРАС",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "20",
+      "GAVRAS",
+      "СЕМЕЙНАЯ ВИНОДЕАЛЬНЯ",
+      "АРЕНИ",
+      "1677 бутылок",
+      "КРЫМ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "belbek-pino-nuar-rezerv-krasnoe-suhoe-135",
+  "seconds": 5.064912796020508,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": null,\n  \"cuvee\": \"Резерв\",\n  \"vintage\": \"2022\",\n  \"grape\": \"Пино Нуар\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"ПИНО НУАР\",\n    \"РЕЗЕРВ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": null,
+    "cuvee": "Резерв",
+    "vintage": "2022",
+    "grape": "Пино Нуар",
+    "category": null,
+    "raw_visible_text": [
+      "Бельбек",
+      "ПИНО НУАР",
+      "РЕЗЕРВ",
+      "2022"
+    ]
+  }
+}

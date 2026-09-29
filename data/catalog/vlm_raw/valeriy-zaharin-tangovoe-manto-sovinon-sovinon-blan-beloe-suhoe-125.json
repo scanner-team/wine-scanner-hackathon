@@ -1,0 +1,22 @@
+{
+  "slug": "valeriy-zaharin-tangovoe-manto-sovinon-sovinon-blan-beloe-suhoe-125",
+  "seconds": 5.510907888412476,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТАНГО МАНТО\",\n  \"producer\": \"БУЛУК\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"СОВИНЬОН\",\n  \"category\": \"БЛАН\",\n  \"raw_visible_text\": [\n    \"БУЛУК\",\n    \"ТАНГО\",\n    \"МАНТО\",\n    \"2021\",\n    \"СОВИНЬОН\",\n    \"БЛАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТАНГО МАНТО",
+    "producer": "БУЛУК",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "СОВИНЬОН",
+    "category": "БЛАН",
+    "raw_visible_text": [
+      "БУЛУК",
+      "ТАНГО",
+      "МАНТО",
+      "2021",
+      "СОВИНЬОН",
+      "БЛАН"
+    ]
+  }
+}

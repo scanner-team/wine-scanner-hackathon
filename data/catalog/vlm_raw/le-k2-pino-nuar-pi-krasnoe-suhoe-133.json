@@ -1,0 +1,21 @@
+{
+  "slug": "le-k2-pino-nuar-pi-krasnoe-suhoe-133",
+  "seconds": 4.508523225784302,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Le K2\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Le K2\",\n    \"О\",\n    \"Радио, Севастополь\",\n    \"2022\",\n    \"СН 72 119\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Le K2",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Le K2",
+      "О",
+      "Радио, Севастополь",
+      "2022",
+      "СН 72 119"
+    ]
+  }
+}

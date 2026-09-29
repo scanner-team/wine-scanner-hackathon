@@ -1,0 +1,25 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-puhlyakovskiy-beloe-suhoe-12",
+  "seconds": 7.994868040084839,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ПУХЛЯКОВСКИЙ\",\n    \"2021\",\n    \"АКТОР ВЕДЕРНИКОВЪ\",\n    \"ДОЛЖНА ДОНА\",\n    \"РОССИИ\",\n    \"175 ml\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "ПУХЛЯКОВСКИЙ",
+      "2021",
+      "АКТОР ВЕДЕРНИКОВЪ",
+      "ДОЛЖНА ДОНА",
+      "РОССИИ",
+      "175 ml",
+      "750 ml"
+    ]
+  }
+}

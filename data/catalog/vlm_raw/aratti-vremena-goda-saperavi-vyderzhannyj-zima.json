@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-vremena-goda-saperavi-vyderzhannyj-zima",
+  "seconds": 1.355290174484253,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"САПЕРАВИ\",\n  \"category\": \"ВЫДЕРЖАННОЕ\",\n  \"raw_visible_text\": [\n    \"АРАТТИ\",\n    \"САПЕРАВИ\",\n    \"ВЫДЕРЖАННОЕ\",\n    \"2024\",\n    \"44.895466, 37.472316\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "САПЕРАВИ",
+    "category": "ВЫДЕРЖАННОЕ",
+    "raw_visible_text": [
+      "АРАТТИ",
+      "САПЕРАВИ",
+      "ВЫДЕРЖАННОЕ",
+      "2024",
+      "44.895466, 37.472316"
+    ]
+  }
+}

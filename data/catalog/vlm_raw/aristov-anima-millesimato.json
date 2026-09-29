@@ -1,0 +1,20 @@
+{
+  "slug": "aristov-anima-millesimato",
+  "seconds": 0.966339111328125,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ANIMA\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": \"BRUT ROSE\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"ANIMA\",\n    \"MILLESIMATO\",\n    \"BRUT ROSE 2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ANIMA",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": "BRUT ROSE",
+    "raw_visible_text": [
+      "ARISTOV",
+      "ANIMA",
+      "MILLESIMATO",
+      "BRUT ROSE 2023"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "derbent-vino-graf-vorontsov-beloe-polusladkoe-sovinon-blan-105-125",
+  "seconds": 15.158339023590088,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ГРАФ·ВОРОНЦОВ\",\n  \"producer\": \"ГРАФ·ВОРОНЦОВ\",\n  \"cuvee\": null,\n  \"vintage\": \"1890\",\n  \"grape\": null,\n  \"category\": \"БЕЛОЕ ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"ГРАФ·ВОРОНЦОВ\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"18\",\n    \"90\",\n    \"18\",\n    \"90\",\n    \"SEMPER\",\n    \"IMMOTA\",\n    \"FIDES\",\n    \"БЕЛОЕ ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ГРАФ·ВОРОНЦОВ",
+    "producer": "ГРАФ·ВОРОНЦОВ",
+    "cuvee": null,
+    "vintage": "1890",
+    "grape": null,
+    "category": "БЕЛОЕ ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "ГРАФ·ВОРОНЦОВ",
+      "ИГРИСТОЕ ВИНО",
+      "18",
+      "90",
+      "18",
+      "90",
+      "SEMPER",
+      "IMMOTA",
+      "FIDES",
+      "БЕЛОЕ ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "oleg-repin-duvankoy-aligote-aligote-beloe-suhoe-13",
+  "seconds": 4.828683853149414,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Duvankor\",\n  \"producer\": \"Oleg Repin\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"ALIGOTE\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Oleg Repin\",\n    \"Duvankor\",\n    \"ALIGOTE\",\n    \"001461\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Duvankor",
+    "producer": "Oleg Repin",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "ALIGOTE",
+    "category": null,
+    "raw_visible_text": [
+      "Oleg Repin",
+      "Duvankor",
+      "ALIGOTE",
+      "001461"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "aratti-muskat-belyj-polusuhoe",
+  "seconds": 1.3369288444519043,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АРАТТИ\",\n  \"producer\": \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": \"половсухое\",\n  \"raw_visible_text\": [\n    \"СЕМЕЙНАЯ ВИНОДЕЛЬНЯ\",\n    \"АРАТТИ\",\n    \"МУСКАТ БЕЛЫЙ\",\n    \"2024\",\n    \"ПОЛОВСУХОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АРАТТИ",
+    "producer": "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": "половсухое",
+    "raw_visible_text": [
+      "СЕМЕЙНАЯ ВИНОДЕЛЬНЯ",
+      "АРАТТИ",
+      "МУСКАТ БЕЛЫЙ",
+      "2024",
+      "ПОЛОВСУХОЕ"
+    ]
+  }
+}

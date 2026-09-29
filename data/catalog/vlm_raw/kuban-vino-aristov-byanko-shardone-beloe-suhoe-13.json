@@ -1,0 +1,18 @@
+{
+  "slug": "kuban-vino-aristov-byanko-shardone-beloe-suhoe-13",
+  "seconds": 4.598219871520996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Bianco\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"Bianco\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Bianco",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ARISTOV",
+      "Bianco"
+    ]
+  }
+}

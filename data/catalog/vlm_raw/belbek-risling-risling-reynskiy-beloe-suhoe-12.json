@@ -1,0 +1,20 @@
+{
+  "slug": "belbek-risling-risling-reynskiy-beloe-suhoe-12",
+  "seconds": 5.003267049789429,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Бельбек\",\n  \"producer\": \"Бельбек\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"РИСЛИНТ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"Бельбек\",\n    \"Бельбек\",\n    \"РИСЛИНТ\",\n    \"СУХОЕ БЕЛОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Бельбек",
+    "producer": "Бельбек",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "РИСЛИНТ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "Бельбек",
+      "Бельбек",
+      "РИСЛИНТ",
+      "СУХОЕ БЕЛОЕ"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "tsimlyanskie-vina-tsimlyanskoe-kaberne-sovinon-ekstra-bryut-rozovoe-13",
+  "seconds": 14.631314039230347,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ЦИМЛЯНСКОЕ\",\n  \"producer\": null,\n  \"cuvee\": \"Экстра Брют Розе\",\n  \"vintage\": \"2022\",\n  \"grape\": \"КАВЕРНЕ СОВИНЬОН\",\n  \"category\": \"Экстра Брют Розе\",\n  \"raw_visible_text\": [\n    \"ЦИМЛЯНСКОЕ\",\n    \"КАВЕРНЕ СОВИНЬОН\",\n    \"Экстра Брют Розе\",\n    \"выдержанное\",\n    \"тираж 10 000\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ЦИМЛЯНСКОЕ",
+    "producer": null,
+    "cuvee": "Экстра Брют Розе",
+    "vintage": "2022",
+    "grape": "КАВЕРНЕ СОВИНЬОН",
+    "category": "Экстра Брют Розе",
+    "raw_visible_text": [
+      "ЦИМЛЯНСКОЕ",
+      "КАВЕРНЕ СОВИНЬОН",
+      "Экстра Брют Розе",
+      "выдержанное",
+      "тираж 10 000",
+      "2022"
+    ]
+  }
+}

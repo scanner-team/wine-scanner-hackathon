@@ -1,0 +1,22 @@
+{
+  "slug": "belmas-winery-pinot-gris-belmas-pino-gri-beloe-suhoe-122",
+  "seconds": 4.678103923797607,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Pg\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": \"SELECTION\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"POTOFICIO\",\n    \"SELECTION\",\n    \"Pg\",\n    \"Belmäs\",\n    \"12% VOL.\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Pg",
+    "producer": "Belmäs",
+    "cuvee": "SELECTION",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "POTOFICIO",
+      "SELECTION",
+      "Pg",
+      "Belmäs",
+      "12% VOL.",
+      "750 ML"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zolotaya-balka-pink-sira-rozovoe-suhoe-13",
+  "seconds": 6.461111068725586,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Pink\",\n  \"producer\": \"SEVASTOPOL\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Pink\",\n    \"SEVASTOPOL\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Pink",
+    "producer": "SEVASTOPOL",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Pink",
+      "SEVASTOPOL",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "aya-organic-wine-vineyards-purity-in-chenin-blanc-shenen-blan-beloe-suhoe-11",
+  "seconds": 12.782392024993896,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PURITY\",\n  \"producer\": \"AVA\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"Chenin Blanc\",\n  \"category\": \"In Chenin Blanc\",\n  \"raw_visible_text\": [\n    \"AVA\",\n    \"PURITY\",\n    \"In Chenin Blanc\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PURITY",
+    "producer": "AVA",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "Chenin Blanc",
+    "category": "In Chenin Blanc",
+    "raw_visible_text": [
+      "AVA",
+      "PURITY",
+      "In Chenin Blanc",
+      "2024"
+    ]
+  }
+}

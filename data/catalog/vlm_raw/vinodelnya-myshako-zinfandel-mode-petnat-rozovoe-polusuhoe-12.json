@@ -1,0 +1,22 @@
+{
+  "slug": "vinodelnya-myshako-zinfandel-mode-petnat-rozovoe-polusuhoe-12",
+  "seconds": 5.779934883117676,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MODE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"Petillant Naturelle\",\n  \"vintage\": \"2022\",\n  \"grape\": \"ZINFANDEL\",\n  \"category\": \"SEMI-DRY ROSE\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"MODE\",\n    \"Petillant Naturelle\",\n    \"2022\",\n    \"SEMI-DRY ROSE\",\n    \"ZINFANDEL\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MODE",
+    "producer": "МЫСХАКО",
+    "cuvee": "Petillant Naturelle",
+    "vintage": "2022",
+    "grape": "ZINFANDEL",
+    "category": "SEMI-DRY ROSE",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "MODE",
+      "Petillant Naturelle",
+      "2022",
+      "SEMI-DRY ROSE",
+      "ZINFANDEL"
+    ]
+  }
+}

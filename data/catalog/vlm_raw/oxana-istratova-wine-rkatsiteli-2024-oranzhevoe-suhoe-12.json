@@ -1,0 +1,14 @@
+{
+  "slug": "oxana-istratova-wine-rkatsiteli-2024-oranzhevoe-suhoe-12",
+  "seconds": 4.767827749252319,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"Oxana\",\n  \"producer\": \"Oxana\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Квеври\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Oxana\",\n    \"Ox",
+  "parsed": {
+    "visible_name": "Oxana",
+    "producer": "Oxana",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Квеври",
+    "category": "сухое красное"
+  }
+}

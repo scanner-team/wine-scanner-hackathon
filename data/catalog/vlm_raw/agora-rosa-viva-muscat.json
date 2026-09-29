@@ -1,0 +1,20 @@
+{
+  "slug": "agora-rosa-viva-muscat",
+  "seconds": 1.0423283576965332,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ROSA VIVA\",\n  \"producer\": \"AGORA WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT\",\n  \"category\": \"PINK SEMI-SWEET\",\n  \"raw_visible_text\": [\n    \"ROSA VIVA\",\n    \"AGORA WINERY\",\n    \"MUSCAT\",\n    \"PINK SEMI-SWEET\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ROSA VIVA",
+    "producer": "AGORA WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT",
+    "category": "PINK SEMI-SWEET",
+    "raw_visible_text": [
+      "ROSA VIVA",
+      "AGORA WINERY",
+      "MUSCAT",
+      "PINK SEMI-SWEET"
+    ]
+  }
+}

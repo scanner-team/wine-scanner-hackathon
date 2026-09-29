@@ -1,0 +1,24 @@
+{
+  "slug": "cantiani-riesling",
+  "seconds": 1.7414734363555908,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CANTIANI\",\n  \"producer\": \"Cantiani\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cantiani\",\n    \"WINEMAKING TRADITION\",\n    \"CANTIANI\",\n    \"WINE & TRADITIONS\",\n    \"RIESLING\",\n    \"MASTER OF WINE\",\n    \"A. Chy-\",\n    \"PRODUCED AND BOTTLED IN DAGESTAN\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CANTIANI",
+    "producer": "Cantiani",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "Cantiani",
+      "WINEMAKING TRADITION",
+      "CANTIANI",
+      "WINE & TRADITIONS",
+      "RIESLING",
+      "MASTER OF WINE",
+      "A. Chy-",
+      "PRODUCED AND BOTTLED IN DAGESTAN"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "denisov-winery-assamblyazh-rubin-golodrigi-rozovoe-suhoe-12",
+  "seconds": 4.92320990562439,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ассольяж\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"Ассольяж\",\n    \"сухое розовое\",\n    \"0,75 л\",\n    \"12% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ассольяж",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "DENISOV",
+      "Ассольяж",
+      "сухое розовое",
+      "0,75 л",
+      "12% об."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "gavras-masour-murvedr-rozovoe-suhoe-12",
+  "seconds": 4.853661060333252,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MASOUR\",\n  \"producer\": \"GAVRAS ESTATE\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GAVRAS\",\n    \"—ESTATE—\",\n    \"MASOUR\",\n    \"2021\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MASOUR",
+    "producer": "GAVRAS ESTATE",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GAVRAS",
+      "—ESTATE—",
+      "MASOUR",
+      "2021",
+      "CRIMEA"
+    ]
+  }
+}

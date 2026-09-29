@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-brule-muscat-ottonel-polusladkoe-muskat-ottonel-beloe-115",
+  "seconds": 13.380383014678955,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BRÛLÉ\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT OTTONEL\",\n  \"category\": \"ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"BRÛLÉ\",\n    \"MUSCAT OTTONEL\",\n    \"ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BRÛLÉ",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT OTTONEL",
+    "category": "ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "FANAGORIA",
+      "BRÛLÉ",
+      "MUSCAT OTTONEL",
+      "ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

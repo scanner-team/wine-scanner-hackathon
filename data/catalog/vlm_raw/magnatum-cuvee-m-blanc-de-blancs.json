@@ -1,0 +1,23 @@
+{
+  "slug": "magnatum-cuvee-m-blanc-de-blancs",
+  "seconds": 5.109851837158203,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"MAGNATUM\",\n  \"producer\": \"Mantara Estate\",\n  \"cuvee\": null,\n  \"vintage\": \"2013\",\n  \"grape\": \"Blanc de Blancs\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"2013\",\n    \"MAGNATUM\",\n    \"BRUT BLANC DE BLANCS\",\n    \"Cuvée-M\",\n    \"Mantara Champagne\",\n    \"Mantara Estate\",\n    \"RUSSIA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "MAGNATUM",
+    "producer": "Mantara Estate",
+    "cuvee": null,
+    "vintage": "2013",
+    "grape": "Blanc de Blancs",
+    "category": "Brut",
+    "raw_visible_text": [
+      "2013",
+      "MAGNATUM",
+      "BRUT BLANC DE BLANCS",
+      "Cuvée-M",
+      "Mantara Champagne",
+      "Mantara Estate",
+      "RUSSIA"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "esse-sovinon-blan-fyume-beloe-suhoe-128",
+  "seconds": 4.742516040802002,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"esse\",\n  \"producer\": \"Vincenzo Tavani\",\n  \"cuvee\": null,\n  \"vintage\": \"1977\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Vincenzo Tavani\",\n    \"MONTALCINO\",\n    \"1977\",\n    \"esse\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "esse",
+    "producer": "Vincenzo Tavani",
+    "cuvee": null,
+    "vintage": "1977",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Vincenzo Tavani",
+      "MONTALCINO",
+      "1977",
+      "esse"
+    ]
+  }
+}

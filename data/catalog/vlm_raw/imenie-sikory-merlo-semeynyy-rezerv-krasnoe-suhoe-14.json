@@ -1,0 +1,21 @@
+{
+  "slug": "imenie-sikory-merlo-semeynyy-rezerv-krasnoe-suhoe-14",
+  "seconds": 13.679620027542114,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕРЛО\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": \"Семейный резерв\",\n  \"vintage\": \"2020\",\n  \"grape\": \"МЕРЛО\",\n  \"category\": \"СЕМИТОРЬЕ\",\n  \"raw_visible_text\": [\n    \"SIKORY\",\n    \"МЕРЛО\",\n    \"Семейный резерв\",\n    \"СЕМИТОРЬЕ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕРЛО",
+    "producer": "SIKORY",
+    "cuvee": "Семейный резерв",
+    "vintage": "2020",
+    "grape": "МЕРЛО",
+    "category": "СЕМИТОРЬЕ",
+    "raw_visible_text": [
+      "SIKORY",
+      "МЕРЛО",
+      "Семейный резерв",
+      "СЕМИТОРЬЕ",
+      "2020"
+    ]
+  }
+}

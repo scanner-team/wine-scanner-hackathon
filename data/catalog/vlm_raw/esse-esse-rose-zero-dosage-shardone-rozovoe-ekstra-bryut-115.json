@@ -1,0 +1,22 @@
+{
+  "slug": "esse-esse-rose-zero-dosage-shardone-rozovoe-ekstra-bryut-115",
+  "seconds": 4.9386420249938965,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ESSE\",\n  \"producer\": \"CRIMEA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ROSE\",\n  \"raw_visible_text\": [\n    \"ESSE\",\n    \"CRIMEA\",\n    \"METRODE CLASSE\",\n    \"ESSE\",\n    \"ROSE\",\n    \"ZERO SORACE\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ESSE",
+    "producer": "CRIMEA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ROSE",
+    "raw_visible_text": [
+      "ESSE",
+      "CRIMEA",
+      "METRODE CLASSE",
+      "ESSE",
+      "ROSE",
+      "ZERO SORACE"
+    ]
+  }
+}

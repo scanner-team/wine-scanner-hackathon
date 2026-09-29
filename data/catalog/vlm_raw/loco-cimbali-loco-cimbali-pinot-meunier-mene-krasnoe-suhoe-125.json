@@ -1,0 +1,23 @@
+{
+  "slug": "loco-cimbali-loco-cimbali-pinot-meunier-mene-krasnoe-suhoe-125",
+  "seconds": 8.698457956314087,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"BALAKLAVA\",\n  \"cuvee\": \"CUVÉE № 2\",\n  \"vintage\": \"2024\",\n  \"grape\": \"PINOT MEUNIER\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BALAKLAVA\",\n    \"2024\",\n    \"LOCO CIMBALI\",\n    \"PINOT MEUNIER\",\n    \"Rigio\",\n    \"CUVÉE № 2\",\n    \"С 1998 ГОДА ПРОИЗВОДСТВО ВИНОДОЛЬНИЯ \\\"БАЛАКЛАВА\\\"\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "BALAKLAVA",
+    "cuvee": "CUVÉE № 2",
+    "vintage": "2024",
+    "grape": "PINOT MEUNIER",
+    "category": null,
+    "raw_visible_text": [
+      "BALAKLAVA",
+      "2024",
+      "LOCO CIMBALI",
+      "PINOT MEUNIER",
+      "Rigio",
+      "CUVÉE № 2",
+      "С 1998 ГОДА ПРОИЗВОДСТВО ВИНОДОЛЬНИЯ \"БАЛАКЛАВА\""
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "abrau-dyurso-russkoe-igristoe-koshernoe-polusladkoe-shardone-beloe-12",
+  "seconds": 15.186330080032349,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"АБРАУ-ДЮРСО\",\n  \"producer\": \"АБРАУ-ДЮРСО\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"1870\",\n    \"РУССКОЕ ШАМПАНСКОЕ\",\n    \"с 1870 г.\",\n    \"РУССКИЙ ВИННЫЙ ДОМ\",\n    \"КОШЕРНАЯ КОЛЛЕКЦИЯ\",\n    \"АБРАУ-ДЮРСО\",\n    \"ПОЛУСЛАДКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "АБРАУ-ДЮРСО",
+    "producer": "АБРАУ-ДЮРСО",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "1870",
+      "РУССКОЕ ШАМПАНСКОЕ",
+      "с 1870 г.",
+      "РУССКИЙ ВИННЫЙ ДОМ",
+      "КОШЕРНАЯ КОЛЛЕКЦИЯ",
+      "АБРАУ-ДЮРСО",
+      "ПОЛУСЛАДКОЕ"
+    ]
+  }
+}

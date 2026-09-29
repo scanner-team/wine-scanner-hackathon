@@ -1,0 +1,23 @@
+{
+  "slug": "winepark-risling-beloe-suhoe-125",
+  "seconds": 14.520017862319946,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"WINEPARK\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"RIESLING\",\n  \"category\": \"КРЫМ\",\n  \"raw_visible_text\": [\n    \"WINEPARK SYRAH2021MUS\",\n    \"CRIMEA PINOT282\",\n    \"2023 SAUVIGNON_BLANC22\",\n    \"22NERLOT2020RIESLING\",\n    \"WINEPARK\",\n    \"РИСЛИНГ\",\n    \"2023 КРЫМ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "WINEPARK",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "RIESLING",
+    "category": "КРЫМ",
+    "raw_visible_text": [
+      "WINEPARK SYRAH2021MUS",
+      "CRIMEA PINOT282",
+      "2023 SAUVIGNON_BLANC22",
+      "22NERLOT2020RIESLING",
+      "WINEPARK",
+      "РИСЛИНГ",
+      "2023 КРЫМ"
+    ]
+  }
+}

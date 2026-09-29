@@ -1,0 +1,22 @@
+{
+  "slug": "belmas-winery-malbec-katya-belmas-malbek-rozovoe-suhoe-11",
+  "seconds": 5.11806583404541,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"Belmes\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Malbec\",\n  \"category\": \"Sevastopol\",\n  \"raw_visible_text\": [\n    \"MALBEC\",\n    \"SEVASTOPOL\",\n    \"Katya\",\n    \"Belmes\",\n    \"11.0% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "Belmes",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Malbec",
+    "category": "Sevastopol",
+    "raw_visible_text": [
+      "MALBEC",
+      "SEVASTOPOL",
+      "Katya",
+      "Belmes",
+      "11.0% VOL",
+      "750 ML"
+    ]
+  }
+}

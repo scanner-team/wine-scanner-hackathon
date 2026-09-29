@@ -1,0 +1,23 @@
+{
+  "slug": "vinodelnya-myshako-pino-gridzhio-beloe-polusuhoe-123",
+  "seconds": 6.843326091766357,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT GRIGIO\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": \"ПОЛУСУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"ВИНОДЕЛАНЬЯ\",\n    \"1869\",\n    \"PINOT GRIGIO\",\n    \"2021\",\n    \"ПОЛУСУХОЕ БЕЛОЕ\",\n    \"Алкоголь: 12,3% об. Объем: 0,75л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT GRIGIO",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "PINOT GRIGIO",
+    "category": "ПОЛУСУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "ВИНОДЕЛАНЬЯ",
+      "1869",
+      "PINOT GRIGIO",
+      "2021",
+      "ПОЛУСУХОЕ БЕЛОЕ",
+      "Алкоголь: 12,3% об. Объем: 0,75л"
+    ]
+  }
+}

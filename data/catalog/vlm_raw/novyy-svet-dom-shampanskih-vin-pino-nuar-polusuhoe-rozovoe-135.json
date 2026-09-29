@@ -1,0 +1,24 @@
+{
+  "slug": "novyy-svet-dom-shampanskih-vin-pino-nuar-polusuhoe-rozovoe-135",
+  "seconds": 14.930937051773071,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Новый Свътъ\",\n  \"producer\": \"Дом Шампанских Вин\",\n  \"cuvee\": \"Тиньо Ауар\",\n  \"vintage\": \"1878\",\n  \"grape\": null,\n  \"category\": \"Полусухое\",\n  \"raw_visible_text\": [\n    \"18\",\n    \"78\",\n    \"ДОМ ШАМПАНСКИХ ВИН\",\n    \"НОВЫЙ СВЪТЬ\",\n    \"Тиньо Ауар\",\n    \"1878\",\n    \"Полусухое\",\n    \"РОССИЙСКОЕ ШАМПАНСКОЕ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Новый Свътъ",
+    "producer": "Дом Шампанских Вин",
+    "cuvee": "Тиньо Ауар",
+    "vintage": "1878",
+    "grape": null,
+    "category": "Полусухое",
+    "raw_visible_text": [
+      "18",
+      "78",
+      "ДОМ ШАМПАНСКИХ ВИН",
+      "НОВЫЙ СВЪТЬ",
+      "Тиньо Ауар",
+      "1878",
+      "Полусухое",
+      "РОССИЙСКОЕ ШАМПАНСКОЕ"
+    ]
+  }
+}

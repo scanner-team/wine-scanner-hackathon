@@ -1,0 +1,24 @@
+{
+  "slug": "valeriy-zaharin-kefesiya-valeriy-zaharin-krasnoe-suhoe-12",
+  "seconds": 6.617457866668701,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Кефесия\",\n  \"producer\": \"ВАЛЕРИЙ ЗАХАРЫН\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ПРОИЗВЕДЕНО В РОССИИ\",\n    \"2022\",\n    \"Кефесия\",\n    \"ВАЛЕРИЙ ЗАХАРЫН\",\n    \"ВЫДЕРЖКА В ДУБОВОЙ БОЧКЕ\",\n    \"КРЫМ\",\n    \"0.75л\",\n    \"12.0%\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Кефесия",
+    "producer": "ВАЛЕРИЙ ЗАХАРЫН",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ПРОИЗВЕДЕНО В РОССИИ",
+      "2022",
+      "Кефесия",
+      "ВАЛЕРИЙ ЗАХАРЫН",
+      "ВЫДЕРЖКА В ДУБОВОЙ БОЧКЕ",
+      "КРЫМ",
+      "0.75л",
+      "12.0%"
+    ]
+  }
+}

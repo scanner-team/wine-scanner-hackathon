@@ -1,0 +1,21 @@
+{
+  "slug": "usadba-mezyb-shishka-karbonika-kaberne-fran-krasnoe-suhoe-143",
+  "seconds": 14.114347219467163,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УСАДЬБА\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"КАРБОНИКА\",\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"КАБЕРНЕ ФРАН\",\n    \"КАРБОНИКА\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УСАДЬБА",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "КАРБОНИКА",
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "КАБЕРНЕ ФРАН",
+      "КАРБОНИКА",
+      "2020"
+    ]
+  }
+}

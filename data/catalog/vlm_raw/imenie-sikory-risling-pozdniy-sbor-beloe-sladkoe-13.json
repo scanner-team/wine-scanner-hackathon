@@ -1,0 +1,14 @@
+{
+  "slug": "imenie-sikory-risling-pozdniy-sbor-beloe-sladkoe-13",
+  "seconds": 11.90189504623413,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РИСЛИНГ\",\n  \"producer\": \"SIKORY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рислинг\",\n  \"category\": \"СЕМИГОРЬЕ\"\n}",
+  "parsed": {
+    "visible_name": "РИСЛИНГ",
+    "producer": "SIKORY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рислинг",
+    "category": "СЕМИГОРЬЕ"
+  }
+}

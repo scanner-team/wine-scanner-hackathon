@@ -1,0 +1,20 @@
+{
+  "slug": "usadba-mezyb-shishka-kupazh-5-kaberne-sovinon-rozovoe-suhoe-133",
+  "seconds": 13.627845764160156,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЫБЬ\",\n  \"producer\": \"УСАДЬБА МЕЗЫБЬ\",\n  \"cuvee\": \"КУПАЖ №5\",\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"УСАДЬБА\",\n    \"МЕЗЫБЬ\",\n    \"КУПАЖ №5\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЫБЬ",
+    "producer": "УСАДЬБА МЕЗЫБЬ",
+    "cuvee": "КУПАЖ №5",
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "УСАДЬБА",
+      "МЕЗЫБЬ",
+      "КУПАЖ №5",
+      "2023"
+    ]
+  }
+}

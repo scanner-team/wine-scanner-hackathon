@@ -1,0 +1,26 @@
+{
+  "slug": "soyuz-vino-soyuz-vino-kaberne-sovinon-krasnoe-suhoe-12",
+  "seconds": 8.938059091567993,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CABERNET- SAUVIGNON\",\n  \"producer\": \"КУБАНЬ-КРЫМСК\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Каберне-Совиньон\",\n  \"category\": \"вино сухое красное\",\n  \"raw_visible_text\": [\n    \"S\",\n    \"CABERNET-\",\n    \"SAUVIGNON\",\n    \"КАБЕРНЕ-\",\n    \"СОВИНЬОН\",\n    \"ВИНО СУХОЕ КРАСНОЕ\",\n    \"УИЗКАЛЬНЫЕ КУВАЛЬСКИЕ ВИНА\",\n    \"ИЗ СЕРИИ РОССИЙСКОГО ВИНИГАДА\",\n    \"КУБАНЬ-КРЫМСК\",\n    \"ПРОИЗВОДИТСЯ В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CABERNET- SAUVIGNON",
+    "producer": "КУБАНЬ-КРЫМСК",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Каберне-Совиньон",
+    "category": "вино сухое красное",
+    "raw_visible_text": [
+      "S",
+      "CABERNET-",
+      "SAUVIGNON",
+      "КАБЕРНЕ-",
+      "СОВИНЬОН",
+      "ВИНО СУХОЕ КРАСНОЕ",
+      "УИЗКАЛЬНЫЕ КУВАЛЬСКИЕ ВИНА",
+      "ИЗ СЕРИИ РОССИЙСКОГО ВИНИГАДА",
+      "КУБАНЬ-КРЫМСК",
+      "ПРОИЗВОДИТСЯ В РОССИИ"
+    ]
+  }
+}

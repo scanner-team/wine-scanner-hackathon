@@ -1,0 +1,21 @@
+{
+  "slug": "avtorskoe-risling",
+  "seconds": 5.487311840057373,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Рислинг\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"Рислинг\",\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"РКАЦИТЕЛИ\",\n    \"РИСЛИНГ\",\n    \"ВИНО СУХОЕ БЕЛОЕ\",\n    \"10-12% VOL. / 0,75 L\",\n    \"ВИНОГРАД ВРЕЧЕСАВ ЗОТУН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Рислинг",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "Рислинг",
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "РКАЦИТЕЛИ",
+      "РИСЛИНГ",
+      "ВИНО СУХОЕ БЕЛОЕ",
+      "10-12% VOL. / 0,75 L",
+      "ВИНОГРАД ВРЕЧЕСАВ ЗОТУН"
+    ]
+  }
+}

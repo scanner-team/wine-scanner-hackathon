@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-vedernikov-vinodelnya-vedernikov-pet-nat-roze-tsimlyanskiy-chernyy-rozovoe-suhoe-12",
+  "seconds": 8.182528972625732,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TemHam\",\n  \"producer\": \"ВЕДЕРНИКОВЬ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"розовое брют\",\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЬ\",\n    \"TemHam\",\n    \"ИГРИСТОЕ ВИНО\",\n    \"ЦИМЛЯНСКИЙ ЧЕРНЫЙ\",\n    \"РОЗОВОЕ БРЮТ\",\n    \"КУТОР ВЕДЕРНИКОВ\",\n    \"БОМБА, ДОНА, РОССИЯ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TemHam",
+    "producer": "ВЕДЕРНИКОВЬ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "розовое брют",
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЬ",
+      "TemHam",
+      "ИГРИСТОЕ ВИНО",
+      "ЦИМЛЯНСКИЙ ЧЕРНЫЙ",
+      "РОЗОВОЕ БРЮТ",
+      "КУТОР ВЕДЕРНИКОВ",
+      "БОМБА, ДОНА, РОССИЯ"
+    ]
+  }
+}

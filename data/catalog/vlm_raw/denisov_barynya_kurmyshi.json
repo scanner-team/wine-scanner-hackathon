@@ -1,0 +1,20 @@
+{
+  "slug": "denisov_barynya_kurmyshi",
+  "seconds": 1.268305778503418,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DENISOV\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"КУРМЫШИ\",\n  \"category\": \"DOC\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"CAMAPA\",\n    \"KOURMYSHI\",\n    \"DOC\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DENISOV",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "КУРМЫШИ",
+    "category": "DOC",
+    "raw_visible_text": [
+      "DENISOV",
+      "CAMAPA",
+      "KOURMYSHI",
+      "DOC"
+    ]
+  }
+}

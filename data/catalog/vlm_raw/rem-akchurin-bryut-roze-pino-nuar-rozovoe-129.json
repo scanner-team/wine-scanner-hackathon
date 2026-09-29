@@ -1,0 +1,22 @@
+{
+  "slug": "rem-akchurin-bryut-roze-pino-nuar-rozovoe-129",
+  "seconds": 5.106561183929443,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"AKCHURIN\",\n  \"producer\": \"null\",\n  \"cuvee\": \"null\",\n  \"vintage\": \"null\",\n  \"grape\": \"Pinot Noir\",\n  \"category\": \"Brut\",\n  \"raw_visible_text\": [\n    \"AKCHURIN\",\n    \"RITEM\",\n    \"Pinot Noir\",\n    \"Chernaya River Valley\",\n    \"Brut\",\n    \"Sevastopol\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "AKCHURIN",
+    "producer": "null",
+    "cuvee": "null",
+    "vintage": "null",
+    "grape": "Pinot Noir",
+    "category": "Brut",
+    "raw_visible_text": [
+      "AKCHURIN",
+      "RITEM",
+      "Pinot Noir",
+      "Chernaya River Valley",
+      "Brut",
+      "Sevastopol"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "oleg-repin-listva-cabernet-sauvignon-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 5.362632989883423,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Alleg Repin\",\n  \"producer\": \"Listo\",\n  \"cuvee\": null,\n  \"vintage\": \"2018\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"SEKVESTPOL\",\n  \"raw_visible_text\": [\n    \"Alleg Repin\",\n    \"CABERNET SAUVIGNON\",\n    \"Listo\",\n    \"SEKVESTPOL\",\n    \"2018\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Alleg Repin",
+    "producer": "Listo",
+    "cuvee": null,
+    "vintage": "2018",
+    "grape": "CABERNET SAUVIGNON",
+    "category": "SEKVESTPOL",
+    "raw_visible_text": [
+      "Alleg Repin",
+      "CABERNET SAUVIGNON",
+      "Listo",
+      "SEKVESTPOL",
+      "2018"
+    ]
+  }
+}

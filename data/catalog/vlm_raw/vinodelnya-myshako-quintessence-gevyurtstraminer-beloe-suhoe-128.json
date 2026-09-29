@@ -1,0 +1,28 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-gevyurtstraminer-beloe-suhoe-128",
+  "seconds": 7.901426076889038,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2022\",\n  \"grape\": \"GEWURZTRAMINER\",\n  \"category\": \"ЗУ\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"БИХОДЕАБР\",\n    \"МЫСХАКО\",\n    \"1869\",\n    \"GEWURZTRAMINER\",\n    \"2022\",\n    \"ЗУ\",\n    \"«КУБАНЬ-НОВОРОССИЙСК»\",\n    \"СУХОЙ ВЕЛО\",\n    \"ТИГРА 44 000 СУТУЛКИ\",\n    \"Содержание 12,5% об. 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МЫСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2022",
+    "grape": "GEWURZTRAMINER",
+    "category": "ЗУ",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "БИХОДЕАБР",
+      "МЫСХАКО",
+      "1869",
+      "GEWURZTRAMINER",
+      "2022",
+      "ЗУ",
+      "«КУБАНЬ-НОВОРОССИЙСК»",
+      "СУХОЙ ВЕЛО",
+      "ТИГРА 44 000 СУТУЛКИ",
+      "Содержание 12,5% об. 0,75 л"
+    ]
+  }
+}

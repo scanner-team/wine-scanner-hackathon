@@ -1,0 +1,21 @@
+{
+  "slug": "derbent-vino-desono-rkatsiteli-oranzh-beloe-suhoe-125",
+  "seconds": 5.601807117462158,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"DESONO\",\n  \"producer\": \"ДЕРБЕНТ ВИНО\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"RKATSITELI\",\n  \"category\": \"ORANGE\",\n  \"raw_visible_text\": [\n    \"ДЕРБЕНТ ВИНО\",\n    \"DESONO\",\n    \"RKATSITELI\",\n    \"ORANGE\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "DESONO",
+    "producer": "ДЕРБЕНТ ВИНО",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "RKATSITELI",
+    "category": "ORANGE",
+    "raw_visible_text": [
+      "ДЕРБЕНТ ВИНО",
+      "DESONO",
+      "RKATSITELI",
+      "ORANGE",
+      "2022"
+    ]
+  }
+}

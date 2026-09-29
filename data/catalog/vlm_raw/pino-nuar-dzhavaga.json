@@ -1,0 +1,22 @@
+{
+  "slug": "pino-nuar-dzhavaga",
+  "seconds": 10.874098777770996,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО НУАР\",\n  \"producer\": \"Галицкий × Галицкий\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Галицкий × Галицкий\",\n    \"ПИНО НУАР\",\n    \"ИТЫЙ УРОЖАЙ\",\n    \"КРАСНАЯ ГОРКА\",\n    \"СКЛОН ДЖАВАТА\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО НУАР",
+    "producer": "Галицкий × Галицкий",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Галицкий × Галицкий",
+      "ПИНО НУАР",
+      "ИТЫЙ УРОЖАЙ",
+      "КРАСНАЯ ГОРКА",
+      "СКЛОН ДЖАВАТА",
+      "2022"
+    ]
+  }
+}

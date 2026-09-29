@@ -1,0 +1,18 @@
+{
+  "slug": "oxana-istratova-wine-vione-2024-oranzhevoe-suhoe-13",
+  "seconds": 0.8084249496459961,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BONIER QUEVRI\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"oxana iscracova\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BONIER QUEVRI\",\n    \"oxana iscracova\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BONIER QUEVRI",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "oxana iscracova",
+    "category": null,
+    "raw_visible_text": [
+      "BONIER QUEVRI",
+      "oxana iscracova"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "uva-vallis-risling",
+  "seconds": 4.241028785705566,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"levitas\",\n  \"producer\": \"UVA VALIS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": \"CRIMEA\",\n  \"raw_visible_text\": [\n    \"UVA VALIS\",\n    \"levitas\",\n    \"RIESLING\",\n    \"CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "levitas",
+    "producer": "UVA VALIS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": "CRIMEA",
+    "raw_visible_text": [
+      "UVA VALIS",
+      "levitas",
+      "RIESLING",
+      "CRIMEA"
+    ]
+  }
+}

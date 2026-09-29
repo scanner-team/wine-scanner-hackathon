@@ -1,0 +1,21 @@
+{
+  "slug": "cloudy-winery-dubrovskiy-bordeaux-blend-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 9.357094049453735,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дубровский\",\n  \"producer\": \"CLOUDY WINERY\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"CLOUDY WINERY\",\n    \"COMMUNITY\",\n    \"Дубровский\",\n    \"BORDEAUX BLEND\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дубровский",
+    "producer": "CLOUDY WINERY",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "CLOUDY WINERY",
+      "COMMUNITY",
+      "Дубровский",
+      "BORDEAUX BLEND",
+      "2020"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "dubinin-winery-merlo-roze-rozovoe-suhoe-125",
+  "seconds": 5.434471845626831,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Розе\",\n  \"producer\": \"DUSININ WINERY\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое розовое\",\n  \"raw_visible_text\": [\n    \"D&W\",\n    \"DUSININ\",\n    \"WINERY\",\n    \"Розе\",\n    \"Вино сухое розовое\",\n    \"0017 / 1000\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Розе",
+    "producer": "DUSININ WINERY",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое розовое",
+    "raw_visible_text": [
+      "D&W",
+      "DUSININ",
+      "WINERY",
+      "Розе",
+      "Вино сухое розовое",
+      "0017 / 1000"
+    ]
+  }
+}

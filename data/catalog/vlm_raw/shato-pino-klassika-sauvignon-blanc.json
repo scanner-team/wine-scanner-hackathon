@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-klassika-sauvignon-blanc",
+  "seconds": 5.255427122116089,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"SAUVIGNON BLANC\",\n  \"producer\": \"CHATEAU PINOT\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"SAUVIGNON\",\n  \"category\": \"BLANC\",\n  \"raw_visible_text\": [\n    \"SAUVIGNON\",\n    \"BLANC\",\n    \"CHATEAU\",\n    \"PINOT\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "SAUVIGNON BLANC",
+    "producer": "CHATEAU PINOT",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "SAUVIGNON",
+    "category": "BLANC",
+    "raw_visible_text": [
+      "SAUVIGNON",
+      "BLANC",
+      "CHATEAU",
+      "PINOT"
+    ]
+  }
+}

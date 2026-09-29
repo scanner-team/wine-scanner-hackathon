@@ -1,0 +1,14 @@
+{
+  "slug": "soyuz-vino-lak-dazyur-blan-sek-belye-sorta-vinograda-beloe-suhoe-11",
+  "seconds": 17.307634830474854,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"LAC D'AZUR\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"VIN BLANC SEC\",\n  \"raw_visible_text\": [\n    \"LAC D'AZUR\",\n    \"VIN BLANC SEC\",\n    \"EPI\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n    \"FRC\",\n",
+  "parsed": {
+    "visible_name": "LAC D'AZUR",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "VIN BLANC SEC"
+  }
+}

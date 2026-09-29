@@ -1,0 +1,22 @@
+{
+  "slug": "denisov-winery-risling-beloe-suhoe-115",
+  "seconds": 5.010461330413818,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Рислин\",\n  \"producer\": \"DENISOV\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сухое белое\",\n  \"raw_visible_text\": [\n    \"DENISOV\",\n    \"DENISOV\",\n    \"Рислин\",\n    \"сухое белое\",\n    \"0,75 л\",\n    \"13% об.\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Рислин",
+    "producer": "DENISOV",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сухое белое",
+    "raw_visible_text": [
+      "DENISOV",
+      "DENISOV",
+      "Рислин",
+      "сухое белое",
+      "0,75 л",
+      "13% об."
+    ]
+  }
+}

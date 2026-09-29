@@ -1,0 +1,18 @@
+{
+  "slug": "v2r-sovinon-blan-beloe-suhoe-13",
+  "seconds": 4.3172571659088135,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"B2P\",\n  \"producer\": \"B2P\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"B2P\",\n    \"СОВИНЬОН БЛАН\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "B2P",
+    "producer": "B2P",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "B2P",
+      "СОВИНЬОН БЛАН"
+    ]
+  }
+}

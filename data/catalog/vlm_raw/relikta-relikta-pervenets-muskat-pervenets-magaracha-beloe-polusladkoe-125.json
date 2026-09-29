@@ -1,0 +1,20 @@
+{
+  "slug": "relikta-relikta-pervenets-muskat-pervenets-magaracha-beloe-polusladkoe-125",
+  "seconds": 13.98458194732666,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РЕЛИКТА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"МУСКАТ\",\n  \"category\": \"ПОЛУСЛАДКОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНО ПОЛУСЛАДКОЕ БЕЛОЕ\",\n    \"РЕЛИКТА\",\n    \"ПЕРВЕНЕЦ МУСКАТ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РЕЛИКТА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "МУСКАТ",
+    "category": "ПОЛУСЛАДКОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "ВИНО ПОЛУСЛАДКОЕ БЕЛОЕ",
+      "РЕЛИКТА",
+      "ПЕРВЕНЕЦ МУСКАТ",
+      "2024"
+    ]
+  }
+}

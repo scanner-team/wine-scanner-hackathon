@@ -1,0 +1,23 @@
+{
+  "slug": "zhemchuzhnaya-9-kaberne-sovinon-pino-nuar",
+  "seconds": 1.6218812465667725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"producer\": \"АРАТТИ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"ПИНО НУАР\",\n  \"category\": \"РОЗОВОЕ ПОПУСУЮЕ\",\n  \"raw_visible_text\": [\n    \"ЖЕМЧУЖНАЯ\",\n    \"9\",\n    \"АРАТТИ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"ПИНО НУАР\",\n    \"РОЗОВОЕ ПОПУСУЮЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН",
+    "producer": "АРАТТИ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "ПИНО НУАР",
+    "category": "РОЗОВОЕ ПОПУСУЮЕ",
+    "raw_visible_text": [
+      "ЖЕМЧУЖНАЯ",
+      "9",
+      "АРАТТИ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "ПИНО НУАР",
+      "РОЗОВОЕ ПОПУСУЮЕ",
+      "2024"
+    ]
+  }
+}

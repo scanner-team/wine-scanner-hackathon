@@ -1,0 +1,27 @@
+{
+  "slug": "kuban-vino-shato-tamane-aligote-beloe-suhoe-13",
+  "seconds": 7.369952917098999,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ALICOTE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"АЛИГОТЕ\",\n  \"category\": \"СУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU\",\n    \"TAMAGNE\",\n    \"ЦЕНТР ЭКОЛОГИИ ШАТО ТАМАНЬ\",\n    \"ALICOTE\",\n    \"АЛИГОТЕ\",\n    \"СУХОЕ БЕЛОЕ\",\n    \"РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ\",\n    \"ГЕОГРАФИЧЕСКИМ ОБОЗНАЧЕНИЕМ\",\n    \"Турция, Кавказский полуостров\",\n    \"12,5%\",\n    \"750\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ALICOTE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "АЛИГОТЕ",
+    "category": "СУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "CHATEAU",
+      "TAMAGNE",
+      "ЦЕНТР ЭКОЛОГИИ ШАТО ТАМАНЬ",
+      "ALICOTE",
+      "АЛИГОТЕ",
+      "СУХОЕ БЕЛОЕ",
+      "РОССИЙСКОЕ ВИНО С ЗАЩИЩЕННЫМ",
+      "ГЕОГРАФИЧЕСКИМ ОБОЗНАЧЕНИЕМ",
+      "Турция, Кавказский полуостров",
+      "12,5%",
+      "750"
+    ]
+  }
+}

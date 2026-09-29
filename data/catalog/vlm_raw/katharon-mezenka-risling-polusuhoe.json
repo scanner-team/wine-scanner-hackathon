@@ -1,0 +1,21 @@
+{
+  "slug": "katharon-mezenka-risling-polusuhoe",
+  "seconds": 1.9127709865570068,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЕЗЕНКА\",\n  \"producer\": \"KATHARON\",\n  \"cuvee\": null,\n  \"vintage\": \"2025\",\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"ПОЛУСУХОЕ БЕЛОЕ\",\n  \"raw_visible_text\": [\n    \"МЕЗЕНКА\",\n    \"РИСЛИНГ\",\n    \"ПОЛУСУХОЕ БЕЛОЕ\",\n    \"2025\",\n    \"KATHARON\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЕЗЕНКА",
+    "producer": "KATHARON",
+    "cuvee": null,
+    "vintage": "2025",
+    "grape": "РИСЛИНГ",
+    "category": "ПОЛУСУХОЕ БЕЛОЕ",
+    "raw_visible_text": [
+      "МЕЗЕНКА",
+      "РИСЛИНГ",
+      "ПОЛУСУХОЕ БЕЛОЕ",
+      "2025",
+      "KATHARON"
+    ]
+  }
+}

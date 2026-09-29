@@ -1,0 +1,20 @@
+{
+  "slug": "vinodelnya-marchenko-gechei-zamatosh-beloe-suhoe-135",
+  "seconds": 5.031813859939575,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Гечеи Заматош\",\n  \"producer\": \"МАРЧЕНКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"МАРЧЕНКО\",\n    \"ВИНОДЕЛЬНЯ\",\n    \"Гечеи Заматош\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Гечеи Заматош",
+    "producer": "МАРЧЕНКО",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "МАРЧЕНКО",
+      "ВИНОДЕЛЬНЯ",
+      "Гечеи Заматош",
+      "2023"
+    ]
+  }
+}

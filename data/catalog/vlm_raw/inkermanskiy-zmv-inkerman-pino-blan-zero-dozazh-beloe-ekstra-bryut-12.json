@@ -1,0 +1,20 @@
+{
+  "slug": "inkermanskiy-zmv-inkerman-pino-blan-zero-dozazh-beloe-ekstra-bryut-12",
+  "seconds": 6.316951036453247,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ПИНО БЛАН\",\n  \"producer\": \"INKERMAN\",\n  \"cuvee\": \"Zero Dosage\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Zero Dosage\",\n  \"raw_visible_text\": [\n    \"INKERMAN\",\n    \"ПИНО\",\n    \"БЛАН\",\n    \"Zero Dosage\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ПИНО БЛАН",
+    "producer": "INKERMAN",
+    "cuvee": "Zero Dosage",
+    "vintage": null,
+    "grape": null,
+    "category": "Zero Dosage",
+    "raw_visible_text": [
+      "INKERMAN",
+      "ПИНО",
+      "БЛАН",
+      "Zero Dosage"
+    ]
+  }
+}

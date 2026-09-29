@@ -1,0 +1,22 @@
+{
+  "slug": "loco-cimbali-loco-cimbali-red-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 8.017250061035156,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LOCO CIMBALI\",\n  \"producer\": \"RERIN\",\n  \"cuvee\": \"BARRIQUE\",\n  \"vintage\": \"2016\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BALAKLAVA\",\n    \"2016\",\n    \"LOCO CIMBALI\",\n    \"BARRIQUE\",\n    \"RERIN\",\n    \"С ЗАМЫЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \\\"КРЫМ\\\"\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LOCO CIMBALI",
+    "producer": "RERIN",
+    "cuvee": "BARRIQUE",
+    "vintage": "2016",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "BALAKLAVA",
+      "2016",
+      "LOCO CIMBALI",
+      "BARRIQUE",
+      "RERIN",
+      "С ЗАМЫЩЕННЫМ ГЕОГРАФИЧЕСКИМ УКАЗАНИЕМ \"КРЫМ\""
+    ]
+  }
+}

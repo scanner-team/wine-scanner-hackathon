@@ -1,0 +1,17 @@
+{
+  "slug": "one-barrel-uan-barrel",
+  "seconds": 0.7228620052337646,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"OBDMCH\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"OBDMCH2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "OBDMCH",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "OBDMCH2024"
+    ]
+  }
+}

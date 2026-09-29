@@ -1,0 +1,20 @@
+{
+  "slug": "sober-bash-trezvaya-golova-risling-risling-reynskiy-beloe-suhoe-10",
+  "seconds": 9.272850036621094,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"СОБЕР БАШ\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"РИСЛИНГ\",\n  \"category\": \"ТРЕЗВАЯ ГОЛОВА\",\n  \"raw_visible_text\": [\n    \"СОБЕР БАШ\",\n    \"ТРЕЗВАЯ ГОЛОВА\",\n    \"РИСЛИНГ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "СОБЕР БАШ",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "РИСЛИНГ",
+    "category": "ТРЕЗВАЯ ГОЛОВА",
+    "raw_visible_text": [
+      "СОБЕР БАШ",
+      "ТРЕЗВАЯ ГОЛОВА",
+      "РИСЛИНГ",
+      "2024"
+    ]
+  }
+}

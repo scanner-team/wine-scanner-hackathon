@@ -1,0 +1,14 @@
+{
+  "slug": "valeriy-zaharin-aligote-burlyuk-beloe-suhoe-13",
+  "seconds": 15.366102933883667,
+  "strict_json_ok": false,
+  "raw_output": "{\n  \"visible_name\": \"Aligote\",\n  \"producer\": \"БУРЛЮК\",\n  \"cuvee\": \"SUR LIE\",\n  \"vintage\": null,\n  \"grape\": \"Aligote\",\n  \"category\": \"SUR LIE\",\n  \"raw_visible_text\": [\n    \"БУРЛЮК\",\n    \"Aligote\",\n    \"SUR LIE\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURLUK\",\n    \"BURL",
+  "parsed": {
+    "visible_name": "Aligote",
+    "producer": "БУРЛЮК",
+    "cuvee": "SUR LIE",
+    "vintage": null,
+    "grape": "Aligote",
+    "category": "SUR LIE"
+  }
+}

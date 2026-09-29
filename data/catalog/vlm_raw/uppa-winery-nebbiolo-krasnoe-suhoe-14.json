@@ -1,0 +1,29 @@
+{
+  "slug": "uppa-winery-nebbiolo-krasnoe-suhoe-14",
+  "seconds": 14.95309591293335,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PAVEL SHVETS\",\n  \"producer\": \"UP FA\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"NEBBIOLO\",\n  \"category\": \"Cler Polati Rodnoe\",\n  \"raw_visible_text\": [\n    \"Pavel Shvets\",\n    \"CRIMEA\",\n    \"UP\",\n    \"SEVASTOPOL\",\n    \"PA\",\n    \"PAVEL SHVETS\",\n    \"NEBBIOLO\",\n    \"Cler Polati\",\n    \"Rodnoe\",\n    \"2022\",\n    \"13%\",\n    \"BOTTLE N°730 OF 1668\",\n    \"0.75\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PAVEL SHVETS",
+    "producer": "UP FA",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "NEBBIOLO",
+    "category": "Cler Polati Rodnoe",
+    "raw_visible_text": [
+      "Pavel Shvets",
+      "CRIMEA",
+      "UP",
+      "SEVASTOPOL",
+      "PA",
+      "PAVEL SHVETS",
+      "NEBBIOLO",
+      "Cler Polati",
+      "Rodnoe",
+      "2022",
+      "13%",
+      "BOTTLE N°730 OF 1668",
+      "0.75"
+    ]
+  }
+}

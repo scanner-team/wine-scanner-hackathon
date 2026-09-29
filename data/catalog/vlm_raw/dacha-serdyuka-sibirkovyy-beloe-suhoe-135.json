@@ -1,0 +1,20 @@
+{
+  "slug": "dacha-serdyuka-sibirkovyy-beloe-suhoe-135",
+  "seconds": 5.247301816940308,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Дача Сердюка\",\n  \"producer\": \"ДОЛИНА ДОНА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"сибирьковый\",\n  \"raw_visible_text\": [\n    \"Дача Сердюка\",\n    \"ДОЛИНА ДОНА\",\n    \"сибирьковый\",\n    \"Вино без дискидса серы\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Дача Сердюка",
+    "producer": "ДОЛИНА ДОНА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "сибирьковый",
+    "raw_visible_text": [
+      "Дача Сердюка",
+      "ДОЛИНА ДОНА",
+      "сибирьковый",
+      "Вино без дискидса серы"
+    ]
+  }
+}

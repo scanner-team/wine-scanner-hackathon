@@ -1,0 +1,21 @@
+{
+  "slug": "vinodelnya-vedernikov-vedernikov-kaberne-sovinon-krasnoe-suhoe-145",
+  "seconds": 7.8634960651397705,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВЕДЕРНИКОВЪ\",\n  \"cuvee\": \"РЕЗЕРВ\",\n  \"vintage\": \"2020\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"КОРНЕСОБСТВЕННЫЙ\",\n  \"raw_visible_text\": [\n    \"ВЕДЕРНИКОВЪ\",\n    \"РЕЗЕРВ\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"КОРНЕСОБСТВЕННЫЙ\",\n    \"2020\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВЕДЕРНИКОВЪ",
+    "cuvee": "РЕЗЕРВ",
+    "vintage": "2020",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "КОРНЕСОБСТВЕННЫЙ",
+    "raw_visible_text": [
+      "ВЕДЕРНИКОВЪ",
+      "РЕЗЕРВ",
+      "КАБЕРНЕ СОВИНЬОН",
+      "КОРНЕСОБСТВЕННЫЙ",
+      "2020"
+    ]
+  }
+}

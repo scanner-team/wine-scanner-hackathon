@@ -1,0 +1,19 @@
+{
+  "slug": "ivan-ksenia-kruz-argonne-riesling-risling-beloe-suhoe-119",
+  "seconds": 4.721174001693726,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARGONNE\",\n  \"producer\": \"IVAN & KSENIA KRUZ\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"IVAN & KSENIA KRUSZ\",\n    \"ARGONNE\",\n    \"RIESLING\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARGONNE",
+    "producer": "IVAN & KSENIA KRUZ",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "IVAN & KSENIA KRUSZ",
+      "ARGONNE",
+      "RIESLING"
+    ]
+  }
+}

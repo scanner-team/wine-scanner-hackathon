@@ -1,0 +1,19 @@
+{
+  "slug": "belmas-winery-cabernet-sauvignon-rose-belmas-kaberne-sovinon-rozovoe-suhoe-13",
+  "seconds": 4.4374840259552,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Cs\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Cs\",\n    \"Belmäs\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Cs",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Cs",
+      "Belmäs",
+      "2021"
+    ]
+  }
+}

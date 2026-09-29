@@ -1,0 +1,20 @@
+{
+  "slug": "fanagoriya-formula-q-kaberne-sovinon-krasnoe-suhoe-135",
+  "seconds": 12.443222045898438,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"FORMULA Q\",\n  \"producer\": \"FANAGORIA\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"FANAGORIA\",\n    \"FORMULA\",\n    \"Q\",\n    \"Quintessence\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "FORMULA Q",
+    "producer": "FANAGORIA",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "FANAGORIA",
+      "FORMULA",
+      "Q",
+      "Quintessence"
+    ]
+  }
+}

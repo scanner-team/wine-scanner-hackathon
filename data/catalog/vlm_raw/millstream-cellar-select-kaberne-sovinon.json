@@ -1,0 +1,26 @@
+{
+  "slug": "millstream-cellar-select-kaberne-sovinon",
+  "seconds": 1.611429214477539,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"CELLAR\",\n  \"producer\": \"MILLSTREAM WINES\",\n  \"cuvee\": \"Select\",\n  \"vintage\": \"2019\",\n  \"grape\": \"КАВЕРНЄ СОВИНЬОН\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"CELLAR\",\n    \"Select\",\n    \"MILLSTREAM\",\n    \"WINES\",\n    \"Original\",\n    \"est. 1936\",\n    \"2019\",\n    \"КАВЕРНЄ СОВИНЬОН\",\n    \"выдержано в дубовых бочках\",\n    \"СЕРДЦЕ БРАСЛЕВ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "CELLAR",
+    "producer": "MILLSTREAM WINES",
+    "cuvee": "Select",
+    "vintage": "2019",
+    "grape": "КАВЕРНЄ СОВИНЬОН",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "CELLAR",
+      "Select",
+      "MILLSTREAM",
+      "WINES",
+      "Original",
+      "est. 1936",
+      "2019",
+      "КАВЕРНЄ СОВИНЬОН",
+      "выдержано в дубовых бочках",
+      "СЕРДЦЕ БРАСЛЕВ"
+    ]
+  }
+}

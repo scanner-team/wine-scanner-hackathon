@@ -1,0 +1,25 @@
+{
+  "slug": "soyuz-vino-kubanskoe-traditsionnoe-beloe-polusladkoe-07-belye-sorta-vinograda-11",
+  "seconds": 7.86759614944458,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КУБАНСКОЕ\",\n  \"producer\": \"КУБАНСКОЕ\",\n  \"cuvee\": null,\n  \"vintage\": \"1976\",\n  \"grape\": null,\n  \"category\": \"ПОЛУСЛАДКОЕ\",\n  \"raw_visible_text\": [\n    \"КУБАНСКОЕ\",\n    \"ТРАДИЦИОННОЕ\",\n    \"РОССИЙСКИЕ ВИНА\",\n    \"БЕЛОЕ\",\n    \"Вино отобрано\",\n    \"ПОЛУСЛАДКОЕ\",\n    \"ТРАДИЦИИ ВИНОДЕЛИЯ\",\n    \"1976\",\n    \"ПРОИЗВЕДЕНО В РОССИИ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КУБАНСКОЕ",
+    "producer": "КУБАНСКОЕ",
+    "cuvee": null,
+    "vintage": "1976",
+    "grape": null,
+    "category": "ПОЛУСЛАДКОЕ",
+    "raw_visible_text": [
+      "КУБАНСКОЕ",
+      "ТРАДИЦИОННОЕ",
+      "РОССИЙСКИЕ ВИНА",
+      "БЕЛОЕ",
+      "Вино отобрано",
+      "ПОЛУСЛАДКОЕ",
+      "ТРАДИЦИИ ВИНОДЕЛИЯ",
+      "1976",
+      "ПРОИЗВЕДЕНО В РОССИИ"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vinodelnya-krinitsa-risling-beloe-suhoe-13",
+  "seconds": 4.405658006668091,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КРИНИЦА\",\n  \"producer\": \"КРИНИЦА\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"RIESLING\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"КРИНИЦА\",\n    \"КРИНИЦА\",\n    \"RIESLING\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КРИНИЦА",
+    "producer": "КРИНИЦА",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "RIESLING",
+    "category": null,
+    "raw_visible_text": [
+      "КРИНИЦА",
+      "КРИНИЦА",
+      "RIESLING"
+    ]
+  }
+}

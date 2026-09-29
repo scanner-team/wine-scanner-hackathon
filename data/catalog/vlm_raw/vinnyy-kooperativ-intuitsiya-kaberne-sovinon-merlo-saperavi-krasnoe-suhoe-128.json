@@ -1,0 +1,23 @@
+{
+  "slug": "vinnyy-kooperativ-intuitsiya-kaberne-sovinon-merlo-saperavi-krasnoe-suhoe-128",
+  "seconds": 6.370774030685425,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"КАБЕРНЕ СОВИНЬОН МЕРАЛО\",\n  \"producer\": \"ИНТУИЦИЯ\",\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"КАБЕРНЕ СОВИНЬОН\",\n  \"category\": \"МЕРАЛО\",\n  \"raw_visible_text\": [\n    \"ИНТУИЦИЯ\",\n    \"винарная корпорация\",\n    \"45\",\n    \"КАБЕРНЕ СОВИНЬОН\",\n    \"МЕРАЛО\",\n    \"2023\",\n    \"СТАВРОПОЛЬ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "КАБЕРНЕ СОВИНЬОН МЕРАЛО",
+    "producer": "ИНТУИЦИЯ",
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "КАБЕРНЕ СОВИНЬОН",
+    "category": "МЕРАЛО",
+    "raw_visible_text": [
+      "ИНТУИЦИЯ",
+      "винарная корпорация",
+      "45",
+      "КАБЕРНЕ СОВИНЬОН",
+      "МЕРАЛО",
+      "2023",
+      "СТАВРОПОЛЬ"
+    ]
+  }
+}

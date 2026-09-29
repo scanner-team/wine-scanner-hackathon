@@ -1,0 +1,22 @@
+{
+  "slug": "arie-riserva",
+  "seconds": 1.271667718887329,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Arie\",\n  \"producer\": \"KOFFMANN BROTHERS\",\n  \"cuvee\": \"RISERVA\",\n  \"vintage\": null,\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"RISERVA\",\n  \"raw_visible_text\": [\n    \"KOFFMANN BROTHERS\",\n    \"FAMILY VINEYARDS\",\n    \"Arie\",\n    \"CABERNET SAUVIGNON\",\n    \"LIMITED EDITION\",\n    \"RISERVA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Arie",
+    "producer": "KOFFMANN BROTHERS",
+    "cuvee": "RISERVA",
+    "vintage": null,
+    "grape": "CABERNET SAUVIGNON",
+    "category": "RISERVA",
+    "raw_visible_text": [
+      "KOFFMANN BROTHERS",
+      "FAMILY VINEYARDS",
+      "Arie",
+      "CABERNET SAUVIGNON",
+      "LIMITED EDITION",
+      "RISERVA"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "imenie-sikory-gerts-kaberne-sovinon-krasnoe-suhoe-14",
+  "seconds": 13.413743019104004,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ГЕРЦЬ\",\n  \"producer\": \"СИКУРЫ\",\n  \"cuvee\": null,\n  \"vintage\": \"2022\",\n  \"grape\": \"Семигорье\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"СИКУРЫ\",\n    \"ГЕРЦЬ\",\n    \"Сикурь\",\n    \"СЕМИГОРЬЕ\",\n    \"2022\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ГЕРЦЬ",
+    "producer": "СИКУРЫ",
+    "cuvee": null,
+    "vintage": "2022",
+    "grape": "Семигорье",
+    "category": null,
+    "raw_visible_text": [
+      "СИКУРЫ",
+      "ГЕРЦЬ",
+      "Сикурь",
+      "СЕМИГОРЬЕ",
+      "2022"
+    ]
+  }
+}

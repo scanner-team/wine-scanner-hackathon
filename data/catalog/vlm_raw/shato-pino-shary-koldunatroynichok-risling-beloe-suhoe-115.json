@@ -1,0 +1,20 @@
+{
+  "slug": "shato-pino-shary-koldunatroynichok-risling-beloe-suhoe-115",
+  "seconds": 5.3520121574401855,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ТРОЙНИЧОК\",\n  \"producer\": \"ШАГАН КОЛЛУНА\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"PINOT\",\n  \"category\": \"null\",\n  \"raw_visible_text\": [\n    \"ТРОЙНИЧОК\",\n    \"ШАГАН КОЛЛУНА\",\n    \"PINOT\",\n    \"2021\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ТРОЙНИЧОК",
+    "producer": "ШАГАН КОЛЛУНА",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "PINOT",
+    "category": "null",
+    "raw_visible_text": [
+      "ТРОЙНИЧОК",
+      "ШАГАН КОЛЛУНА",
+      "PINOT",
+      "2021"
+    ]
+  }
+}

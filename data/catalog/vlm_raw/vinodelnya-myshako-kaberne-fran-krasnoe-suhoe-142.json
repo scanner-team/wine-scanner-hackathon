@@ -1,0 +1,24 @@
+{
+  "slug": "vinodelnya-myshako-kaberne-fran-krasnoe-suhoe-142",
+  "seconds": 6.948230028152466,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"МЫСХАКО\",\n  \"producer\": \"МЫСХАКО\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"СУХОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"МЫСХАКО\",\n    \"1869\",\n    \"ВИНОДЕВАЛНЯ\",\n    \"КАБЕРНЕ\",\n    \"ФРАН\",\n    \"2021\",\n    \"СУХОЕ КРАСНОЕ\",\n    \"Алкоголь 14,7% об. Объем 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "МЫСХАКО",
+    "producer": "МЫСХАКО",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "СУХОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "МЫСХАКО",
+      "1869",
+      "ВИНОДЕВАЛНЯ",
+      "КАБЕРНЕ",
+      "ФРАН",
+      "2021",
+      "СУХОЕ КРАСНОЕ",
+      "Алкоголь 14,7% об. Объем 0,75 л"
+    ]
+  }
+}

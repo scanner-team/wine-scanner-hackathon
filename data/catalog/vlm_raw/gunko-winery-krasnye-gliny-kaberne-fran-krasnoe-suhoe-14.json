@@ -1,0 +1,22 @@
+{
+  "slug": "gunko-winery-krasnye-gliny-kaberne-fran-krasnoe-suhoe-14",
+  "seconds": 6.1873109340667725,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Красные линьи\",\n  \"producer\": \"Gunko Winery\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Красные линьи\",\n    \"Gunko Winery\",\n    \"ВАДИДЕЖАНО В БОЧКАХ ИЗ ФРАНЦУЗСКОГО ДУВА\",\n    \"НЕ МЕНЕЕ 12 МЕСЯЦЕВ\",\n    \"14,0% об.\",\n    \"0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Красные линьи",
+    "producer": "Gunko Winery",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Красные линьи",
+      "Gunko Winery",
+      "ВАДИДЕЖАНО В БОЧКАХ ИЗ ФРАНЦУЗСКОГО ДУВА",
+      "НЕ МЕНЕЕ 12 МЕСЯЦЕВ",
+      "14,0% об.",
+      "0,75 л"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-viogner-katya-vione-beloe-suhoe-135",
+  "seconds": 13.533945798873901,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Katya\",\n  \"producer\": \"Belmás\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": \"Viognier\",\n  \"category\": \"Sevastopol\",\n  \"raw_visible_text\": [\n    \"Viognier\",\n    \"Sevastopol\",\n    \"Katya\",\n    \"2020\",\n    \"Belmás\",\n    \"13,5% VOL\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Katya",
+    "producer": "Belmás",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": "Viognier",
+    "category": "Sevastopol",
+    "raw_visible_text": [
+      "Viognier",
+      "Sevastopol",
+      "Katya",
+      "2020",
+      "Belmás",
+      "13,5% VOL",
+      "750 ML"
+    ]
+  }
+}

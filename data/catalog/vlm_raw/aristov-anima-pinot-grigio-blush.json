@@ -1,0 +1,20 @@
+{
+  "slug": "aristov-anima-pinot-grigio-blush",
+  "seconds": 1.0033800601959229,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ARISTOV\",\n  \"producer\": \"ARISTOV\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"PINOT GRIGIO\",\n  \"category\": \"BRUT\",\n  \"raw_visible_text\": [\n    \"ARISTOV\",\n    \"ANIMA\",\n    \"PINOT GRIGIO BLUSH\",\n    \"BRUT 2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ARISTOV",
+    "producer": "ARISTOV",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "PINOT GRIGIO",
+    "category": "BRUT",
+    "raw_visible_text": [
+      "ARISTOV",
+      "ANIMA",
+      "PINOT GRIGIO BLUSH",
+      "BRUT 2024"
+    ]
+  }
+}

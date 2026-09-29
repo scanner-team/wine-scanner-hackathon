@@ -1,0 +1,22 @@
+{
+  "slug": "imenie-sikory-kaberne-fran-sikory-rozovoe-suhoe-13",
+  "seconds": 14.021353006362915,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Сикоры\",\n  \"producer\": \"СИКОРЫ\",\n  \"cuvee\": null,\n  \"vintage\": \"2024\",\n  \"grape\": \"КАБЕРНЕ ФРАН\",\n  \"category\": \"розовое\",\n  \"raw_visible_text\": [\n    \"СИКОРЫ\",\n    \"КАБЕРНЕ ФРАН\",\n    \"розовое\",\n    \"Сикоры\",\n    \"СЕМИГОРЬЕ\",\n    \"2024\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Сикоры",
+    "producer": "СИКОРЫ",
+    "cuvee": null,
+    "vintage": "2024",
+    "grape": "КАБЕРНЕ ФРАН",
+    "category": "розовое",
+    "raw_visible_text": [
+      "СИКОРЫ",
+      "КАБЕРНЕ ФРАН",
+      "розовое",
+      "Сикоры",
+      "СЕМИГОРЬЕ",
+      "2024"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "vinodelnya-vedernikov-gubernatorskiy-rezerv-krasnoe-kaberne-sovinon-suhoe-14",
+  "seconds": 7.3140130043029785,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"ВЕДЕРНИКОВЪ\",\n  \"producer\": \"ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ\",\n  \"cuvee\": null,\n  \"vintage\": \"2020\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"ВИНОДЕЛЬНЯ\",\n    \"ВЕДЕРНИКОВЪ\",\n    \"ГУБЕРНАТОРСКИЙ\",\n    \"РЕЗЕРВ\",\n    \"2020\",\n    \"ВИДАРЯНА В ДУБОВАХ БОВКАХ\",\n    \"КОТЫ ВЕДЕРНИКОВ\",\n    \"ДОЛІНА АДОНА\",\n    \"ГОССА\",\n    \"750 ml\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "ВЕДЕРНИКОВЪ",
+    "producer": "ВИНОДЕЛЬНЯ ВЕДЕРНИКОВЪ",
+    "cuvee": null,
+    "vintage": "2020",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "ВИНОДЕЛЬНЯ",
+      "ВЕДЕРНИКОВЪ",
+      "ГУБЕРНАТОРСКИЙ",
+      "РЕЗЕРВ",
+      "2020",
+      "ВИДАРЯНА В ДУБОВАХ БОВКАХ",
+      "КОТЫ ВЕДЕРНИКОВ",
+      "ДОЛІНА АДОНА",
+      "ГОССА",
+      "750 ml"
+    ]
+  }
+}

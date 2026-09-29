@@ -1,0 +1,20 @@
+{
+  "slug": "relikta-relikta-dekabrskiy-krasnoe-polusladkoe-125",
+  "seconds": 14.023469924926758,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РЕЛИКТА\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2023\",\n  \"grape\": \"ДЕКАБРЬСКИЙ\",\n  \"category\": \"ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ\",\n  \"raw_visible_text\": [\n    \"ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ\",\n    \"РЕЛИКТА\",\n    \"ДЕКАБРЬСКИЙ\",\n    \"2023\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РЕЛИКТА",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2023",
+    "grape": "ДЕКАБРЬСКИЙ",
+    "category": "ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ",
+    "raw_visible_text": [
+      "ВИНО ПОЛУСЛАДКОЕ КРАСНОЕ",
+      "РЕЛИКТА",
+      "ДЕКАБРЬСКИЙ",
+      "2023"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "stn-winery-pino-nuar-krasnoe-suhoe-12",
+  "seconds": 5.201073884963989,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"SEVASTOPOL\",\n  \"cuvee\": null,\n  \"vintage\": \"20\",\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"SN\",\n    \"MINERT\",\n    \"PINOT NOIR\",\n    \"20\",\n    \"SEVASTOPOL\",\n    \"DOLINGER THE CREATOR\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "SEVASTOPOL",
+    "cuvee": null,
+    "vintage": "20",
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "SN",
+      "MINERT",
+      "PINOT NOIR",
+      "20",
+      "SEVASTOPOL",
+      "DOLINGER THE CREATOR"
+    ]
+  }
+}

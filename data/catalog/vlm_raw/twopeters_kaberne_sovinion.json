@@ -1,0 +1,28 @@
+{
+  "slug": "twopeters_kaberne_sovinion",
+  "seconds": 1.874330759048462,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"TWO PETERS\",\n  \"producer\": \"SP\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"CABERNET SAUVIGNON\",\n  \"category\": \"WINE OF CRIMEA\",\n  \"raw_visible_text\": [\n    \"SP SP SP SP SP SP SP SP SP SP\",\n    \"WINE OF CRIMEA\",\n    \"TWO PETERS\",\n    \"When the skill,\",\n    \"mastery and ambition\",\n    \"of two brothers are laid upon the fertile\",\n    \"and sun-soaked Crimean soil, a truly\",\n    \"unique wine is born.\",\n    \"A legend is born.\",\n    \"2021\",\n    \"CABERNET SAUVIGNON\",\n    \"№ 4500\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "TWO PETERS",
+    "producer": "SP",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "CABERNET SAUVIGNON",
+    "category": "WINE OF CRIMEA",
+    "raw_visible_text": [
+      "SP SP SP SP SP SP SP SP SP SP",
+      "WINE OF CRIMEA",
+      "TWO PETERS",
+      "When the skill,",
+      "mastery and ambition",
+      "of two brothers are laid upon the fertile",
+      "and sun-soaked Crimean soil, a truly",
+      "unique wine is born.",
+      "A legend is born.",
+      "2021",
+      "CABERNET SAUVIGNON",
+      "№ 4500"
+    ]
+  }
+}

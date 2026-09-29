@@ -1,0 +1,21 @@
+{
+  "slug": "valeriy-zaharin-rubedo-reserve-merlo-krasnoe-suhoe-13",
+  "seconds": 5.269520044326782,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Rubedo\",\n  \"producer\": \"Valery Zaharin\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"Rubedo\",\n    \"RESERVE\",\n    \"VALERY ZAHARIN\",\n    \"EST. 1994\",\n    \"RUBRUM VINUM\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Rubedo",
+    "producer": "Valery Zaharin",
+    "cuvee": "RESERVE",
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "Rubedo",
+      "RESERVE",
+      "VALERY ZAHARIN",
+      "EST. 1994",
+      "RUBRUM VINUM"
+    ]
+  }
+}

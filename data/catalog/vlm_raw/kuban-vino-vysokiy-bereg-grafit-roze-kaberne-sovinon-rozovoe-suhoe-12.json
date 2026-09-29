@@ -1,0 +1,25 @@
+{
+  "slug": "kuban-vino-vysokiy-bereg-grafit-roze-kaberne-sovinon-rozovoe-suhoe-12",
+  "seconds": 7.014542102813721,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"РОЗЕ\",\n  \"producer\": \"Высокий Берег\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"РОЗЕ\",\n    \"Российское вино\",\n    \"с защищённым\",\n    \"географическим\",\n    \"указанием\",\n    \"ТИРАЖ\",\n    \"25 000\",\n    \"Высокий Берег\",\n    \"ГРАФИТ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "РОЗЕ",
+    "producer": "Высокий Берег",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "РОЗЕ",
+      "Российское вино",
+      "с защищённым",
+      "географическим",
+      "указанием",
+      "ТИРАЖ",
+      "25 000",
+      "Высокий Берег",
+      "ГРАФИТ"
+    ]
+  }
+}

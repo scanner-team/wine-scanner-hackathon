@@ -1,0 +1,22 @@
+{
+  "slug": "chateau-tamagne-grand-dessert-muscat",
+  "seconds": 1.465874433517456,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAND DESSERT\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": \"RESERVE\",\n  \"vintage\": \"2021\",\n  \"grape\": \"MUSCAT\",\n  \"category\": \"МУСКАТ ДЕСЕРТНЫЙ ВИНЕБРАННЫЙ\",\n  \"raw_visible_text\": [\n    \"GRAND DESSERT\",\n    \"CHATEAU TAMAGNE\",\n    \"RESERVE\",\n    \"MUSCAT\",\n    \"2021\",\n    \"МУСКАТ ДЕСЕРТНЫЙ ВИНЕБРАННЫЙ\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAND DESSERT",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": "RESERVE",
+    "vintage": "2021",
+    "grape": "MUSCAT",
+    "category": "МУСКАТ ДЕСЕРТНЫЙ ВИНЕБРАННЫЙ",
+    "raw_visible_text": [
+      "GRAND DESSERT",
+      "CHATEAU TAMAGNE",
+      "RESERVE",
+      "MUSCAT",
+      "2021",
+      "МУСКАТ ДЕСЕРТНЫЙ ВИНЕБРАННЫЙ"
+    ]
+  }
+}

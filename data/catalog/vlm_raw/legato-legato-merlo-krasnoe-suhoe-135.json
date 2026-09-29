@@ -1,0 +1,20 @@
+{
+  "slug": "legato-legato-merlo-krasnoe-suhoe-135",
+  "seconds": 4.507481098175049,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"LEGATO\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": \"Merlot\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"LEGATO\",\n    \"Merlot\",\n    \"2021\",\n    \"0.75L\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "LEGATO",
+    "producer": null,
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": "Merlot",
+    "category": null,
+    "raw_visible_text": [
+      "LEGATO",
+      "Merlot",
+      "2021",
+      "0.75L"
+    ]
+  }
+}

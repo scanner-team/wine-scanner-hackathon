@@ -1,0 +1,21 @@
+{
+  "slug": "nikolaev-i-synovya-pino-nuar-krasnoe-suhoe-125",
+  "seconds": 13.324647188186646,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"PINOT NOIR\",\n  \"producer\": \"NIKOLAEV & SONS\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"PINOT NOIR\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"NIKOLAEV & SONS\",\n    \"PINOT NOIR\",\n    \"Grown and bottled in\",\n    \"LEFKADIA VALLEY\",\n    \"RUSSIA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "PINOT NOIR",
+    "producer": "NIKOLAEV & SONS",
+    "cuvee": null,
+    "vintage": null,
+    "grape": "PINOT NOIR",
+    "category": null,
+    "raw_visible_text": [
+      "NIKOLAEV & SONS",
+      "PINOT NOIR",
+      "Grown and bottled in",
+      "LEFKADIA VALLEY",
+      "RUSSIA"
+    ]
+  }
+}

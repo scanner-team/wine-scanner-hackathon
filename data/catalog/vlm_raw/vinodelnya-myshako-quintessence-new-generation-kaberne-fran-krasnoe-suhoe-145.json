@@ -1,0 +1,29 @@
+{
+  "slug": "vinodelnya-myshako-quintessence-new-generation-kaberne-fran-krasnoe-suhoe-145",
+  "seconds": 8.489575862884521,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"QUINTESSENCE\",\n  \"producer\": \"МБИСХАКО\",\n  \"cuvee\": \"COLLECTION\",\n  \"vintage\": \"2022\",\n  \"grape\": \"CABERNET FRANC\",\n  \"category\": \"сухое красное\",\n  \"raw_visible_text\": [\n    \"QUINTESSENCE\",\n    \"COLLECTION\",\n    \"ВИНОДЕВАРСТВО\",\n    \"МБИСХАКО\",\n    \"1869\",\n    \"CABERNET FRANC\",\n    \"NEW GENERATION\",\n    \"2022\",\n    \"МУ\",\n    \"«КУБАНЬ, НОВОРОССИЙСКИЙ, СУХОЕ КРАСНОЕ»\",\n    \"ТЕРРА: 100 000 ВИТРАЖЕВ\",\n    \"Алкоголь: 15,9% об.\",\n    \"Объем: 0,75 л\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "QUINTESSENCE",
+    "producer": "МБИСХАКО",
+    "cuvee": "COLLECTION",
+    "vintage": "2022",
+    "grape": "CABERNET FRANC",
+    "category": "сухое красное",
+    "raw_visible_text": [
+      "QUINTESSENCE",
+      "COLLECTION",
+      "ВИНОДЕВАРСТВО",
+      "МБИСХАКО",
+      "1869",
+      "CABERNET FRANC",
+      "NEW GENERATION",
+      "2022",
+      "МУ",
+      "«КУБАНЬ, НОВОРОССИЙСКИЙ, СУХОЕ КРАСНОЕ»",
+      "ТЕРРА: 100 000 ВИТРАЖЕВ",
+      "Алкоголь: 15,9% об.",
+      "Объем: 0,75 л"
+    ]
+  }
+}

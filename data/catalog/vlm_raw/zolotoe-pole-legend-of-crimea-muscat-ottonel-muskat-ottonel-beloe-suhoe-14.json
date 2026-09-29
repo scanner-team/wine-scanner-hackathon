@@ -1,0 +1,20 @@
+{
+  "slug": "zolotoe-pole-legend-of-crimea-muscat-ottonel-muskat-ottonel-beloe-suhoe-14",
+  "seconds": 12.878432035446167,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"THE LEGEND of CRIMEA\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": \"MUSCAT OTTONEL\",\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"MUSCAT OTTONEL\",\n    \"THE\",\n    \"LEGEND\",\n    \"of CRIMEA\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "THE LEGEND of CRIMEA",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": "MUSCAT OTTONEL",
+    "category": null,
+    "raw_visible_text": [
+      "MUSCAT OTTONEL",
+      "THE",
+      "LEGEND",
+      "of CRIMEA"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "kuban-vino-flyor-dyu-syud-blan-de-tamane-tsvetochnyy-beloe-suhoe-115",
+  "seconds": 5.626717805862427,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"BLANC DE TAMAGNE\",\n  \"producer\": \"CHATEAU TAMAGNE\",\n  \"cuvee\": \"FLEURS DU SUD\",\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"ВЕЛОЕ СУХОЕ\",\n  \"raw_visible_text\": [\n    \"CHATEAU TAMAGNE\",\n    \"BLANC DE TAMAGNE\",\n    \"ВЕЛОЕ СУХОЕ\",\n    \"FLEURS\",\n    \"DU\",\n    \"SUD\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "BLANC DE TAMAGNE",
+    "producer": "CHATEAU TAMAGNE",
+    "cuvee": "FLEURS DU SUD",
+    "vintage": null,
+    "grape": null,
+    "category": "ВЕЛОЕ СУХОЕ",
+    "raw_visible_text": [
+      "CHATEAU TAMAGNE",
+      "BLANC DE TAMAGNE",
+      "ВЕЛОЕ СУХОЕ",
+      "FLEURS",
+      "DU",
+      "SUD"
+    ]
+  }
+}

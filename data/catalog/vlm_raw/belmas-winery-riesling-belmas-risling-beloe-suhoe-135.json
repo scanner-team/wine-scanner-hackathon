@@ -1,0 +1,23 @@
+{
+  "slug": "belmas-winery-riesling-belmas-risling-beloe-suhoe-135",
+  "seconds": 4.982204914093018,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"Ri\",\n  \"producer\": \"Belmäs\",\n  \"cuvee\": null,\n  \"vintage\": \"2021\",\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"BELMÄS\",\n    \"SEASACAL\",\n    \"Ri\",\n    \"2021\",\n    \"Belmäs\",\n    \"750 ML\",\n    \"750 ML\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "Ri",
+    "producer": "Belmäs",
+    "cuvee": null,
+    "vintage": "2021",
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "BELMÄS",
+      "SEASACAL",
+      "Ri",
+      "2021",
+      "Belmäs",
+      "750 ML",
+      "750 ML"
+    ]
+  }
+}

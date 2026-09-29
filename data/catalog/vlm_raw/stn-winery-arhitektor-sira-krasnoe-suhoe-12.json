@@ -1,0 +1,17 @@
+{
+  "slug": "stn-winery-arhitektor-sira-krasnoe-suhoe-12",
+  "seconds": 3.9798920154571533,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"GRAH\",\n  \"producer\": null,\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": null,\n  \"raw_visible_text\": [\n    \"GRAH\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "GRAH",
+    "producer": null,
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": null,
+    "raw_visible_text": [
+      "GRAH"
+    ]
+  }
+}

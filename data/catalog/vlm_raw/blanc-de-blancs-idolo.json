@@ -1,0 +1,21 @@
+{
+  "slug": "blanc-de-blancs-idolo",
+  "seconds": 5.254705905914307,
+  "strict_json_ok": true,
+  "raw_output": "{\n  \"visible_name\": \"IDOLO\",\n  \"producer\": \"Bouvier\",\n  \"cuvee\": null,\n  \"vintage\": null,\n  \"grape\": null,\n  \"category\": \"Blanc de Blancs\",\n  \"raw_visible_text\": [\n    \"IDOLO\",\n    \"MÉTHODE CLASSIQUE\",\n    \"Sparkling wine\",\n    \"BLANC DE BLANCS\",\n    \"Bouvier\"\n  ]\n}",
+  "parsed": {
+    "visible_name": "IDOLO",
+    "producer": "Bouvier",
+    "cuvee": null,
+    "vintage": null,
+    "grape": null,
+    "category": "Blanc de Blancs",
+    "raw_visible_text": [
+      "IDOLO",
+      "MÉTHODE CLASSIQUE",
+      "Sparkling wine",
+      "BLANC DE BLANCS",
+      "Bouvier"
+    ]
+  }
+}
